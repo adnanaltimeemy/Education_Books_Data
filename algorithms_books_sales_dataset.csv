@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Country,Income,Book_Name,Author,Units_Sold,Price_per_Unit,Cost_per_Unit,Revenue,Total_Cost,Profit,Profit_Margin (%)
+1,56,Male,USA,63541,Competitive Programming Algorithms,Steven Skiena,13,20.09,11.28,261.17,146.64,114.53,43.85
+2,46,Female,USA,43387,The Algorithm Design Manual,Steven Skiena,4,23.93,13.71,95.72,54.84,40.88,42.71
+3,32,Female,USA,113980,Algorithms Unlocked,Narasimha Karumanchi,14,117.73,69.88,1648.22,978.32,669.9,40.64
+4,60,Female,Australia,68908,Introduction to Algorithms,Steven Halim,16,44.24,17.92,707.84,286.72,421.12,59.49
+5,25,Male,USA,105457,The Algorithm Design Manual,Robert Sedgewick,4,86.33,59.4,345.32,237.6,107.72,31.19
+6,38,Male,India,33057,Algorithms in Python,Steven Skiena,1,103.91,42.95,103.91,42.95,60.96,58.67
+7,56,Male,Germany,84028,Algorithms Unlocked,Steven Skiena,13,75.07,33.25,975.91,432.25,543.66,55.71
+8,36,Male,UK,75731,The Algorithm Design Manual,Thomas H. Cormen,4,35.31,14.27,141.24,57.08,84.16,59.59
+9,40,Male,Canada,44858,Grokking Algorithms,Steven Halim,18,92.81,52.91,1670.58,952.38,718.2,42.99
+10,28,Male,India,68689,Advanced Algorithms,Steven Skiena,6,80.03,54.39,480.18,326.34,153.84,32.04
+11,28,Male,UK,64638,The Algorithm Design Manual,Magnus Lie Hetland,3,93.13,55.86,279.39,167.58,111.81,40.02
+12,41,Male,India,111598,Competitive Programming Algorithms,Steven Halim,13,96.97,62.72,1260.61,815.36,445.25,35.32
+13,53,Female,India,66486,Algorithms Illuminated,Tim Roughgarden,16,117.54,47.48,1880.64,759.68,1120.96,59.61
+14,57,Female,Canada,40567,Grokking Algorithms,Thomas H. Cormen,5,77.36,43.52,386.8,217.6,169.2,43.74
+15,41,Male,Germany,49739,Introduction to Algorithms,Steven Skiena,4,54.16,29.13,216.64,116.52,100.12,46.21
+16,20,Male,USA,77804,Introduction to Algorithms,Thomas H. Cormen,8,84.85,46.64,678.8,373.12,305.68,45.03
+17,39,Female,Australia,23754,Introduction to Algorithms,Tim Roughgarden,19,26.84,11.32,509.96,215.08,294.88,57.82
+18,19,Male,Germany,47044,Introduction to Algorithms,Narasimha Karumanchi,14,109.74,66.43,1536.36,930.02,606.34,39.47
+19,41,Male,Australia,87260,Algorithms Illuminated,Narasimha Karumanchi,7,31.94,17.6,223.58,123.2,100.38,44.9
+20,61,Male,Canada,86912,The Algorithm Design Manual,Steven Halim,14,52.78,33.23,738.92,465.22,273.7,37.04
+21,47,Female,Canada,28706,Data Structures and Algorithms Made Easy,Tim Roughgarden,6,101.57,55.42,609.42,332.52,276.9,45.44
+22,55,Female,Canada,28894,The Algorithm Design Manual,Aditya Bhargava,12,79.73,35.47,956.76,425.64,531.12,55.51
+23,19,Female,UK,38037,Algorithms in Python,Aditya Bhargava,16,59.36,35.29,949.76,564.64,385.12,40.55
+24,38,Female,Australia,103986,Advanced Algorithms,Steven Halim,17,67.34,30.42,1144.78,517.14,627.64,54.83
+25,50,Female,Germany,101942,Algorithms Unlocked,Thomas H. Cormen,13,105.45,69.78,1370.85,907.14,463.71,33.83
+26,29,Male,Germany,71612,Data Structures and Algorithms Made Easy,Thomas H. Cormen,14,54.0,31.53,756.0,441.42,314.58,41.61
+27,39,Female,India,49725,Data Structures and Algorithms Made Easy,Thomas H. Cormen,7,106.96,47.83,748.72,334.81,413.91,55.28
+28,61,Male,India,25926,The Algorithm Design Manual,Narasimha Karumanchi,14,28.81,19.84,403.34,277.76,125.58,31.14
+29,42,Male,India,29496,Data Structures and Algorithms Made Easy,Aditya Bhargava,15,97.68,54.26,1465.2,813.9,651.3,44.45
+30,44,Female,Canada,76447,Machine Learning Algorithms Explained,Chris Albon,12,104.75,44.19,1257.0,530.28,726.72,57.81
+31,59,Female,Germany,49806,Machine Learning Algorithms Explained,Steven Skiena,17,38.18,22.45,649.06,381.65,267.41,41.2
+32,45,Male,Australia,108199,Algorithms in Python,Steven Skiena,9,63.03,30.0,567.27,270.0,297.27,52.4
+33,33,Male,Canada,61321,Algorithms Unlocked,Steven Skiena,15,36.55,23.43,548.25,351.45,196.8,35.9
+34,32,Male,UK,85095,Competitive Programming Algorithms,Narasimha Karumanchi,12,90.66,58.51,1087.92,702.12,385.8,35.46
+35,64,Female,India,42656,Algorithms Illuminated,Tim Roughgarden,2,73.53,51.01,147.06,102.02,45.04,30.63
+36,61,Female,Canada,75147,The Algorithm Design Manual,Robert Sedgewick,5,83.53,45.99,417.65,229.95,187.7,44.94
+37,20,Female,Canada,111396,Algorithms Illuminated,Aditya Bhargava,13,39.65,21.27,515.45,276.51,238.94,46.36
+38,54,Female,UK,69666,Competitive Programming Algorithms,Aditya Bhargava,8,41.17,25.77,329.36,206.16,123.2,37.41
+39,24,Female,USA,102368,The Algorithm Design Manual,Chris Albon,14,24.15,10.62,338.1,148.68,189.42,56.02
+40,38,Male,Germany,58787,The Algorithm Design Manual,Thomas H. Cormen,15,52.21,29.45,783.15,441.75,341.4,43.59
+41,26,Female,Australia,82946,Algorithms Unlocked,Thomas H. Cormen,11,75.97,42.84,835.67,471.24,364.43,43.61
+42,56,Male,USA,41727,Algorithms Illuminated,Steven Halim,1,105.79,45.16,105.79,45.16,60.63,57.31
+43,35,Male,India,115081,Machine Learning Algorithms Explained,Thomas H. Cormen,3,86.69,45.55,260.07,136.65,123.42,47.46
+44,21,Male,Canada,88056,Introduction to Algorithms,Tim Roughgarden,17,63.54,41.68,1080.18,708.56,371.62,34.4
+45,42,Female,UK,23081,Algorithms Illuminated,Steven Halim,19,115.31,75.74,2190.89,1439.06,751.83,34.32
+46,31,Female,UK,54196,Advanced Algorithms,Aditya Bhargava,14,91.92,39.5,1286.88,553.0,733.88,57.03
+47,26,Female,Germany,56735,Advanced Algorithms,Tim Roughgarden,8,113.02,48.28,904.16,386.24,517.92,57.28
+48,43,Male,USA,100102,The Algorithm Design Manual,Steven Halim,13,72.76,34.84,945.88,452.92,492.96,52.12
+49,19,Male,Germany,99578,Introduction to Algorithms,Chris Albon,3,45.89,30.4,137.67,91.2,46.47,33.75
+50,37,Male,Canada,45498,Grokking Algorithms,Chris Albon,5,25.28,11.09,126.4,55.45,70.95,56.13
+51,45,Male,Germany,96865,Competitive Programming Algorithms,Magnus Lie Hetland,9,92.61,57.05,833.49,513.45,320.04,38.4
+52,64,Male,Australia,51656,Algorithms in Python,Robert Sedgewick,6,32.13,13.83,192.78,82.98,109.8,56.96
+53,24,Male,UK,87695,Introduction to Algorithms,Chris Albon,2,50.28,29.51,100.56,59.02,41.54,41.31
+54,61,Female,UK,57900,Algorithms in Python,Aditya Bhargava,13,73.25,37.12,952.25,482.56,469.69,49.32
+55,25,Female,India,104899,Algorithms Illuminated,Thomas H. Cormen,5,76.44,48.67,382.2,243.35,138.85,36.33
+56,64,Female,India,67701,Algorithms Illuminated,Steven Skiena,8,80.06,37.64,640.48,301.12,339.36,52.99
+57,52,Female,Canada,39033,Algorithms in Python,Magnus Lie Hetland,1,36.63,21.68,36.63,21.68,14.95,40.81
+58,31,Male,Australia,30805,Competitive Programming Algorithms,Steven Skiena,12,57.97,27.29,695.64,327.48,368.16,52.92
+59,34,Male,USA,55851,Introduction to Algorithms,Robert Sedgewick,11,81.72,50.18,898.92,551.98,346.94,38.6
+60,53,Female,Germany,46832,Grokking Algorithms,Steven Halim,7,116.98,77.45,818.86,542.15,276.71,33.79
+61,57,Male,Canada,83437,The Algorithm Design Manual,Narasimha Karumanchi,15,92.76,40.63,1391.4,609.45,781.95,56.2
+62,21,Female,India,33944,Algorithms Unlocked,Chris Albon,11,112.26,74.09,1234.86,814.99,419.87,34.0
+63,19,Female,Germany,39873,Algorithms Illuminated,Thomas H. Cormen,16,96.22,55.62,1539.52,889.92,649.6,42.19
+64,23,Female,India,60372,Advanced Algorithms,Robert Sedgewick,3,79.17,34.69,237.51,104.07,133.44,56.18
+65,59,Male,Germany,109464,Competitive Programming Algorithms,Steven Skiena,14,39.2,20.71,548.8,289.94,258.86,47.17
+66,21,Female,USA,35379,Algorithms Unlocked,Magnus Lie Hetland,3,86.67,38.85,260.01,116.55,143.46,55.17
+67,46,Female,Canada,56751,Grokking Algorithms,Chris Albon,1,82.34,50.24,82.34,50.24,32.1,38.98
+68,35,Female,Germany,109822,Data Structures and Algorithms Made Easy,Aditya Bhargava,15,80.25,50.37,1203.75,755.55,448.2,37.23
+69,43,Male,Australia,25110,The Algorithm Design Manual,Chris Albon,1,68.98,29.78,68.98,29.78,39.2,56.83
+70,61,Male,UK,74341,Algorithms Illuminated,Magnus Lie Hetland,17,72.87,40.21,1238.79,683.57,555.22,44.82
+71,51,Female,Australia,32087,The Algorithm Design Manual,Magnus Lie Hetland,2,53.44,34.44,106.88,68.88,38.0,35.55
+72,27,Male,Australia,43762,Algorithms Unlocked,Narasimha Karumanchi,6,71.93,48.97,431.58,293.82,137.76,31.92
+73,53,Male,UK,102617,The Algorithm Design Manual,Chris Albon,8,39.76,22.03,318.08,176.24,141.84,44.59
+74,31,Male,Australia,29596,Data Structures and Algorithms Made Easy,Chris Albon,16,100.52,68.86,1608.32,1101.76,506.56,31.5
+75,48,Male,Germany,38313,Algorithms Unlocked,Narasimha Karumanchi,19,38.58,21.63,733.02,410.97,322.05,43.93
+76,32,Male,Germany,86549,Algorithms Illuminated,Tim Roughgarden,1,28.5,14.77,28.5,14.77,13.73,48.18
+77,25,Male,Germany,43705,Introduction to Algorithms,Tim Roughgarden,3,63.62,41.64,190.86,124.92,65.94,34.55
+78,31,Male,UK,87364,Advanced Algorithms,Steven Halim,3,85.83,47.03,257.49,141.09,116.4,45.21
+79,40,Male,Australia,93445,Algorithms Unlocked,Tim Roughgarden,5,63.77,34.54,318.85,172.7,146.15,45.84
+80,57,Male,UK,98645,Machine Learning Algorithms Explained,Thomas H. Cormen,12,47.68,26.09,572.16,313.08,259.08,45.28
+81,38,Male,Germany,22023,Data Structures and Algorithms Made Easy,Chris Albon,12,75.82,49.59,909.84,595.08,314.76,34.6
+82,33,Female,Australia,79796,Algorithms Unlocked,Thomas H. Cormen,13,54.7,35.53,711.1,461.89,249.21,35.05
+83,62,Female,Australia,100073,Algorithms Unlocked,Chris Albon,9,113.29,59.03,1019.61,531.27,488.34,47.89
+84,35,Male,India,112197,Machine Learning Algorithms Explained,Thomas H. Cormen,7,112.26,56.13,785.82,392.91,392.91,50.0
+85,64,Female,India,84429,Algorithms Illuminated,Thomas H. Cormen,4,70.24,38.46,280.96,153.84,127.12,45.24
+86,41,Female,USA,81627,Algorithms Unlocked,Steven Skiena,19,52.79,30.19,1003.01,573.61,429.4,42.81
+87,43,Male,Canada,53848,Advanced Algorithms,Chris Albon,19,93.71,44.18,1780.49,839.42,941.07,52.85
+88,42,Male,India,57804,The Algorithm Design Manual,Robert Sedgewick,6,23.67,15.11,142.02,90.66,51.36,36.16
+89,62,Male,UK,35379,Algorithms Illuminated,Thomas H. Cormen,13,67.48,36.84,877.24,478.92,398.32,45.41
+90,58,Female,India,79664,Advanced Algorithms,Thomas H. Cormen,11,53.63,26.83,589.93,295.13,294.8,49.97
+91,46,Female,USA,47766,Algorithms Illuminated,Narasimha Karumanchi,13,112.05,48.41,1456.65,629.33,827.32,56.8
+92,32,Male,Australia,88099,Advanced Algorithms,Steven Halim,13,21.2,10.0,275.6,130.0,145.6,52.83
+93,62,Male,USA,56060,Data Structures and Algorithms Made Easy,Steven Skiena,15,75.28,51.55,1129.2,773.25,355.95,31.52
+94,18,Male,Australia,114733,Advanced Algorithms,Narasimha Karumanchi,13,94.07,46.24,1222.91,601.12,621.79,50.85
+95,42,Female,Australia,89122,Algorithms in Python,Steven Skiena,11,68.5,30.87,753.5,339.57,413.93,54.93
+96,24,Female,Canada,36087,Advanced Algorithms,Thomas H. Cormen,19,28.54,15.36,542.26,291.84,250.42,46.18
+97,26,Female,India,68868,Introduction to Algorithms,Magnus Lie Hetland,8,117.25,57.7,938.0,461.6,476.4,50.79
+98,41,Female,UK,43225,Introduction to Algorithms,Chris Albon,8,71.8,29.48,574.4,235.84,338.56,58.94
+99,18,Male,UK,115286,Competitive Programming Algorithms,Aditya Bhargava,10,81.42,40.46,814.2,404.6,409.6,50.31
+100,61,Male,Germany,26643,Algorithms in Python,Robert Sedgewick,16,43.66,24.59,698.56,393.44,305.12,43.68
+101,25,Male,Australia,113059,Algorithms in Python,Narasimha Karumanchi,19,68.35,38.65,1298.65,734.35,564.3,43.45
+102,41,Male,UK,56727,The Algorithm Design Manual,Chris Albon,11,62.91,31.89,692.01,350.79,341.22,49.31
+103,28,Female,Canada,31005,Algorithms in Python,Robert Sedgewick,13,27.49,14.68,357.37,190.84,166.53,46.6
+104,34,Female,Australia,85697,The Algorithm Design Manual,Magnus Lie Hetland,9,30.62,21.12,275.58,190.08,85.5,31.03
+105,25,Male,Canada,36029,Competitive Programming Algorithms,Aditya Bhargava,19,103.75,53.24,1971.25,1011.56,959.69,48.68
+106,52,Male,UK,34226,Competitive Programming Algorithms,Robert Sedgewick,16,43.98,21.0,703.68,336.0,367.68,52.25
+107,52,Female,UK,83646,Data Structures and Algorithms Made Easy,Robert Sedgewick,7,39.5,18.69,276.5,130.83,145.67,52.68
+108,50,Male,Germany,80603,Introduction to Algorithms,Narasimha Karumanchi,19,70.49,37.88,1339.31,719.72,619.59,46.26
+109,22,Female,UK,48731,Advanced Algorithms,Tim Roughgarden,12,96.87,60.82,1162.44,729.84,432.6,37.21
+110,59,Male,Australia,88926,Advanced Algorithms,Aditya Bhargava,15,26.19,12.09,392.85,181.35,211.5,53.84
+111,56,Male,Australia,25997,Machine Learning Algorithms Explained,Chris Albon,14,77.68,47.6,1087.52,666.4,421.12,38.72
+112,58,Male,Australia,75506,Machine Learning Algorithms Explained,Magnus Lie Hetland,11,31.92,12.97,351.12,142.67,208.45,59.37
+113,45,Male,Germany,98229,Grokking Algorithms,Aditya Bhargava,10,23.65,12.43,236.5,124.3,112.2,47.44
+114,24,Male,Germany,69815,Algorithms Illuminated,Thomas H. Cormen,11,25.27,15.99,277.97,175.89,102.08,36.72
+115,26,Male,UK,62092,Data Structures and Algorithms Made Easy,Tim Roughgarden,6,103.42,51.88,620.52,311.28,309.24,49.84
+116,25,Male,USA,82539,Grokking Algorithms,Thomas H. Cormen,2,31.8,18.1,63.6,36.2,27.4,43.08
+117,29,Female,USA,86077,Grokking Algorithms,Magnus Lie Hetland,11,24.52,11.32,269.72,124.52,145.2,53.83
+118,51,Female,Germany,41817,Algorithms Unlocked,Narasimha Karumanchi,19,63.79,39.72,1212.01,754.68,457.33,37.73
+119,50,Female,UK,57861,Algorithms Unlocked,Narasimha Karumanchi,6,104.4,43.4,626.4,260.4,366.0,58.43
+120,40,Female,USA,33428,Grokking Algorithms,Magnus Lie Hetland,14,46.24,30.32,647.36,424.48,222.88,34.43
+121,41,Female,UK,63934,Algorithms in Python,Steven Skiena,6,62.17,28.56,373.02,171.36,201.66,54.06
+122,54,Male,UK,30258,Algorithms Illuminated,Magnus Lie Hetland,17,23.99,15.89,407.83,270.13,137.7,33.76
+123,52,Male,UK,77775,Data Structures and Algorithms Made Easy,Tim Roughgarden,10,64.91,32.83,649.1,328.3,320.8,49.42
+124,61,Female,India,101580,Grokking Algorithms,Thomas H. Cormen,1,77.76,47.96,77.76,47.96,29.8,38.32
+125,57,Male,Australia,114947,Advanced Algorithms,Narasimha Karumanchi,3,77.09,38.22,231.27,114.66,116.61,50.42
+126,39,Female,UK,25469,Algorithms Illuminated,Steven Halim,8,53.24,35.77,425.92,286.16,139.76,32.81
+127,44,Female,India,48854,Algorithms Unlocked,Tim Roughgarden,8,51.55,22.58,412.4,180.64,231.76,56.2
+128,52,Male,Germany,26256,Advanced Algorithms,Tim Roughgarden,15,30.66,13.91,459.9,208.65,251.25,54.63
+129,18,Male,USA,96256,Algorithms Unlocked,Tim Roughgarden,7,56.68,31.06,396.76,217.42,179.34,45.2
+130,52,Male,Australia,53937,Algorithms Unlocked,Robert Sedgewick,11,29.95,12.72,329.45,139.92,189.53,57.53
+131,54,Female,USA,119134,Algorithms Illuminated,Tim Roughgarden,7,96.66,44.35,676.62,310.45,366.17,54.12
+132,64,Male,Australia,21651,Algorithms Unlocked,Narasimha Karumanchi,4,116.63,79.67,466.52,318.68,147.84,31.69
+133,31,Female,USA,70288,Competitive Programming Algorithms,Thomas H. Cormen,12,117.01,81.08,1404.12,972.96,431.16,30.71
+134,20,Female,Australia,104730,Introduction to Algorithms,Thomas H. Cormen,6,106.51,54.63,639.06,327.78,311.28,48.71
+135,18,Female,USA,45051,Competitive Programming Algorithms,Tim Roughgarden,14,80.08,54.21,1121.12,758.94,362.18,32.31
+136,22,Male,USA,47386,Introduction to Algorithms,Thomas H. Cormen,12,90.09,50.76,1081.08,609.12,471.96,43.66
+137,43,Male,USA,95054,Machine Learning Algorithms Explained,Narasimha Karumanchi,11,48.52,23.33,533.72,256.63,277.09,51.92
+138,31,Female,USA,36184,Machine Learning Algorithms Explained,Narasimha Karumanchi,19,83.08,50.74,1578.52,964.06,614.46,38.93
+139,56,Male,Germany,53787,Algorithms Unlocked,Aditya Bhargava,5,65.56,39.18,327.8,195.9,131.9,40.24
+140,44,Male,UK,41621,Data Structures and Algorithms Made Easy,Chris Albon,14,68.2,47.52,954.8,665.28,289.52,30.32
+141,26,Male,Canada,95564,Data Structures and Algorithms Made Easy,Steven Skiena,16,95.78,45.93,1532.48,734.88,797.6,52.05
+142,32,Female,India,97984,Introduction to Algorithms,Steven Skiena,13,48.19,28.99,626.47,376.87,249.6,39.84
+143,32,Female,Canada,79792,Advanced Algorithms,Thomas H. Cormen,4,51.8,21.53,207.2,86.12,121.08,58.44
+144,43,Male,Canada,65253,Algorithms Illuminated,Steven Skiena,11,112.46,48.82,1237.06,537.02,700.04,56.59
+145,59,Female,Australia,54051,Algorithms Unlocked,Aditya Bhargava,17,25.62,10.28,435.54,174.76,260.78,59.88
+146,30,Male,UK,69811,Algorithms Illuminated,Magnus Lie Hetland,7,68.56,47.98,479.92,335.86,144.06,30.02
+147,49,Male,Australia,50447,Competitive Programming Algorithms,Steven Skiena,14,111.28,71.3,1557.92,998.2,559.72,35.93
+148,56,Male,UK,103930,Data Structures and Algorithms Made Easy,Narasimha Karumanchi,11,81.04,51.54,891.44,566.94,324.5,36.4
+149,49,Male,UK,50254,Algorithms in Python,Magnus Lie Hetland,9,74.64,41.27,671.76,371.43,300.33,44.71
+150,21,Female,USA,104045,Competitive Programming Algorithms,Steven Skiena,13,44.97,22.04,584.61,286.52,298.09,50.99
+151,47,Female,Germany,77418,Competitive Programming Algorithms,Narasimha Karumanchi,18,54.33,24.2,977.94,435.6,542.34,55.46
+152,54,Female,USA,34472,Introduction to Algorithms,Narasimha Karumanchi,11,105.2,51.06,1157.2,561.66,595.54,51.46
+153,40,Male,Germany,23471,The Algorithm Design Manual,Tim Roughgarden,15,75.92,38.93,1138.8,583.95,554.85,48.72
+154,56,Male,Australia,115804,Competitive Programming Algorithms,Thomas H. Cormen,19,71.47,44.8,1357.93,851.2,506.73,37.32
+155,62,Male,Germany,28329,Algorithms Unlocked,Thomas H. Cormen,1,29.96,16.83,29.96,16.83,13.13,43.83
+156,32,Female,Australia,54865,Grokking Algorithms,Aditya Bhargava,4,21.6,9.14,86.4,36.56,49.84,57.69
+157,60,Male,Canada,66850,Grokking Algorithms,Robert Sedgewick,14,116.37,47.18,1629.18,660.52,968.66,59.46
+158,46,Female,Canada,74220,Algorithms Unlocked,Chris Albon,14,57.7,24.85,807.8,347.9,459.9,56.93
+159,53,Female,Germany,113808,The Algorithm Design Manual,Steven Skiena,3,80.32,42.02,240.96,126.06,114.9,47.68
+160,30,Female,Germany,26397,The Algorithm Design Manual,Steven Skiena,17,27.97,19.02,475.49,323.34,152.15,32.0
+161,49,Female,Australia,117909,Introduction to Algorithms,Magnus Lie Hetland,3,88.31,52.21,264.93,156.63,108.3,40.88
+162,24,Female,USA,55525,Data Structures and Algorithms Made Easy,Magnus Lie Hetland,16,113.26,72.55,1812.16,1160.8,651.36,35.94
+163,39,Female,Australia,73072,Algorithms Illuminated,Chris Albon,14,77.57,41.88,1085.98,586.32,499.66,46.01
+164,45,Male,USA,110106,The Algorithm Design Manual,Steven Skiena,13,32.61,16.58,423.93,215.54,208.39,49.16
+165,19,Male,Canada,103820,Algorithms in Python,Steven Halim,15,78.17,33.81,1172.55,507.15,665.4,56.75
+166,59,Female,UK,104530,Introduction to Algorithms,Aditya Bhargava,14,96.63,64.04,1352.82,896.56,456.26,33.73
+167,62,Female,Germany,43284,Machine Learning Algorithms Explained,Steven Skiena,19,60.64,38.5,1152.16,731.5,420.66,36.51
+168,23,Male,USA,81330,Advanced Algorithms,Thomas H. Cormen,6,107.98,48.64,647.88,291.84,356.04,54.95
+169,45,Female,Australia,103369,Machine Learning Algorithms Explained,Chris Albon,10,84.87,46.99,848.7,469.9,378.8,44.63
+170,45,Female,Canada,45122,Introduction to Algorithms,Steven Halim,15,109.92,60.04,1648.8,900.6,748.2,45.38
+171,61,Male,USA,90553,Competitive Programming Algorithms,Aditya Bhargava,6,82.35,48.38,494.1,290.28,203.82,41.25
+172,61,Female,Australia,101906,Algorithms Illuminated,Steven Skiena,10,33.13,22.66,331.3,226.6,104.7,31.6
+173,37,Female,Germany,114788,Advanced Algorithms,Robert Sedgewick,7,50.97,29.25,356.79,204.75,152.04,42.61
+174,47,Female,Germany,82812,Machine Learning Algorithms Explained,Tim Roughgarden,17,40.18,22.58,683.06,383.86,299.2,43.8
+175,28,Male,India,27999,Advanced Algorithms,Thomas H. Cormen,18,110.88,46.03,1995.84,828.54,1167.3,58.49
+176,45,Male,UK,42436,Algorithms in Python,Robert Sedgewick,17,96.04,40.23,1632.68,683.91,948.77,58.11
+177,42,Male,India,62963,Algorithms in Python,Magnus Lie Hetland,9,87.64,39.98,788.76,359.82,428.94,54.38
+178,56,Female,Canada,22096,Algorithms in Python,Magnus Lie Hetland,10,50.1,20.53,501.0,205.3,295.7,59.02
+179,50,Female,USA,45279,Introduction to Algorithms,Steven Skiena,10,38.4,23.92,384.0,239.2,144.8,37.71
+180,18,Male,Canada,46201,Algorithms Illuminated,Magnus Lie Hetland,7,95.65,59.02,669.55,413.14,256.41,38.3
+181,44,Female,Australia,39715,Introduction to Algorithms,Thomas H. Cormen,16,67.42,29.72,1078.72,475.52,603.2,55.92
+182,30,Female,Germany,49309,Grokking Algorithms,Aditya Bhargava,18,42.58,27.71,766.44,498.78,267.66,34.92
+183,58,Female,India,35078,Competitive Programming Algorithms,Narasimha Karumanchi,6,81.66,36.46,489.96,218.76,271.2,55.35
+184,20,Female,India,76614,Competitive Programming Algorithms,Thomas H. Cormen,1,24.03,11.78,24.03,11.78,12.25,50.98
+185,56,Female,India,25105,Algorithms in Python,Chris Albon,1,52.62,24.98,52.62,24.98,27.64,52.53
+186,23,Male,Canada,114848,Grokking Algorithms,Aditya Bhargava,12,66.86,34.21,802.32,410.52,391.8,48.83
+187,25,Female,Germany,22839,The Algorithm Design Manual,Narasimha Karumanchi,2,34.8,16.58,69.6,33.16,36.44,52.36
+188,44,Male,USA,88920,The Algorithm Design Manual,Steven Halim,4,118.47,64.77,473.88,259.08,214.8,45.33
+189,26,Female,Australia,63619,Algorithms in Python,Thomas H. Cormen,17,40.91,21.36,695.47,363.12,332.35,47.79
+190,54,Male,USA,62821,Machine Learning Algorithms Explained,Robert Sedgewick,4,33.04,22.99,132.16,91.96,40.2,30.42
+191,50,Female,Canada,33493,Introduction to Algorithms,Narasimha Karumanchi,11,40.35,16.82,443.85,185.02,258.83,58.31
+192,59,Male,Australia,37069,Algorithms in Python,Thomas H. Cormen,4,96.91,42.9,387.64,171.6,216.04,55.73
+193,61,Female,India,27531,Data Structures and Algorithms Made Easy,Tim Roughgarden,1,62.55,26.01,62.55,26.01,36.54,58.42
+194,41,Male,UK,57051,Advanced Algorithms,Robert Sedgewick,7,76.54,44.99,535.78,314.93,220.85,41.22
+195,32,Female,Canada,27736,Competitive Programming Algorithms,Magnus Lie Hetland,18,22.1,9.2,397.8,165.6,232.2,58.37
+196,49,Male,Canada,27710,The Algorithm Design Manual,Magnus Lie Hetland,9,23.44,15.26,210.96,137.34,73.62,34.9
+197,49,Female,Germany,87155,Algorithms Unlocked,Robert Sedgewick,3,64.58,35.75,193.74,107.25,86.49,44.64
+198,41,Male,USA,33975,The Algorithm Design Manual,Steven Halim,8,101.67,56.74,813.36,453.92,359.44,44.19
+199,58,Male,Canada,82424,Competitive Programming Algorithms,Steven Halim,19,108.52,61.69,2061.88,1172.11,889.77,43.15
+200,29,Female,Canada,65603,Advanced Algorithms,Steven Halim,4,28.67,12.94,114.68,51.76,62.92,54.87
+201,56,Female,India,43252,Competitive Programming Algorithms,Narasimha Karumanchi,18,73.84,33.92,1329.12,610.56,718.56,54.06
+202,19,Male,India,100797,Algorithms Unlocked,Chris Albon,11,111.32,55.18,1224.52,606.98,617.54,50.43
+203,20,Female,Australia,21431,Algorithms in Python,Narasimha Karumanchi,14,58.8,33.99,823.2,475.86,347.34,42.19
+204,54,Male,UK,94603,Grokking Algorithms,Steven Skiena,18,102.96,47.67,1853.28,858.06,995.22,53.7
+205,34,Male,Germany,57481,Algorithms Unlocked,Thomas H. Cormen,16,33.37,14.51,533.92,232.16,301.76,56.52
+206,19,Male,UK,112573,Competitive Programming Algorithms,Robert Sedgewick,3,113.54,78.46,340.62,235.38,105.24,30.9
+207,19,Female,Australia,29557,Competitive Programming Algorithms,Aditya Bhargava,15,95.14,38.68,1427.1,580.2,846.9,59.34
+208,45,Male,India,94971,Data Structures and Algorithms Made Easy,Thomas H. Cormen,4,114.13,73.14,456.52,292.56,163.96,35.92
+209,40,Male,USA,20162,Data Structures and Algorithms Made Easy,Tim Roughgarden,5,87.66,55.79,438.3,278.95,159.35,36.36
+210,54,Female,India,54742,Algorithms Illuminated,Narasimha Karumanchi,17,56.34,27.56,957.78,468.52,489.26,51.08
+211,49,Female,Germany,39675,Data Structures and Algorithms Made Easy,Narasimha Karumanchi,7,113.82,50.16,796.74,351.12,445.62,55.93
+212,50,Female,India,93997,Introduction to Algorithms,Thomas H. Cormen,16,47.56,21.1,760.96,337.6,423.36,55.63
+213,18,Female,Germany,37015,Grokking Algorithms,Thomas H. Cormen,14,53.22,32.42,745.08,453.88,291.2,39.08
+214,36,Male,Germany,70057,Advanced Algorithms,Thomas H. Cormen,16,90.08,53.4,1441.28,854.4,586.88,40.72
+215,19,Male,Germany,52591,Algorithms Unlocked,Aditya Bhargava,7,96.53,61.28,675.71,428.96,246.75,36.52
+216,61,Male,Australia,113583,Competitive Programming Algorithms,Thomas H. Cormen,9,112.94,76.94,1016.46,692.46,324.0,31.88
+217,43,Male,Germany,29833,Algorithms Illuminated,Thomas H. Cormen,4,40.48,24.59,161.92,98.36,63.56,39.25
+218,49,Female,Germany,27896,Algorithms Illuminated,Robert Sedgewick,11,99.8,44.59,1097.8,490.49,607.31,55.32
+219,23,Male,USA,52972,Advanced Algorithms,Tim Roughgarden,2,93.85,44.39,187.7,88.78,98.92,52.7
+220,49,Male,UK,69733,Grokking Algorithms,Narasimha Karumanchi,12,26.38,17.22,316.56,206.64,109.92,34.72
+221,21,Female,Canada,61800,Algorithms Unlocked,Aditya Bhargava,12,58.72,27.18,704.64,326.16,378.48,53.71
+222,28,Male,UK,116044,The Algorithm Design Manual,Narasimha Karumanchi,4,48.28,20.36,193.12,81.44,111.68,57.83
+223,34,Male,Germany,25347,Data Structures and Algorithms Made Easy,Steven Skiena,18,50.45,30.82,908.1,554.76,353.34,38.91
+224,55,Male,USA,79063,Algorithms in Python,Tim Roughgarden,7,118.29,61.6,828.03,431.2,396.83,47.92
+225,41,Male,India,115850,Algorithms Illuminated,Chris Albon,1,84.28,56.97,84.28,56.97,27.31,32.4
+226,22,Male,USA,22643,Data Structures and Algorithms Made Easy,Thomas H. Cormen,13,91.77,54.61,1193.01,709.93,483.08,40.49
+227,51,Male,Germany,60785,Data Structures and Algorithms Made Easy,Magnus Lie Hetland,6,117.66,50.26,705.96,301.56,404.4,57.28
+228,23,Female,USA,38681,Introduction to Algorithms,Thomas H. Cormen,6,57.72,39.5,346.32,237.0,109.32,31.57
+229,39,Female,USA,70026,Grokking Algorithms,Narasimha Karumanchi,12,100.18,47.84,1202.16,574.08,628.08,52.25
+230,28,Male,Germany,35892,Algorithms in Python,Thomas H. Cormen,8,63.45,31.8,507.6,254.4,253.2,49.88
+231,33,Male,Australia,67299,The Algorithm Design Manual,Aditya Bhargava,19,106.95,55.69,2032.05,1058.11,973.94,47.93
+232,50,Female,USA,37073,Competitive Programming Algorithms,Narasimha Karumanchi,5,38.07,15.81,190.35,79.05,111.3,58.47
+233,26,Male,Canada,50682,Introduction to Algorithms,Chris Albon,18,114.77,63.0,2065.86,1134.0,931.86,45.11
+234,23,Male,Canada,117798,Data Structures and Algorithms Made Easy,Tim Roughgarden,5,41.88,18.3,209.4,91.5,117.9,56.3
+235,33,Male,USA,116894,Data Structures and Algorithms Made Easy,Tim Roughgarden,10,52.62,27.38,526.2,273.8,252.4,47.97
+236,46,Female,Australia,34289,Machine Learning Algorithms Explained,Narasimha Karumanchi,1,95.62,48.31,95.62,48.31,47.31,49.48
+237,20,Male,India,27927,Algorithms in Python,Aditya Bhargava,10,59.38,37.52,593.8,375.2,218.6,36.81
+238,37,Female,Germany,68330,Algorithms in Python,Tim Roughgarden,5,80.82,51.8,404.1,259.0,145.1,35.91
+239,53,Male,Canada,86707,Machine Learning Algorithms Explained,Tim Roughgarden,12,64.46,28.75,773.52,345.0,428.52,55.4
+240,36,Female,India,97454,Algorithms in Python,Chris Albon,7,94.24,48.06,659.68,336.42,323.26,49.0
+241,43,Female,USA,85428,Data Structures and Algorithms Made Easy,Thomas H. Cormen,9,42.83,21.93,385.47,197.37,188.1,48.8
+242,20,Male,India,70601,Algorithms Illuminated,Aditya Bhargava,12,25.85,11.51,310.2,138.12,172.08,55.47
+243,36,Female,UK,97465,Algorithms Unlocked,Aditya Bhargava,1,49.99,31.97,49.99,31.97,18.02,36.05
+244,37,Male,Canada,22539,Data Structures and Algorithms Made Easy,Robert Sedgewick,11,67.43,41.28,741.73,454.08,287.65,38.78
+245,49,Female,USA,42669,Introduction to Algorithms,Robert Sedgewick,15,36.8,16.82,552.0,252.3,299.7,54.29
+246,24,Male,Germany,90968,Grokking Algorithms,Tim Roughgarden,2,55.48,28.3,110.96,56.6,54.36,48.99
+247,58,Male,Australia,40644,Machine Learning Algorithms Explained,Magnus Lie Hetland,7,60.0,25.9,420.0,181.3,238.7,56.83
+248,50,Female,USA,38745,The Algorithm Design Manual,Robert Sedgewick,12,25.74,15.15,308.88,181.8,127.08,41.14
+249,57,Male,Germany,48228,Competitive Programming Algorithms,Tim Roughgarden,18,78.33,34.18,1409.94,615.24,794.7,56.36
+250,56,Male,Australia,54521,The Algorithm Design Manual,Steven Halim,3,108.43,75.44,325.29,226.32,98.97,30.43
+251,35,Female,Australia,117239,Data Structures and Algorithms Made Easy,Steven Skiena,7,35.17,22.3,246.19,156.1,90.09,36.59
+252,57,Male,USA,46928,Introduction to Algorithms,Steven Skiena,11,79.78,41.25,877.58,453.75,423.83,48.3
+253,18,Male,India,38322,Data Structures and Algorithms Made Easy,Aditya Bhargava,18,86.47,49.6,1556.46,892.8,663.66,42.64
+254,28,Female,India,77714,Grokking Algorithms,Magnus Lie Hetland,12,61.93,41.7,743.16,500.4,242.76,32.67
+255,45,Female,Australia,107896,Algorithms Illuminated,Chris Albon,6,90.11,51.02,540.66,306.12,234.54,43.38
+256,42,Male,India,82292,Competitive Programming Algorithms,Thomas H. Cormen,5,61.07,27.62,305.35,138.1,167.25,54.77
+257,40,Male,UK,49055,Grokking Algorithms,Robert Sedgewick,1,70.46,36.19,70.46,36.19,34.27,48.64
+258,48,Female,Australia,62891,Machine Learning Algorithms Explained,Steven Halim,12,20.74,13.54,248.88,162.48,86.4,34.72
+259,47,Female,Australia,101912,Machine Learning Algorithms Explained,Tim Roughgarden,11,89.17,52.9,980.87,581.9,398.97,40.68
+260,59,Male,Germany,26588,Data Structures and Algorithms Made Easy,Magnus Lie Hetland,4,86.13,51.27,344.52,205.08,139.44,40.47
+261,52,Female,India,110536,Introduction to Algorithms,Aditya Bhargava,18,23.84,15.74,429.12,283.32,145.8,33.98
+262,24,Male,Australia,26304,Grokking Algorithms,Robert Sedgewick,4,56.83,37.97,227.32,151.88,75.44,33.19
+263,33,Male,UK,27345,Advanced Algorithms,Magnus Lie Hetland,17,117.9,79.69,2004.3,1354.73,649.57,32.41
+264,43,Male,Germany,49300,Introduction to Algorithms,Robert Sedgewick,2,62.07,26.59,124.14,53.18,70.96,57.16
+265,19,Male,USA,44259,Algorithms Illuminated,Thomas H. Cormen,2,70.19,39.53,140.38,79.06,61.32,43.68
+266,18,Male,Australia,111006,Machine Learning Algorithms Explained,Thomas H. Cormen,12,110.99,69.05,1331.88,828.6,503.28,37.79
+267,29,Female,UK,108553,Data Structures and Algorithms Made Easy,Chris Albon,6,91.73,57.52,550.38,345.12,205.26,37.29
+268,22,Female,Canada,35352,Algorithms in Python,Steven Skiena,10,78.21,45.52,782.1,455.2,326.9,41.8
+269,54,Female,UK,53365,Machine Learning Algorithms Explained,Thomas H. Cormen,16,99.78,44.9,1596.48,718.4,878.08,55.0
+270,49,Female,UK,39446,Competitive Programming Algorithms,Thomas H. Cormen,14,106.44,68.04,1490.16,952.56,537.6,36.08
+271,26,Male,Germany,22336,Algorithms Unlocked,Robert Sedgewick,7,65.69,40.47,459.83,283.29,176.54,38.39
+272,58,Male,USA,82032,Algorithms in Python,Chris Albon,19,67.51,28.75,1282.69,546.25,736.44,57.41
+273,52,Male,Canada,95415,Data Structures and Algorithms Made Easy,Thomas H. Cormen,17,58.61,31.6,996.37,537.2,459.17,46.08
+274,36,Male,India,117852,Advanced Algorithms,Aditya Bhargava,9,116.67,52.76,1050.03,474.84,575.19,54.78
+275,33,Female,India,118876,Algorithms in Python,Thomas H. Cormen,13,89.72,44.97,1166.36,584.61,581.75,49.88
+276,20,Male,UK,27521,Competitive Programming Algorithms,Narasimha Karumanchi,5,28.32,11.48,141.6,57.4,84.2,59.46
+277,37,Male,Germany,91707,Introduction to Algorithms,Tim Roughgarden,5,106.3,55.29,531.5,276.45,255.05,47.99
+278,41,Female,Germany,43481,Advanced Algorithms,Chris Albon,10,68.06,38.45,680.6,384.5,296.1,43.51
+279,50,Female,India,38474,Machine Learning Algorithms Explained,Aditya Bhargava,10,26.88,15.75,268.8,157.5,111.3,41.41
+280,41,Female,Canada,66760,Advanced Algorithms,Magnus Lie Hetland,7,74.97,44.91,524.79,314.37,210.42,40.1
+281,28,Female,USA,75718,Grokking Algorithms,Aditya Bhargava,15,61.72,40.17,925.8,602.55,323.25,34.92
+282,25,Male,Canada,64629,Competitive Programming Algorithms,Steven Skiena,7,107.77,50.07,754.39,350.49,403.9,53.54
+283,53,Male,Australia,65232,Algorithms in Python,Magnus Lie Hetland,15,40.4,17.62,606.0,264.3,341.7,56.39
+284,55,Female,Australia,106544,Grokking Algorithms,Steven Halim,3,102.65,67.28,307.95,201.84,106.11,34.46
+285,57,Male,USA,87169,Advanced Algorithms,Tim Roughgarden,19,75.77,33.87,1439.63,643.53,796.1,55.3
+286,37,Male,India,70669,Grokking Algorithms,Tim Roughgarden,10,25.46,17.63,254.6,176.3,78.3,30.75
+287,52,Male,USA,98021,The Algorithm Design Manual,Tim Roughgarden,15,117.18,76.49,1757.7,1147.35,610.35,34.72
+288,42,Female,Germany,89184,Competitive Programming Algorithms,Tim Roughgarden,3,71.26,39.21,213.78,117.63,96.15,44.98
+289,52,Male,Australia,67945,Algorithms Illuminated,Robert Sedgewick,6,49.09,34.09,294.54,204.54,90.0,30.56
+290,42,Female,UK,33140,Introduction to Algorithms,Tim Roughgarden,12,66.94,28.73,803.28,344.76,458.52,57.08
+291,46,Male,UK,103457,Advanced Algorithms,Tim Roughgarden,15,105.79,51.93,1586.85,778.95,807.9,50.91
+292,35,Male,India,34357,Competitive Programming Algorithms,Tim Roughgarden,6,50.49,29.86,302.94,179.16,123.78,40.86
+293,63,Male,Germany,88673,Algorithms Illuminated,Chris Albon,13,39.27,19.83,510.51,257.79,252.72,49.5
+294,35,Female,Canada,85633,Algorithms Illuminated,Robert Sedgewick,19,32.91,22.33,625.29,424.27,201.02,32.15
+295,19,Male,Germany,96943,Data Structures and Algorithms Made Easy,Thomas H. Cormen,3,49.79,20.9,149.37,62.7,86.67,58.02
+296,52,Female,UK,116111,Grokking Algorithms,Aditya Bhargava,8,98.0,55.35,784.0,442.8,341.2,43.52
+297,33,Female,UK,98258,Algorithms Illuminated,Aditya Bhargava,8,67.16,38.77,537.28,310.16,227.12,42.27
+298,58,Female,Australia,32924,The Algorithm Design Manual,Magnus Lie Hetland,15,42.75,25.47,641.25,382.05,259.2,40.42
+299,53,Male,Germany,89286,Competitive Programming Algorithms,Chris Albon,4,36.62,17.46,146.48,69.84,76.64,52.32
+300,50,Male,Germany,113269,Algorithms Unlocked,Narasimha Karumanchi,19,53.27,27.13,1012.13,515.47,496.66,49.07
+301,21,Male,UK,94071,Algorithms Unlocked,Aditya Bhargava,3,113.99,74.45,341.97,223.35,118.62,34.69
+302,50,Male,Canada,77326,Advanced Algorithms,Thomas H. Cormen,13,54.3,24.9,705.9,323.7,382.2,54.14
+303,31,Female,India,110023,Machine Learning Algorithms Explained,Narasimha Karumanchi,8,118.81,77.0,950.48,616.0,334.48,35.19
+304,38,Female,India,50651,Grokking Algorithms,Tim Roughgarden,16,68.52,38.97,1096.32,623.52,472.8,43.13
+305,37,Female,Germany,90202,Machine Learning Algorithms Explained,Tim Roughgarden,13,37.92,23.84,492.96,309.92,183.04,37.13
+306,25,Male,India,68777,Algorithms Illuminated,Robert Sedgewick,3,109.11,67.0,327.33,201.0,126.33,38.59
+307,24,Female,UK,36994,Competitive Programming Algorithms,Narasimha Karumanchi,16,66.04,30.53,1056.64,488.48,568.16,53.77
+308,20,Male,UK,87263,Advanced Algorithms,Thomas H. Cormen,9,90.97,51.91,818.73,467.19,351.54,42.94
+309,34,Female,Germany,79634,Algorithms in Python,Robert Sedgewick,14,118.37,78.16,1657.18,1094.24,562.94,33.97
+310,50,Male,Germany,30800,Algorithms Illuminated,Magnus Lie Hetland,13,25.02,13.25,325.26,172.25,153.01,47.04
+311,29,Male,Australia,57823,Grokking Algorithms,Narasimha Karumanchi,7,29.67,20.47,207.69,143.29,64.4,31.01
+312,39,Female,Germany,83878,Algorithms Unlocked,Chris Albon,15,92.05,49.31,1380.75,739.65,641.1,46.43
+313,39,Female,Canada,38708,Data Structures and Algorithms Made Easy,Tim Roughgarden,7,48.18,21.34,337.26,149.38,187.88,55.71
+314,63,Female,India,32819,Competitive Programming Algorithms,Tim Roughgarden,6,38.43,19.86,230.58,119.16,111.42,48.32
+315,47,Female,Germany,94905,Introduction to Algorithms,Steven Skiena,2,23.94,16.41,47.88,32.82,15.06,31.45
+316,55,Male,USA,83870,Machine Learning Algorithms Explained,Robert Sedgewick,9,22.18,11.0,199.62,99.0,100.62,50.41
+317,55,Female,Australia,29283,Advanced Algorithms,Thomas H. Cormen,17,97.45,64.36,1656.65,1094.12,562.53,33.96
+318,62,Female,USA,50573,Machine Learning Algorithms Explained,Thomas H. Cormen,5,33.44,22.22,167.2,111.1,56.1,33.55
+319,25,Female,UK,98707,Competitive Programming Algorithms,Robert Sedgewick,12,66.77,33.72,801.24,404.64,396.6,49.5
+320,44,Male,India,50933,Machine Learning Algorithms Explained,Chris Albon,1,80.59,34.25,80.59,34.25,46.34,57.5
+321,44,Male,Germany,25774,Competitive Programming Algorithms,Steven Halim,10,62.84,38.8,628.4,388.0,240.4,38.26
+322,51,Female,USA,92055,Machine Learning Algorithms Explained,Robert Sedgewick,11,22.71,11.21,249.81,123.31,126.5,50.64
+323,38,Male,India,30983,The Algorithm Design Manual,Chris Albon,16,98.35,62.44,1573.6,999.04,574.56,36.51
+324,47,Female,UK,116468,Algorithms in Python,Magnus Lie Hetland,14,21.05,11.22,294.7,157.08,137.62,46.7
+325,50,Male,Canada,116334,Algorithms Illuminated,Tim Roughgarden,8,96.19,52.48,769.52,419.84,349.68,45.44
+326,45,Male,Australia,38133,Algorithms Illuminated,Thomas H. Cormen,17,109.33,69.25,1858.61,1177.25,681.36,36.66
+327,64,Male,India,34939,Grokking Algorithms,Steven Halim,18,63.28,32.57,1139.04,586.26,552.78,48.53
+328,50,Male,India,20781,Introduction to Algorithms,Narasimha Karumanchi,12,73.55,39.2,882.6,470.4,412.2,46.7
+329,22,Female,Canada,76700,Introduction to Algorithms,Steven Halim,17,67.7,34.72,1150.9,590.24,560.66,48.71
+330,36,Female,India,47624,Grokking Algorithms,Thomas H. Cormen,14,58.92,30.06,824.88,420.84,404.04,48.98
+331,21,Female,UK,26823,Data Structures and Algorithms Made Easy,Steven Skiena,16,108.74,60.65,1739.84,970.4,769.44,44.22
+332,52,Male,UK,38489,Algorithms Illuminated,Tim Roughgarden,14,109.39,70.3,1531.46,984.2,547.26,35.73
+333,34,Female,Canada,59961,Data Structures and Algorithms Made Easy,Thomas H. Cormen,9,53.58,27.25,482.22,245.25,236.97,49.14
+334,61,Female,Australia,49118,Competitive Programming Algorithms,Chris Albon,4,81.51,45.42,326.04,181.68,144.36,44.28
+335,45,Female,Germany,101816,Competitive Programming Algorithms,Robert Sedgewick,11,112.69,67.75,1239.59,745.25,494.34,39.88
+336,47,Male,USA,42263,Algorithms Unlocked,Robert Sedgewick,6,116.21,55.88,697.26,335.28,361.98,51.91
+337,46,Male,Germany,33565,Machine Learning Algorithms Explained,Thomas H. Cormen,15,70.9,34.26,1063.5,513.9,549.6,51.68
+338,63,Male,India,40354,Introduction to Algorithms,Steven Halim,5,65.28,44.39,326.4,221.95,104.45,32.0
+339,23,Female,USA,62951,Algorithms Unlocked,Tim Roughgarden,11,47.87,29.54,526.57,324.94,201.63,38.29
+340,52,Female,Canada,111179,Algorithms in Python,Aditya Bhargava,18,115.89,66.42,2086.02,1195.56,890.46,42.69
+341,58,Female,Canada,43648,Grokking Algorithms,Chris Albon,13,34.28,20.37,445.64,264.81,180.83,40.58
+342,54,Male,Australia,70729,Grokking Algorithms,Magnus Lie Hetland,11,77.98,31.88,857.78,350.68,507.1,59.12
+343,41,Male,USA,61971,Competitive Programming Algorithms,Thomas H. Cormen,14,48.26,28.25,675.64,395.5,280.14,41.46
+344,46,Female,UK,38658,Algorithms Illuminated,Steven Halim,18,47.9,26.48,862.2,476.64,385.56,44.72
+345,63,Male,USA,41253,Data Structures and Algorithms Made Easy,Narasimha Karumanchi,19,60.5,34.11,1149.5,648.09,501.41,43.62
+346,48,Male,India,84166,Introduction to Algorithms,Steven Skiena,15,119.88,60.88,1798.2,913.2,885.0,49.22
+347,52,Male,UK,68563,Algorithms Unlocked,Robert Sedgewick,9,25.5,10.82,229.5,97.38,132.12,57.57
+348,50,Male,Canada,46390,Data Structures and Algorithms Made Easy,Steven Halim,8,77.85,35.66,622.8,285.28,337.52,54.19
+349,38,Female,USA,108664,Algorithms Unlocked,Steven Skiena,1,28.26,19.36,28.26,19.36,8.9,31.49
+350,49,Male,Germany,71578,Machine Learning Algorithms Explained,Thomas H. Cormen,4,35.45,18.53,141.8,74.12,67.68,47.73
+351,40,Male,Australia,99025,Algorithms in Python,Robert Sedgewick,14,63.96,34.54,895.44,483.56,411.88,46.0
+352,50,Male,Germany,52658,Algorithms in Python,Robert Sedgewick,2,71.05,29.54,142.1,59.08,83.02,58.42
+353,20,Male,Australia,26852,Data Structures and Algorithms Made Easy,Aditya Bhargava,16,45.88,18.87,734.08,301.92,432.16,58.87
+354,35,Female,India,114986,Data Structures and Algorithms Made Easy,Steven Halim,3,51.65,31.77,154.95,95.31,59.64,38.49
+355,42,Female,Germany,22551,Data Structures and Algorithms Made Easy,Tim Roughgarden,8,28.7,16.11,229.6,128.88,100.72,43.87
+356,59,Male,USA,91947,Algorithms Unlocked,Thomas H. Cormen,6,50.32,27.81,301.92,166.86,135.06,44.73
+357,48,Male,USA,81001,Machine Learning Algorithms Explained,Thomas H. Cormen,16,116.66,55.17,1866.56,882.72,983.84,52.71
+358,20,Male,Germany,69159,The Algorithm Design Manual,Magnus Lie Hetland,16,114.47,71.36,1831.52,1141.76,689.76,37.66
+359,57,Male,USA,71707,Data Structures and Algorithms Made Easy,Narasimha Karumanchi,7,53.49,24.1,374.43,168.7,205.73,54.94
+360,63,Male,India,53243,Algorithms Illuminated,Steven Skiena,13,77.09,35.23,1002.17,457.99,544.18,54.3
+361,41,Male,UK,41800,Introduction to Algorithms,Steven Halim,13,110.96,59.72,1442.48,776.36,666.12,46.18
+362,49,Female,India,95939,Introduction to Algorithms,Chris Albon,5,20.62,10.02,103.1,50.1,53.0,51.41
+363,64,Male,Australia,77828,Algorithms Unlocked,Narasimha Karumanchi,18,101.07,47.93,1819.26,862.74,956.52,52.58
+364,39,Female,India,27239,Data Structures and Algorithms Made Easy,Aditya Bhargava,15,114.84,68.17,1722.6,1022.55,700.05,40.64
+365,40,Female,Australia,26710,Competitive Programming Algorithms,Robert Sedgewick,18,29.13,17.34,524.34,312.12,212.22,40.47
+366,19,Male,USA,41384,Grokking Algorithms,Tim Roughgarden,2,36.14,23.4,72.28,46.8,25.48,35.25
+367,44,Female,UK,41038,The Algorithm Design Manual,Steven Halim,10,116.07,60.97,1160.7,609.7,551.0,47.47
+368,59,Female,USA,60846,Algorithms Illuminated,Narasimha Karumanchi,13,73.75,31.12,958.75,404.56,554.19,57.8
+369,19,Female,Canada,107983,Machine Learning Algorithms Explained,Narasimha Karumanchi,18,21.42,10.33,385.56,185.94,199.62,51.77
+370,43,Female,USA,87821,Competitive Programming Algorithms,Tim Roughgarden,15,45.76,31.76,686.4,476.4,210.0,30.59
+371,34,Female,Australia,57991,Algorithms in Python,Magnus Lie Hetland,12,64.99,37.62,779.88,451.44,328.44,42.11
+372,57,Female,USA,99057,Competitive Programming Algorithms,Steven Skiena,15,89.29,54.73,1339.35,820.95,518.4,38.71
+373,50,Male,USA,26971,Algorithms Unlocked,Steven Skiena,13,93.32,37.53,1213.16,487.89,725.27,59.78
+374,26,Female,UK,49139,The Algorithm Design Manual,Narasimha Karumanchi,18,119.54,66.4,2151.72,1195.2,956.52,44.45
+375,60,Female,USA,105445,Advanced Algorithms,Thomas H. Cormen,15,48.75,20.05,731.25,300.75,430.5,58.87
+376,56,Female,UK,97067,Advanced Algorithms,Narasimha Karumanchi,11,73.82,42.13,812.02,463.43,348.59,42.93
+377,46,Male,Germany,100257,Data Structures and Algorithms Made Easy,Narasimha Karumanchi,19,73.33,49.59,1393.27,942.21,451.06,32.37
+378,59,Female,Canada,104742,Data Structures and Algorithms Made Easy,Tim Roughgarden,3,60.56,41.82,181.68,125.46,56.22,30.94
+379,43,Male,UK,57711,Algorithms Unlocked,Robert Sedgewick,7,36.92,20.76,258.44,145.32,113.12,43.77
+380,52,Female,Australia,26530,Machine Learning Algorithms Explained,Tim Roughgarden,14,117.75,63.29,1648.5,886.06,762.44,46.25
+381,42,Male,Germany,31116,Data Structures and Algorithms Made Easy,Steven Halim,14,105.33,71.99,1474.62,1007.86,466.76,31.65
+382,41,Male,UK,85794,Grokking Algorithms,Narasimha Karumanchi,13,69.83,42.04,907.79,546.52,361.27,39.8
+383,30,Female,UK,20282,The Algorithm Design Manual,Steven Skiena,12,80.32,33.69,963.84,404.28,559.56,58.06
+384,24,Female,Canada,99473,Algorithms Unlocked,Chris Albon,9,42.73,23.06,384.57,207.54,177.03,46.03
+385,53,Male,Australia,21898,Introduction to Algorithms,Steven Skiena,1,74.38,35.11,74.38,35.11,39.27,52.8
+386,62,Female,India,24135,Algorithms in Python,Thomas H. Cormen,19,89.5,48.41,1700.5,919.79,780.71,45.91
+387,37,Male,India,26629,Algorithms Unlocked,Magnus Lie Hetland,11,71.52,38.38,786.72,422.18,364.54,46.34
+388,18,Male,UK,105120,Algorithms Unlocked,Aditya Bhargava,19,119.03,68.4,2261.57,1299.6,961.97,42.54
+389,25,Male,USA,109087,Advanced Algorithms,Steven Halim,18,81.13,41.14,1460.34,740.52,719.82,49.29
+390,63,Male,Australia,85031,Algorithms Illuminated,Steven Halim,12,57.1,25.65,685.2,307.8,377.4,55.08
+391,33,Male,Germany,53380,Machine Learning Algorithms Explained,Magnus Lie Hetland,1,97.22,53.58,97.22,53.58,43.64,44.89
+392,31,Female,USA,37071,Algorithms Illuminated,Chris Albon,19,37.05,24.05,703.95,456.95,247.0,35.09
+393,29,Male,USA,40074,Grokking Algorithms,Aditya Bhargava,17,58.45,35.02,993.65,595.34,398.31,40.09
+394,40,Male,Australia,110724,Introduction to Algorithms,Robert Sedgewick,5,54.7,27.43,273.5,137.15,136.35,49.85
+395,32,Female,UK,87843,Advanced Algorithms,Narasimha Karumanchi,3,63.18,43.0,189.54,129.0,60.54,31.94
+396,45,Male,UK,59901,Introduction to Algorithms,Aditya Bhargava,2,98.18,66.14,196.36,132.28,64.08,32.63
+397,51,Female,UK,31205,Grokking Algorithms,Chris Albon,3,68.42,31.67,205.26,95.01,110.25,53.71
+398,19,Female,UK,75661,Algorithms Illuminated,Thomas H. Cormen,8,99.4,40.94,795.2,327.52,467.68,58.81
+399,49,Female,India,25906,Algorithms Unlocked,Thomas H. Cormen,16,77.65,48.33,1242.4,773.28,469.12,37.76
+400,40,Male,UK,22591,Data Structures and Algorithms Made Easy,Aditya Bhargava,6,54.21,35.14,325.26,210.84,114.42,35.18
+401,39,Male,India,82987,Data Structures and Algorithms Made Easy,Aditya Bhargava,13,101.0,69.73,1313.0,906.49,406.51,30.96
+402,42,Male,India,83370,Competitive Programming Algorithms,Thomas H. Cormen,16,43.83,29.23,701.28,467.68,233.6,33.31
+403,39,Female,UK,100685,Algorithms in Python,Narasimha Karumanchi,16,42.44,24.62,679.04,393.92,285.12,41.99
+404,39,Male,Canada,74400,Machine Learning Algorithms Explained,Aditya Bhargava,3,70.45,39.38,211.35,118.14,93.21,44.1
+405,59,Female,Germany,45150,Grokking Algorithms,Thomas H. Cormen,13,46.08,18.82,599.04,244.66,354.38,59.16
+406,23,Male,USA,51852,Algorithms in Python,Thomas H. Cormen,14,20.91,9.91,292.74,138.74,154.0,52.61
+407,32,Female,India,62870,Machine Learning Algorithms Explained,Thomas H. Cormen,8,84.83,45.63,678.64,365.04,313.6,46.21
+408,60,Male,Australia,72756,Algorithms in Python,Tim Roughgarden,12,71.11,41.85,853.32,502.2,351.12,41.15
+409,54,Male,Australia,76481,Algorithms Illuminated,Chris Albon,8,64.55,36.61,516.4,292.88,223.52,43.28
+410,50,Male,Germany,21283,Machine Learning Algorithms Explained,Tim Roughgarden,9,116.7,72.68,1050.3,654.12,396.18,37.72
+411,25,Female,Australia,53691,Algorithms Illuminated,Thomas H. Cormen,1,77.12,37.32,77.12,37.32,39.8,51.61
+412,61,Female,Canada,21125,Algorithms Unlocked,Robert Sedgewick,6,106.34,60.56,638.04,363.36,274.68,43.05
+413,61,Male,Australia,87065,Advanced Algorithms,Tim Roughgarden,19,33.95,14.48,645.05,275.12,369.93,57.35
+414,22,Male,USA,46170,Algorithms Illuminated,Tim Roughgarden,11,76.92,40.31,846.12,443.41,402.71,47.59
+415,56,Female,USA,28438,Data Structures and Algorithms Made Easy,Chris Albon,11,106.8,66.76,1174.8,734.36,440.44,37.49
+416,21,Female,India,40095,Algorithms in Python,Robert Sedgewick,13,78.31,47.61,1018.03,618.93,399.1,39.2
+417,23,Female,UK,36154,Competitive Programming Algorithms,Magnus Lie Hetland,11,91.8,64.0,1009.8,704.0,305.8,30.28
+418,62,Male,Canada,28004,The Algorithm Design Manual,Thomas H. Cormen,18,57.2,27.65,1029.6,497.7,531.9,51.66
+419,49,Female,India,29752,Machine Learning Algorithms Explained,Steven Halim,15,29.24,16.07,438.6,241.05,197.55,45.04
+420,47,Male,Canada,75426,Grokking Algorithms,Robert Sedgewick,1,65.79,32.82,65.79,32.82,32.97,50.11
+421,64,Female,UK,46819,Competitive Programming Algorithms,Thomas H. Cormen,7,59.45,31.64,416.15,221.48,194.67,46.78
+422,52,Male,Australia,112051,Data Structures and Algorithms Made Easy,Narasimha Karumanchi,13,106.71,70.12,1387.23,911.56,475.67,34.29
+423,57,Female,Australia,44217,Algorithms Illuminated,Thomas H. Cormen,12,44.4,26.87,532.8,322.44,210.36,39.48
+424,33,Female,UK,108708,Advanced Algorithms,Thomas H. Cormen,18,116.67,77.55,2100.06,1395.9,704.16,33.53
+425,30,Female,India,52994,Algorithms Unlocked,Robert Sedgewick,19,115.81,53.39,2200.39,1014.41,1185.98,53.9
+426,59,Female,UK,35036,The Algorithm Design Manual,Thomas H. Cormen,15,44.76,29.63,671.4,444.45,226.95,33.8
+427,47,Female,Germany,97275,Introduction to Algorithms,Thomas H. Cormen,8,54.81,22.91,438.48,183.28,255.2,58.2
+428,36,Male,USA,117756,Competitive Programming Algorithms,Magnus Lie Hetland,19,109.56,73.03,2081.64,1387.57,694.07,33.34
+429,34,Female,India,69416,Advanced Algorithms,Magnus Lie Hetland,10,116.66,58.18,1166.6,581.8,584.8,50.13
+430,36,Female,Canada,29587,Introduction to Algorithms,Robert Sedgewick,7,64.34,31.81,450.38,222.67,227.71,50.56
+431,45,Female,Germany,115665,The Algorithm Design Manual,Thomas H. Cormen,18,52.1,28.84,937.8,519.12,418.68,44.64
+432,43,Male,India,20645,Grokking Algorithms,Tim Roughgarden,16,72.61,49.54,1161.76,792.64,369.12,31.77
+433,54,Female,UK,50930,Grokking Algorithms,Steven Skiena,6,88.78,36.78,532.68,220.68,312.0,58.57
+434,43,Male,UK,101835,Algorithms in Python,Aditya Bhargava,9,47.35,23.94,426.15,215.46,210.69,49.44
+435,40,Female,UK,50090,The Algorithm Design Manual,Steven Halim,13,93.65,61.53,1217.45,799.89,417.56,34.3
+436,26,Female,UK,107489,The Algorithm Design Manual,Aditya Bhargava,8,25.17,13.06,201.36,104.48,96.88,48.11
+437,29,Male,Canada,72142,Introduction to Algorithms,Chris Albon,16,24.93,11.46,398.88,183.36,215.52,54.03
+438,18,Female,Germany,46475,Advanced Algorithms,Magnus Lie Hetland,13,58.63,30.92,762.19,401.96,360.23,47.26
+439,18,Male,Australia,38888,Machine Learning Algorithms Explained,Robert Sedgewick,13,55.35,28.54,719.55,371.02,348.53,48.44
+440,64,Male,USA,63732,Introduction to Algorithms,Aditya Bhargava,17,51.56,34.78,876.52,591.26,285.26,32.54
+441,51,Female,Canada,101623,Algorithms Unlocked,Thomas H. Cormen,5,69.1,43.43,345.5,217.15,128.35,37.15
+442,49,Male,Canada,66305,Grokking Algorithms,Steven Halim,17,52.07,28.72,885.19,488.24,396.95,44.84
+443,42,Female,Australia,66037,Grokking Algorithms,Aditya Bhargava,9,39.23,27.32,353.07,245.88,107.19,30.36
+444,57,Female,Australia,29346,Algorithms in Python,Steven Halim,2,50.95,27.49,101.9,54.98,46.92,46.05
+445,62,Male,USA,20587,Algorithms Unlocked,Narasimha Karumanchi,18,117.49,49.05,2114.82,882.9,1231.92,58.25
+446,18,Male,USA,32763,Grokking Algorithms,Thomas H. Cormen,9,61.11,29.25,549.99,263.25,286.74,52.14
+447,33,Male,Australia,79165,Introduction to Algorithms,Steven Skiena,6,64.47,34.22,386.82,205.32,181.5,46.92
+448,56,Male,UK,89615,Algorithms Unlocked,Thomas H. Cormen,11,77.65,34.72,854.15,381.92,472.23,55.29
+449,22,Female,Canada,56116,Introduction to Algorithms,Steven Halim,6,118.33,80.97,709.98,485.82,224.16,31.57
+450,39,Female,India,105751,Machine Learning Algorithms Explained,Thomas H. Cormen,6,44.16,27.82,264.96,166.92,98.04,37.0
+451,46,Male,USA,111353,Machine Learning Algorithms Explained,Steven Halim,13,88.13,42.35,1145.69,550.55,595.14,51.95
+452,20,Female,USA,110301,Grokking Algorithms,Steven Halim,11,91.6,52.88,1007.6,581.68,425.92,42.27
+453,29,Female,Australia,115648,Grokking Algorithms,Tim Roughgarden,14,80.73,49.76,1130.22,696.64,433.58,38.36
+454,43,Female,Germany,45556,Advanced Algorithms,Tim Roughgarden,2,28.86,19.69,57.72,39.38,18.34,31.77
+455,33,Female,India,79042,Machine Learning Algorithms Explained,Thomas H. Cormen,8,87.69,58.27,701.52,466.16,235.36,33.55
+456,54,Male,India,38099,Competitive Programming Algorithms,Tim Roughgarden,3,26.41,14.65,79.23,43.95,35.28,44.53
+457,39,Male,USA,65096,Competitive Programming Algorithms,Chris Albon,3,79.61,50.35,238.83,151.05,87.78,36.75
+458,46,Female,UK,91986,Algorithms in Python,Steven Skiena,1,93.96,53.43,93.96,53.43,40.53,43.14
+459,31,Male,Germany,33230,Machine Learning Algorithms Explained,Robert Sedgewick,19,41.1,23.25,780.9,441.75,339.15,43.43
+460,45,Male,India,49009,Introduction to Algorithms,Thomas H. Cormen,18,104.16,45.25,1874.88,814.5,1060.38,56.56
+461,22,Male,USA,90969,Introduction to Algorithms,Thomas H. Cormen,17,23.04,10.09,391.68,171.53,220.15,56.21
+462,64,Female,India,53866,Data Structures and Algorithms Made Easy,Chris Albon,13,104.38,58.33,1356.94,758.29,598.65,44.12
+463,47,Female,Germany,104246,Algorithms Unlocked,Magnus Lie Hetland,3,66.03,31.74,198.09,95.22,102.87,51.93
+464,63,Female,Germany,96975,Algorithms Illuminated,Magnus Lie Hetland,1,41.76,16.97,41.76,16.97,24.79,59.36
+465,22,Male,Canada,61855,Competitive Programming Algorithms,Tim Roughgarden,4,33.38,20.59,133.52,82.36,51.16,38.32
+466,29,Female,Australia,101557,Grokking Algorithms,Robert Sedgewick,13,115.33,47.26,1499.29,614.38,884.91,59.02
+467,33,Female,Australia,26416,Algorithms in Python,Tim Roughgarden,17,27.27,15.78,463.59,268.26,195.33,42.13
+468,43,Male,USA,92516,Algorithms Illuminated,Narasimha Karumanchi,11,39.91,22.42,439.01,246.62,192.39,43.82
+469,43,Female,Germany,75915,The Algorithm Design Manual,Narasimha Karumanchi,2,54.78,37.83,109.56,75.66,33.9,30.94
+470,38,Female,Canada,38058,Algorithms in Python,Thomas H. Cormen,16,82.02,44.72,1312.32,715.52,596.8,45.48
+471,56,Male,Canada,96637,The Algorithm Design Manual,Narasimha Karumanchi,2,74.48,31.21,148.96,62.42,86.54,58.1
+472,53,Male,India,60718,Machine Learning Algorithms Explained,Magnus Lie Hetland,19,32.56,18.41,618.64,349.79,268.85,43.46
+473,50,Male,India,52602,The Algorithm Design Manual,Steven Skiena,19,48.97,31.94,930.43,606.86,323.57,34.78
+474,47,Female,Canada,94658,The Algorithm Design Manual,Narasimha Karumanchi,16,43.88,30.67,702.08,490.72,211.36,30.1
+475,54,Female,India,98112,Advanced Algorithms,Tim Roughgarden,19,41.35,21.88,785.65,415.72,369.93,47.09
+476,40,Female,Germany,78067,Advanced Algorithms,Steven Halim,9,61.11,30.32,549.99,272.88,277.11,50.38
+477,27,Male,UK,47516,Advanced Algorithms,Thomas H. Cormen,1,90.4,60.75,90.4,60.75,29.65,32.8
+478,22,Male,Germany,107969,Machine Learning Algorithms Explained,Steven Skiena,10,41.75,19.1,417.5,191.0,226.5,54.25
+479,53,Female,Canada,21089,Algorithms Illuminated,Steven Skiena,19,56.67,33.13,1076.73,629.47,447.26,41.54
+480,51,Female,Canada,57346,Algorithms in Python,Tim Roughgarden,1,59.09,30.83,59.09,30.83,28.26,47.83
+481,48,Male,Germany,94663,Algorithms in Python,Thomas H. Cormen,2,117.65,48.51,235.3,97.02,138.28,58.77
+482,27,Male,India,30487,Grokking Algorithms,Magnus Lie Hetland,16,115.47,58.22,1847.52,931.52,916.0,49.58
+483,36,Male,India,20155,Advanced Algorithms,Steven Skiena,12,100.01,47.96,1200.12,575.52,624.6,52.04
+484,49,Male,Australia,87494,Machine Learning Algorithms Explained,Thomas H. Cormen,8,44.17,26.76,353.36,214.08,139.28,39.42
+485,18,Female,Canada,96229,Grokking Algorithms,Tim Roughgarden,18,26.8,18.35,482.4,330.3,152.1,31.53
+486,22,Male,USA,58547,Algorithms Unlocked,Steven Skiena,2,51.69,24.83,103.38,49.66,53.72,51.96
+487,62,Female,Australia,48795,Grokking Algorithms,Robert Sedgewick,13,46.68,30.04,606.84,390.52,216.32,35.65
+488,21,Female,India,75296,Algorithms Illuminated,Thomas H. Cormen,6,70.59,29.41,423.54,176.46,247.08,58.34
+489,33,Female,Germany,41447,Competitive Programming Algorithms,Narasimha Karumanchi,6,97.77,54.89,586.62,329.34,257.28,43.86
+490,41,Male,India,56598,The Algorithm Design Manual,Steven Skiena,9,105.83,44.57,952.47,401.13,551.34,57.89
+491,33,Male,Germany,61814,Advanced Algorithms,Tim Roughgarden,16,104.49,71.08,1671.84,1137.28,534.56,31.97
+492,19,Male,Australia,110751,Competitive Programming Algorithms,Narasimha Karumanchi,11,55.97,35.26,615.67,387.86,227.81,37.0
+493,45,Male,Canada,95330,Grokking Algorithms,Thomas H. Cormen,7,88.72,53.0,621.04,371.0,250.04,40.26
+494,49,Female,India,118745,Machine Learning Algorithms Explained,Narasimha Karumanchi,10,51.28,33.19,512.8,331.9,180.9,35.28
+495,44,Male,Germany,107960,The Algorithm Design Manual,Robert Sedgewick,10,26.09,15.5,260.9,155.0,105.9,40.59
+496,37,Male,Canada,83278,Algorithms in Python,Magnus Lie Hetland,18,90.16,62.27,1622.88,1120.86,502.02,30.93
+497,41,Female,USA,75077,Introduction to Algorithms,Steven Skiena,9,20.98,12.89,188.82,116.01,72.81,38.56
+498,29,Male,Germany,91906,The Algorithm Design Manual,Aditya Bhargava,15,60.92,41.27,913.8,619.05,294.75,32.26
+499,52,Female,Australia,29528,Algorithms Illuminated,Aditya Bhargava,4,52.94,29.39,211.76,117.56,94.2,44.48
+500,50,Female,USA,113812,Algorithms Illuminated,Narasimha Karumanchi,8,89.34,38.87,714.72,310.96,403.76,56.49
+501,50,Female,USA,70100,Grokking Algorithms,Chris Albon,9,96.62,53.96,869.58,485.64,383.94,44.15
+502,60,Female,UK,28179,Algorithms Unlocked,Thomas H. Cormen,13,50.41,22.08,655.33,287.04,368.29,56.2
+503,54,Female,India,68781,Algorithms Illuminated,Aditya Bhargava,9,101.16,58.44,910.44,525.96,384.48,42.23
+504,29,Female,Germany,75267,Algorithms Illuminated,Chris Albon,4,49.39,26.91,197.56,107.64,89.92,45.52
+505,20,Female,USA,102379,Machine Learning Algorithms Explained,Aditya Bhargava,17,64.63,37.92,1098.71,644.64,454.07,41.33
+506,18,Female,UK,43952,Grokking Algorithms,Chris Albon,16,92.7,37.36,1483.2,597.76,885.44,59.7
+507,50,Male,Australia,73798,The Algorithm Design Manual,Thomas H. Cormen,15,89.29,40.94,1339.35,614.1,725.25,54.15
+508,57,Male,Canada,118696,Algorithms Unlocked,Steven Halim,3,118.74,65.0,356.22,195.0,161.22,45.26
+509,27,Male,Germany,70939,Competitive Programming Algorithms,Aditya Bhargava,5,42.52,29.13,212.6,145.65,66.95,31.49
+510,60,Male,USA,49516,Introduction to Algorithms,Robert Sedgewick,5,86.23,44.42,431.15,222.1,209.05,48.49
+511,61,Female,India,76526,Advanced Algorithms,Steven Skiena,15,80.97,42.7,1214.55,640.5,574.05,47.26
+512,46,Male,UK,30449,Algorithms in Python,Chris Albon,18,111.51,68.51,2007.18,1233.18,774.0,38.56
+513,30,Female,USA,70290,Algorithms Illuminated,Steven Skiena,15,35.64,20.71,534.6,310.65,223.95,41.89
+514,29,Male,India,106661,Grokking Algorithms,Tim Roughgarden,2,95.18,46.61,190.36,93.22,97.14,51.03
+515,48,Male,USA,92954,Advanced Algorithms,Tim Roughgarden,13,76.83,40.2,998.79,522.6,476.19,47.68
+516,63,Male,Germany,42746,Algorithms in Python,Thomas H. Cormen,4,47.47,22.09,189.88,88.36,101.52,53.47
+517,19,Female,Germany,87990,Algorithms in Python,Chris Albon,10,67.44,46.52,674.4,465.2,209.2,31.02
+518,52,Male,Germany,78810,Competitive Programming Algorithms,Thomas H. Cormen,13,53.38,23.44,693.94,304.72,389.22,56.09
+519,40,Female,Australia,103297,Competitive Programming Algorithms,Tim Roughgarden,10,77.93,39.87,779.3,398.7,380.6,48.84
+520,34,Female,Australia,35223,Competitive Programming Algorithms,Thomas H. Cormen,9,108.9,44.4,980.1,399.6,580.5,59.23
+521,43,Male,UK,92237,Data Structures and Algorithms Made Easy,Tim Roughgarden,8,76.93,35.89,615.44,287.12,328.32,53.35
+522,25,Male,Germany,22597,Data Structures and Algorithms Made Easy,Tim Roughgarden,3,83.17,52.74,249.51,158.22,91.29,36.59
+523,46,Male,India,85677,Algorithms in Python,Thomas H. Cormen,16,71.87,33.09,1149.92,529.44,620.48,53.96
+524,43,Female,USA,22659,Competitive Programming Algorithms,Aditya Bhargava,14,25.12,10.65,351.68,149.1,202.58,57.6
+525,27,Male,Canada,106516,Machine Learning Algorithms Explained,Narasimha Karumanchi,9,43.29,23.48,389.61,211.32,178.29,45.76
+526,43,Female,India,94567,Algorithms Illuminated,Steven Halim,11,69.2,27.89,761.2,306.79,454.41,59.7
+527,51,Female,Australia,35037,Advanced Algorithms,Tim Roughgarden,3,51.02,21.71,153.06,65.13,87.93,57.45
+528,58,Male,Australia,66738,Advanced Algorithms,Tim Roughgarden,5,38.18,24.52,190.9,122.6,68.3,35.78
+529,24,Male,India,91678,Data Structures and Algorithms Made Easy,Robert Sedgewick,10,70.41,44.46,704.1,444.6,259.5,36.86
+530,21,Female,Australia,32109,Algorithms in Python,Steven Halim,13,52.28,35.27,679.64,458.51,221.13,32.54
+531,62,Female,Germany,42010,Grokking Algorithms,Thomas H. Cormen,4,45.81,30.07,183.24,120.28,62.96,34.36
+532,28,Female,UK,28787,The Algorithm Design Manual,Steven Skiena,13,66.4,40.17,863.2,522.21,340.99,39.5
+533,46,Male,USA,28472,The Algorithm Design Manual,Chris Albon,12,33.33,13.86,399.96,166.32,233.64,58.42
+534,53,Female,UK,43383,Data Structures and Algorithms Made Easy,Tim Roughgarden,5,112.77,71.59,563.85,357.95,205.9,36.52
+535,42,Male,USA,81709,Grokking Algorithms,Narasimha Karumanchi,10,106.77,69.79,1067.7,697.9,369.8,34.64
+536,38,Female,USA,89785,Data Structures and Algorithms Made Easy,Chris Albon,9,90.76,58.06,816.84,522.54,294.3,36.03
+537,53,Female,UK,54518,The Algorithm Design Manual,Steven Halim,7,30.62,16.92,214.34,118.44,95.9,44.74
+538,27,Male,India,73909,Grokking Algorithms,Chris Albon,2,97.59,45.85,195.18,91.7,103.48,53.02
+539,54,Female,USA,38351,Competitive Programming Algorithms,Aditya Bhargava,7,100.8,65.88,705.6,461.16,244.44,34.64
+540,26,Male,UK,89624,Algorithms in Python,Tim Roughgarden,8,96.78,59.82,774.24,478.56,295.68,38.19
+541,41,Male,USA,73330,Advanced Algorithms,Chris Albon,7,31.4,21.8,219.8,152.6,67.2,30.57
+542,52,Female,Canada,35282,Machine Learning Algorithms Explained,Steven Skiena,14,84.39,37.7,1181.46,527.8,653.66,55.33
+543,52,Male,India,104866,Algorithms Unlocked,Steven Skiena,19,103.43,48.37,1965.17,919.03,1046.14,53.23
+544,53,Male,Germany,41778,Algorithms in Python,Tim Roughgarden,5,77.74,36.04,388.7,180.2,208.5,53.64
+545,35,Female,USA,44264,Competitive Programming Algorithms,Magnus Lie Hetland,18,84.64,53.98,1523.52,971.64,551.88,36.22
+546,56,Male,Canada,79675,The Algorithm Design Manual,Steven Skiena,12,65.84,30.03,790.08,360.36,429.72,54.39
+547,49,Male,Germany,25075,Competitive Programming Algorithms,Chris Albon,17,72.87,30.61,1238.79,520.37,718.42,57.99
+548,41,Male,Germany,95948,Data Structures and Algorithms Made Easy,Thomas H. Cormen,13,23.44,16.4,304.72,213.2,91.52,30.03
+549,40,Female,USA,68454,Grokking Algorithms,Steven Skiena,2,83.9,34.18,167.8,68.36,99.44,59.26
+550,49,Male,UK,48365,Advanced Algorithms,Steven Halim,13,28.14,18.31,365.82,238.03,127.79,34.93
+551,54,Female,USA,92766,Algorithms Illuminated,Magnus Lie Hetland,7,63.5,32.36,444.5,226.52,217.98,49.04
+552,29,Female,Canada,68200,Data Structures and Algorithms Made Easy,Chris Albon,10,49.27,32.15,492.7,321.5,171.2,34.75
+553,30,Male,Germany,31002,Algorithms in Python,Thomas H. Cormen,6,74.54,42.22,447.24,253.32,193.92,43.36
+554,40,Male,USA,33947,Data Structures and Algorithms Made Easy,Robert Sedgewick,3,33.34,22.35,100.02,67.05,32.97,32.96
+555,42,Male,UK,99222,Algorithms in Python,Thomas H. Cormen,3,89.16,60.44,267.48,181.32,86.16,32.21
+556,52,Female,USA,114840,Algorithms Illuminated,Aditya Bhargava,18,99.5,40.07,1791.0,721.26,1069.74,59.73
+557,58,Male,India,98610,Introduction to Algorithms,Robert Sedgewick,11,36.34,15.36,399.74,168.96,230.78,57.73
+558,47,Male,UK,72142,Advanced Algorithms,Aditya Bhargava,5,30.43,14.46,152.15,72.3,79.85,52.48
+559,34,Male,Canada,76307,Machine Learning Algorithms Explained,Robert Sedgewick,19,34.55,20.76,656.45,394.44,262.01,39.91
+560,37,Male,Germany,24493,Machine Learning Algorithms Explained,Robert Sedgewick,19,107.71,71.79,2046.49,1364.01,682.48,33.35
+561,42,Male,USA,70085,Algorithms Unlocked,Thomas H. Cormen,15,72.82,39.18,1092.3,587.7,504.6,46.2
+562,39,Female,UK,54228,Competitive Programming Algorithms,Narasimha Karumanchi,16,66.73,38.84,1067.68,621.44,446.24,41.8
+563,30,Female,India,99676,Introduction to Algorithms,Steven Halim,9,30.67,14.0,276.03,126.0,150.03,54.35
+564,36,Male,UK,71875,Machine Learning Algorithms Explained,Thomas H. Cormen,4,84.96,54.5,339.84,218.0,121.84,35.85
+565,53,Male,Australia,51655,Data Structures and Algorithms Made Easy,Steven Skiena,15,106.8,73.71,1602.0,1105.65,496.35,30.98
+566,29,Male,India,63472,Competitive Programming Algorithms,Chris Albon,12,102.82,49.41,1233.84,592.92,640.92,51.95
+567,58,Male,Canada,69437,Introduction to Algorithms,Magnus Lie Hetland,3,82.61,45.31,247.83,135.93,111.9,45.15
+568,36,Female,Germany,69416,Grokking Algorithms,Steven Halim,14,27.53,11.72,385.42,164.08,221.34,57.43
+569,29,Male,Canada,79711,Grokking Algorithms,Aditya Bhargava,17,31.24,17.74,531.08,301.58,229.5,43.21
+570,26,Female,USA,26816,Competitive Programming Algorithms,Thomas H. Cormen,19,24.93,13.73,473.67,260.87,212.8,44.93
+571,24,Female,UK,97175,Algorithms in Python,Aditya Bhargava,6,45.75,20.28,274.5,121.68,152.82,55.67
+572,45,Male,Australia,84307,Algorithms in Python,Narasimha Karumanchi,4,33.57,17.88,134.28,71.52,62.76,46.74
+573,31,Female,India,66733,Data Structures and Algorithms Made Easy,Magnus Lie Hetland,7,46.0,23.01,322.0,161.07,160.93,49.98
+574,48,Female,India,115028,Introduction to Algorithms,Thomas H. Cormen,19,58.51,32.56,1111.69,618.64,493.05,44.35
+575,36,Female,UK,31240,Introduction to Algorithms,Aditya Bhargava,17,114.3,65.8,1943.1,1118.6,824.5,42.43
+576,64,Female,Australia,118234,Competitive Programming Algorithms,Narasimha Karumanchi,16,81.04,32.62,1296.64,521.92,774.72,59.75
+577,33,Male,UK,112493,The Algorithm Design Manual,Chris Albon,15,103.5,65.03,1552.5,975.45,577.05,37.17
+578,22,Male,USA,118344,Grokking Algorithms,Chris Albon,8,91.04,55.89,728.32,447.12,281.2,38.61
+579,52,Female,Canada,91363,Introduction to Algorithms,Aditya Bhargava,19,31.25,15.93,593.75,302.67,291.08,49.02
+580,29,Male,India,52762,Competitive Programming Algorithms,Steven Halim,8,93.59,38.92,748.72,311.36,437.36,58.41
+581,42,Male,USA,28259,Algorithms Illuminated,Magnus Lie Hetland,18,47.51,29.76,855.18,535.68,319.5,37.36
+582,38,Male,Canada,70139,Algorithms Unlocked,Tim Roughgarden,16,83.91,57.61,1342.56,921.76,420.8,31.34
+583,53,Male,USA,34849,Algorithms Illuminated,Steven Halim,19,54.1,25.54,1027.9,485.26,542.64,52.79
+584,40,Male,Australia,101768,Advanced Algorithms,Chris Albon,10,119.77,59.53,1197.7,595.3,602.4,50.3
+585,33,Female,India,109709,Data Structures and Algorithms Made Easy,Magnus Lie Hetland,17,46.36,21.1,788.12,358.7,429.42,54.49
+586,56,Male,UK,74869,Introduction to Algorithms,Narasimha Karumanchi,13,47.91,27.46,622.83,356.98,265.85,42.68
+587,62,Male,UK,83095,Advanced Algorithms,Thomas H. Cormen,13,113.07,50.48,1469.91,656.24,813.67,55.36
+588,59,Male,Canada,90910,Machine Learning Algorithms Explained,Robert Sedgewick,7,22.46,11.38,157.22,79.66,77.56,49.33
+589,56,Male,Germany,106710,Advanced Algorithms,Aditya Bhargava,10,89.67,54.62,896.7,546.2,350.5,39.09
+590,31,Female,Australia,43567,Competitive Programming Algorithms,Thomas H. Cormen,2,92.53,52.56,185.06,105.12,79.94,43.2
+591,48,Female,Canada,55292,Introduction to Algorithms,Magnus Lie Hetland,4,103.64,53.47,414.56,213.88,200.68,48.41
+592,22,Female,Germany,94813,Algorithms Unlocked,Steven Skiena,6,117.44,61.78,704.64,370.68,333.96,47.39
+593,52,Female,USA,117136,Competitive Programming Algorithms,Narasimha Karumanchi,18,117.56,66.85,2116.08,1203.3,912.78,43.14
+594,40,Male,Australia,71631,Competitive Programming Algorithms,Tim Roughgarden,6,26.53,10.66,159.18,63.96,95.22,59.82
+595,46,Female,USA,29885,Data Structures and Algorithms Made Easy,Robert Sedgewick,17,102.18,43.28,1737.06,735.76,1001.3,57.64
+596,60,Male,India,79659,Data Structures and Algorithms Made Easy,Steven Skiena,14,84.63,56.23,1184.82,787.22,397.6,33.56
+597,28,Male,Australia,74306,Grokking Algorithms,Tim Roughgarden,11,84.73,35.87,932.03,394.57,537.46,57.67
+598,35,Male,Germany,86314,Grokking Algorithms,Thomas H. Cormen,19,32.83,20.09,623.77,381.71,242.06,38.81
+599,64,Male,India,85087,Algorithms in Python,Chris Albon,2,85.02,57.47,170.04,114.94,55.1,32.4
+600,29,Male,UK,49165,The Algorithm Design Manual,Steven Halim,3,118.25,56.9,354.75,170.7,184.05,51.88
+601,26,Female,Germany,78929,Introduction to Algorithms,Aditya Bhargava,11,111.18,56.83,1222.98,625.13,597.85,48.88
+602,27,Female,Canada,87028,Introduction to Algorithms,Thomas H. Cormen,6,63.91,36.47,383.46,218.82,164.64,42.94
+603,61,Female,UK,115998,Advanced Algorithms,Tim Roughgarden,14,23.99,15.94,335.86,223.16,112.7,33.56
+604,34,Female,UK,69812,Introduction to Algorithms,Robert Sedgewick,19,56.23,38.38,1068.37,729.22,339.15,31.74
+605,55,Male,Canada,70500,Introduction to Algorithms,Magnus Lie Hetland,16,102.64,63.83,1642.24,1021.28,620.96,37.81
+606,24,Female,Australia,99151,The Algorithm Design Manual,Chris Albon,7,90.15,38.4,631.05,268.8,362.25,57.4
+607,63,Male,UK,78643,Machine Learning Algorithms Explained,Magnus Lie Hetland,8,65.93,39.61,527.44,316.88,210.56,39.92
+608,30,Female,Germany,64900,Grokking Algorithms,Robert Sedgewick,19,25.51,13.34,484.69,253.46,231.23,47.71
+609,57,Male,India,62946,Grokking Algorithms,Magnus Lie Hetland,16,62.69,33.93,1003.04,542.88,460.16,45.88
+610,59,Male,UK,27851,Algorithms Unlocked,Tim Roughgarden,7,66.9,27.75,468.3,194.25,274.05,58.52
+611,26,Female,Germany,36288,Introduction to Algorithms,Narasimha Karumanchi,9,112.86,51.61,1015.74,464.49,551.25,54.27
+612,44,Male,USA,92692,The Algorithm Design Manual,Magnus Lie Hetland,13,84.11,53.59,1093.43,696.67,396.76,36.29
+613,19,Male,Germany,87580,Grokking Algorithms,Steven Halim,1,51.17,27.44,51.17,27.44,23.73,46.37
+614,22,Female,India,27368,The Algorithm Design Manual,Thomas H. Cormen,8,72.53,35.58,580.24,284.64,295.6,50.94
+615,46,Male,Germany,105436,Algorithms Illuminated,Thomas H. Cormen,4,26.61,13.71,106.44,54.84,51.6,48.48
+616,54,Female,Canada,116136,Machine Learning Algorithms Explained,Tim Roughgarden,3,117.26,76.96,351.78,230.88,120.9,34.37
+617,55,Female,India,66403,Introduction to Algorithms,Steven Skiena,3,56.01,34.99,168.03,104.97,63.06,37.53
+618,36,Female,Australia,111170,Algorithms Unlocked,Robert Sedgewick,13,67.79,32.65,881.27,424.45,456.82,51.84
+619,25,Male,USA,29168,Advanced Algorithms,Chris Albon,8,55.53,24.17,444.24,193.36,250.88,56.47
+620,62,Male,Canada,106497,Grokking Algorithms,Tim Roughgarden,7,88.25,41.97,617.75,293.79,323.96,52.44
+621,18,Male,Australia,69879,Algorithms Illuminated,Narasimha Karumanchi,1,86.22,58.3,86.22,58.3,27.92,32.38
+622,39,Female,Germany,79871,The Algorithm Design Manual,Chris Albon,16,91.53,52.58,1464.48,841.28,623.2,42.55
+623,34,Male,India,109388,Data Structures and Algorithms Made Easy,Steven Halim,6,46.81,26.22,280.86,157.32,123.54,43.99
+624,24,Female,USA,118646,Competitive Programming Algorithms,Robert Sedgewick,7,51.57,29.85,360.99,208.95,152.04,42.12
+625,42,Female,Canada,52174,Introduction to Algorithms,Chris Albon,12,32.53,16.58,390.36,198.96,191.4,49.03
+626,62,Male,Australia,119751,Introduction to Algorithms,Magnus Lie Hetland,9,85.55,54.93,769.95,494.37,275.58,35.79
+627,21,Female,Australia,112491,Algorithms Illuminated,Tim Roughgarden,11,23.98,13.36,263.78,146.96,116.82,44.29
+628,53,Male,USA,26581,The Algorithm Design Manual,Thomas H. Cormen,10,79.77,34.7,797.7,347.0,450.7,56.5
+629,23,Male,Germany,91853,Algorithms in Python,Robert Sedgewick,1,106.97,46.93,106.97,46.93,60.04,56.13
+630,48,Male,USA,84046,Introduction to Algorithms,Aditya Bhargava,18,109.08,61.2,1963.44,1101.6,861.84,43.89
+631,36,Male,Australia,69678,Algorithms in Python,Steven Halim,4,64.9,44.2,259.6,176.8,82.8,31.9
+632,61,Male,UK,46649,Data Structures and Algorithms Made Easy,Thomas H. Cormen,5,65.93,32.47,329.65,162.35,167.3,50.75
+633,56,Female,Canada,108668,Algorithms Illuminated,Robert Sedgewick,9,27.7,18.31,249.3,164.79,84.51,33.9
+634,44,Female,USA,102325,The Algorithm Design Manual,Narasimha Karumanchi,17,87.08,54.79,1480.36,931.43,548.93,37.08
+635,27,Female,Australia,34567,The Algorithm Design Manual,Tim Roughgarden,3,102.13,48.44,306.39,145.32,161.07,52.57
+636,43,Male,Germany,100404,Machine Learning Algorithms Explained,Magnus Lie Hetland,16,44.47,18.27,711.52,292.32,419.2,58.92
+637,36,Male,Australia,109906,Competitive Programming Algorithms,Thomas H. Cormen,5,62.13,26.75,310.65,133.75,176.9,56.95
+638,56,Male,Germany,116019,Grokking Algorithms,Thomas H. Cormen,16,103.88,64.25,1662.08,1028.0,634.08,38.15
+639,20,Female,USA,81944,Grokking Algorithms,Steven Halim,3,107.71,49.54,323.13,148.62,174.51,54.01
+640,62,Male,Germany,98002,Advanced Algorithms,Chris Albon,15,44.32,22.66,664.8,339.9,324.9,48.87
+641,30,Female,India,48803,Algorithms Unlocked,Narasimha Karumanchi,3,75.06,41.32,225.18,123.96,101.22,44.95
+642,45,Female,India,38230,Algorithms Illuminated,Chris Albon,14,39.25,24.24,549.5,339.36,210.14,38.24
+643,37,Male,India,37862,Data Structures and Algorithms Made Easy,Magnus Lie Hetland,16,30.19,13.1,483.04,209.6,273.44,56.61
+644,45,Male,UK,63355,The Algorithm Design Manual,Thomas H. Cormen,17,111.11,57.99,1888.87,985.83,903.04,47.81
+645,25,Female,USA,51259,Competitive Programming Algorithms,Narasimha Karumanchi,18,102.05,55.67,1836.9,1002.06,834.84,45.45
+646,58,Male,Australia,119075,Algorithms in Python,Narasimha Karumanchi,18,96.0,53.98,1728.0,971.64,756.36,43.77
+647,56,Female,Australia,107445,Algorithms Illuminated,Steven Skiena,14,24.88,16.06,348.32,224.84,123.48,35.45
+648,18,Male,UK,50795,Advanced Algorithms,Tim Roughgarden,18,104.37,47.12,1878.66,848.16,1030.5,54.85
+649,20,Male,Germany,28770,Algorithms Illuminated,Thomas H. Cormen,15,63.8,40.98,957.0,614.7,342.3,35.77
+650,30,Female,UK,31093,Advanced Algorithms,Thomas H. Cormen,15,54.24,32.97,813.6,494.55,319.05,39.21
+651,45,Male,Germany,66571,The Algorithm Design Manual,Narasimha Karumanchi,6,74.65,42.31,447.9,253.86,194.04,43.32
+652,42,Female,Germany,20193,Algorithms Unlocked,Chris Albon,15,29.14,17.77,437.1,266.55,170.55,39.02
+653,50,Male,Canada,37569,Advanced Algorithms,Thomas H. Cormen,18,95.66,50.09,1721.88,901.62,820.26,47.64
+654,55,Female,Australia,31190,The Algorithm Design Manual,Narasimha Karumanchi,4,78.24,34.54,312.96,138.16,174.8,55.85
+655,23,Female,India,82824,The Algorithm Design Manual,Thomas H. Cormen,8,38.66,23.19,309.28,185.52,123.76,40.02
+656,61,Male,Germany,62752,Algorithms Unlocked,Narasimha Karumanchi,15,38.82,21.64,582.3,324.6,257.7,44.26
+657,62,Female,Canada,52327,Grokking Algorithms,Steven Skiena,3,38.42,22.74,115.26,68.22,47.04,40.81
+658,49,Male,Australia,62070,Algorithms Illuminated,Tim Roughgarden,15,25.7,12.89,385.5,193.35,192.15,49.84
+659,62,Male,India,105925,Introduction to Algorithms,Narasimha Karumanchi,13,78.78,52.94,1024.14,688.22,335.92,32.8
+660,64,Male,Germany,60197,Introduction to Algorithms,Thomas H. Cormen,9,104.03,59.94,936.27,539.46,396.81,42.38
+661,38,Female,Germany,22261,Algorithms in Python,Magnus Lie Hetland,2,21.75,9.26,43.5,18.52,24.98,57.43
+662,33,Female,UK,113905,Algorithms in Python,Tim Roughgarden,8,24.9,13.32,199.2,106.56,92.64,46.51
+663,38,Male,UK,46512,Introduction to Algorithms,Steven Skiena,17,77.28,48.45,1313.76,823.65,490.11,37.31
+664,28,Male,Australia,26716,Data Structures and Algorithms Made Easy,Narasimha Karumanchi,13,101.95,65.07,1325.35,845.91,479.44,36.17
+665,54,Female,India,106795,Introduction to Algorithms,Magnus Lie Hetland,1,52.67,28.88,52.67,28.88,23.79,45.17
+666,53,Male,Germany,48933,Algorithms in Python,Narasimha Karumanchi,2,54.96,36.74,109.92,73.48,36.44,33.15
+667,52,Male,Australia,24378,Competitive Programming Algorithms,Chris Albon,15,79.63,38.25,1194.45,573.75,620.7,51.97
+668,36,Female,Australia,60583,Algorithms in Python,Thomas H. Cormen,12,47.42,24.81,569.04,297.72,271.32,47.68
+669,37,Male,USA,105371,Data Structures and Algorithms Made Easy,Robert Sedgewick,14,22.66,15.17,317.24,212.38,104.86,33.05
+670,35,Female,UK,49033,Algorithms Illuminated,Steven Halim,2,93.52,62.55,187.04,125.1,61.94,33.12
+671,64,Male,India,44000,Introduction to Algorithms,Thomas H. Cormen,18,82.56,50.01,1486.08,900.18,585.9,39.43
+672,58,Female,Germany,95868,Algorithms Unlocked,Chris Albon,7,78.08,51.35,546.56,359.45,187.11,34.23
+673,31,Male,Australia,62604,Competitive Programming Algorithms,Magnus Lie Hetland,6,94.17,40.18,565.02,241.08,323.94,57.33
+674,32,Male,Germany,88336,The Algorithm Design Manual,Chris Albon,14,87.52,57.72,1225.28,808.08,417.2,34.05
+675,48,Female,USA,115074,Data Structures and Algorithms Made Easy,Aditya Bhargava,8,40.59,20.14,324.72,161.12,163.6,50.38
+676,18,Male,India,115655,Algorithms in Python,Narasimha Karumanchi,2,55.25,25.06,110.5,50.12,60.38,54.64
+677,20,Female,Australia,93869,Algorithms Unlocked,Narasimha Karumanchi,17,32.61,15.39,554.37,261.63,292.74,52.81
+678,33,Male,Germany,25410,Advanced Algorithms,Thomas H. Cormen,5,32.99,17.33,164.95,86.65,78.3,47.47
+679,40,Female,UK,103375,Grokking Algorithms,Thomas H. Cormen,14,87.62,41.65,1226.68,583.1,643.58,52.47
+680,28,Female,USA,76044,Introduction to Algorithms,Aditya Bhargava,3,105.86,52.52,317.58,157.56,160.02,50.39
+681,29,Female,India,83315,Grokking Algorithms,Thomas H. Cormen,5,116.27,51.22,581.35,256.1,325.25,55.95
+682,27,Female,USA,116055,Data Structures and Algorithms Made Easy,Steven Halim,16,82.83,40.49,1325.28,647.84,677.44,51.12
+683,49,Male,UK,91344,Advanced Algorithms,Robert Sedgewick,18,38.41,21.96,691.38,395.28,296.1,42.83
+684,33,Male,India,26796,Advanced Algorithms,Robert Sedgewick,17,30.57,16.28,519.69,276.76,242.93,46.75
+685,25,Female,USA,106716,Advanced Algorithms,Steven Skiena,11,101.29,51.05,1114.19,561.55,552.64,49.6
+686,55,Female,Canada,74245,The Algorithm Design Manual,Steven Skiena,17,77.88,48.59,1323.96,826.03,497.93,37.61
+687,29,Female,UK,63056,Data Structures and Algorithms Made Easy,Thomas H. Cormen,16,81.83,54.67,1309.28,874.72,434.56,33.19
+688,41,Male,UK,37709,Algorithms Illuminated,Steven Skiena,2,98.15,61.54,196.3,123.08,73.22,37.3
+689,45,Male,UK,78557,Grokking Algorithms,Steven Skiena,4,90.33,45.13,361.32,180.52,180.8,50.04
+690,25,Male,Canada,37543,Algorithms Illuminated,Aditya Bhargava,7,103.45,64.48,724.15,451.36,272.79,37.67
+691,45,Male,Canada,57418,Algorithms Unlocked,Aditya Bhargava,2,25.62,11.42,51.24,22.84,28.4,55.43
+692,53,Female,Germany,114611,Machine Learning Algorithms Explained,Steven Skiena,6,94.75,41.6,568.5,249.6,318.9,56.09
+693,43,Female,Australia,116038,Competitive Programming Algorithms,Chris Albon,17,105.09,52.93,1786.53,899.81,886.72,49.63
+694,25,Female,USA,36724,Competitive Programming Algorithms,Tim Roughgarden,7,48.61,31.22,340.27,218.54,121.73,35.77
+695,45,Male,Germany,23828,Algorithms Illuminated,Tim Roughgarden,5,84.04,39.83,420.2,199.15,221.05,52.61
+696,45,Male,USA,37087,Machine Learning Algorithms Explained,Thomas H. Cormen,5,51.42,21.54,257.1,107.7,149.4,58.11
+697,54,Male,Australia,32605,Machine Learning Algorithms Explained,Robert Sedgewick,16,115.8,50.9,1852.8,814.4,1038.4,56.04
+698,58,Female,Canada,51337,Introduction to Algorithms,Thomas H. Cormen,19,23.34,15.35,443.46,291.65,151.81,34.23
+699,53,Female,Australia,25482,Algorithms Unlocked,Thomas H. Cormen,9,77.98,46.02,701.82,414.18,287.64,40.98
+700,44,Male,Canada,85333,Data Structures and Algorithms Made Easy,Steven Skiena,5,36.65,17.44,183.25,87.2,96.05,52.41
+701,34,Female,Australia,112541,Machine Learning Algorithms Explained,Aditya Bhargava,8,91.22,51.68,729.76,413.44,316.32,43.35
+702,26,Male,Germany,108296,Algorithms in Python,Narasimha Karumanchi,9,37.59,20.99,338.31,188.91,149.4,44.16
+703,50,Male,India,70952,Competitive Programming Algorithms,Chris Albon,5,43.54,25.98,217.7,129.9,87.8,40.33
+704,37,Female,Germany,25463,Algorithms in Python,Magnus Lie Hetland,10,69.44,32.63,694.4,326.3,368.1,53.01
+705,30,Male,USA,90448,Algorithms Unlocked,Aditya Bhargava,2,111.48,73.5,222.96,147.0,75.96,34.07
+706,45,Female,Germany,24648,Machine Learning Algorithms Explained,Tim Roughgarden,9,41.17,20.29,370.53,182.61,187.92,50.72
+707,46,Male,UK,53623,Grokking Algorithms,Aditya Bhargava,11,34.42,20.94,378.62,230.34,148.28,39.16
+708,30,Female,USA,79156,Competitive Programming Algorithms,Chris Albon,4,95.9,38.82,383.6,155.28,228.32,59.52
+709,63,Female,Australia,55634,Introduction to Algorithms,Thomas H. Cormen,2,70.06,35.86,140.12,71.72,68.4,48.82
+710,52,Female,USA,64602,Introduction to Algorithms,Steven Skiena,6,111.18,56.2,667.08,337.2,329.88,49.45
+711,23,Male,India,69334,Advanced Algorithms,Narasimha Karumanchi,14,34.66,19.52,485.24,273.28,211.96,43.68
+712,35,Male,Canada,88648,The Algorithm Design Manual,Tim Roughgarden,1,84.59,35.68,84.59,35.68,48.91,57.82
+713,22,Female,Australia,42054,Machine Learning Algorithms Explained,Tim Roughgarden,18,43.29,27.58,779.22,496.44,282.78,36.29
+714,64,Female,USA,90028,Algorithms Unlocked,Steven Halim,7,35.68,16.6,249.76,116.2,133.56,53.48
+715,42,Male,Australia,42207,Competitive Programming Algorithms,Robert Sedgewick,1,88.34,53.28,88.34,53.28,35.06,39.69
+716,19,Male,Australia,100650,The Algorithm Design Manual,Thomas H. Cormen,1,79.37,50.87,79.37,50.87,28.5,35.91
+717,27,Male,Australia,119821,Algorithms Unlocked,Tim Roughgarden,1,95.48,54.29,95.48,54.29,41.19,43.14
+718,47,Female,Canada,101554,Algorithms Illuminated,Robert Sedgewick,4,50.95,31.7,203.8,126.8,77.0,37.78
+719,62,Male,Germany,41386,Machine Learning Algorithms Explained,Tim Roughgarden,4,64.8,38.79,259.2,155.16,104.04,40.14
+720,22,Male,Australia,103276,Data Structures and Algorithms Made Easy,Steven Skiena,18,60.55,30.68,1089.9,552.24,537.66,49.33
+721,50,Female,UK,79518,Data Structures and Algorithms Made Easy,Robert Sedgewick,11,118.41,76.1,1302.51,837.1,465.41,35.73
+722,18,Male,India,72781,Machine Learning Algorithms Explained,Chris Albon,1,49.22,24.04,49.22,24.04,25.18,51.16
+723,35,Male,Canada,72780,Advanced Algorithms,Steven Halim,10,49.48,28.27,494.8,282.7,212.1,42.87
+724,49,Male,USA,81440,Advanced Algorithms,Steven Skiena,9,55.45,34.58,499.05,311.22,187.83,37.64
+725,64,Female,Canada,64199,Data Structures and Algorithms Made Easy,Chris Albon,4,76.46,39.28,305.84,157.12,148.72,48.63
+726,28,Female,USA,81035,Grokking Algorithms,Narasimha Karumanchi,6,45.23,22.2,271.38,133.2,138.18,50.92
+727,38,Female,Canada,28210,Competitive Programming Algorithms,Thomas H. Cormen,16,111.53,59.98,1784.48,959.68,824.8,46.22
+728,43,Female,USA,64363,Data Structures and Algorithms Made Easy,Thomas H. Cormen,2,46.57,30.06,93.14,60.12,33.02,35.45
+729,42,Female,Australia,98279,Grokking Algorithms,Magnus Lie Hetland,18,109.58,74.4,1972.44,1339.2,633.24,32.1
+730,39,Female,Germany,80348,The Algorithm Design Manual,Magnus Lie Hetland,10,30.35,17.1,303.5,171.0,132.5,43.66
+731,44,Female,USA,75284,Grokking Algorithms,Robert Sedgewick,17,85.66,51.26,1456.22,871.42,584.8,40.16
+732,30,Male,USA,92124,The Algorithm Design Manual,Thomas H. Cormen,13,110.7,74.28,1439.1,965.64,473.46,32.9
+733,50,Male,UK,88847,Algorithms Unlocked,Robert Sedgewick,18,36.87,15.84,663.66,285.12,378.54,57.04
+734,51,Female,USA,42432,Algorithms in Python,Magnus Lie Hetland,13,116.83,54.87,1518.79,713.31,805.48,53.03
+735,58,Male,UK,84089,Algorithms Unlocked,Narasimha Karumanchi,17,65.29,40.0,1109.93,680.0,429.93,38.73
+736,52,Male,India,75398,Data Structures and Algorithms Made Easy,Tim Roughgarden,5,114.57,74.14,572.85,370.7,202.15,35.29
+737,18,Female,Australia,119291,The Algorithm Design Manual,Chris Albon,11,87.68,57.62,964.48,633.82,330.66,34.28
+738,38,Male,UK,23321,Data Structures and Algorithms Made Easy,Aditya Bhargava,7,50.16,26.31,351.12,184.17,166.95,47.55
+739,23,Male,Germany,101348,Machine Learning Algorithms Explained,Robert Sedgewick,10,38.83,16.57,388.3,165.7,222.6,57.33
+740,45,Male,Australia,57383,Competitive Programming Algorithms,Narasimha Karumanchi,17,50.37,26.76,856.29,454.92,401.37,46.87
+741,34,Male,UK,98682,Introduction to Algorithms,Chris Albon,15,29.3,13.75,439.5,206.25,233.25,53.07
+742,22,Male,Australia,99190,Data Structures and Algorithms Made Easy,Thomas H. Cormen,18,34.39,16.76,619.02,301.68,317.34,51.26
+743,48,Female,Australia,72893,Competitive Programming Algorithms,Tim Roughgarden,19,30.47,19.25,578.93,365.75,213.18,36.82
+744,22,Female,Australia,55820,Grokking Algorithms,Chris Albon,2,62.29,26.33,124.58,52.66,71.92,57.73
+745,55,Female,India,86262,Algorithms Unlocked,Steven Halim,4,99.56,64.54,398.24,258.16,140.08,35.17
+746,20,Male,Germany,23760,Grokking Algorithms,Magnus Lie Hetland,3,34.14,18.04,102.42,54.12,48.3,47.16
+747,40,Female,Canada,42190,Introduction to Algorithms,Chris Albon,7,33.03,19.12,231.21,133.84,97.37,42.11
+748,54,Male,Canada,87411,The Algorithm Design Manual,Aditya Bhargava,18,84.34,36.0,1518.12,648.0,870.12,57.32
+749,54,Male,UK,43377,Machine Learning Algorithms Explained,Narasimha Karumanchi,10,39.72,19.91,397.2,199.1,198.1,49.87
+750,27,Male,Australia,66737,Competitive Programming Algorithms,Tim Roughgarden,7,29.76,12.7,208.32,88.9,119.42,57.33
+751,27,Male,UK,89569,Machine Learning Algorithms Explained,Steven Skiena,8,36.68,25.25,293.44,202.0,91.44,31.16
+752,36,Female,India,58211,Algorithms in Python,Chris Albon,6,112.37,72.16,674.22,432.96,241.26,35.78
+753,34,Female,India,102909,Data Structures and Algorithms Made Easy,Thomas H. Cormen,1,102.15,54.95,102.15,54.95,47.2,46.21
+754,38,Male,USA,23744,The Algorithm Design Manual,Aditya Bhargava,4,55.41,25.88,221.64,103.52,118.12,53.29
+755,31,Female,India,44995,Algorithms in Python,Aditya Bhargava,14,85.58,58.2,1198.12,814.8,383.32,31.99
+756,26,Male,USA,36977,Algorithms Illuminated,Thomas H. Cormen,17,73.73,37.11,1253.41,630.87,622.54,49.67
+757,63,Female,Germany,117938,Data Structures and Algorithms Made Easy,Steven Halim,18,87.71,39.32,1578.78,707.76,871.02,55.17
+758,18,Female,UK,54542,Grokking Algorithms,Steven Skiena,11,88.27,50.22,970.97,552.42,418.55,43.11
+759,62,Male,Germany,30651,Algorithms Unlocked,Magnus Lie Hetland,14,82.87,56.61,1160.18,792.54,367.64,31.69
+760,30,Female,India,119239,Competitive Programming Algorithms,Narasimha Karumanchi,9,46.61,18.7,419.49,168.3,251.19,59.88
+761,21,Male,Germany,98931,Introduction to Algorithms,Tim Roughgarden,15,23.9,11.27,358.5,169.05,189.45,52.85
+762,18,Female,Germany,115344,Introduction to Algorithms,Narasimha Karumanchi,12,65.56,44.68,786.72,536.16,250.56,31.85
+763,57,Male,Germany,36715,Grokking Algorithms,Steven Skiena,10,109.1,49.24,1091.0,492.4,598.6,54.87
+764,49,Male,India,64409,Advanced Algorithms,Narasimha Karumanchi,19,76.95,33.39,1462.05,634.41,827.64,56.61
+765,51,Female,Australia,44306,Introduction to Algorithms,Thomas H. Cormen,19,103.24,58.96,1961.56,1120.24,841.32,42.89
+766,45,Female,Germany,39086,Competitive Programming Algorithms,Aditya Bhargava,6,119.16,78.47,714.96,470.82,244.14,34.15
+767,48,Male,USA,34376,Grokking Algorithms,Narasimha Karumanchi,6,36.36,19.75,218.16,118.5,99.66,45.68
+768,25,Female,India,81350,The Algorithm Design Manual,Robert Sedgewick,8,89.18,62.28,713.44,498.24,215.2,30.16
+769,56,Female,Germany,91425,Introduction to Algorithms,Chris Albon,1,87.43,52.79,87.43,52.79,34.64,39.62
+770,43,Male,Australia,56636,Machine Learning Algorithms Explained,Steven Skiena,17,118.0,49.82,2006.0,846.94,1159.06,57.78
+771,51,Male,India,106120,Grokking Algorithms,Steven Halim,17,118.56,82.74,2015.52,1406.58,608.94,30.21
+772,20,Female,Canada,71649,Competitive Programming Algorithms,Robert Sedgewick,15,88.67,46.32,1330.05,694.8,635.25,47.76
+773,29,Male,Australia,54610,Machine Learning Algorithms Explained,Thomas H. Cormen,7,44.36,21.57,310.52,150.99,159.53,51.38
+774,18,Male,USA,30058,Data Structures and Algorithms Made Easy,Thomas H. Cormen,19,99.86,56.66,1897.34,1076.54,820.8,43.26
+775,61,Male,Germany,94637,Data Structures and Algorithms Made Easy,Thomas H. Cormen,3,30.7,15.08,92.1,45.24,46.86,50.88
+776,22,Female,Canada,98033,Introduction to Algorithms,Steven Halim,11,98.07,41.77,1078.77,459.47,619.3,57.41
+777,47,Female,Canada,90194,Machine Learning Algorithms Explained,Steven Halim,19,111.02,44.46,2109.38,844.74,1264.64,59.95
+778,47,Male,India,96917,Algorithms Unlocked,Robert Sedgewick,9,58.28,31.17,524.52,280.53,243.99,46.52
+779,34,Female,Canada,84200,Data Structures and Algorithms Made Easy,Chris Albon,10,83.06,54.08,830.6,540.8,289.8,34.89
+780,64,Male,USA,66619,Algorithms Unlocked,Steven Skiena,2,63.01,36.02,126.02,72.04,53.98,42.83
+781,40,Female,USA,37154,The Algorithm Design Manual,Magnus Lie Hetland,1,63.78,44.63,63.78,44.63,19.15,30.03
+782,32,Male,UK,39539,Grokking Algorithms,Aditya Bhargava,16,51.04,24.81,816.64,396.96,419.68,51.39
+783,54,Male,USA,80058,Algorithms in Python,Robert Sedgewick,18,96.21,46.58,1731.78,838.44,893.34,51.59
+784,38,Female,Australia,82068,Competitive Programming Algorithms,Steven Halim,17,113.62,50.89,1931.54,865.13,1066.41,55.21
+785,31,Male,Canada,97313,Grokking Algorithms,Thomas H. Cormen,6,114.08,51.25,684.48,307.5,376.98,55.08
+786,19,Female,USA,119932,Competitive Programming Algorithms,Tim Roughgarden,14,37.48,18.2,524.72,254.8,269.92,51.44
+787,28,Female,India,50373,Machine Learning Algorithms Explained,Steven Halim,15,107.47,68.55,1612.05,1028.25,583.8,36.21
+788,56,Male,UK,53154,The Algorithm Design Manual,Chris Albon,14,93.74,62.97,1312.36,881.58,430.78,32.82
+789,55,Male,Canada,26031,Algorithms Illuminated,Chris Albon,3,45.28,31.36,135.84,94.08,41.76,30.74
+790,51,Female,UK,113533,Introduction to Algorithms,Steven Halim,19,26.73,12.55,507.87,238.45,269.42,53.05
+791,55,Male,Canada,91975,Competitive Programming Algorithms,Chris Albon,12,46.8,31.09,561.6,373.08,188.52,33.57
+792,51,Male,India,42785,Competitive Programming Algorithms,Robert Sedgewick,2,111.22,55.44,222.44,110.88,111.56,50.15
+793,35,Male,UK,98928,Machine Learning Algorithms Explained,Steven Halim,3,83.32,36.15,249.96,108.45,141.51,56.61
+794,47,Male,Germany,48669,Algorithms Unlocked,Steven Halim,18,92.11,60.89,1657.98,1096.02,561.96,33.89
+795,32,Male,Australia,114475,Grokking Algorithms,Steven Skiena,1,45.72,27.01,45.72,27.01,18.71,40.92
+796,44,Female,Australia,22282,Algorithms Illuminated,Aditya Bhargava,6,91.94,41.32,551.64,247.92,303.72,55.06
+797,51,Female,Canada,54624,Advanced Algorithms,Thomas H. Cormen,5,22.81,12.07,114.05,60.35,53.7,47.08
+798,55,Male,Germany,68438,Introduction to Algorithms,Chris Albon,1,57.53,27.97,57.53,27.97,29.56,51.38
+799,50,Male,UK,109900,Algorithms in Python,Steven Skiena,19,82.68,51.35,1570.92,975.65,595.27,37.89
+800,41,Male,Germany,87534,Advanced Algorithms,Magnus Lie Hetland,1,34.61,18.55,34.61,18.55,16.06,46.4
+801,32,Female,Germany,51705,Grokking Algorithms,Magnus Lie Hetland,16,102.3,71.28,1636.8,1140.48,496.32,30.32
+802,47,Male,UK,58244,Introduction to Algorithms,Narasimha Karumanchi,12,43.5,18.11,522.0,217.32,304.68,58.37
+803,59,Female,India,94964,Competitive Programming Algorithms,Robert Sedgewick,8,85.23,43.17,681.84,345.36,336.48,49.35
+804,34,Female,Germany,57437,Algorithms in Python,Robert Sedgewick,16,60.52,32.96,968.32,527.36,440.96,45.54
+805,22,Female,Germany,97872,Algorithms Unlocked,Thomas H. Cormen,1,79.6,43.85,79.6,43.85,35.75,44.91
+806,46,Male,India,94878,Algorithms Illuminated,Thomas H. Cormen,4,30.75,15.21,123.0,60.84,62.16,50.54
+807,21,Female,Germany,92982,Algorithms Unlocked,Steven Halim,10,21.69,13.42,216.9,134.2,82.7,38.13
+808,27,Male,Germany,70583,The Algorithm Design Manual,Chris Albon,11,110.96,73.5,1220.56,808.5,412.06,33.76
+809,34,Female,Germany,58392,Machine Learning Algorithms Explained,Thomas H. Cormen,17,46.96,32.01,798.32,544.17,254.15,31.84
+810,27,Male,Australia,27461,Introduction to Algorithms,Narasimha Karumanchi,7,101.97,65.42,713.79,457.94,255.85,35.84
+811,34,Female,USA,30516,Algorithms Unlocked,Thomas H. Cormen,12,119.94,78.58,1439.28,942.96,496.32,34.48
+812,37,Male,India,99285,Advanced Algorithms,Steven Skiena,7,41.14,23.25,287.98,162.75,125.23,43.49
+813,41,Female,Germany,37514,Machine Learning Algorithms Explained,Thomas H. Cormen,12,46.52,30.13,558.24,361.56,196.68,35.23
+814,22,Male,Australia,56268,Algorithms Unlocked,Steven Skiena,15,86.29,42.37,1294.35,635.55,658.8,50.9
+815,51,Male,India,110486,Data Structures and Algorithms Made Easy,Magnus Lie Hetland,2,116.54,60.55,233.08,121.1,111.98,48.04
+816,23,Male,Canada,56788,The Algorithm Design Manual,Chris Albon,14,111.58,55.24,1562.12,773.36,788.76,50.49
+817,19,Male,Canada,95749,Grokking Algorithms,Narasimha Karumanchi,13,70.29,37.97,913.77,493.61,420.16,45.98
+818,30,Female,Germany,81049,Algorithms Illuminated,Steven Halim,4,99.51,48.33,398.04,193.32,204.72,51.43
+819,60,Female,Australia,82493,The Algorithm Design Manual,Chris Albon,14,33.57,23.11,469.98,323.54,146.44,31.16
+820,60,Male,Australia,56027,Machine Learning Algorithms Explained,Aditya Bhargava,14,117.74,58.15,1648.36,814.1,834.26,50.61
+821,28,Female,India,113547,Data Structures and Algorithms Made Easy,Robert Sedgewick,16,116.44,50.0,1863.04,800.0,1063.04,57.06
+822,64,Male,India,62849,Introduction to Algorithms,Narasimha Karumanchi,7,36.37,20.3,254.59,142.1,112.49,44.18
+823,40,Male,Australia,37858,Advanced Algorithms,Thomas H. Cormen,19,49.94,20.83,948.86,395.77,553.09,58.29
+824,33,Female,India,104162,Algorithms Illuminated,Chris Albon,2,30.02,13.0,60.04,26.0,34.04,56.7
+825,48,Male,Australia,99003,Algorithms Illuminated,Tim Roughgarden,10,47.17,21.97,471.7,219.7,252.0,53.42
+826,28,Male,USA,72395,The Algorithm Design Manual,Robert Sedgewick,18,101.6,54.79,1828.8,986.22,842.58,46.07
+827,33,Female,Australia,59758,Machine Learning Algorithms Explained,Robert Sedgewick,17,57.83,30.65,983.11,521.05,462.06,47.0
+828,25,Male,Canada,74312,Introduction to Algorithms,Tim Roughgarden,5,28.84,18.45,144.2,92.25,51.95,36.03
+829,21,Male,India,88670,Competitive Programming Algorithms,Thomas H. Cormen,12,54.22,33.72,650.64,404.64,246.0,37.81
+830,57,Male,Australia,102279,Data Structures and Algorithms Made Easy,Thomas H. Cormen,6,118.14,62.37,708.84,374.22,334.62,47.21
+831,21,Male,Australia,35434,Competitive Programming Algorithms,Tim Roughgarden,9,82.97,41.49,746.73,373.41,373.32,49.99
+832,42,Female,India,84047,Advanced Algorithms,Aditya Bhargava,1,61.62,30.5,61.62,30.5,31.12,50.5
+833,20,Female,USA,67775,Introduction to Algorithms,Magnus Lie Hetland,15,36.65,23.17,549.75,347.55,202.2,36.78
+834,49,Female,USA,95769,Introduction to Algorithms,Tim Roughgarden,6,118.62,49.3,711.72,295.8,415.92,58.44
+835,20,Male,India,86677,Data Structures and Algorithms Made Easy,Magnus Lie Hetland,19,102.08,41.22,1939.52,783.18,1156.34,59.62
+836,44,Male,UK,103555,Algorithms in Python,Chris Albon,18,48.15,30.75,866.7,553.5,313.2,36.14
+837,46,Female,India,105920,Competitive Programming Algorithms,Aditya Bhargava,6,27.01,14.67,162.06,88.02,74.04,45.69
+838,49,Male,India,65734,Algorithms Unlocked,Narasimha Karumanchi,13,25.66,11.27,333.58,146.51,187.07,56.08
+839,36,Male,USA,108503,Algorithms Illuminated,Magnus Lie Hetland,1,32.04,15.08,32.04,15.08,16.96,52.93
+840,38,Male,USA,60603,Algorithms in Python,Robert Sedgewick,13,78.08,53.07,1015.04,689.91,325.13,32.03
+841,22,Male,India,96708,Algorithms Unlocked,Chris Albon,7,112.88,74.26,790.16,519.82,270.34,34.21
+842,35,Female,India,101926,Machine Learning Algorithms Explained,Robert Sedgewick,15,69.67,42.7,1045.05,640.5,404.55,38.71
+843,45,Female,India,88803,Data Structures and Algorithms Made Easy,Aditya Bhargava,12,104.29,56.8,1251.48,681.6,569.88,45.54
+844,59,Female,USA,59332,Machine Learning Algorithms Explained,Magnus Lie Hetland,1,64.59,35.92,64.59,35.92,28.67,44.39
+845,39,Male,India,111703,Algorithms Illuminated,Steven Skiena,15,90.86,62.93,1362.9,943.95,418.95,30.74
+846,38,Female,India,41312,Grokking Algorithms,Aditya Bhargava,4,93.19,64.28,372.76,257.12,115.64,31.02
+847,23,Female,Germany,113376,Algorithms Unlocked,Aditya Bhargava,13,37.4,17.38,486.2,225.94,260.26,53.53
+848,18,Male,UK,104526,Algorithms in Python,Steven Skiena,5,56.12,36.1,280.6,180.5,100.1,35.67
+849,22,Male,Canada,64179,Algorithms Unlocked,Chris Albon,2,83.73,38.45,167.46,76.9,90.56,54.08
+850,58,Female,UK,91442,Algorithms Unlocked,Magnus Lie Hetland,1,27.07,12.56,27.07,12.56,14.51,53.6
+851,29,Female,Germany,60379,Data Structures and Algorithms Made Easy,Magnus Lie Hetland,16,56.15,33.85,898.4,541.6,356.8,39.72
+852,43,Female,Canada,37297,Machine Learning Algorithms Explained,Robert Sedgewick,6,73.48,38.32,440.88,229.92,210.96,47.85
+853,63,Female,India,22011,Competitive Programming Algorithms,Aditya Bhargava,16,119.62,81.28,1913.92,1300.48,613.44,32.05
+854,51,Male,Germany,64014,Grokking Algorithms,Aditya Bhargava,14,67.45,28.78,944.3,402.92,541.38,57.33
+855,31,Female,India,31738,Data Structures and Algorithms Made Easy,Steven Halim,3,101.61,56.24,304.83,168.72,136.11,44.65
+856,43,Female,USA,114333,Advanced Algorithms,Narasimha Karumanchi,15,63.21,42.7,948.15,640.5,307.65,32.45
+857,62,Male,Australia,67498,Data Structures and Algorithms Made Easy,Aditya Bhargava,3,99.64,66.88,298.92,200.64,98.28,32.88
+858,44,Female,Germany,31120,Algorithms Illuminated,Thomas H. Cormen,2,79.54,35.55,159.08,71.1,87.98,55.31
+859,26,Male,USA,28767,Grokking Algorithms,Narasimha Karumanchi,1,108.66,55.42,108.66,55.42,53.24,49.0
+860,43,Male,Germany,42852,Introduction to Algorithms,Thomas H. Cormen,9,61.09,35.78,549.81,322.02,227.79,41.43
+861,64,Male,Germany,99239,Advanced Algorithms,Magnus Lie Hetland,9,80.43,36.02,723.87,324.18,399.69,55.22
+862,39,Female,USA,20929,The Algorithm Design Manual,Narasimha Karumanchi,7,83.0,57.3,581.0,401.1,179.9,30.96
+863,64,Female,Canada,97487,Data Structures and Algorithms Made Easy,Aditya Bhargava,3,61.74,41.64,185.22,124.92,60.3,32.56
+864,47,Male,UK,111575,Algorithms Unlocked,Steven Skiena,18,34.43,15.5,619.74,279.0,340.74,54.98
+865,60,Female,India,115040,Competitive Programming Algorithms,Robert Sedgewick,11,29.36,12.81,322.96,140.91,182.05,56.37
+866,34,Female,Germany,37438,Introduction to Algorithms,Thomas H. Cormen,7,21.67,9.22,151.69,64.54,87.15,57.45
+867,43,Male,India,68515,Data Structures and Algorithms Made Easy,Narasimha Karumanchi,9,107.35,72.23,966.15,650.07,316.08,32.72
+868,53,Male,Australia,25744,Data Structures and Algorithms Made Easy,Aditya Bhargava,1,43.65,20.0,43.65,20.0,23.65,54.18
+869,18,Female,USA,103820,Algorithms in Python,Narasimha Karumanchi,14,41.15,21.6,576.1,302.4,273.7,47.51
+870,25,Male,India,62417,Algorithms in Python,Aditya Bhargava,6,93.6,50.04,561.6,300.24,261.36,46.54
+871,52,Female,USA,27069,Introduction to Algorithms,Aditya Bhargava,7,52.0,30.14,364.0,210.98,153.02,42.04
+872,32,Female,India,62359,Machine Learning Algorithms Explained,Aditya Bhargava,10,70.6,29.76,706.0,297.6,408.4,57.85
+873,64,Female,UK,39799,Algorithms in Python,Steven Halim,7,36.25,16.97,253.75,118.79,134.96,53.19
+874,39,Female,UK,118746,Algorithms Unlocked,Robert Sedgewick,2,115.97,78.8,231.94,157.6,74.34,32.05
+875,31,Male,UK,113762,Advanced Algorithms,Steven Skiena,4,105.16,70.72,420.64,282.88,137.76,32.75
+876,43,Male,UK,90188,The Algorithm Design Manual,Steven Skiena,17,106.38,67.49,1808.46,1147.33,661.13,36.56
+877,45,Male,UK,109859,Grokking Algorithms,Narasimha Karumanchi,1,60.68,24.63,60.68,24.63,36.05,59.41
+878,40,Male,UK,27597,The Algorithm Design Manual,Narasimha Karumanchi,10,96.24,47.94,962.4,479.4,483.0,50.19
+879,31,Female,USA,67093,The Algorithm Design Manual,Aditya Bhargava,19,34.39,20.23,653.41,384.37,269.04,41.17
+880,41,Female,Germany,57226,Grokking Algorithms,Steven Halim,15,20.86,10.07,312.9,151.05,161.85,51.73
+881,19,Male,India,92127,Algorithms in Python,Aditya Bhargava,10,22.0,14.8,220.0,148.0,72.0,32.73
+882,62,Female,UK,111369,Introduction to Algorithms,Steven Halim,19,78.66,46.42,1494.54,881.98,612.56,40.99
+883,43,Female,USA,97362,Grokking Algorithms,Aditya Bhargava,12,65.54,27.63,786.48,331.56,454.92,57.84
+884,31,Female,USA,46417,Algorithms Illuminated,Thomas H. Cormen,16,71.8,48.3,1148.8,772.8,376.0,32.73
+885,24,Male,USA,38693,Machine Learning Algorithms Explained,Thomas H. Cormen,9,20.75,14.26,186.75,128.34,58.41,31.28
+886,20,Male,Germany,99674,Advanced Algorithms,Magnus Lie Hetland,15,62.27,26.36,934.05,395.4,538.65,57.67
+887,64,Male,India,73161,Competitive Programming Algorithms,Aditya Bhargava,17,91.81,51.39,1560.77,873.63,687.14,44.03
+888,40,Female,Germany,22169,Algorithms in Python,Robert Sedgewick,14,64.27,31.56,899.78,441.84,457.94,50.89
+889,63,Male,Canada,104092,Machine Learning Algorithms Explained,Magnus Lie Hetland,18,93.22,48.27,1677.96,868.86,809.1,48.22
+890,60,Male,USA,42052,Grokking Algorithms,Narasimha Karumanchi,2,43.3,19.65,86.6,39.3,47.3,54.62
+891,64,Male,Canada,91849,Algorithms Illuminated,Chris Albon,4,101.31,58.09,405.24,232.36,172.88,42.66
+892,62,Male,Australia,93851,Competitive Programming Algorithms,Aditya Bhargava,18,78.84,54.19,1419.12,975.42,443.7,31.27
+893,35,Male,UK,28036,Advanced Algorithms,Thomas H. Cormen,7,41.08,22.63,287.56,158.41,129.15,44.91
+894,55,Male,UK,51778,Advanced Algorithms,Chris Albon,13,43.67,18.55,567.71,241.15,326.56,57.52
+895,52,Female,Germany,47734,Algorithms in Python,Steven Halim,15,82.8,48.52,1242.0,727.8,514.2,41.4
+896,32,Female,India,43173,Grokking Algorithms,Chris Albon,1,102.99,51.71,102.99,51.71,51.28,49.79
+897,42,Male,Canada,50403,Machine Learning Algorithms Explained,Robert Sedgewick,11,61.56,40.43,677.16,444.73,232.43,34.32
+898,54,Male,India,86321,Introduction to Algorithms,Aditya Bhargava,10,45.83,24.31,458.3,243.1,215.2,46.96
+899,45,Female,Germany,91675,Machine Learning Algorithms Explained,Steven Skiena,5,106.7,48.85,533.5,244.25,289.25,54.22
+900,27,Female,UK,26344,Machine Learning Algorithms Explained,Chris Albon,16,86.93,39.76,1390.88,636.16,754.72,54.26
+901,56,Male,India,38800,Advanced Algorithms,Steven Skiena,11,64.81,40.87,712.91,449.57,263.34,36.94
+902,34,Male,India,45372,Introduction to Algorithms,Steven Halim,6,68.79,33.0,412.74,198.0,214.74,52.03
+903,56,Male,UK,81516,Introduction to Algorithms,Magnus Lie Hetland,9,40.43,25.48,363.87,229.32,134.55,36.98
+904,39,Male,Canada,40538,Algorithms in Python,Steven Skiena,13,82.68,38.18,1074.84,496.34,578.5,53.82
+905,43,Female,UK,83918,Competitive Programming Algorithms,Magnus Lie Hetland,8,55.87,27.74,446.96,221.92,225.04,50.35
+906,61,Male,India,34973,Data Structures and Algorithms Made Easy,Thomas H. Cormen,14,119.56,64.52,1673.84,903.28,770.56,46.04
+907,42,Male,Canada,91155,The Algorithm Design Manual,Aditya Bhargava,1,68.02,46.45,68.02,46.45,21.57,31.71
+908,34,Male,Canada,79500,The Algorithm Design Manual,Chris Albon,17,68.59,46.61,1166.03,792.37,373.66,32.05
+909,30,Male,UK,56575,Advanced Algorithms,Thomas H. Cormen,5,76.59,35.39,382.95,176.95,206.0,53.79
+910,37,Female,India,62261,Data Structures and Algorithms Made Easy,Thomas H. Cormen,2,111.68,56.67,223.36,113.34,110.02,49.26
+911,42,Female,Germany,47716,Competitive Programming Algorithms,Tim Roughgarden,9,100.08,44.52,900.72,400.68,500.04,55.52
+912,21,Female,India,23236,Data Structures and Algorithms Made Easy,Thomas H. Cormen,4,65.11,36.01,260.44,144.04,116.4,44.69
+913,27,Male,USA,35848,Algorithms in Python,Robert Sedgewick,17,91.87,49.44,1561.79,840.48,721.31,46.18
+914,20,Male,Australia,22352,Machine Learning Algorithms Explained,Magnus Lie Hetland,17,78.62,52.69,1336.54,895.73,440.81,32.98
+915,58,Female,Germany,21932,Advanced Algorithms,Tim Roughgarden,18,69.24,47.01,1246.32,846.18,400.14,32.11
+916,62,Male,Canada,96449,Introduction to Algorithms,Thomas H. Cormen,16,39.23,20.21,627.68,323.36,304.32,48.48
+917,35,Male,Germany,28556,Advanced Algorithms,Robert Sedgewick,8,66.39,36.35,531.12,290.8,240.32,45.25
+918,64,Female,Canada,106836,The Algorithm Design Manual,Magnus Lie Hetland,11,44.58,29.82,490.38,328.02,162.36,33.11
+919,53,Female,Canada,25498,Competitive Programming Algorithms,Aditya Bhargava,18,111.48,71.57,2006.64,1288.26,718.38,35.8
+920,64,Female,Germany,96118,Data Structures and Algorithms Made Easy,Robert Sedgewick,10,53.54,21.47,535.4,214.7,320.7,59.9
+921,39,Female,Canada,70098,Competitive Programming Algorithms,Chris Albon,13,115.23,57.16,1497.99,743.08,754.91,50.39
+922,51,Male,Canada,84386,Algorithms in Python,Thomas H. Cormen,17,73.31,38.6,1246.27,656.2,590.07,47.35
+923,64,Male,USA,29569,Advanced Algorithms,Thomas H. Cormen,18,83.15,38.99,1496.7,701.82,794.88,53.11
+924,25,Female,India,76882,Grokking Algorithms,Thomas H. Cormen,10,74.29,34.16,742.9,341.6,401.3,54.02
+925,57,Male,India,90393,Advanced Algorithms,Thomas H. Cormen,16,32.94,13.55,527.04,216.8,310.24,58.86
+926,61,Female,Australia,20340,Introduction to Algorithms,Magnus Lie Hetland,5,57.58,34.15,287.9,170.75,117.15,40.69
+927,36,Female,Australia,63949,Advanced Algorithms,Chris Albon,13,29.91,14.32,388.83,186.16,202.67,52.12
+928,59,Male,USA,102302,Algorithms Illuminated,Robert Sedgewick,18,82.3,34.21,1481.4,615.78,865.62,58.43
+929,58,Female,Australia,82443,Algorithms in Python,Thomas H. Cormen,17,64.69,30.36,1099.73,516.12,583.61,53.07
+930,54,Male,Germany,111668,Algorithms Unlocked,Chris Albon,9,97.8,62.65,880.2,563.85,316.35,35.94
+931,23,Male,UK,94027,Algorithms in Python,Tim Roughgarden,14,42.05,27.56,588.7,385.84,202.86,34.46
+932,43,Male,UK,20138,Data Structures and Algorithms Made Easy,Aditya Bhargava,17,36.46,19.87,619.82,337.79,282.03,45.5
+933,51,Male,UK,20358,Algorithms Unlocked,Steven Skiena,4,60.63,31.82,242.52,127.28,115.24,47.52
+934,62,Female,USA,95250,Data Structures and Algorithms Made Easy,Chris Albon,18,112.66,78.11,2027.88,1405.98,621.9,30.67
+935,23,Male,USA,105376,Data Structures and Algorithms Made Easy,Tim Roughgarden,15,91.04,41.89,1365.6,628.35,737.25,53.99
+936,54,Female,Canada,119931,Introduction to Algorithms,Thomas H. Cormen,11,61.89,28.75,680.79,316.25,364.54,53.55
+937,50,Female,UK,50654,Introduction to Algorithms,Steven Skiena,12,71.73,34.97,860.76,419.64,441.12,51.25
+938,39,Female,Germany,45879,Machine Learning Algorithms Explained,Steven Skiena,9,28.42,12.84,255.78,115.56,140.22,54.82
+939,38,Female,Australia,101532,The Algorithm Design Manual,Chris Albon,13,118.46,60.87,1539.98,791.31,748.67,48.62
+940,23,Male,Germany,75778,Machine Learning Algorithms Explained,Thomas H. Cormen,15,86.64,58.33,1299.6,874.95,424.65,32.68
+941,23,Male,Australia,57772,Machine Learning Algorithms Explained,Narasimha Karumanchi,15,48.54,28.38,728.1,425.7,302.4,41.53
+942,21,Female,UK,78478,The Algorithm Design Manual,Thomas H. Cormen,5,78.58,41.14,392.9,205.7,187.2,47.65
+943,47,Female,UK,84353,Grokking Algorithms,Thomas H. Cormen,19,30.95,21.06,588.05,400.14,187.91,31.95
+944,28,Male,UK,46762,Algorithms Unlocked,Thomas H. Cormen,14,116.58,48.33,1632.12,676.62,955.5,58.54
+945,47,Female,USA,33283,Competitive Programming Algorithms,Narasimha Karumanchi,17,37.48,17.36,637.16,295.12,342.04,53.68
+946,48,Male,Australia,83922,Machine Learning Algorithms Explained,Aditya Bhargava,18,84.8,48.32,1526.4,869.76,656.64,43.02
+947,41,Female,USA,59420,Advanced Algorithms,Narasimha Karumanchi,3,44.55,26.05,133.65,78.15,55.5,41.53
+948,26,Male,USA,75568,Advanced Algorithms,Steven Halim,2,91.76,37.79,183.52,75.58,107.94,58.82
+949,20,Female,India,105090,Data Structures and Algorithms Made Easy,Chris Albon,1,97.68,50.88,97.68,50.88,46.8,47.91
+950,48,Female,Germany,40219,The Algorithm Design Manual,Chris Albon,10,87.34,51.95,873.4,519.5,353.9,40.52
+951,57,Male,Germany,77169,Data Structures and Algorithms Made Easy,Tim Roughgarden,19,81.45,49.64,1547.55,943.16,604.39,39.05
+952,54,Female,Canada,94965,Algorithms Illuminated,Thomas H. Cormen,17,109.25,64.62,1857.25,1098.54,758.71,40.85
+953,53,Female,USA,66840,Algorithms Illuminated,Tim Roughgarden,12,27.86,13.82,334.32,165.84,168.48,50.39
+954,41,Male,Australia,64695,Competitive Programming Algorithms,Steven Halim,1,53.09,22.73,53.09,22.73,30.36,57.19
+955,48,Female,India,104754,Introduction to Algorithms,Narasimha Karumanchi,12,44.83,23.68,537.96,284.16,253.8,47.18
+956,23,Male,India,97988,Introduction to Algorithms,Chris Albon,17,118.8,52.11,2019.6,885.87,1133.73,56.14
+957,19,Male,Germany,78342,The Algorithm Design Manual,Magnus Lie Hetland,3,58.94,40.33,176.82,120.99,55.83,31.57
+958,37,Female,USA,38951,The Algorithm Design Manual,Narasimha Karumanchi,11,93.26,50.6,1025.86,556.6,469.26,45.74
+959,45,Female,Canada,21307,Machine Learning Algorithms Explained,Narasimha Karumanchi,17,88.47,43.81,1503.99,744.77,759.22,50.48
+960,28,Female,USA,100388,Algorithms Illuminated,Steven Halim,3,41.21,25.96,123.63,77.88,45.75,37.01
+961,21,Female,UK,110768,Machine Learning Algorithms Explained,Aditya Bhargava,8,43.9,24.12,351.2,192.96,158.24,45.06
+962,32,Female,USA,55428,Introduction to Algorithms,Thomas H. Cormen,4,48.13,23.73,192.52,94.92,97.6,50.7
+963,23,Female,UK,112021,Algorithms Unlocked,Steven Halim,7,61.11,39.33,427.77,275.31,152.46,35.64
+964,47,Female,UK,95774,Algorithms Unlocked,Thomas H. Cormen,14,43.43,28.67,608.02,401.38,206.64,33.99
+965,55,Male,Canada,58975,The Algorithm Design Manual,Chris Albon,14,21.97,13.22,307.58,185.08,122.5,39.83
+966,19,Female,Australia,21140,Data Structures and Algorithms Made Easy,Steven Halim,4,107.94,44.7,431.76,178.8,252.96,58.59
+967,32,Male,Germany,44842,Introduction to Algorithms,Thomas H. Cormen,16,116.56,66.43,1864.96,1062.88,802.08,43.01
+968,28,Female,USA,46421,Algorithms Unlocked,Tim Roughgarden,1,54.16,34.07,54.16,34.07,20.09,37.09
+969,25,Female,UK,21708,Introduction to Algorithms,Steven Halim,17,53.85,23.75,915.45,403.75,511.7,55.9
+970,43,Male,USA,23630,Algorithms in Python,Chris Albon,10,20.71,9.7,207.1,97.0,110.1,53.16
+971,62,Female,Australia,39595,Advanced Algorithms,Steven Halim,16,88.03,58.52,1408.48,936.32,472.16,33.52
+972,61,Female,Germany,96021,Algorithms Illuminated,Chris Albon,16,102.54,41.63,1640.64,666.08,974.56,59.4
+973,22,Male,Australia,48308,Machine Learning Algorithms Explained,Steven Halim,8,34.66,21.69,277.28,173.52,103.76,37.42
+974,23,Female,Germany,64789,Introduction to Algorithms,Thomas H. Cormen,7,35.97,19.5,251.79,136.5,115.29,45.79
+975,43,Female,India,75690,Advanced Algorithms,Aditya Bhargava,6,99.01,52.87,594.06,317.22,276.84,46.6
+976,21,Female,Germany,46086,Algorithms in Python,Robert Sedgewick,16,81.63,32.83,1306.08,525.28,780.8,59.78
+977,36,Male,Canada,36859,Machine Learning Algorithms Explained,Thomas H. Cormen,16,24.49,15.82,391.84,253.12,138.72,35.4
+978,37,Female,Australia,27684,Introduction to Algorithms,Thomas H. Cormen,7,82.25,41.78,575.75,292.46,283.29,49.2
+979,50,Female,UK,111088,The Algorithm Design Manual,Steven Skiena,9,50.89,28.61,458.01,257.49,200.52,43.78
+980,37,Female,India,21207,Advanced Algorithms,Aditya Bhargava,14,56.87,34.3,796.18,480.2,315.98,39.69
+981,29,Female,Canada,66099,Machine Learning Algorithms Explained,Tim Roughgarden,11,96.97,59.23,1066.67,651.53,415.14,38.92
+982,64,Male,USA,87496,Introduction to Algorithms,Narasimha Karumanchi,14,101.09,69.43,1415.26,972.02,443.24,31.32
+983,18,Male,Australia,86093,Advanced Algorithms,Thomas H. Cormen,7,60.04,33.59,420.28,235.13,185.15,44.05
+984,43,Female,UK,49689,Algorithms in Python,Steven Halim,1,114.72,59.64,114.72,59.64,55.08,48.01
+985,31,Female,Germany,68651,Introduction to Algorithms,Thomas H. Cormen,13,60.65,41.61,788.45,540.93,247.52,31.39
+986,55,Male,UK,33893,Introduction to Algorithms,Magnus Lie Hetland,3,97.18,57.59,291.54,172.77,118.77,40.74
+987,54,Male,USA,117808,Introduction to Algorithms,Aditya Bhargava,4,68.39,33.47,273.56,133.88,139.68,51.06
+988,28,Female,India,86418,Competitive Programming Algorithms,Robert Sedgewick,11,109.75,48.06,1207.25,528.66,678.59,56.21
+989,53,Male,India,80011,The Algorithm Design Manual,Tim Roughgarden,2,110.78,72.31,221.56,144.62,76.94,34.73
+990,30,Female,Australia,58635,Algorithms in Python,Magnus Lie Hetland,14,28.74,14.62,402.36,204.68,197.68,49.13
+991,60,Male,India,76115,Machine Learning Algorithms Explained,Chris Albon,12,113.65,67.98,1363.8,815.76,548.04,40.18
+992,20,Male,Australia,115071,Competitive Programming Algorithms,Magnus Lie Hetland,17,102.55,55.5,1743.35,943.5,799.85,45.88
+993,50,Male,Australia,98405,Data Structures and Algorithms Made Easy,Thomas H. Cormen,12,99.13,45.57,1189.56,546.84,642.72,54.03
+994,23,Male,Australia,92702,Competitive Programming Algorithms,Tim Roughgarden,12,40.09,23.27,481.08,279.24,201.84,41.96
+995,27,Female,Germany,98518,Algorithms Illuminated,Thomas H. Cormen,1,100.51,42.03,100.51,42.03,58.48,58.18
+996,22,Male,Canada,92805,Algorithms Illuminated,Chris Albon,13,105.01,55.03,1365.13,715.39,649.74,47.6
+997,40,Male,Australia,78954,Introduction to Algorithms,Narasimha Karumanchi,14,48.92,27.59,684.88,386.26,298.62,43.6
+998,27,Female,Australia,48064,Competitive Programming Algorithms,Tim Roughgarden,2,115.23,61.17,230.46,122.34,108.12,46.91
+999,61,Male,Canada,99063,Data Structures and Algorithms Made Easy,Narasimha Karumanchi,12,24.99,15.61,299.88,187.32,112.56,37.54
+1000,19,Male,UK,22454,Competitive Programming Algorithms,Aditya Bhargava,16,34.99,22.69,559.84,363.04,196.8,35.15
