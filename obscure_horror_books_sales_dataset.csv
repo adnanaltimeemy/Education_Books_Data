@@ -1,0 +1,501 @@
+Book_Title,Author,Subgenre,Units_Sold,Price,Revenue,Cost_per_Unit,Profit,Profit_Margin_%,Age_Group,Gender,Region,Income_Level,Year
+The Fisherman,John Langan,Lovecraftian,7370,24.91,183586.7,9.3,115045.7,62.67,18-24,Non-binary,Canada,Low,2022
+The Watchers,A.M. Shine,Supernatural Horror,5834,16.15,94219.1,5.49,62190.44,66.01,25-34,Non-binary,UK,High,2025
+Motherthing,Ainslie Hogarth,Psychological Horror,8422,5.51,46405.22,3.79,14485.84,31.22,18-24,Non-binary,Australia,Low,2020
+The Cipher,Kathe Koja,Cosmic Horror,2533,9.55,24190.15,3.57,15147.34,62.62,18-24,Male,USA,High,2024
+These Evil Things We Do,Mick Garris,Anthology Horror,6496,15.8,102636.8,6.58,59893.12,58.35,18-24,Non-binary,USA,High,2025
+Motherthing,Ainslie Hogarth,Psychological Horror,2658,8.49,22566.42,3.54,13157.1,58.3,45-54,Male,Australia,High,2017
+Ghost Summer,Tananarive Due,Southern Gothic,1999,17.86,35702.14,9.59,16531.73,46.3,18-24,Male,Australia,Medium,2017
+Ghost Summer,Tananarive Due,Southern Gothic,3656,20.19,73814.64,7.43,46650.56,63.2,25-34,Male,Canada,Low,2021
+The Fisherman,John Langan,Lovecraftian,5493,28.72,157758.96,19.71,49491.93,31.37,45-54,Male,Canada,Medium,2016
+These Evil Things We Do,Mick Garris,Anthology Horror,7613,7.44,56640.72,4.27,24133.21,42.61,35-44,Male,Australia,High,2021
+The Fisherman,John Langan,Lovecraftian,875,5.86,5127.5,3.89,1723.75,33.62,45-54,Male,Germany,Medium,2018
+These Evil Things We Do,Mick Garris,Anthology Horror,1685,21.56,36328.6,9.16,20894.0,57.51,35-44,Non-binary,USA,High,2020
+The Fisherman,John Langan,Lovecraftian,3943,9.62,37931.66,6.62,11829.0,31.19,18-24,Non-binary,USA,Medium,2024
+The Fisherman,John Langan,Lovecraftian,5775,28.49,164529.75,18.74,56306.25,34.22,25-34,Male,Australia,Medium,2022
+House of Leaves,Mark Z. Danielewski,Experimental Horror,7729,9.9,76517.1,3.15,52170.75,68.18,35-44,Male,Canada,Medium,2022
+The Watchers,A.M. Shine,Supernatural Horror,7992,14.72,117642.24,6.01,69610.32,59.17,35-44,Non-binary,UK,High,2019
+Come Closer,Sara Gran,Psychological Horror,4987,13.92,69419.04,5.74,40793.66,58.76,55+,Non-binary,USA,Low,2023
+House of Leaves,Mark Z. Danielewski,Experimental Horror,5376,25.05,134668.8,8.26,90263.04,67.03,45-54,Female,Germany,Low,2021
+Maggie's Grave,David Sodergren,Folk Horror,2668,24.31,64859.08,9.23,40233.44,62.03,18-24,Male,UK,Medium,2022
+Burn Street Haunting,Nicole Willson,Haunted House,5358,9.97,53419.26,5.83,22182.12,41.52,35-44,Male,USA,High,2017
+Maggie's Grave,David Sodergren,Folk Horror,5992,28.16,168734.72,15.78,74180.96,43.96,25-34,Non-binary,Australia,Medium,2021
+House of Leaves,Mark Z. Danielewski,Experimental Horror,8492,20.58,174765.36,8.9,99186.56,56.75,25-34,Female,USA,Low,2021
+Motherthing,Ainslie Hogarth,Psychological Horror,2554,21.72,55472.88,12.3,24058.68,43.37,55+,Female,Germany,Medium,2022
+These Evil Things We Do,Mick Garris,Anthology Horror,8254,19.03,157073.62,8.62,85924.14,54.7,45-54,Female,USA,Low,2017
+Motherthing,Ainslie Hogarth,Psychological Horror,3940,23.04,90777.6,9.09,54963.0,60.55,45-54,Male,UK,Low,2021
+Come Closer,Sara Gran,Psychological Horror,7038,18.07,127176.66,8.51,67283.28,52.91,25-34,Non-binary,Australia,High,2024
+The Fisherman,John Langan,Lovecraftian,7135,7.7,54939.5,2.41,37744.15,68.7,45-54,Female,Germany,Medium,2021
+Motherthing,Ainslie Hogarth,Psychological Horror,7508,12.86,96552.88,6.47,47976.12,49.69,35-44,Non-binary,UK,High,2019
+The Fisherman,John Langan,Lovecraftian,7674,20.11,154324.14,10.38,74668.02,48.38,55+,Female,Canada,Low,2018
+Ghost Summer,Tananarive Due,Southern Gothic,6768,6.92,46834.56,2.88,27342.72,58.38,45-54,Male,Australia,Low,2020
+Ghost Summer,Tananarive Due,Southern Gothic,6015,28.24,169863.6,17.6,63999.6,37.68,55+,Male,Germany,Low,2023
+Ghost Summer,Tananarive Due,Southern Gothic,2793,16.41,45833.13,6.36,28069.65,61.24,55+,Non-binary,USA,Low,2018
+Maggie's Grave,David Sodergren,Folk Horror,5550,13.11,72760.5,4.57,47397.0,65.14,25-34,Non-binary,Germany,Low,2023
+These Evil Things We Do,Mick Garris,Anthology Horror,7492,11.8,88405.6,6.6,38958.4,44.07,35-44,Female,UK,Low,2023
+Maggie's Grave,David Sodergren,Folk Horror,5964,12.62,75265.68,4.62,47712.0,63.39,35-44,Male,UK,Low,2025
+These Evil Things We Do,Mick Garris,Anthology Horror,4513,10.55,47612.15,3.67,31049.44,65.21,18-24,Male,Australia,Low,2022
+Motherthing,Ainslie Hogarth,Psychological Horror,2098,9.21,19322.58,3.57,11832.72,61.24,25-34,Male,Australia,High,2022
+Come Closer,Sara Gran,Psychological Horror,3404,15.1,51400.4,4.92,34652.72,67.42,35-44,Non-binary,Germany,Medium,2024
+The Watchers,A.M. Shine,Supernatural Horror,1391,11.29,15704.39,5.63,7873.06,50.13,55+,Non-binary,USA,High,2015
+Ghost Summer,Tananarive Due,Southern Gothic,1736,12.12,21040.32,3.81,14426.16,68.56,45-54,Non-binary,Canada,Medium,2015
+Motherthing,Ainslie Hogarth,Psychological Horror,4837,15.28,73909.36,4.79,50740.13,68.65,45-54,Male,USA,Low,2015
+The Fisherman,John Langan,Lovecraftian,6628,10.99,72841.72,3.93,46793.68,64.24,35-44,Male,Germany,High,2024
+The Watchers,A.M. Shine,Supernatural Horror,5891,18.82,110868.62,10.11,51310.61,46.28,55+,Male,UK,Low,2021
+The Cipher,Kathe Koja,Cosmic Horror,302,14.24,4300.48,5.65,2594.18,60.32,25-34,Male,UK,Medium,2020
+The Fisherman,John Langan,Lovecraftian,2427,16.76,40676.52,11.62,12474.78,30.67,55+,Male,Canada,High,2020
+House of Leaves,Mark Z. Danielewski,Experimental Horror,2030,25.41,51582.3,15.74,19630.1,38.06,25-34,Non-binary,USA,High,2023
+These Evil Things We Do,Mick Garris,Anthology Horror,9439,17.7,167070.3,10.24,70414.94,42.15,55+,Female,USA,Medium,2017
+Burn Street Haunting,Nicole Willson,Haunted House,759,13.15,9980.85,5.1,6109.95,61.22,25-34,Male,UK,High,2024
+Burn Street Haunting,Nicole Willson,Haunted House,2086,25.24,52650.64,11.09,29516.9,56.06,35-44,Female,Australia,Medium,2021
+The Cipher,Kathe Koja,Cosmic Horror,1943,28.51,55394.93,13.09,29961.06,54.09,18-24,Male,Australia,High,2021
+Maggie's Grave,David Sodergren,Folk Horror,2485,25.94,64460.9,14.79,27707.75,42.98,18-24,Male,USA,Low,2023
+Motherthing,Ainslie Hogarth,Psychological Horror,6716,10.23,68704.68,5.28,33244.2,48.39,45-54,Male,Australia,Low,2024
+Ghost Summer,Tananarive Due,Southern Gothic,362,21.5,7783.0,13.48,2903.24,37.3,45-54,Male,UK,Medium,2023
+Motherthing,Ainslie Hogarth,Psychological Horror,2149,29.91,64276.59,20.52,20179.11,31.39,18-24,Male,Germany,Low,2019
+The Fisherman,John Langan,Lovecraftian,3208,27.07,86840.56,10.16,54247.28,62.47,25-34,Male,Australia,Medium,2023
+House of Leaves,Mark Z. Danielewski,Experimental Horror,3270,22.51,73607.7,14.38,26585.1,36.12,25-34,Female,UK,Low,2018
+Burn Street Haunting,Nicole Willson,Haunted House,6395,15.11,96628.45,9.9,33317.95,34.48,18-24,Female,Canada,Medium,2018
+Ghost Summer,Tananarive Due,Southern Gothic,1748,9.04,15801.92,5.96,5383.84,34.07,45-54,Non-binary,Germany,High,2018
+House of Leaves,Mark Z. Danielewski,Experimental Horror,8545,5.23,44690.35,1.78,29480.25,65.97,25-34,Male,Canada,Low,2017
+The Cipher,Kathe Koja,Cosmic Horror,2300,5.13,11799.0,1.87,7498.0,63.55,55+,Non-binary,Germany,Low,2016
+Maggie's Grave,David Sodergren,Folk Horror,2969,16.21,48127.49,11.31,14548.1,30.23,18-24,Male,Germany,Medium,2018
+Motherthing,Ainslie Hogarth,Psychological Horror,8452,5.45,46063.4,2.71,23158.48,50.28,55+,Male,UK,High,2018
+The Fisherman,John Langan,Lovecraftian,9819,21.24,208555.56,13.59,75115.35,36.02,25-34,Male,Germany,Low,2015
+The Watchers,A.M. Shine,Supernatural Horror,4835,19.21,92880.35,6.48,61549.55,66.27,45-54,Male,Germany,Low,2017
+These Evil Things We Do,Mick Garris,Anthology Horror,3546,11.26,39927.96,6.03,18545.58,46.45,55+,Male,Germany,Low,2020
+Burn Street Haunting,Nicole Willson,Haunted House,3536,17.17,60713.12,11.37,20508.8,33.78,55+,Non-binary,Germany,Medium,2025
+Ghost Summer,Tananarive Due,Southern Gothic,325,13.75,4468.75,7.67,1976.0,44.22,25-34,Non-binary,Canada,Low,2015
+Ghost Summer,Tananarive Due,Southern Gothic,8096,17.48,141518.08,9.24,66711.04,47.14,45-54,Male,Canada,Medium,2015
+Maggie's Grave,David Sodergren,Folk Horror,7779,9.43,73355.97,6.38,23725.95,32.34,18-24,Male,Australia,High,2019
+These Evil Things We Do,Mick Garris,Anthology Horror,1160,28.21,32723.6,13.29,17307.2,52.89,18-24,Male,Germany,Low,2019
+Motherthing,Ainslie Hogarth,Psychological Horror,706,29.09,20537.54,18.65,7370.64,35.89,35-44,Male,Canada,Low,2019
+The Watchers,A.M. Shine,Supernatural Horror,3075,26.28,80811.0,11.22,46309.5,57.31,35-44,Female,USA,Medium,2016
+Motherthing,Ainslie Hogarth,Psychological Horror,1916,14.87,28490.92,9.48,10327.24,36.25,35-44,Non-binary,Germany,Low,2017
+Motherthing,Ainslie Hogarth,Psychological Horror,1995,6.76,13486.2,2.59,8319.15,61.69,35-44,Non-binary,UK,Low,2020
+Ghost Summer,Tananarive Due,Southern Gothic,1786,8.5,15181.0,4.31,7483.34,49.29,18-24,Male,Germany,Low,2016
+Ghost Summer,Tananarive Due,Southern Gothic,884,26.22,23178.48,9.3,14957.28,64.53,35-44,Non-binary,USA,High,2020
+Maggie's Grave,David Sodergren,Folk Horror,7443,18.82,140077.26,7.88,81426.42,58.13,25-34,Non-binary,Canada,High,2024
+House of Leaves,Mark Z. Danielewski,Experimental Horror,6086,11.41,69441.26,6.21,31647.2,45.57,35-44,Male,UK,High,2024
+Burn Street Haunting,Nicole Willson,Haunted House,3050,17.54,53497.0,10.86,20374.0,38.08,35-44,Male,UK,Medium,2015
+Come Closer,Sara Gran,Psychological Horror,6755,14.92,100784.6,4.78,68495.7,67.96,35-44,Male,Australia,High,2017
+Burn Street Haunting,Nicole Willson,Haunted House,6714,5.69,38202.66,3.02,17926.38,46.92,55+,Male,UK,Low,2021
+Come Closer,Sara Gran,Psychological Horror,953,13.2,12579.6,4.78,8024.26,63.79,55+,Male,Canada,High,2020
+Motherthing,Ainslie Hogarth,Psychological Horror,6557,26.51,173826.07,10.61,104256.3,59.98,25-34,Female,USA,Low,2024
+Ghost Summer,Tananarive Due,Southern Gothic,3954,14.0,55356.0,4.91,35941.86,64.93,35-44,Male,Canada,Low,2015
+The Watchers,A.M. Shine,Supernatural Horror,3224,11.79,38010.96,8.09,11928.8,31.38,18-24,Female,Germany,Medium,2021
+These Evil Things We Do,Mick Garris,Anthology Horror,5415,26.05,141060.75,9.84,87777.15,62.23,25-34,Male,USA,Low,2017
+Burn Street Haunting,Nicole Willson,Haunted House,7066,8.46,59778.36,2.99,38651.02,64.66,18-24,Male,Canada,Medium,2016
+The Watchers,A.M. Shine,Supernatural Horror,735,22.86,16802.1,7.23,11488.05,68.37,35-44,Male,UK,Medium,2022
+The Cipher,Kathe Koja,Cosmic Horror,930,15.84,14731.2,9.47,5924.1,40.21,45-54,Male,USA,Medium,2024
+Maggie's Grave,David Sodergren,Folk Horror,9032,9.61,86797.52,3.19,57985.44,66.81,35-44,Male,USA,Low,2023
+The Watchers,A.M. Shine,Supernatural Horror,2031,15.22,30911.82,5.62,19497.6,63.07,45-54,Female,Canada,Low,2015
+Ghost Summer,Tananarive Due,Southern Gothic,7905,7.35,58101.75,2.74,36442.05,62.72,35-44,Non-binary,Germany,Medium,2019
+Motherthing,Ainslie Hogarth,Psychological Horror,3443,17.92,61698.56,10.09,26958.69,43.69,35-44,Male,UK,Medium,2019
+Come Closer,Sara Gran,Psychological Horror,7104,15.49,110040.96,6.18,66138.24,60.1,55+,Female,UK,Low,2017
+These Evil Things We Do,Mick Garris,Anthology Horror,7353,5.36,39412.08,1.86,25735.5,65.3,45-54,Female,Canada,Medium,2019
+These Evil Things We Do,Mick Garris,Anthology Horror,2241,26.39,59139.99,15.34,24763.05,41.87,55+,Male,Australia,High,2024
+The Watchers,A.M. Shine,Supernatural Horror,6717,17.29,116136.93,8.46,59311.11,51.07,35-44,Male,Australia,Low,2015
+Motherthing,Ainslie Hogarth,Psychological Horror,7521,15.85,119207.85,7.28,64454.97,54.07,55+,Non-binary,USA,Medium,2024
+Burn Street Haunting,Nicole Willson,Haunted House,2949,11.52,33972.48,3.53,23562.51,69.36,18-24,Non-binary,Canada,High,2017
+Maggie's Grave,David Sodergren,Folk Horror,2589,17.53,45385.17,9.04,21980.61,48.43,18-24,Non-binary,Canada,High,2018
+Ghost Summer,Tananarive Due,Southern Gothic,2939,28.6,84055.4,19.38,27097.58,32.24,45-54,Female,Australia,High,2025
+Ghost Summer,Tananarive Due,Southern Gothic,951,19.39,18439.89,8.83,10042.56,54.46,55+,Male,USA,Medium,2015
+Burn Street Haunting,Nicole Willson,Haunted House,4100,25.28,103648.0,15.88,38540.0,37.18,25-34,Non-binary,Germany,Medium,2017
+Burn Street Haunting,Nicole Willson,Haunted House,5636,21.29,119990.44,8.15,74057.04,61.72,55+,Male,Canada,Medium,2016
+The Watchers,A.M. Shine,Supernatural Horror,9045,22.08,199713.6,7.25,134137.35,67.16,45-54,Non-binary,Germany,High,2022
+Maggie's Grave,David Sodergren,Folk Horror,6848,26.12,178869.76,8.08,123537.92,69.07,45-54,Female,Australia,High,2016
+The Watchers,A.M. Shine,Supernatural Horror,8406,12.05,101292.3,4.18,66155.22,65.31,55+,Female,USA,High,2019
+The Fisherman,John Langan,Lovecraftian,5845,20.72,121108.4,13.49,42259.35,34.89,35-44,Non-binary,Germany,Medium,2018
+The Fisherman,John Langan,Lovecraftian,828,25.09,20774.52,10.36,12196.44,58.71,25-34,Non-binary,Canada,Low,2024
+The Watchers,A.M. Shine,Supernatural Horror,6088,23.77,144711.76,14.8,54609.36,37.74,25-34,Male,UK,Low,2015
+House of Leaves,Mark Z. Danielewski,Experimental Horror,1222,15.32,18721.04,6.88,10313.68,55.09,55+,Male,Australia,Medium,2021
+These Evil Things We Do,Mick Garris,Anthology Horror,2243,13.52,30325.36,9.09,9936.49,32.77,25-34,Non-binary,Australia,Medium,2019
+Burn Street Haunting,Nicole Willson,Haunted House,3540,22.0,77880.0,13.11,31470.6,40.41,25-34,Male,UK,Low,2017
+Burn Street Haunting,Nicole Willson,Haunted House,5068,14.44,73181.92,7.42,35577.36,48.61,25-34,Male,Germany,Medium,2018
+The Cipher,Kathe Koja,Cosmic Horror,828,13.0,10764.0,8.56,3676.32,34.15,55+,Male,UK,Medium,2015
+Come Closer,Sara Gran,Psychological Horror,495,28.96,14335.2,18.5,5177.7,36.12,45-54,Non-binary,Germany,High,2023
+These Evil Things We Do,Mick Garris,Anthology Horror,2602,28.92,75249.84,16.5,32316.84,42.95,35-44,Female,Germany,High,2018
+Motherthing,Ainslie Hogarth,Psychological Horror,5046,17.33,87447.18,5.78,58281.3,66.65,45-54,Non-binary,Australia,Low,2019
+House of Leaves,Mark Z. Danielewski,Experimental Horror,7366,20.06,147761.96,10.46,70713.6,47.86,45-54,Female,USA,High,2019
+Ghost Summer,Tananarive Due,Southern Gothic,7751,28.65,222066.15,17.55,86036.1,38.74,55+,Female,USA,Medium,2021
+House of Leaves,Mark Z. Danielewski,Experimental Horror,2256,28.27,63777.12,19.5,19785.12,31.02,18-24,Non-binary,Canada,Low,2024
+Ghost Summer,Tananarive Due,Southern Gothic,9448,23.43,221366.64,12.15,106573.44,48.14,35-44,Female,Germany,Low,2025
+Come Closer,Sara Gran,Psychological Horror,6901,29.22,201647.22,16.81,85641.41,42.47,25-34,Male,Australia,High,2024
+Come Closer,Sara Gran,Psychological Horror,2639,26.67,70382.13,16.95,25651.08,36.45,25-34,Male,Australia,Medium,2022
+Maggie's Grave,David Sodergren,Folk Horror,6413,14.92,95681.96,9.8,32834.56,34.32,55+,Female,Australia,Low,2016
+The Watchers,A.M. Shine,Supernatural Horror,1640,17.83,29241.2,7.01,17744.8,60.68,45-54,Female,Germany,High,2022
+The Cipher,Kathe Koja,Cosmic Horror,9680,14.27,138133.6,8.92,51788.0,37.49,55+,Female,Australia,Low,2021
+Maggie's Grave,David Sodergren,Folk Horror,4412,19.8,87357.6,8.71,48929.08,56.01,35-44,Female,Australia,High,2017
+Motherthing,Ainslie Hogarth,Psychological Horror,6688,14.45,96641.6,8.41,40395.52,41.8,55+,Male,Australia,Low,2024
+Ghost Summer,Tananarive Due,Southern Gothic,6077,13.26,80581.02,6.28,42417.46,52.64,45-54,Female,UK,Medium,2016
+Maggie's Grave,David Sodergren,Folk Horror,9535,19.29,183930.15,11.5,74277.65,40.38,45-54,Non-binary,USA,Medium,2022
+Come Closer,Sara Gran,Psychological Horror,9186,21.23,195018.78,12.7,78356.58,40.18,55+,Non-binary,UK,Medium,2023
+These Evil Things We Do,Mick Garris,Anthology Horror,1314,16.94,22259.16,5.64,14848.2,66.71,55+,Non-binary,UK,Low,2015
+Burn Street Haunting,Nicole Willson,Haunted House,5129,15.91,81602.39,9.88,30927.87,37.9,25-34,Female,USA,Low,2019
+Ghost Summer,Tananarive Due,Southern Gothic,4275,18.19,77762.25,12.68,23555.25,30.29,45-54,Female,USA,Medium,2019
+Maggie's Grave,David Sodergren,Folk Horror,9542,22.39,213645.38,7.39,143130.0,66.99,35-44,Female,Canada,Medium,2023
+Ghost Summer,Tananarive Due,Southern Gothic,3476,22.39,77827.64,10.79,40321.6,51.81,18-24,Female,UK,High,2019
+Motherthing,Ainslie Hogarth,Psychological Horror,8153,14.61,119115.33,8.69,48265.76,40.52,18-24,Female,USA,High,2025
+The Fisherman,John Langan,Lovecraftian,1453,28.76,41788.28,18.87,14370.17,34.39,18-24,Male,USA,Low,2022
+The Cipher,Kathe Koja,Cosmic Horror,767,13.39,10270.13,4.93,6488.82,63.18,55+,Male,USA,Low,2018
+House of Leaves,Mark Z. Danielewski,Experimental Horror,3819,13.83,52816.77,7.38,24632.55,46.64,18-24,Non-binary,USA,Medium,2019
+Ghost Summer,Tananarive Due,Southern Gothic,4935,29.66,146372.1,17.18,61588.8,42.08,35-44,Male,Germany,High,2015
+The Fisherman,John Langan,Lovecraftian,5420,12.74,69050.8,7.97,25853.4,37.44,25-34,Female,UK,High,2017
+The Cipher,Kathe Koja,Cosmic Horror,3424,28.51,97618.24,13.3,52079.04,53.35,35-44,Non-binary,Australia,Medium,2019
+The Watchers,A.M. Shine,Supernatural Horror,1938,27.98,54225.24,9.32,36163.08,66.69,18-24,Non-binary,USA,Low,2016
+Ghost Summer,Tananarive Due,Southern Gothic,7518,6.13,46085.34,1.9,31801.14,69.0,55+,Male,Germany,Low,2015
+Maggie's Grave,David Sodergren,Folk Horror,2293,29.68,68056.24,10.69,43544.07,63.98,55+,Female,Canada,Low,2019
+Motherthing,Ainslie Hogarth,Psychological Horror,7549,14.52,109611.48,9.99,34196.97,31.2,35-44,Male,Australia,Medium,2025
+The Fisherman,John Langan,Lovecraftian,4884,25.96,126788.64,12.65,65006.04,51.27,45-54,Female,Australia,High,2017
+Come Closer,Sara Gran,Psychological Horror,8802,11.84,104215.68,3.82,70592.04,67.74,45-54,Male,Germany,High,2020
+Ghost Summer,Tananarive Due,Southern Gothic,2100,18.36,38556.0,11.02,15414.0,39.98,55+,Non-binary,Australia,Medium,2017
+Burn Street Haunting,Nicole Willson,Haunted House,1560,19.63,30622.8,11.59,12542.4,40.96,55+,Female,Canada,Low,2024
+The Fisherman,John Langan,Lovecraftian,4278,11.18,47828.04,5.37,24855.18,51.97,35-44,Female,USA,Medium,2015
+These Evil Things We Do,Mick Garris,Anthology Horror,4880,20.15,98332.0,7.89,59828.8,60.84,55+,Non-binary,Australia,Medium,2015
+The Cipher,Kathe Koja,Cosmic Horror,3519,11.72,41242.68,3.62,28503.9,69.11,45-54,Female,USA,Medium,2024
+The Watchers,A.M. Shine,Supernatural Horror,8965,16.91,151598.15,10.7,55672.65,36.72,35-44,Female,Canada,Medium,2016
+These Evil Things We Do,Mick Garris,Anthology Horror,4463,25.41,113404.83,17.46,35480.85,31.29,35-44,Non-binary,UK,High,2025
+The Watchers,A.M. Shine,Supernatural Horror,6644,8.35,55477.4,2.6,38203.0,68.86,18-24,Male,Australia,Medium,2019
+Motherthing,Ainslie Hogarth,Psychological Horror,7096,20.98,148874.08,13.05,56271.28,37.8,25-34,Non-binary,Australia,High,2021
+House of Leaves,Mark Z. Danielewski,Experimental Horror,6981,13.76,96058.56,7.37,44608.59,46.44,45-54,Male,UK,Medium,2025
+The Watchers,A.M. Shine,Supernatural Horror,1431,18.69,26745.39,8.98,13895.01,51.95,45-54,Non-binary,USA,Medium,2021
+These Evil Things We Do,Mick Garris,Anthology Horror,3277,26.56,87037.12,18.06,27854.5,32.0,35-44,Female,Germany,High,2018
+Maggie's Grave,David Sodergren,Folk Horror,237,28.16,6673.92,13.99,3358.29,50.32,45-54,Non-binary,Germany,Medium,2018
+Maggie's Grave,David Sodergren,Folk Horror,4264,29.5,125788.0,14.66,63277.76,50.31,45-54,Female,Canada,Medium,2025
+The Watchers,A.M. Shine,Supernatural Horror,2006,18.43,36970.58,8.92,19077.06,51.6,18-24,Non-binary,USA,Medium,2025
+The Fisherman,John Langan,Lovecraftian,6131,21.02,128873.62,7.84,80806.58,62.7,55+,Non-binary,USA,Low,2022
+The Watchers,A.M. Shine,Supernatural Horror,8572,27.42,235044.24,13.42,120008.0,51.06,45-54,Female,Germany,High,2016
+These Evil Things We Do,Mick Garris,Anthology Horror,6877,10.6,72896.2,6.66,27095.38,37.17,35-44,Male,USA,Medium,2016
+The Watchers,A.M. Shine,Supernatural Horror,4877,9.43,45990.11,3.16,30578.79,66.49,35-44,Male,Canada,Low,2015
+Motherthing,Ainslie Hogarth,Psychological Horror,6476,13.9,90016.4,9.14,30825.76,34.24,25-34,Female,UK,Low,2015
+Motherthing,Ainslie Hogarth,Psychological Horror,7340,7.31,53655.4,3.6,27231.4,50.75,35-44,Non-binary,USA,High,2020
+House of Leaves,Mark Z. Danielewski,Experimental Horror,6593,8.92,58809.56,4.02,32305.7,54.93,18-24,Male,Germany,Medium,2015
+House of Leaves,Mark Z. Danielewski,Experimental Horror,1376,29.66,40812.16,15.26,19814.4,48.55,45-54,Female,Canada,Low,2022
+The Cipher,Kathe Koja,Cosmic Horror,8817,20.46,180395.82,9.16,99632.1,55.23,35-44,Female,UK,Low,2022
+Burn Street Haunting,Nicole Willson,Haunted House,464,6.56,3043.84,2.36,1948.8,64.02,45-54,Male,Germany,High,2017
+The Cipher,Kathe Koja,Cosmic Horror,5226,22.18,115912.68,14.15,41964.78,36.2,25-34,Male,Germany,Medium,2025
+The Fisherman,John Langan,Lovecraftian,5970,5.76,34387.2,3.73,12119.1,35.24,25-34,Male,Germany,Medium,2020
+These Evil Things We Do,Mick Garris,Anthology Horror,6982,14.93,104241.26,5.11,68563.24,65.77,55+,Non-binary,USA,High,2021
+Burn Street Haunting,Nicole Willson,Haunted House,9005,19.1,171995.5,12.15,62584.75,36.39,45-54,Female,Canada,High,2020
+Burn Street Haunting,Nicole Willson,Haunted House,7741,18.38,142279.58,7.23,86312.15,60.66,35-44,Non-binary,Germany,Low,2018
+These Evil Things We Do,Mick Garris,Anthology Horror,6268,21.98,137770.64,13.53,52964.6,38.44,18-24,Male,USA,Medium,2016
+The Fisherman,John Langan,Lovecraftian,6471,18.43,119260.53,9.86,55456.47,46.5,25-34,Male,USA,High,2022
+The Fisherman,John Langan,Lovecraftian,6991,8.19,57256.29,3.39,33556.8,58.61,25-34,Male,Australia,Medium,2020
+These Evil Things We Do,Mick Garris,Anthology Horror,2839,21.15,60044.85,11.17,28333.22,47.19,45-54,Female,UK,Low,2022
+Ghost Summer,Tananarive Due,Southern Gothic,976,13.26,12941.76,8.93,4226.08,32.65,35-44,Non-binary,Australia,Low,2019
+The Watchers,A.M. Shine,Supernatural Horror,1833,14.13,25900.29,7.0,13069.29,50.46,35-44,Non-binary,Germany,High,2025
+The Watchers,A.M. Shine,Supernatural Horror,3617,12.13,43874.21,4.48,27670.05,63.07,45-54,Male,Germany,Low,2021
+Come Closer,Sara Gran,Psychological Horror,9452,7.01,66258.52,3.57,32514.88,49.07,35-44,Male,UK,Low,2022
+Come Closer,Sara Gran,Psychological Horror,4424,29.56,130773.44,10.19,85692.88,65.53,35-44,Non-binary,Germany,Medium,2016
+House of Leaves,Mark Z. Danielewski,Experimental Horror,8759,29.24,256113.16,18.89,90655.65,35.4,18-24,Female,Canada,High,2020
+Burn Street Haunting,Nicole Willson,Haunted House,217,11.45,2484.65,4.22,1568.91,63.14,35-44,Non-binary,Germany,Medium,2017
+House of Leaves,Mark Z. Danielewski,Experimental Horror,5660,22.96,129953.6,11.8,63165.6,48.61,18-24,Non-binary,UK,Medium,2024
+Maggie's Grave,David Sodergren,Folk Horror,6416,24.24,155523.84,9.09,97202.4,62.5,55+,Female,UK,Low,2020
+The Watchers,A.M. Shine,Supernatural Horror,9015,17.69,159475.35,7.02,96190.05,60.32,55+,Non-binary,UK,High,2015
+Ghost Summer,Tananarive Due,Southern Gothic,6333,24.19,153195.27,8.1,101897.97,66.52,55+,Male,USA,Medium,2025
+Motherthing,Ainslie Hogarth,Psychological Horror,7088,18.31,129781.28,5.87,88174.72,67.94,45-54,Female,USA,High,2016
+Burn Street Haunting,Nicole Willson,Haunted House,109,18.72,2040.48,9.73,979.91,48.02,45-54,Male,Australia,Medium,2016
+Burn Street Haunting,Nicole Willson,Haunted House,2160,22.11,47757.6,7.41,31752.0,66.49,35-44,Female,UK,Low,2019
+Maggie's Grave,David Sodergren,Folk Horror,2932,7.92,23221.44,3.87,11874.6,51.14,45-54,Non-binary,Australia,Medium,2020
+Burn Street Haunting,Nicole Willson,Haunted House,3590,13.72,49254.8,9.22,16155.0,32.8,55+,Male,Australia,Low,2016
+Maggie's Grave,David Sodergren,Folk Horror,2008,23.27,46726.16,15.72,15160.4,32.45,35-44,Female,UK,Medium,2017
+Motherthing,Ainslie Hogarth,Psychological Horror,9862,28.16,277713.92,16.58,114201.96,41.12,18-24,Non-binary,Germany,Medium,2022
+Burn Street Haunting,Nicole Willson,Haunted House,9164,23.76,217736.64,14.73,82750.92,38.01,18-24,Male,Germany,Medium,2017
+These Evil Things We Do,Mick Garris,Anthology Horror,4920,9.66,47527.2,3.81,28782.0,60.56,45-54,Non-binary,Australia,Low,2024
+The Watchers,A.M. Shine,Supernatural Horror,4327,12.9,55818.3,6.91,25918.73,46.43,35-44,Non-binary,USA,Medium,2016
+House of Leaves,Mark Z. Danielewski,Experimental Horror,9610,22.84,219492.4,15.07,74669.7,34.02,45-54,Male,UK,High,2020
+These Evil Things We Do,Mick Garris,Anthology Horror,6084,23.69,144129.96,11.87,71912.88,49.89,25-34,Non-binary,USA,Medium,2023
+Motherthing,Ainslie Hogarth,Psychological Horror,2292,27.49,63007.08,12.47,34425.84,54.64,18-24,Non-binary,Australia,Low,2019
+The Watchers,A.M. Shine,Supernatural Horror,3787,10.73,40634.51,5.55,19616.66,48.28,18-24,Female,UK,High,2020
+Come Closer,Sara Gran,Psychological Horror,5865,13.32,78121.8,7.89,31846.95,40.77,45-54,Non-binary,Canada,High,2024
+Ghost Summer,Tananarive Due,Southern Gothic,5667,9.17,51966.39,5.97,18134.4,34.9,45-54,Female,Australia,Low,2015
+House of Leaves,Mark Z. Danielewski,Experimental Horror,8769,27.35,239832.15,16.83,92249.88,38.46,55+,Male,Australia,Low,2020
+These Evil Things We Do,Mick Garris,Anthology Horror,1220,22.67,27657.4,13.86,10748.2,38.86,55+,Non-binary,USA,Low,2015
+Ghost Summer,Tananarive Due,Southern Gothic,5473,10.11,55332.03,5.92,22931.87,41.44,45-54,Female,Germany,Medium,2019
+The Cipher,Kathe Koja,Cosmic Horror,1965,13.55,26625.75,8.52,9883.95,37.12,35-44,Non-binary,Canada,High,2018
+These Evil Things We Do,Mick Garris,Anthology Horror,6459,20.1,129825.9,10.07,64783.77,49.9,45-54,Male,Australia,High,2022
+House of Leaves,Mark Z. Danielewski,Experimental Horror,2471,23.06,56981.26,13.56,23474.5,41.2,35-44,Female,Germany,High,2017
+Burn Street Haunting,Nicole Willson,Haunted House,6998,19.14,133941.72,11.23,55354.18,41.33,45-54,Female,USA,High,2025
+The Watchers,A.M. Shine,Supernatural Horror,2216,25.67,56884.72,17.55,17993.92,31.63,55+,Female,USA,Medium,2022
+The Cipher,Kathe Koja,Cosmic Horror,6266,16.55,103702.3,11.24,33272.46,32.08,35-44,Non-binary,Australia,High,2024
+Burn Street Haunting,Nicole Willson,Haunted House,7883,17.65,139134.95,9.61,63379.32,45.55,45-54,Non-binary,USA,Medium,2022
+The Cipher,Kathe Koja,Cosmic Horror,927,19.82,18373.14,6.76,12106.62,65.89,25-34,Non-binary,Germany,Medium,2018
+The Fisherman,John Langan,Lovecraftian,3976,22.68,90175.68,8.19,57612.24,63.89,45-54,Male,Germany,Medium,2024
+The Cipher,Kathe Koja,Cosmic Horror,6124,15.6,95534.4,9.28,38703.68,40.51,25-34,Female,USA,Low,2022
+House of Leaves,Mark Z. Danielewski,Experimental Horror,3468,28.14,97589.52,13.52,50702.16,51.95,35-44,Female,Germany,High,2019
+Burn Street Haunting,Nicole Willson,Haunted House,3576,9.14,32684.64,3.42,20454.72,62.58,18-24,Female,Germany,Medium,2021
+Maggie's Grave,David Sodergren,Folk Horror,2972,13.3,39527.6,5.65,22735.8,57.52,45-54,Non-binary,UK,High,2017
+The Fisherman,John Langan,Lovecraftian,5131,20.2,103646.2,9.12,56851.48,54.85,25-34,Non-binary,Canada,Low,2019
+The Fisherman,John Langan,Lovecraftian,8493,25.07,212919.51,7.57,148627.5,69.8,45-54,Male,UK,Medium,2023
+Come Closer,Sara Gran,Psychological Horror,8070,14.95,120646.5,7.7,58507.5,48.49,35-44,Male,UK,Medium,2025
+The Cipher,Kathe Koja,Cosmic Horror,8073,13.66,110277.18,5.99,61919.91,56.15,35-44,Female,Canada,Medium,2016
+Come Closer,Sara Gran,Psychological Horror,6590,16.31,107482.9,6.36,65570.5,61.01,25-34,Non-binary,Australia,High,2025
+Come Closer,Sara Gran,Psychological Horror,1305,9.41,12280.05,4.7,6146.55,50.05,25-34,Male,UK,High,2020
+Burn Street Haunting,Nicole Willson,Haunted House,3672,27.87,102338.64,12.4,56805.84,55.51,55+,Non-binary,USA,Medium,2025
+These Evil Things We Do,Mick Garris,Anthology Horror,4857,10.5,50998.5,4.04,31376.22,61.52,25-34,Male,Australia,High,2015
+Ghost Summer,Tananarive Due,Southern Gothic,1066,29.39,31329.74,14.21,16181.88,51.65,45-54,Female,UK,Medium,2018
+Ghost Summer,Tananarive Due,Southern Gothic,3801,26.52,100802.52,13.63,48994.89,48.6,55+,Male,UK,Medium,2022
+Maggie's Grave,David Sodergren,Folk Horror,6804,12.49,84981.96,5.3,48920.76,57.57,55+,Female,Australia,High,2021
+Ghost Summer,Tananarive Due,Southern Gothic,2582,10.25,26465.5,6.76,9011.18,34.05,45-54,Female,USA,Medium,2015
+House of Leaves,Mark Z. Danielewski,Experimental Horror,4624,14.44,66770.56,9.16,24414.72,36.57,18-24,Male,Australia,High,2017
+Maggie's Grave,David Sodergren,Folk Horror,2165,12.35,26737.75,7.23,11084.8,41.46,55+,Female,Canada,Low,2016
+Burn Street Haunting,Nicole Willson,Haunted House,6745,16.02,108054.9,7.37,58344.25,54.0,35-44,Male,Germany,High,2020
+The Cipher,Kathe Koja,Cosmic Horror,9238,8.88,82033.44,3.31,51455.66,62.73,55+,Non-binary,Australia,Medium,2021
+The Watchers,A.M. Shine,Supernatural Horror,8138,23.83,193928.54,9.74,114664.42,59.13,55+,Female,USA,High,2017
+The Watchers,A.M. Shine,Supernatural Horror,6405,15.22,97484.1,4.72,67252.5,68.99,55+,Female,USA,High,2016
+The Fisherman,John Langan,Lovecraftian,3562,21.47,76476.14,6.67,52717.6,68.93,18-24,Female,Australia,Low,2021
+These Evil Things We Do,Mick Garris,Anthology Horror,6054,10.78,65262.12,6.13,28151.1,43.14,35-44,Non-binary,USA,Low,2022
+Ghost Summer,Tananarive Due,Southern Gothic,7321,13.48,98687.08,7.11,46634.77,47.26,35-44,Non-binary,Australia,Low,2017
+The Watchers,A.M. Shine,Supernatural Horror,7876,18.92,149013.92,11.13,61354.04,41.17,25-34,Non-binary,Canada,High,2017
+Motherthing,Ainslie Hogarth,Psychological Horror,2243,29.72,66661.96,16.09,30572.09,45.86,35-44,Male,Canada,Medium,2025
+Ghost Summer,Tananarive Due,Southern Gothic,4647,28.61,132950.67,10.2,85551.27,64.35,35-44,Male,Australia,Low,2021
+Come Closer,Sara Gran,Psychological Horror,1043,7.17,7478.31,3.97,3337.6,44.63,25-34,Non-binary,Australia,High,2015
+Maggie's Grave,David Sodergren,Folk Horror,2298,26.2,60207.6,9.15,39180.9,65.08,18-24,Female,UK,Medium,2017
+Motherthing,Ainslie Hogarth,Psychological Horror,1408,15.54,21880.32,10.21,7504.64,34.3,18-24,Female,Canada,High,2019
+Ghost Summer,Tananarive Due,Southern Gothic,6135,13.4,82209.0,8.44,30429.6,37.01,55+,Female,Canada,Low,2017
+The Watchers,A.M. Shine,Supernatural Horror,4666,5.86,27342.76,3.71,10031.9,36.69,45-54,Male,Germany,High,2019
+Maggie's Grave,David Sodergren,Folk Horror,1379,18.8,25925.2,8.92,13624.52,52.55,55+,Male,UK,High,2017
+House of Leaves,Mark Z. Danielewski,Experimental Horror,5719,29.36,167909.84,17.97,65139.41,38.79,35-44,Non-binary,Australia,Low,2015
+Come Closer,Sara Gran,Psychological Horror,2779,29.63,82341.77,14.47,42129.64,51.16,18-24,Male,Canada,Medium,2015
+The Fisherman,John Langan,Lovecraftian,3286,17.81,58523.66,10.63,23593.48,40.31,18-24,Male,Germany,Low,2016
+Burn Street Haunting,Nicole Willson,Haunted House,8528,15.06,128431.68,5.83,78713.44,61.29,45-54,Female,Germany,Medium,2020
+These Evil Things We Do,Mick Garris,Anthology Horror,2641,29.61,78200.01,15.11,38294.5,48.97,25-34,Female,UK,Medium,2016
+These Evil Things We Do,Mick Garris,Anthology Horror,9096,5.46,49664.16,3.63,16645.68,33.52,45-54,Female,UK,High,2019
+Maggie's Grave,David Sodergren,Folk Horror,5575,17.45,97283.75,5.7,65506.25,67.34,25-34,Female,Australia,Low,2019
+Maggie's Grave,David Sodergren,Folk Horror,7241,25.74,186383.34,9.85,115059.49,61.73,18-24,Non-binary,Canada,High,2024
+Maggie's Grave,David Sodergren,Folk Horror,441,8.42,3713.22,5.56,1261.26,33.97,18-24,Female,Canada,Low,2020
+The Fisherman,John Langan,Lovecraftian,4363,11.27,49171.01,6.24,21945.89,44.63,45-54,Male,USA,High,2019
+These Evil Things We Do,Mick Garris,Anthology Horror,8746,19.33,169060.18,12.28,61659.3,36.47,18-24,Male,Canada,Low,2019
+Come Closer,Sara Gran,Psychological Horror,7743,24.27,187922.61,11.38,99807.27,53.11,55+,Male,UK,High,2016
+The Watchers,A.M. Shine,Supernatural Horror,3167,28.97,91747.99,10.83,57449.38,62.62,55+,Male,USA,Medium,2019
+Come Closer,Sara Gran,Psychological Horror,5590,11.13,62216.7,5.07,33875.4,54.45,55+,Male,Canada,Low,2022
+Come Closer,Sara Gran,Psychological Horror,7779,27.89,216956.31,16.42,89225.13,41.13,55+,Female,USA,Low,2022
+The Cipher,Kathe Koja,Cosmic Horror,9542,28.73,274141.66,13.18,148378.1,54.12,25-34,Male,Canada,Low,2022
+These Evil Things We Do,Mick Garris,Anthology Horror,4953,8.38,41506.14,4.14,21000.72,50.6,35-44,Male,USA,Medium,2024
+The Cipher,Kathe Koja,Cosmic Horror,7815,18.5,144577.5,6.75,91826.25,63.51,25-34,Non-binary,Australia,High,2018
+The Fisherman,John Langan,Lovecraftian,7201,28.88,207964.88,10.45,132714.43,63.82,18-24,Female,Australia,Medium,2023
+Motherthing,Ainslie Hogarth,Psychological Horror,253,16.86,4265.58,7.38,2398.44,56.23,55+,Male,Australia,High,2022
+The Watchers,A.M. Shine,Supernatural Horror,5236,15.32,80215.52,8.92,33510.4,41.78,55+,Male,Germany,Medium,2022
+House of Leaves,Mark Z. Danielewski,Experimental Horror,6285,16.49,103639.65,5.45,69386.4,66.95,18-24,Male,Australia,Medium,2016
+Burn Street Haunting,Nicole Willson,Haunted House,1352,5.06,6841.12,3.48,2136.16,31.23,18-24,Female,Australia,Low,2020
+The Fisherman,John Langan,Lovecraftian,7109,7.58,53886.22,3.23,30924.15,57.39,35-44,Non-binary,USA,Low,2025
+Come Closer,Sara Gran,Psychological Horror,4190,29.05,121719.5,17.89,46760.4,38.42,35-44,Non-binary,Germany,High,2023
+Maggie's Grave,David Sodergren,Folk Horror,8082,7.17,57947.94,4.9,18346.14,31.66,45-54,Non-binary,Germany,Medium,2017
+House of Leaves,Mark Z. Danielewski,Experimental Horror,5995,20.97,125715.15,12.66,49818.45,39.63,55+,Non-binary,Australia,Low,2019
+The Fisherman,John Langan,Lovecraftian,2521,20.93,52764.53,14.49,16235.24,30.77,55+,Non-binary,USA,Medium,2016
+House of Leaves,Mark Z. Danielewski,Experimental Horror,5487,10.53,57778.11,7.32,17613.27,30.48,25-34,Female,Canada,Medium,2024
+Burn Street Haunting,Nicole Willson,Haunted House,8338,6.1,50861.8,3.27,23596.54,46.39,45-54,Non-binary,UK,Medium,2015
+Burn Street Haunting,Nicole Willson,Haunted House,6013,19.2,115449.6,12.79,38543.33,33.39,35-44,Non-binary,Canada,Medium,2019
+Come Closer,Sara Gran,Psychological Horror,7786,12.43,96779.98,8.33,31922.6,32.98,45-54,Male,UK,Low,2016
+The Fisherman,John Langan,Lovecraftian,9118,28.61,260865.98,14.01,133122.8,51.03,45-54,Male,Canada,Low,2018
+Motherthing,Ainslie Hogarth,Psychological Horror,9226,16.38,151121.88,8.34,74177.04,49.08,18-24,Non-binary,Germany,High,2021
+Maggie's Grave,David Sodergren,Folk Horror,5492,21.25,116705.0,9.47,64695.76,55.44,18-24,Female,Canada,High,2016
+Burn Street Haunting,Nicole Willson,Haunted House,230,22.41,5154.3,9.77,2907.2,56.4,18-24,Female,Germany,Medium,2021
+Maggie's Grave,David Sodergren,Folk Horror,7226,6.63,47908.38,2.83,27458.8,57.32,18-24,Non-binary,Germany,Low,2015
+Come Closer,Sara Gran,Psychological Horror,5568,21.54,119934.72,12.82,48552.96,40.48,45-54,Male,UK,Medium,2015
+Motherthing,Ainslie Hogarth,Psychological Horror,8784,20.4,179193.6,8.02,108745.92,60.69,35-44,Male,Canada,High,2021
+The Watchers,A.M. Shine,Supernatural Horror,9030,26.75,241552.5,8.25,167055.0,69.16,45-54,Non-binary,Germany,High,2021
+Motherthing,Ainslie Hogarth,Psychological Horror,3910,6.75,26392.5,2.05,18377.0,69.63,18-24,Non-binary,Canada,Low,2015
+Come Closer,Sara Gran,Psychological Horror,8536,16.99,145026.64,9.04,67861.2,46.79,35-44,Non-binary,Canada,Medium,2023
+Maggie's Grave,David Sodergren,Folk Horror,4461,7.29,32520.69,3.17,18379.32,56.52,18-24,Male,USA,High,2018
+Burn Street Haunting,Nicole Willson,Haunted House,3860,7.76,29953.6,3.43,16713.8,55.8,18-24,Male,UK,Low,2016
+Motherthing,Ainslie Hogarth,Psychological Horror,6567,22.89,150318.63,12.26,69807.21,46.44,25-34,Female,Australia,Medium,2015
+Maggie's Grave,David Sodergren,Folk Horror,8273,6.13,50713.49,2.11,33257.46,65.58,25-34,Female,Canada,High,2023
+Maggie's Grave,David Sodergren,Folk Horror,7611,8.11,61725.21,5.54,19560.27,31.69,55+,Non-binary,UK,Low,2019
+Come Closer,Sara Gran,Psychological Horror,9230,19.71,181923.3,13.66,55841.5,30.7,25-34,Non-binary,UK,High,2022
+The Fisherman,John Langan,Lovecraftian,8302,27.59,229052.18,19.19,69736.8,30.45,35-44,Female,Australia,Medium,2021
+These Evil Things We Do,Mick Garris,Anthology Horror,5790,15.04,87081.6,9.55,31787.1,36.5,45-54,Female,Canada,Low,2020
+Motherthing,Ainslie Hogarth,Psychological Horror,9176,25.77,236465.52,8.97,154156.8,65.19,18-24,Female,Australia,Low,2025
+Ghost Summer,Tananarive Due,Southern Gothic,924,10.51,9711.24,3.94,6070.68,62.51,55+,Female,Germany,High,2017
+Ghost Summer,Tananarive Due,Southern Gothic,3945,25.02,98703.9,13.81,44223.45,44.8,18-24,Male,Australia,High,2021
+The Cipher,Kathe Koja,Cosmic Horror,2836,17.96,50934.56,9.68,23482.08,46.1,18-24,Male,Canada,Low,2015
+Come Closer,Sara Gran,Psychological Horror,9888,11.51,113810.88,5.83,56163.84,49.35,35-44,Female,Canada,Low,2016
+The Cipher,Kathe Koja,Cosmic Horror,7412,8.85,65596.2,5.54,24533.72,37.4,45-54,Non-binary,Australia,Low,2020
+Come Closer,Sara Gran,Psychological Horror,4976,10.6,52745.6,5.46,25576.64,48.49,45-54,Non-binary,USA,High,2023
+Motherthing,Ainslie Hogarth,Psychological Horror,4775,19.5,93112.5,6.56,61788.5,66.36,35-44,Male,Australia,High,2023
+The Cipher,Kathe Koja,Cosmic Horror,7590,11.82,89713.8,5.8,45691.8,50.93,45-54,Male,Australia,Low,2017
+Maggie's Grave,David Sodergren,Folk Horror,5116,26.3,134550.8,8.26,92292.64,68.59,55+,Female,Germany,Medium,2022
+Burn Street Haunting,Nicole Willson,Haunted House,9852,18.77,184922.04,6.28,123051.48,66.54,35-44,Male,Australia,Low,2022
+Maggie's Grave,David Sodergren,Folk Horror,7391,14.32,105839.12,5.78,63119.14,59.64,25-34,Non-binary,Australia,High,2019
+Maggie's Grave,David Sodergren,Folk Horror,5395,17.4,93873.0,5.78,62689.9,66.78,18-24,Female,UK,Low,2019
+Burn Street Haunting,Nicole Willson,Haunted House,5168,26.28,135815.04,13.09,68165.92,50.19,55+,Female,Germany,Low,2017
+Burn Street Haunting,Nicole Willson,Haunted House,2845,19.28,54851.6,10.89,23869.55,43.52,35-44,Non-binary,Canada,Low,2022
+Maggie's Grave,David Sodergren,Folk Horror,4030,26.61,107238.3,15.79,43604.6,40.66,25-34,Male,Germany,High,2022
+The Fisherman,John Langan,Lovecraftian,7414,26.7,197953.8,10.63,119142.98,60.19,55+,Non-binary,USA,Medium,2025
+Maggie's Grave,David Sodergren,Folk Horror,1804,13.35,24083.4,5.28,14558.28,60.45,25-34,Male,UK,Low,2019
+Ghost Summer,Tananarive Due,Southern Gothic,4386,22.47,98553.42,8.44,61535.58,62.44,25-34,Male,Germany,Low,2019
+The Fisherman,John Langan,Lovecraftian,656,26.8,17580.8,8.35,12103.2,68.84,25-34,Non-binary,Australia,Medium,2021
+These Evil Things We Do,Mick Garris,Anthology Horror,7661,25.5,195355.5,9.98,118898.72,60.86,55+,Female,Germany,High,2021
+These Evil Things We Do,Mick Garris,Anthology Horror,4098,5.03,20612.94,2.63,9835.2,47.71,35-44,Non-binary,Canada,Low,2021
+House of Leaves,Mark Z. Danielewski,Experimental Horror,5443,7.1,38645.3,3.06,21989.72,56.9,18-24,Female,Australia,High,2023
+Ghost Summer,Tananarive Due,Southern Gothic,2164,7.9,17095.6,3.56,9391.76,54.94,35-44,Non-binary,UK,Medium,2022
+Motherthing,Ainslie Hogarth,Psychological Horror,1107,7.67,8490.69,4.64,3354.21,39.5,18-24,Female,Australia,Medium,2024
+The Cipher,Kathe Koja,Cosmic Horror,5452,29.07,158489.64,12.7,89249.24,56.31,18-24,Female,Canada,Low,2019
+The Fisherman,John Langan,Lovecraftian,5184,24.72,128148.48,9.13,80818.56,63.07,55+,Non-binary,Germany,Medium,2018
+House of Leaves,Mark Z. Danielewski,Experimental Horror,1365,28.68,39148.2,10.51,24802.05,63.35,55+,Non-binary,UK,Medium,2020
+These Evil Things We Do,Mick Garris,Anthology Horror,8173,16.84,137633.32,5.44,93172.2,67.7,25-34,Female,Germany,Medium,2022
+Motherthing,Ainslie Hogarth,Psychological Horror,6453,26.79,172875.87,18.47,53688.96,31.06,25-34,Male,Australia,Low,2018
+Maggie's Grave,David Sodergren,Folk Horror,9054,8.25,74695.5,4.98,29606.58,39.64,18-24,Non-binary,USA,Low,2021
+The Watchers,A.M. Shine,Supernatural Horror,8320,5.55,46176.0,2.38,26374.4,57.12,45-54,Female,Germany,High,2017
+These Evil Things We Do,Mick Garris,Anthology Horror,9745,16.71,162838.95,11.32,52525.55,32.26,25-34,Female,Canada,Medium,2017
+Burn Street Haunting,Nicole Willson,Haunted House,6640,26.36,175030.4,13.46,85656.0,48.94,45-54,Female,Germany,Low,2025
+Maggie's Grave,David Sodergren,Folk Horror,7127,26.0,185302.0,15.84,72410.32,39.08,18-24,Female,UK,High,2018
+Burn Street Haunting,Nicole Willson,Haunted House,3193,8.28,26438.04,5.36,9323.56,35.27,35-44,Female,Germany,Low,2022
+Maggie's Grave,David Sodergren,Folk Horror,1088,28.59,31105.92,13.38,16548.48,53.2,18-24,Non-binary,USA,Medium,2025
+Ghost Summer,Tananarive Due,Southern Gothic,4279,14.94,63928.26,6.12,37740.78,59.04,45-54,Male,Germany,High,2017
+The Fisherman,John Langan,Lovecraftian,5726,15.23,87206.98,10.02,29832.46,34.21,35-44,Non-binary,Australia,High,2016
+Maggie's Grave,David Sodergren,Folk Horror,2080,10.01,20820.8,6.48,7342.4,35.26,25-34,Non-binary,Germany,Low,2022
+Burn Street Haunting,Nicole Willson,Haunted House,5490,16.79,92177.1,8.69,44469.0,48.24,55+,Female,UK,Medium,2023
+Ghost Summer,Tananarive Due,Southern Gothic,5876,7.28,42777.28,2.63,27323.4,63.87,25-34,Male,Canada,Medium,2025
+The Watchers,A.M. Shine,Supernatural Horror,3733,24.03,89703.99,13.23,40316.4,44.94,25-34,Male,USA,Low,2019
+Ghost Summer,Tananarive Due,Southern Gothic,5755,28.02,161255.1,15.32,73088.5,45.32,18-24,Non-binary,Germany,High,2023
+Motherthing,Ainslie Hogarth,Psychological Horror,1975,15.76,31126.0,5.99,19295.75,61.99,18-24,Non-binary,Canada,High,2023
+Come Closer,Sara Gran,Psychological Horror,7199,6.61,47585.39,3.52,22244.91,46.75,55+,Female,USA,Low,2019
+Come Closer,Sara Gran,Psychological Horror,2533,24.94,63173.02,10.58,36373.88,57.58,55+,Male,Australia,Low,2015
+Burn Street Haunting,Nicole Willson,Haunted House,4267,16.61,70874.87,9.5,30338.37,42.81,35-44,Non-binary,USA,Medium,2016
+These Evil Things We Do,Mick Garris,Anthology Horror,1489,29.37,43731.93,17.29,17987.12,41.13,35-44,Non-binary,Australia,Low,2025
+Motherthing,Ainslie Hogarth,Psychological Horror,5520,23.93,132093.6,16.3,42117.6,31.88,25-34,Female,Australia,Low,2023
+Maggie's Grave,David Sodergren,Folk Horror,878,17.01,14934.78,5.82,9824.82,65.78,55+,Female,Australia,Medium,2015
+Burn Street Haunting,Nicole Willson,Haunted House,6831,29.67,202675.77,10.59,130335.48,64.31,55+,Non-binary,Australia,Low,2020
+The Watchers,A.M. Shine,Supernatural Horror,2820,18.99,53551.8,5.77,37280.4,69.62,55+,Male,Canada,Low,2015
+House of Leaves,Mark Z. Danielewski,Experimental Horror,101,18.36,1854.36,11.99,643.37,34.69,35-44,Non-binary,UK,High,2015
+Motherthing,Ainslie Hogarth,Psychological Horror,6832,6.96,47550.72,3.19,25756.64,54.17,18-24,Female,UK,Low,2016
+Ghost Summer,Tananarive Due,Southern Gothic,7114,10.02,71282.28,5.78,30163.36,42.32,45-54,Non-binary,USA,Medium,2016
+The Fisherman,John Langan,Lovecraftian,205,9.19,1883.95,3.14,1240.25,65.83,25-34,Female,Canada,Low,2025
+Burn Street Haunting,Nicole Willson,Haunted House,8608,22.66,195057.28,7.08,134112.64,68.76,18-24,Female,Germany,Medium,2020
+The Watchers,A.M. Shine,Supernatural Horror,3244,6.3,20437.2,3.25,9894.2,48.41,45-54,Male,Canada,Low,2016
+The Cipher,Kathe Koja,Cosmic Horror,9007,26.77,241117.39,15.68,99887.63,41.43,35-44,Male,Canada,Low,2018
+Come Closer,Sara Gran,Psychological Horror,8542,17.11,146153.62,9.66,63637.9,43.54,18-24,Female,Australia,High,2018
+Come Closer,Sara Gran,Psychological Horror,121,16.31,1973.51,9.09,873.62,44.27,45-54,Female,Germany,Low,2023
+The Fisherman,John Langan,Lovecraftian,7967,23.29,185551.43,7.75,123807.18,66.72,18-24,Female,USA,Low,2020
+Motherthing,Ainslie Hogarth,Psychological Horror,7279,11.18,81379.22,4.07,51753.69,63.6,55+,Non-binary,Australia,Low,2017
+Ghost Summer,Tananarive Due,Southern Gothic,3738,16.75,62611.5,10.01,25194.12,40.24,25-34,Female,UK,Low,2021
+The Watchers,A.M. Shine,Supernatural Horror,2456,21.47,52730.32,10.72,26402.0,50.07,45-54,Non-binary,Germany,Medium,2016
+The Fisherman,John Langan,Lovecraftian,7157,21.33,152658.81,9.23,86599.7,56.73,18-24,Female,Germany,High,2022
+The Cipher,Kathe Koja,Cosmic Horror,3020,17.33,52336.6,5.76,34941.4,66.76,55+,Non-binary,USA,High,2017
+Come Closer,Sara Gran,Psychological Horror,6336,15.46,97954.56,5.9,60572.16,61.84,35-44,Female,UK,High,2021
+Maggie's Grave,David Sodergren,Folk Horror,7105,29.02,206187.1,13.53,110056.45,53.38,25-34,Non-binary,Australia,Low,2022
+The Fisherman,John Langan,Lovecraftian,8695,20.72,180160.4,12.31,73124.95,40.59,55+,Female,UK,High,2018
+Motherthing,Ainslie Hogarth,Psychological Horror,1055,6.0,6330.0,3.88,2236.6,35.33,55+,Non-binary,Germany,Low,2023
+Burn Street Haunting,Nicole Willson,Haunted House,6663,5.73,38178.99,2.63,20655.3,54.1,45-54,Male,Australia,Medium,2018
+Ghost Summer,Tananarive Due,Southern Gothic,9733,24.82,241573.06,13.95,105797.71,43.8,18-24,Female,UK,Medium,2017
+The Watchers,A.M. Shine,Supernatural Horror,1494,12.1,18077.4,5.37,10054.62,55.62,18-24,Non-binary,Canada,Low,2017
+The Cipher,Kathe Koja,Cosmic Horror,629,20.79,13076.91,12.33,5321.34,40.69,35-44,Non-binary,Canada,High,2017
+Come Closer,Sara Gran,Psychological Horror,3691,15.13,55844.83,8.18,25652.45,45.94,45-54,Non-binary,Australia,High,2024
+Come Closer,Sara Gran,Psychological Horror,9231,14.32,132187.92,7.23,65447.79,49.51,25-34,Male,Australia,Low,2019
+Ghost Summer,Tananarive Due,Southern Gothic,4748,11.18,53082.64,7.25,18659.64,35.15,25-34,Male,USA,Low,2022
+Maggie's Grave,David Sodergren,Folk Horror,2378,13.98,33244.44,7.51,15385.66,46.28,35-44,Non-binary,Australia,High,2020
+House of Leaves,Mark Z. Danielewski,Experimental Horror,3316,14.78,49010.48,10.17,15286.76,31.19,35-44,Male,USA,Medium,2016
+Maggie's Grave,David Sodergren,Folk Horror,9544,5.23,49915.12,2.8,23191.92,46.46,18-24,Non-binary,Canada,Medium,2022
+The Fisherman,John Langan,Lovecraftian,7162,16.34,117027.08,6.44,70903.8,60.59,35-44,Female,Australia,High,2017
+House of Leaves,Mark Z. Danielewski,Experimental Horror,729,9.24,6735.96,4.69,3316.95,49.24,45-54,Female,USA,Medium,2024
+House of Leaves,Mark Z. Danielewski,Experimental Horror,3532,15.77,55699.64,6.3,33448.04,60.05,35-44,Non-binary,Canada,Low,2025
+Burn Street Haunting,Nicole Willson,Haunted House,7215,22.67,163564.05,8.32,103535.25,63.3,18-24,Female,Germany,Low,2018
+Motherthing,Ainslie Hogarth,Psychological Horror,9599,5.92,56826.08,3.52,23037.6,40.54,35-44,Female,UK,Low,2019
+Maggie's Grave,David Sodergren,Folk Horror,3668,22.63,83006.84,10.83,43282.4,52.14,35-44,Female,Australia,High,2020
+Burn Street Haunting,Nicole Willson,Haunted House,719,18.5,13301.5,5.8,9131.3,68.65,25-34,Non-binary,Australia,Medium,2016
+House of Leaves,Mark Z. Danielewski,Experimental Horror,1068,18.28,19523.04,12.33,6354.6,32.55,18-24,Non-binary,Canada,High,2015
+Burn Street Haunting,Nicole Willson,Haunted House,6362,10.62,67564.44,3.95,42434.54,62.81,35-44,Non-binary,UK,Low,2025
+Burn Street Haunting,Nicole Willson,Haunted House,7080,7.58,53666.4,4.05,24992.4,46.57,35-44,Non-binary,USA,Low,2024
+Come Closer,Sara Gran,Psychological Horror,8567,29.67,254182.89,20.36,79758.77,31.38,55+,Non-binary,Australia,Low,2025
+Come Closer,Sara Gran,Psychological Horror,225,28.8,6480.0,16.0,2880.0,44.44,18-24,Male,Canada,Medium,2023
+Burn Street Haunting,Nicole Willson,Haunted House,5442,11.36,61821.12,5.78,30366.36,49.12,55+,Male,Germany,Low,2021
+House of Leaves,Mark Z. Danielewski,Experimental Horror,7695,18.31,140895.45,6.41,91570.5,64.99,35-44,Female,Australia,Low,2018
+These Evil Things We Do,Mick Garris,Anthology Horror,2069,10.05,20793.45,5.72,8958.77,43.08,25-34,Non-binary,Canada,Medium,2016
+Maggie's Grave,David Sodergren,Folk Horror,9656,7.35,70971.6,4.18,30609.52,43.13,35-44,Male,UK,Low,2020
+Come Closer,Sara Gran,Psychological Horror,4712,29.08,137024.96,11.69,81941.68,59.8,45-54,Non-binary,Australia,High,2015
+The Fisherman,John Langan,Lovecraftian,5338,28.62,152773.56,16.41,65176.98,42.66,35-44,Female,Australia,Low,2016
+These Evil Things We Do,Mick Garris,Anthology Horror,7805,26.72,208549.6,14.11,98421.05,47.19,35-44,Non-binary,Australia,Low,2025
+The Fisherman,John Langan,Lovecraftian,4540,22.24,100969.6,12.69,43357.0,42.94,25-34,Male,Australia,Low,2017
+House of Leaves,Mark Z. Danielewski,Experimental Horror,3224,21.67,69864.08,11.5,32788.08,46.93,18-24,Non-binary,Canada,High,2016
+Maggie's Grave,David Sodergren,Folk Horror,5205,20.12,104724.6,8.6,59961.6,57.26,18-24,Non-binary,Germany,Medium,2015
+Ghost Summer,Tananarive Due,Southern Gothic,7948,29.83,237088.84,17.93,94581.2,39.89,25-34,Non-binary,USA,Medium,2019
+Motherthing,Ainslie Hogarth,Psychological Horror,3330,23.46,78121.8,15.28,27239.4,34.87,25-34,Male,USA,Low,2020
+The Watchers,A.M. Shine,Supernatural Horror,1767,21.69,38326.23,13.52,14436.39,37.67,45-54,Male,Canada,High,2016
+These Evil Things We Do,Mick Garris,Anthology Horror,1100,12.93,14223.0,8.37,5016.0,35.27,35-44,Female,Germany,Low,2015
+These Evil Things We Do,Mick Garris,Anthology Horror,1467,12.42,18220.14,6.95,8024.49,44.04,18-24,Male,Canada,Medium,2019
+House of Leaves,Mark Z. Danielewski,Experimental Horror,3826,20.76,79427.76,11.29,36232.22,45.62,55+,Female,Australia,High,2019
+The Fisherman,John Langan,Lovecraftian,2975,18.71,55662.25,10.08,25674.25,46.13,25-34,Female,UK,Medium,2015
+House of Leaves,Mark Z. Danielewski,Experimental Horror,6159,5.37,33073.83,2.87,15397.5,46.55,55+,Female,USA,High,2022
+These Evil Things We Do,Mick Garris,Anthology Horror,7217,20.49,147876.33,9.95,76067.18,51.44,25-34,Male,Australia,High,2017
+The Cipher,Kathe Koja,Cosmic Horror,6328,26.58,168198.24,13.49,82833.52,49.25,18-24,Non-binary,USA,Medium,2020
+Come Closer,Sara Gran,Psychological Horror,1277,7.72,9858.44,2.78,6308.38,63.99,25-34,Female,USA,Medium,2019
+Motherthing,Ainslie Hogarth,Psychological Horror,8334,24.12,201016.08,15.08,75339.36,37.48,35-44,Male,Canada,Low,2016
+Motherthing,Ainslie Hogarth,Psychological Horror,6670,5.46,36418.2,2.07,22611.3,62.09,35-44,Male,Canada,High,2021
+Motherthing,Ainslie Hogarth,Psychological Horror,4531,21.19,96011.89,13.97,32713.82,34.07,18-24,Non-binary,USA,High,2023
+These Evil Things We Do,Mick Garris,Anthology Horror,9006,14.5,130587.0,5.49,81144.06,62.14,25-34,Male,Germany,High,2020
+These Evil Things We Do,Mick Garris,Anthology Horror,4982,7.54,37564.28,3.73,18981.42,50.53,35-44,Non-binary,UK,Low,2019
+The Fisherman,John Langan,Lovecraftian,3710,28.24,104770.4,14.48,51049.6,48.73,18-24,Non-binary,Germany,Medium,2022
+The Watchers,A.M. Shine,Supernatural Horror,7411,7.24,53655.64,4.25,22158.89,41.3,55+,Female,Germany,High,2016
+The Cipher,Kathe Koja,Cosmic Horror,6887,25.58,176169.46,13.02,86500.72,49.1,45-54,Non-binary,Germany,Medium,2021
+Ghost Summer,Tananarive Due,Southern Gothic,7152,9.61,68730.72,4.02,39979.68,58.17,45-54,Male,Australia,Medium,2015
+House of Leaves,Mark Z. Danielewski,Experimental Horror,8205,9.63,79014.15,6.42,26338.05,33.33,18-24,Non-binary,UK,Low,2018
+House of Leaves,Mark Z. Danielewski,Experimental Horror,9767,7.18,70127.06,4.5,26175.56,37.33,45-54,Female,Australia,Low,2022
+Maggie's Grave,David Sodergren,Folk Horror,6384,20.04,127935.36,12.58,47624.64,37.23,55+,Male,Canada,High,2020
+Maggie's Grave,David Sodergren,Folk Horror,9535,10.7,102024.5,4.12,62740.3,61.5,35-44,Female,USA,Medium,2024
+Motherthing,Ainslie Hogarth,Psychological Horror,5852,26.0,152152.0,17.16,51731.68,34.0,55+,Male,Canada,Low,2015
+House of Leaves,Mark Z. Danielewski,Experimental Horror,3325,11.39,37871.75,4.79,21945.0,57.95,18-24,Female,Australia,Low,2022
+Come Closer,Sara Gran,Psychological Horror,6774,26.28,178020.72,14.94,76817.16,43.15,18-24,Male,Canada,Medium,2023
+These Evil Things We Do,Mick Garris,Anthology Horror,245,24.17,5921.65,8.7,3790.15,64.0,45-54,Male,USA,Medium,2021
+These Evil Things We Do,Mick Garris,Anthology Horror,9876,23.42,231295.92,15.11,82069.56,35.48,35-44,Male,USA,Medium,2021
+Motherthing,Ainslie Hogarth,Psychological Horror,8953,5.59,50047.27,3.11,22203.44,44.36,45-54,Female,Canada,Medium,2021
+The Cipher,Kathe Koja,Cosmic Horror,7427,20.95,155595.65,8.44,92911.77,59.71,18-24,Female,Germany,Medium,2023
+The Watchers,A.M. Shine,Supernatural Horror,7521,8.54,64229.34,3.5,37905.84,59.02,25-34,Non-binary,Canada,Low,2021
+The Cipher,Kathe Koja,Cosmic Horror,9869,15.7,154943.3,9.22,63951.12,41.27,35-44,Female,Germany,High,2015
+House of Leaves,Mark Z. Danielewski,Experimental Horror,6702,29.78,199585.56,10.46,129482.64,64.88,35-44,Non-binary,UK,Low,2017
+Burn Street Haunting,Nicole Willson,Haunted House,5799,23.11,134014.89,12.28,62803.17,46.86,25-34,Female,Canada,Medium,2021
+Maggie's Grave,David Sodergren,Folk Horror,6864,6.99,47979.36,2.34,31917.6,66.52,18-24,Female,UK,High,2015
+Motherthing,Ainslie Hogarth,Psychological Horror,7943,9.8,77841.4,4.21,44401.37,57.04,25-34,Female,Germany,Medium,2025
+The Fisherman,John Langan,Lovecraftian,5289,13.87,73358.43,4.55,49293.48,67.2,45-54,Non-binary,Australia,High,2015
+Ghost Summer,Tananarive Due,Southern Gothic,3813,21.74,82894.62,7.13,55707.93,67.2,55+,Non-binary,Germany,Low,2019
+Come Closer,Sara Gran,Psychological Horror,7497,19.82,148590.54,11.34,63574.56,42.79,18-24,Female,Canada,Medium,2024
+Motherthing,Ainslie Hogarth,Psychological Horror,7526,9.76,73453.76,3.13,49897.38,67.93,35-44,Male,USA,High,2016
+Motherthing,Ainslie Hogarth,Psychological Horror,9524,29.89,284672.36,14.3,148479.16,52.16,45-54,Non-binary,UK,Low,2018
+The Cipher,Kathe Koja,Cosmic Horror,761,19.06,14504.66,13.02,4596.44,31.69,25-34,Non-binary,Canada,Medium,2023
+Motherthing,Ainslie Hogarth,Psychological Horror,307,15.24,4678.68,7.15,2483.63,53.08,45-54,Male,Germany,High,2021
+Come Closer,Sara Gran,Psychological Horror,3183,13.69,43575.27,7.75,18907.02,43.39,35-44,Non-binary,Canada,Low,2018
+Burn Street Haunting,Nicole Willson,Haunted House,1779,14.56,25902.24,5.07,16882.71,65.18,55+,Non-binary,Canada,High,2017
+Maggie's Grave,David Sodergren,Folk Horror,9832,23.43,230363.76,14.23,90454.4,39.27,55+,Non-binary,Germany,Medium,2015
+These Evil Things We Do,Mick Garris,Anthology Horror,385,18.02,6937.7,9.9,3126.2,45.06,35-44,Female,UK,Medium,2016
+Maggie's Grave,David Sodergren,Folk Horror,4995,8.19,40909.05,5.16,15134.85,37.0,18-24,Female,Germany,Medium,2020
+The Cipher,Kathe Koja,Cosmic Horror,9815,22.72,222996.8,7.14,152917.7,68.57,55+,Female,Canada,High,2015
+These Evil Things We Do,Mick Garris,Anthology Horror,5882,11.58,68113.56,5.14,37880.08,55.61,55+,Male,UK,High,2019
+House of Leaves,Mark Z. Danielewski,Experimental Horror,2917,28.42,82901.14,14.82,39671.2,47.85,25-34,Non-binary,Germany,Medium,2025
+Come Closer,Sara Gran,Psychological Horror,5399,11.99,64734.01,8.12,20894.13,32.28,25-34,Male,Germany,High,2016
+The Fisherman,John Langan,Lovecraftian,4506,9.04,40734.24,5.56,15680.88,38.5,25-34,Male,Australia,Medium,2020
+Burn Street Haunting,Nicole Willson,Haunted House,5535,26.29,145515.15,10.08,89722.35,61.66,25-34,Female,USA,Medium,2015
+Motherthing,Ainslie Hogarth,Psychological Horror,8885,20.7,183919.5,11.79,79165.35,43.04,55+,Female,UK,High,2024
+Come Closer,Sara Gran,Psychological Horror,7729,25.15,194384.35,15.49,74662.14,38.41,55+,Male,Germany,Medium,2018
+House of Leaves,Mark Z. Danielewski,Experimental Horror,7793,7.02,54706.86,3.24,29457.54,53.85,55+,Female,Canada,Low,2016
+House of Leaves,Mark Z. Danielewski,Experimental Horror,7102,22.37,158871.74,9.81,89201.12,56.15,55+,Female,Germany,Medium,2018
+Ghost Summer,Tananarive Due,Southern Gothic,6197,21.02,130260.94,13.22,48336.6,37.11,55+,Female,USA,Low,2023
+Ghost Summer,Tananarive Due,Southern Gothic,4359,20.16,87877.44,7.17,56623.41,64.43,55+,Female,USA,Medium,2020
+Ghost Summer,Tananarive Due,Southern Gothic,8529,9.37,79916.73,4.69,39915.72,49.95,25-34,Non-binary,Australia,Medium,2023
+House of Leaves,Mark Z. Danielewski,Experimental Horror,7145,8.66,61875.7,3.87,34224.55,55.31,35-44,Non-binary,Canada,Medium,2022
+The Fisherman,John Langan,Lovecraftian,3064,5.65,17311.6,2.0,11183.6,64.6,55+,Non-binary,Germany,Medium,2018
+Burn Street Haunting,Nicole Willson,Haunted House,7440,18.74,139425.6,12.86,43747.2,31.38,35-44,Male,Canada,Low,2018
+Ghost Summer,Tananarive Due,Southern Gothic,5877,11.94,70171.38,7.65,25212.33,35.93,18-24,Female,Australia,High,2025
+Ghost Summer,Tananarive Due,Southern Gothic,4449,20.06,89246.94,8.95,49428.39,55.38,45-54,Male,USA,High,2017
+Ghost Summer,Tananarive Due,Southern Gothic,6588,6.45,42492.6,4.5,12846.6,30.23,55+,Non-binary,Canada,Low,2022
+The Fisherman,John Langan,Lovecraftian,8748,15.76,137868.48,5.8,87130.08,63.2,55+,Non-binary,Germany,Low,2019
+The Watchers,A.M. Shine,Supernatural Horror,5548,24.57,136314.36,9.98,80945.32,59.38,18-24,Non-binary,Germany,Low,2021
+The Watchers,A.M. Shine,Supernatural Horror,8691,6.56,57012.96,3.3,28332.66,49.7,18-24,Male,Australia,Medium,2021
+House of Leaves,Mark Z. Danielewski,Experimental Horror,5771,25.35,146294.85,13.84,66424.21,45.4,18-24,Non-binary,USA,Low,2018
+Motherthing,Ainslie Hogarth,Psychological Horror,3392,20.6,69875.2,10.52,34191.36,48.93,25-34,Female,Australia,Medium,2021
+The Watchers,A.M. Shine,Supernatural Horror,7957,8.27,65804.39,5.41,22757.02,34.58,35-44,Female,Canada,High,2017
+The Cipher,Kathe Koja,Cosmic Horror,1649,9.42,15533.58,4.28,8475.86,54.56,18-24,Non-binary,Germany,Low,2019
+Motherthing,Ainslie Hogarth,Psychological Horror,4581,8.35,38251.35,3.9,20385.45,53.29,18-24,Male,Australia,Low,2020
+The Cipher,Kathe Koja,Cosmic Horror,7858,19.55,153623.9,11.19,65692.88,42.76,45-54,Female,USA,High,2022
+Ghost Summer,Tananarive Due,Southern Gothic,5642,20.47,115491.74,8.79,65898.56,57.06,18-24,Male,Canada,High,2024
+These Evil Things We Do,Mick Garris,Anthology Horror,8533,20.73,176889.09,7.87,109734.38,62.04,18-24,Female,Canada,Medium,2019
+Motherthing,Ainslie Hogarth,Psychological Horror,4368,6.07,26513.76,2.72,14632.8,55.19,55+,Female,USA,High,2015
+House of Leaves,Mark Z. Danielewski,Experimental Horror,4895,21.15,103529.25,10.57,51789.1,50.02,35-44,Male,UK,Medium,2021
+Come Closer,Sara Gran,Psychological Horror,8061,8.18,65938.98,5.28,23376.9,35.45,45-54,Non-binary,Canada,High,2016
+Come Closer,Sara Gran,Psychological Horror,4939,25.27,124808.53,13.79,56699.72,45.43,18-24,Non-binary,Canada,Medium,2020
+These Evil Things We Do,Mick Garris,Anthology Horror,6264,28.91,181092.24,10.21,117136.8,64.68,25-34,Male,Germany,High,2015
+Burn Street Haunting,Nicole Willson,Haunted House,3291,12.89,42420.99,7.42,18001.77,42.44,45-54,Non-binary,Canada,Low,2015
+Burn Street Haunting,Nicole Willson,Haunted House,7277,28.26,205648.02,11.34,123126.84,59.87,18-24,Male,USA,Medium,2022
+Maggie's Grave,David Sodergren,Folk Horror,9080,25.63,232720.4,12.77,116768.8,50.18,25-34,Male,Canada,Medium,2022
+The Watchers,A.M. Shine,Supernatural Horror,6969,20.92,145791.48,11.41,66275.19,45.46,45-54,Female,Canada,Medium,2021
+These Evil Things We Do,Mick Garris,Anthology Horror,9147,27.06,247517.82,9.26,162816.6,65.78,55+,Male,Canada,High,2015
