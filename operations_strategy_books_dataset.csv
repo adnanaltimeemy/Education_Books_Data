@@ -1,0 +1,501 @@
+Book,Units_Sold,Price,Revenue,Cost,Profit,Profit_Margin (%),Age_Group,Gender,Region,Education_Level
+The Goal – Eliyahu Goldratt,22,94.16,2071.52,980.8,1090.72,52.65,25-34,Non-binary,UK,Industry Professional
+The Goal – Eliyahu Goldratt,312,62.19,19403.28,7934.76,11468.52,59.11,25-34,Male,Asia,Industry Professional
+Operations Strategy – Nigel Slack,297,39.88,11844.36,7046.98,4797.38,40.5,55+,Female,USA,Professor
+Operations Management: Theory and Practice – Mahadevan,152,100.94,15342.88,6167.06,9175.82,59.81,25-34,Non-binary,Europe,PhD Student
+Operations Management – Stevenson,89,41.53,3696.17,2325.07,1371.1,37.1,18-24,Male,Europe,Undergraduate Student
+The Phoenix Project – Gene Kim,443,54.4,24099.2,11552.1,12547.1,52.06,18-24,Non-binary,Europe,Industry Professional
+The Goal – Eliyahu Goldratt,482,57.85,27883.7,15771.36,12112.34,43.44,55+,Female,Asia,MBA Student
+The Goal – Eliyahu Goldratt,33,86.13,2842.29,1796.1,1046.19,36.81,18-24,Male,UK,Professor
+Operations Management – Stevenson,242,83.57,20223.94,10303.08,9920.86,49.06,35-44,Female,USA,PhD Student
+The Goal – Eliyahu Goldratt,321,83.5,26803.5,15016.45,11787.05,43.98,25-34,Male,Europe,Professor
+Operations Management – Stevenson,483,84.0,40572.0,23007.77,17564.23,43.29,35-44,Male,USA,Undergraduate Student
+The Phoenix Project – Gene Kim,215,46.77,10055.55,4658.68,5396.87,53.67,55+,Non-binary,Canada,MBA Student
+Supply Chain Management – Chopra,212,108.47,22995.64,13633.09,9362.55,40.71,25-34,Female,USA,MBA Student
+Strategic Operations Management – Brown,285,46.27,13186.95,7587.45,5599.5,42.46,55+,Female,Canada,MBA Student
+Lean Thinking – Womack & Jones,270,69.35,18724.5,11735.29,6989.21,37.33,18-24,Male,Australia,MBA Student
+Operations Strategy – Michael Lewis,315,26.35,8300.25,4270.36,4029.89,48.55,45-54,Non-binary,Canada,Industry Professional
+Operations Strategy – Nigel Slack,358,92.07,32961.06,19925.39,13035.67,39.55,55+,Female,Australia,PhD Student
+The Goal – Eliyahu Goldratt,160,63.48,10156.8,5445.23,4711.57,46.39,35-44,Non-binary,USA,Industry Professional
+The Goal – Eliyahu Goldratt,455,82.53,37551.15,24502.16,13048.99,34.75,55+,Non-binary,USA,MBA Student
+The Phoenix Project – Gene Kim,400,36.15,14460.0,9920.28,4539.72,31.4,55+,Male,Asia,PhD Student
+Supply Chain Management – Chopra,19,31.19,592.61,301.58,291.03,49.11,35-44,Male,UK,MBA Student
+Operations Management: Theory and Practice – Mahadevan,494,27.88,13772.72,8533.2,5239.52,38.04,18-24,Non-binary,USA,MBA Student
+Supply Chain Management – Chopra,494,74.98,37040.12,17761.37,19278.75,52.05,55+,Female,USA,Industry Professional
+The Toyota Way – Jeffrey Liker,375,51.17,19188.75,13404.2,5784.55,30.15,35-44,Female,Asia,Professor
+The Goal – Eliyahu Goldratt,136,42.47,5775.92,2896.19,2879.73,49.86,55+,Non-binary,USA,Industry Professional
+The Toyota Way – Jeffrey Liker,13,27.1,352.3,207.62,144.68,41.07,25-34,Male,UK,PhD Student
+The Goal – Eliyahu Goldratt,273,43.8,11957.4,7182.73,4774.67,39.93,25-34,Non-binary,USA,Industry Professional
+Operations Management: Theory and Practice – Mahadevan,252,44.3,11163.6,6049.46,5114.14,45.81,45-54,Male,UK,Undergraduate Student
+Operations Strategy – Michael Lewis,191,62.36,11910.76,6433.09,5477.67,45.99,18-24,Non-binary,Australia,Undergraduate Student
+Operations Strategy – Nigel Slack,216,92.82,20049.12,12835.0,7214.12,35.98,18-24,Male,USA,MBA Student
+Strategic Operations Management – Brown,239,34.02,8130.78,3699.88,4430.9,54.5,45-54,Male,UK,Professor
+Strategic Operations Management – Brown,60,25.06,1503.6,1052.2,451.4,30.02,18-24,Male,USA,MBA Student
+Operations Strategy – Michael Lewis,258,68.14,17580.12,11592.25,5987.87,34.06,18-24,Male,Europe,Undergraduate Student
+Operations Strategy – Michael Lewis,145,112.65,16334.25,10381.05,5953.2,36.45,35-44,Female,Australia,Industry Professional
+Supply Chain Management – Chopra,89,38.99,3470.11,1614.68,1855.43,53.47,18-24,Non-binary,Australia,Industry Professional
+Operations Strategy – Nigel Slack,392,51.36,20133.12,8356.1,11777.02,58.5,45-54,Non-binary,Asia,MBA Student
+Operations Strategy – Nigel Slack,270,28.01,7562.7,3446.68,4116.02,54.43,55+,Male,Australia,MBA Student
+Operations Strategy – Michael Lewis,71,114.16,8105.36,4627.37,3477.99,42.91,55+,Non-binary,UK,Industry Professional
+The Goal – Eliyahu Goldratt,224,85.74,19205.76,10938.99,8266.77,43.04,35-44,Female,USA,PhD Student
+The Toyota Way – Jeffrey Liker,145,59.58,8639.1,5196.48,3442.62,39.85,35-44,Female,Canada,Undergraduate Student
+Operations Strategy – Nigel Slack,244,82.12,20037.28,11399.17,8638.11,43.11,18-24,Male,Asia,MBA Student
+Strategic Operations Management – Brown,145,33.25,4821.25,2433.3,2387.95,49.53,18-24,Male,Canada,PhD Student
+Lean Thinking – Womack & Jones,234,103.37,24188.58,14780.72,9407.86,38.89,55+,Non-binary,Asia,Undergraduate Student
+Strategic Operations Management – Brown,163,113.18,18448.34,7952.64,10495.7,56.89,25-34,Female,UK,Undergraduate Student
+Strategic Operations Management – Brown,89,47.23,4203.47,2444.1,1759.37,41.86,35-44,Male,Australia,PhD Student
+Strategic Operations Management – Brown,260,45.11,11728.6,7886.87,3841.73,32.76,18-24,Male,Australia,Professor
+Operations Management – Stevenson,32,20.35,651.2,411.13,240.07,36.87,35-44,Male,Australia,Professor
+Strategic Operations Management – Brown,371,62.77,23287.67,9382.62,13905.05,59.71,18-24,Non-binary,USA,Industry Professional
+Operations Strategy – Nigel Slack,437,56.92,24874.04,14072.68,10801.36,43.42,45-54,Male,UK,PhD Student
+The Phoenix Project – Gene Kim,470,113.31,53255.7,36834.78,16420.92,30.83,18-24,Female,USA,MBA Student
+The Goal – Eliyahu Goldratt,191,98.01,18719.91,12453.24,6266.67,33.48,45-54,Non-binary,Australia,MBA Student
+The Toyota Way – Jeffrey Liker,452,36.25,16385.0,10485.84,5899.16,36.0,25-34,Female,UK,MBA Student
+The Phoenix Project – Gene Kim,410,113.08,46362.8,29703.28,16659.52,35.93,25-34,Female,USA,Undergraduate Student
+Operations Strategy – Michael Lewis,456,23.87,10884.72,5890.89,4993.83,45.88,25-34,Female,Canada,PhD Student
+The Toyota Way – Jeffrey Liker,124,22.37,2773.88,1270.27,1503.61,54.21,35-44,Female,UK,PhD Student
+The Phoenix Project – Gene Kim,338,70.94,23977.72,14479.08,9498.64,39.61,55+,Female,UK,Undergraduate Student
+Operations Management – Stevenson,101,78.06,7884.06,5479.94,2404.12,30.49,18-24,Male,Asia,Professor
+The Phoenix Project – Gene Kim,383,98.64,37779.12,20057.62,17721.5,46.91,55+,Male,Europe,Industry Professional
+The Toyota Way – Jeffrey Liker,140,24.44,3421.6,1816.24,1605.36,46.92,55+,Non-binary,Australia,MBA Student
+The Phoenix Project – Gene Kim,230,27.0,6210.0,3721.47,2488.53,40.07,35-44,Non-binary,Canada,Undergraduate Student
+Operations Management – Stevenson,269,50.93,13700.17,7158.58,6541.59,47.75,45-54,Non-binary,Canada,Industry Professional
+Lean Thinking – Womack & Jones,108,62.04,6700.32,4570.35,2129.97,31.79,25-34,Non-binary,Asia,PhD Student
+Operations Strategy – Michael Lewis,290,103.37,29977.3,14723.73,15253.57,50.88,25-34,Female,Asia,Industry Professional
+The Phoenix Project – Gene Kim,248,64.18,15916.64,9592.77,6323.87,39.73,55+,Female,Australia,MBA Student
+The Goal – Eliyahu Goldratt,155,71.55,11090.25,6541.94,4548.31,41.01,35-44,Male,USA,PhD Student
+The Toyota Way – Jeffrey Liker,422,39.91,16842.02,6860.22,9981.8,59.27,25-34,Female,Asia,Undergraduate Student
+Supply Chain Management – Chopra,222,108.61,24111.42,13808.64,10302.78,42.73,45-54,Female,Europe,MBA Student
+Lean Thinking – Womack & Jones,345,88.76,30622.2,20449.44,10172.76,33.22,18-24,Female,USA,MBA Student
+Strategic Operations Management – Brown,247,25.02,6179.94,2933.99,3245.95,52.52,18-24,Female,USA,Professor
+Strategic Operations Management – Brown,296,79.55,23546.8,16129.84,7416.96,31.5,45-54,Non-binary,Australia,Industry Professional
+Operations Strategy – Michael Lewis,435,110.69,48150.15,25701.3,22448.85,46.62,25-34,Non-binary,Europe,Professor
+Operations Management – Stevenson,394,44.72,17619.68,10418.49,7201.19,40.87,55+,Female,Australia,MBA Student
+Operations Management – Stevenson,235,27.75,6521.25,3167.49,3353.76,51.43,35-44,Female,Canada,Industry Professional
+The Goal – Eliyahu Goldratt,80,35.08,2806.4,1445.05,1361.35,48.51,25-34,Non-binary,USA,Undergraduate Student
+Operations Strategy – Michael Lewis,218,53.09,11573.62,6247.18,5326.44,46.02,18-24,Male,Europe,Professor
+Operations Management: Theory and Practice – Mahadevan,494,89.55,44237.7,29065.04,15172.66,34.3,55+,Female,Europe,Undergraduate Student
+The Phoenix Project – Gene Kim,162,95.35,15446.7,10133.57,5313.13,34.4,45-54,Non-binary,Australia,Industry Professional
+Operations Management: Theory and Practice – Mahadevan,469,42.05,19721.45,9186.77,10534.68,53.42,45-54,Female,UK,Professor
+The Phoenix Project – Gene Kim,352,87.91,30944.32,16131.12,14813.2,47.87,25-34,Female,USA,Industry Professional
+Strategic Operations Management – Brown,23,110.69,2545.87,1470.41,1075.46,42.24,18-24,Male,Australia,Professor
+Lean Thinking – Womack & Jones,453,66.17,29975.01,12442.19,17532.82,58.49,45-54,Female,USA,Professor
+The Phoenix Project – Gene Kim,182,96.12,17493.84,8987.25,8506.59,48.63,45-54,Female,UK,Professor
+Operations Strategy – Nigel Slack,393,73.94,29058.42,20340.09,8718.33,30.0,35-44,Male,Australia,Undergraduate Student
+Operations Strategy – Nigel Slack,396,23.1,9147.6,4337.65,4809.95,52.58,18-24,Non-binary,USA,MBA Student
+Lean Thinking – Womack & Jones,252,86.95,21911.4,12471.77,9439.63,43.08,25-34,Female,Australia,PhD Student
+The Phoenix Project – Gene Kim,95,80.59,7656.05,5275.94,2380.11,31.09,18-24,Male,Canada,Undergraduate Student
+Operations Management: Theory and Practice – Mahadevan,23,112.89,2596.47,1487.1,1109.37,42.73,45-54,Female,Australia,MBA Student
+The Goal – Eliyahu Goldratt,313,89.06,27875.78,16395.77,11480.01,41.18,18-24,Non-binary,Canada,Industry Professional
+The Goal – Eliyahu Goldratt,417,118.38,49364.46,31336.1,18028.36,36.52,35-44,Non-binary,Europe,PhD Student
+The Goal – Eliyahu Goldratt,269,84.75,22797.75,9205.63,13592.12,59.62,45-54,Female,UK,Professor
+The Phoenix Project – Gene Kim,335,109.16,36568.6,19671.05,16897.55,46.21,25-34,Female,USA,Industry Professional
+Operations Management – Stevenson,325,100.82,32766.5,18396.81,14369.69,43.85,45-54,Female,Europe,Industry Professional
+Operations Management – Stevenson,175,105.17,18404.75,11948.72,6456.03,35.08,18-24,Female,Europe,MBA Student
+Supply Chain Management – Chopra,301,81.03,24390.03,12529.08,11860.95,48.63,18-24,Female,Canada,MBA Student
+Supply Chain Management – Chopra,118,55.48,6546.64,3126.06,3420.58,52.25,35-44,Non-binary,Australia,PhD Student
+Strategic Operations Management – Brown,15,71.66,1074.9,491.57,583.33,54.27,25-34,Non-binary,Europe,Professor
+Strategic Operations Management – Brown,398,44.03,17523.94,9512.48,8011.46,45.72,45-54,Female,UK,Undergraduate Student
+Operations Management – Stevenson,123,60.44,7434.12,3516.28,3917.84,52.7,55+,Female,Europe,Industry Professional
+Strategic Operations Management – Brown,186,62.55,11634.3,7257.25,4377.05,37.62,35-44,Female,Australia,Professor
+Operations Management – Stevenson,166,45.14,7493.24,3268.53,4224.71,56.38,25-34,Female,UK,Industry Professional
+Lean Thinking – Womack & Jones,108,41.64,4497.12,2452.1,2045.02,45.47,55+,Non-binary,Asia,PhD Student
+The Goal – Eliyahu Goldratt,436,39.41,17182.76,8045.74,9137.02,53.18,25-34,Female,UK,Industry Professional
+Lean Thinking – Womack & Jones,150,24.55,3682.5,1533.24,2149.26,58.36,35-44,Non-binary,USA,Professor
+The Goal – Eliyahu Goldratt,456,21.23,9680.88,4698.15,4982.73,51.47,45-54,Female,Canada,MBA Student
+Operations Strategy – Nigel Slack,139,114.11,15861.29,8617.74,7243.55,45.67,18-24,Female,Europe,Undergraduate Student
+Operations Management: Theory and Practice – Mahadevan,332,88.65,29431.8,13112.4,16319.4,55.45,55+,Female,UK,MBA Student
+The Goal – Eliyahu Goldratt,295,96.44,28449.8,16554.8,11895.0,41.81,55+,Male,Asia,Professor
+Supply Chain Management – Chopra,475,64.27,30528.25,20089.11,10439.14,34.2,45-54,Female,Asia,Industry Professional
+Operations Strategy – Nigel Slack,322,116.01,37355.22,16054.16,21301.06,57.02,25-34,Non-binary,USA,PhD Student
+The Goal – Eliyahu Goldratt,90,43.99,3959.1,2239.26,1719.84,43.44,25-34,Male,Europe,Professor
+Operations Management: Theory and Practice – Mahadevan,250,49.13,12282.5,5765.93,6516.57,53.06,35-44,Non-binary,Europe,Undergraduate Student
+The Toyota Way – Jeffrey Liker,483,46.46,22440.18,14302.79,8137.39,36.26,55+,Non-binary,USA,Professor
+The Goal – Eliyahu Goldratt,288,42.48,12234.24,5440.53,6793.71,55.53,35-44,Male,UK,Undergraduate Student
+Lean Thinking – Womack & Jones,415,50.76,21065.4,13159.29,7906.11,37.53,55+,Female,Europe,Undergraduate Student
+Supply Chain Management – Chopra,362,50.41,18248.42,9502.91,8745.51,47.92,35-44,Non-binary,Asia,Professor
+Supply Chain Management – Chopra,51,79.8,4069.8,2713.85,1355.95,33.32,35-44,Non-binary,Canada,Undergraduate Student
+The Goal – Eliyahu Goldratt,127,116.19,14756.13,9603.11,5153.02,34.92,55+,Non-binary,UK,PhD Student
+Operations Management: Theory and Practice – Mahadevan,30,96.31,2889.3,1307.57,1581.73,54.74,55+,Non-binary,Europe,PhD Student
+Lean Thinking – Womack & Jones,309,63.59,19649.31,12659.53,6989.78,35.57,18-24,Female,Canada,Professor
+The Phoenix Project – Gene Kim,174,87.01,15139.74,9951.65,5188.09,34.27,35-44,Female,Australia,Professor
+Operations Management – Stevenson,349,114.52,39967.48,25741.85,14225.63,35.59,55+,Male,Europe,Undergraduate Student
+The Phoenix Project – Gene Kim,139,52.33,7273.87,5026.65,2247.22,30.89,45-54,Non-binary,UK,Industry Professional
+Supply Chain Management – Chopra,221,25.42,5617.82,3120.88,2496.94,44.45,55+,Female,Australia,Professor
+Operations Strategy – Nigel Slack,114,46.71,5324.94,2339.27,2985.67,56.07,35-44,Female,Australia,Professor
+The Goal – Eliyahu Goldratt,24,117.31,2815.44,1640.45,1174.99,41.73,25-34,Non-binary,USA,PhD Student
+Strategic Operations Management – Brown,17,75.23,1278.91,547.33,731.58,57.2,18-24,Female,UK,MBA Student
+Supply Chain Management – Chopra,487,91.66,44638.42,24669.94,19968.48,44.73,35-44,Female,Europe,Professor
+The Toyota Way – Jeffrey Liker,243,75.13,18256.59,9403.53,8853.06,48.49,55+,Non-binary,Australia,MBA Student
+The Goal – Eliyahu Goldratt,151,97.27,14687.77,9639.93,5047.84,34.37,35-44,Non-binary,Canada,Undergraduate Student
+Operations Management – Stevenson,381,49.86,18996.66,10943.62,8053.04,42.39,45-54,Male,Europe,Industry Professional
+Supply Chain Management – Chopra,186,53.24,9902.64,6227.39,3675.25,37.11,45-54,Female,Canada,MBA Student
+The Toyota Way – Jeffrey Liker,302,58.3,17606.6,11564.08,6042.52,34.32,45-54,Male,Canada,Professor
+Operations Strategy – Michael Lewis,207,118.84,24599.88,15687.79,8912.09,36.23,25-34,Female,UK,MBA Student
+Strategic Operations Management – Brown,312,53.2,16598.4,7139.13,9459.27,56.99,45-54,Male,Asia,Professor
+Operations Strategy – Nigel Slack,379,34.42,13045.18,8626.52,4418.66,33.87,25-34,Male,Europe,PhD Student
+The Phoenix Project – Gene Kim,329,89.27,29369.83,17473.61,11896.22,40.5,35-44,Non-binary,Asia,Professor
+The Phoenix Project – Gene Kim,330,91.87,30317.1,19033.7,11283.4,37.22,55+,Male,Asia,Undergraduate Student
+The Toyota Way – Jeffrey Liker,333,88.44,29450.52,14319.25,15131.27,51.38,25-34,Non-binary,UK,Professor
+The Goal – Eliyahu Goldratt,399,83.37,33264.63,22013.66,11250.97,33.82,45-54,Male,Australia,PhD Student
+Operations Strategy – Nigel Slack,33,52.44,1730.52,721.34,1009.18,58.32,35-44,Female,Europe,MBA Student
+The Toyota Way – Jeffrey Liker,281,61.21,17200.01,10398.1,6801.91,39.55,25-34,Male,USA,Undergraduate Student
+Operations Management: Theory and Practice – Mahadevan,455,58.25,26503.75,16033.19,10470.56,39.51,45-54,Non-binary,USA,MBA Student
+Supply Chain Management – Chopra,336,45.4,15254.4,7270.22,7984.18,52.34,18-24,Female,Canada,Industry Professional
+Lean Thinking – Womack & Jones,47,64.17,3015.99,1519.06,1496.93,49.63,55+,Female,Australia,Professor
+Operations Management – Stevenson,243,104.53,25400.79,11678.4,13722.39,54.02,45-54,Female,UK,MBA Student
+Operations Strategy – Michael Lewis,302,55.9,16881.8,8251.18,8630.62,51.12,35-44,Male,Australia,Professor
+Operations Management – Stevenson,14,76.59,1072.26,649.51,422.75,39.43,18-24,Non-binary,Australia,Professor
+Operations Management – Stevenson,407,99.89,40655.23,23666.2,16989.03,41.79,35-44,Male,Australia,MBA Student
+Operations Management: Theory and Practice – Mahadevan,138,87.78,12113.64,7465.38,4648.26,38.37,25-34,Non-binary,UK,Undergraduate Student
+Operations Management – Stevenson,413,64.08,26465.04,15187.55,11277.49,42.61,25-34,Male,Canada,PhD Student
+Operations Strategy – Michael Lewis,99,40.08,3967.92,2523.41,1444.51,36.4,35-44,Non-binary,Asia,PhD Student
+Lean Thinking – Womack & Jones,141,111.4,15707.4,10732.18,4975.22,31.67,35-44,Non-binary,Canada,Undergraduate Student
+Supply Chain Management – Chopra,48,34.08,1635.84,1128.65,507.19,31.0,45-54,Non-binary,Canada,Undergraduate Student
+Operations Strategy – Michael Lewis,17,46.45,789.65,345.14,444.51,56.29,35-44,Non-binary,Australia,PhD Student
+Operations Management: Theory and Practice – Mahadevan,205,102.24,20959.2,14296.01,6663.19,31.79,18-24,Non-binary,USA,Professor
+Operations Strategy – Nigel Slack,327,108.42,35453.34,20152.47,15300.87,43.16,55+,Male,Australia,Undergraduate Student
+Supply Chain Management – Chopra,475,90.11,42802.25,25457.57,17344.68,40.52,18-24,Male,UK,Undergraduate Student
+Operations Management – Stevenson,262,31.61,8281.82,3896.1,4385.72,52.96,55+,Male,Europe,Professor
+The Phoenix Project – Gene Kim,353,114.94,40573.82,24707.23,15866.59,39.11,55+,Female,Asia,MBA Student
+Operations Strategy – Michael Lewis,345,29.9,10315.5,5640.56,4674.94,45.32,45-54,Female,UK,PhD Student
+The Toyota Way – Jeffrey Liker,237,64.47,15279.39,7194.05,8085.34,52.92,35-44,Male,Australia,PhD Student
+Strategic Operations Management – Brown,471,117.78,55474.38,28158.91,27315.47,49.24,45-54,Female,USA,Undergraduate Student
+Supply Chain Management – Chopra,56,86.28,4831.68,2862.83,1968.85,40.75,55+,Male,UK,PhD Student
+The Toyota Way – Jeffrey Liker,74,98.7,7303.8,3371.15,3932.65,53.84,55+,Male,Asia,MBA Student
+The Toyota Way – Jeffrey Liker,178,97.44,17344.32,11041.27,6303.05,36.34,55+,Male,Canada,MBA Student
+Lean Thinking – Womack & Jones,286,45.07,12890.02,5830.79,7059.23,54.77,18-24,Male,UK,PhD Student
+The Toyota Way – Jeffrey Liker,311,52.38,16290.18,7367.62,8922.56,54.77,18-24,Male,Australia,Professor
+Strategic Operations Management – Brown,68,94.57,6430.76,3491.09,2939.67,45.71,35-44,Non-binary,Asia,Undergraduate Student
+Supply Chain Management – Chopra,267,42.15,11254.05,6578.35,4675.7,41.55,55+,Female,Europe,Undergraduate Student
+Operations Strategy – Nigel Slack,255,104.73,26706.15,14097.7,12608.45,47.21,18-24,Female,Australia,Professor
+The Goal – Eliyahu Goldratt,470,28.08,13197.6,7687.46,5510.14,41.75,18-24,Male,Canada,Industry Professional
+Operations Management: Theory and Practice – Mahadevan,290,91.22,26453.8,13604.43,12849.37,48.57,55+,Non-binary,Canada,Professor
+Strategic Operations Management – Brown,319,63.02,20103.38,12824.53,7278.85,36.21,18-24,Non-binary,Australia,Industry Professional
+The Toyota Way – Jeffrey Liker,230,65.16,14986.8,7022.04,7964.76,53.15,35-44,Female,Europe,Professor
+The Goal – Eliyahu Goldratt,170,62.68,10655.6,6388.38,4267.22,40.05,35-44,Male,Australia,Professor
+The Goal – Eliyahu Goldratt,56,103.18,5778.08,2472.84,3305.24,57.2,18-24,Non-binary,Australia,PhD Student
+Lean Thinking – Womack & Jones,294,26.0,7644.0,5251.33,2392.67,31.3,55+,Female,Australia,Undergraduate Student
+Operations Strategy – Michael Lewis,191,107.36,20505.76,13991.88,6513.88,31.77,45-54,Non-binary,UK,PhD Student
+Operations Management: Theory and Practice – Mahadevan,169,55.16,9322.04,5345.03,3977.01,42.66,25-34,Male,Australia,Professor
+The Toyota Way – Jeffrey Liker,443,30.82,13653.26,8923.93,4729.33,34.64,35-44,Male,Canada,Industry Professional
+The Toyota Way – Jeffrey Liker,423,62.91,26610.93,15122.72,11488.21,43.17,55+,Non-binary,Australia,Industry Professional
+Operations Strategy – Nigel Slack,321,112.91,36244.11,23516.56,12727.55,35.12,35-44,Male,USA,PhD Student
+Operations Management – Stevenson,481,53.98,25964.38,10433.31,15531.07,59.82,25-34,Non-binary,Australia,Professor
+The Goal – Eliyahu Goldratt,82,94.1,7716.2,5336.08,2380.12,30.85,18-24,Non-binary,Asia,MBA Student
+Operations Strategy – Michael Lewis,224,65.36,14640.64,6547.63,8093.01,55.28,35-44,Non-binary,Canada,Industry Professional
+Operations Management: Theory and Practice – Mahadevan,53,108.33,5741.49,2564.57,3176.92,55.33,55+,Male,Australia,Undergraduate Student
+Operations Management – Stevenson,236,86.19,20340.84,11099.97,9240.87,45.43,45-54,Female,Canada,MBA Student
+Strategic Operations Management – Brown,68,54.52,3707.36,1606.28,2101.08,56.67,55+,Female,Asia,PhD Student
+Operations Strategy – Nigel Slack,122,59.53,7262.66,4210.87,3051.79,42.02,18-24,Male,Canada,MBA Student
+Lean Thinking – Womack & Jones,401,45.55,18265.55,9104.22,9161.33,50.16,18-24,Female,Australia,Professor
+Lean Thinking – Womack & Jones,76,58.02,4409.52,2694.66,1714.86,38.89,55+,Non-binary,Australia,PhD Student
+The Goal – Eliyahu Goldratt,213,106.18,22616.34,9333.55,13282.79,58.73,18-24,Female,UK,PhD Student
+Operations Management: Theory and Practice – Mahadevan,229,77.34,17710.86,10854.1,6856.76,38.72,45-54,Female,UK,Professor
+Operations Strategy – Nigel Slack,176,37.19,6545.44,4478.94,2066.5,31.57,45-54,Non-binary,Canada,Undergraduate Student
+Operations Strategy – Michael Lewis,442,30.59,13520.78,7175.52,6345.26,46.93,45-54,Non-binary,UK,Professor
+Operations Management – Stevenson,391,53.95,21094.45,10545.55,10548.9,50.01,25-34,Male,Asia,Undergraduate Student
+Strategic Operations Management – Brown,271,39.39,10674.69,6755.67,3919.02,36.71,35-44,Non-binary,Australia,MBA Student
+The Toyota Way – Jeffrey Liker,62,34.64,2147.68,986.18,1161.5,54.08,55+,Male,Australia,Undergraduate Student
+Lean Thinking – Womack & Jones,497,97.28,48348.16,26506.16,21842.0,45.18,55+,Non-binary,Europe,Industry Professional
+Operations Management: Theory and Practice – Mahadevan,175,106.42,18623.5,10953.7,7669.8,41.18,25-34,Female,UK,Professor
+Supply Chain Management – Chopra,333,50.28,16743.24,8076.97,8666.27,51.76,18-24,Female,Asia,Undergraduate Student
+Operations Management – Stevenson,246,65.19,16036.74,6688.4,9348.34,58.29,35-44,Male,Australia,Undergraduate Student
+Operations Management: Theory and Practice – Mahadevan,314,70.71,22202.94,11963.24,10239.7,46.12,55+,Non-binary,UK,Professor
+Operations Management: Theory and Practice – Mahadevan,343,38.82,13315.26,7742.85,5572.41,41.85,55+,Male,UK,Professor
+The Goal – Eliyahu Goldratt,425,109.91,46711.75,23497.47,23214.28,49.7,18-24,Non-binary,Australia,MBA Student
+Operations Strategy – Nigel Slack,136,90.76,12343.36,8606.97,3736.39,30.27,55+,Non-binary,Asia,MBA Student
+The Phoenix Project – Gene Kim,200,111.79,22358.0,11541.76,10816.24,48.38,35-44,Non-binary,Asia,Undergraduate Student
+The Phoenix Project – Gene Kim,43,52.97,2277.71,1292.35,985.36,43.26,45-54,Female,Canada,Industry Professional
+Lean Thinking – Womack & Jones,180,28.15,5067.0,3035.56,2031.44,40.09,35-44,Female,Australia,Professor
+Lean Thinking – Womack & Jones,314,90.88,28536.32,12139.8,16396.52,57.46,55+,Female,Australia,PhD Student
+Lean Thinking – Womack & Jones,353,90.28,31868.84,21802.51,10066.33,31.59,55+,Male,Australia,Professor
+Strategic Operations Management – Brown,195,21.82,4254.9,2096.22,2158.68,50.73,25-34,Female,Europe,MBA Student
+The Toyota Way – Jeffrey Liker,80,35.49,2839.2,1387.62,1451.58,51.13,18-24,Non-binary,Asia,Industry Professional
+Operations Strategy – Nigel Slack,348,53.68,18680.64,11766.79,6913.85,37.01,25-34,Non-binary,Europe,MBA Student
+Lean Thinking – Womack & Jones,102,103.13,10519.26,6641.12,3878.14,36.87,25-34,Non-binary,Europe,Undergraduate Student
+Operations Strategy – Michael Lewis,196,87.64,17177.44,8095.02,9082.42,52.87,45-54,Non-binary,Canada,Professor
+The Toyota Way – Jeffrey Liker,283,43.92,12429.36,8572.27,3857.09,31.03,45-54,Male,Canada,Industry Professional
+Supply Chain Management – Chopra,246,96.94,23847.24,15105.73,8741.51,36.66,55+,Non-binary,Europe,MBA Student
+The Toyota Way – Jeffrey Liker,420,80.47,33797.4,22370.52,11426.88,33.81,18-24,Non-binary,Europe,PhD Student
+Strategic Operations Management – Brown,488,30.26,14766.88,9654.11,5112.77,34.62,18-24,Female,UK,MBA Student
+Operations Management – Stevenson,240,110.53,26527.2,11783.5,14743.7,55.58,45-54,Male,USA,Professor
+The Phoenix Project – Gene Kim,486,22.67,11017.62,4583.08,6434.54,58.4,55+,Female,USA,Professor
+The Goal – Eliyahu Goldratt,201,42.45,8532.45,4228.73,4303.72,50.44,18-24,Non-binary,Australia,PhD Student
+Lean Thinking – Womack & Jones,80,23.83,1906.4,1287.24,619.16,32.48,45-54,Non-binary,USA,Professor
+Supply Chain Management – Chopra,325,20.53,6672.25,2827.48,3844.77,57.62,35-44,Male,USA,Industry Professional
+Operations Management: Theory and Practice – Mahadevan,280,62.33,17452.4,11044.78,6407.62,36.71,25-34,Female,UK,Undergraduate Student
+The Toyota Way – Jeffrey Liker,224,83.9,18793.6,11028.9,7764.7,41.32,18-24,Male,Europe,Industry Professional
+Strategic Operations Management – Brown,18,83.2,1497.6,857.4,640.2,42.75,25-34,Female,Europe,Undergraduate Student
+Operations Management: Theory and Practice – Mahadevan,190,44.06,8371.4,4394.74,3976.66,47.5,18-24,Non-binary,Canada,Undergraduate Student
+Strategic Operations Management – Brown,288,70.73,20370.24,14187.86,6182.38,30.35,55+,Male,Europe,Professor
+Operations Strategy – Nigel Slack,335,58.69,19661.15,10066.33,9594.82,48.8,18-24,Female,UK,PhD Student
+The Toyota Way – Jeffrey Liker,385,85.71,32998.35,14225.56,18772.79,56.89,55+,Non-binary,Canada,MBA Student
+Operations Strategy – Nigel Slack,190,74.6,14174.0,9128.8,5045.2,35.59,25-34,Non-binary,Europe,Professor
+Lean Thinking – Womack & Jones,425,33.49,14233.25,8750.79,5482.46,38.52,45-54,Male,Canada,MBA Student
+Operations Strategy – Nigel Slack,415,39.95,16579.25,6840.13,9739.12,58.74,35-44,Non-binary,Europe,Industry Professional
+Supply Chain Management – Chopra,139,23.66,3288.74,1953.74,1335.0,40.59,35-44,Female,UK,PhD Student
+Operations Management – Stevenson,73,99.93,7294.89,3874.21,3420.68,46.89,45-54,Non-binary,Europe,Professor
+The Phoenix Project – Gene Kim,105,69.62,7310.1,4015.12,3294.98,45.07,55+,Female,UK,Professor
+The Goal – Eliyahu Goldratt,230,80.25,18457.5,11936.51,6520.99,35.33,55+,Female,Canada,Undergraduate Student
+The Goal – Eliyahu Goldratt,177,86.09,15237.93,7496.28,7741.65,50.81,55+,Non-binary,Europe,MBA Student
+Supply Chain Management – Chopra,189,64.71,12230.19,7558.8,4671.39,38.2,35-44,Non-binary,Europe,PhD Student
+Operations Strategy – Nigel Slack,48,87.12,4181.76,2182.31,1999.45,47.81,55+,Non-binary,Australia,MBA Student
+Operations Strategy – Nigel Slack,83,104.87,8704.21,5252.35,3451.86,39.66,45-54,Male,USA,Undergraduate Student
+The Toyota Way – Jeffrey Liker,408,84.52,34484.16,17540.2,16943.96,49.14,55+,Male,Asia,MBA Student
+Supply Chain Management – Chopra,495,57.1,28264.5,15070.12,13194.38,46.68,18-24,Non-binary,USA,Industry Professional
+The Phoenix Project – Gene Kim,213,51.44,10956.72,5298.75,5657.97,51.64,18-24,Male,Australia,MBA Student
+Supply Chain Management – Chopra,275,58.7,16142.5,9177.04,6965.46,43.15,35-44,Female,Australia,Professor
+The Toyota Way – Jeffrey Liker,323,48.56,15684.88,10586.41,5098.47,32.51,45-54,Male,UK,MBA Student
+The Goal – Eliyahu Goldratt,241,37.27,8982.07,5515.09,3466.98,38.6,18-24,Non-binary,Canada,PhD Student
+The Goal – Eliyahu Goldratt,291,74.22,21598.02,14414.51,7183.51,33.26,25-34,Non-binary,Australia,MBA Student
+The Phoenix Project – Gene Kim,270,42.42,11453.4,7966.3,3487.1,30.45,25-34,Male,Europe,Undergraduate Student
+The Phoenix Project – Gene Kim,293,77.23,22628.39,12224.35,10404.04,45.98,55+,Male,Asia,Undergraduate Student
+The Goal – Eliyahu Goldratt,168,59.82,10049.76,6181.41,3868.35,38.49,45-54,Non-binary,Europe,Professor
+Operations Management: Theory and Practice – Mahadevan,47,32.53,1528.91,756.98,771.93,50.49,18-24,Female,Europe,Industry Professional
+The Phoenix Project – Gene Kim,75,107.8,8085.0,5126.53,2958.47,36.59,55+,Male,USA,Professor
+Strategic Operations Management – Brown,476,106.82,50846.32,33020.48,17825.84,35.06,55+,Male,Canada,MBA Student
+Lean Thinking – Womack & Jones,175,113.47,19857.25,9286.07,10571.18,53.24,55+,Female,UK,PhD Student
+The Toyota Way – Jeffrey Liker,335,115.64,38739.4,18685.38,20054.02,51.77,35-44,Non-binary,Asia,Undergraduate Student
+Strategic Operations Management – Brown,338,36.86,12458.68,8502.83,3955.85,31.75,25-34,Male,Australia,Industry Professional
+Operations Management: Theory and Practice – Mahadevan,182,104.25,18973.5,10797.54,8175.96,43.09,18-24,Male,UK,Industry Professional
+Operations Management – Stevenson,343,41.08,14090.44,8054.68,6035.76,42.84,55+,Non-binary,UK,Professor
+Strategic Operations Management – Brown,158,84.19,13302.02,6526.35,6775.67,50.94,25-34,Non-binary,Europe,PhD Student
+Supply Chain Management – Chopra,47,88.86,4176.42,1868.63,2307.79,55.26,45-54,Female,Europe,MBA Student
+The Phoenix Project – Gene Kim,320,34.37,10998.4,7241.85,3756.55,34.16,35-44,Non-binary,Canada,Professor
+Lean Thinking – Womack & Jones,399,57.05,22762.95,12940.63,9822.32,43.15,35-44,Male,Europe,Undergraduate Student
+Operations Management – Stevenson,240,44.79,10749.6,4612.05,6137.55,57.1,35-44,Female,Asia,Professor
+The Toyota Way – Jeffrey Liker,453,110.23,49934.19,32159.78,17774.41,35.6,55+,Non-binary,Canada,MBA Student
+Lean Thinking – Womack & Jones,265,119.6,31694.0,17116.17,14577.83,46.0,35-44,Female,UK,Undergraduate Student
+Operations Strategy – Michael Lewis,268,65.72,17612.96,8317.17,9295.79,52.78,55+,Female,UK,Undergraduate Student
+Operations Management – Stevenson,263,79.75,20974.25,13693.14,7281.11,34.71,45-54,Female,Asia,Undergraduate Student
+The Goal – Eliyahu Goldratt,230,33.39,7679.7,3681.2,3998.5,52.07,35-44,Female,Canada,Undergraduate Student
+Operations Strategy – Michael Lewis,36,77.03,2773.08,1271.17,1501.91,54.16,55+,Female,UK,Professor
+Strategic Operations Management – Brown,240,96.44,23145.6,11200.53,11945.07,51.61,55+,Non-binary,Asia,Undergraduate Student
+Lean Thinking – Womack & Jones,59,59.39,3504.01,2237.2,1266.81,36.15,35-44,Non-binary,Canada,MBA Student
+The Toyota Way – Jeffrey Liker,318,70.91,22549.38,12402.69,10146.69,45.0,18-24,Male,USA,PhD Student
+Supply Chain Management – Chopra,275,65.7,18067.5,10513.08,7554.42,41.81,55+,Male,Canada,Industry Professional
+The Phoenix Project – Gene Kim,93,59.3,5514.9,3225.94,2288.96,41.5,35-44,Non-binary,Canada,Industry Professional
+Strategic Operations Management – Brown,282,68.98,19452.36,11066.01,8386.35,43.11,45-54,Male,Canada,PhD Student
+The Goal – Eliyahu Goldratt,223,78.37,17476.51,11167.95,6308.56,36.1,18-24,Non-binary,Europe,PhD Student
+Operations Management: Theory and Practice – Mahadevan,305,42.75,13038.75,5416.38,7622.37,58.46,45-54,Male,Asia,Industry Professional
+Operations Strategy – Michael Lewis,85,102.17,8684.45,4104.78,4579.67,52.73,55+,Non-binary,UK,MBA Student
+Operations Strategy – Nigel Slack,235,51.37,12071.95,5377.2,6694.75,55.46,25-34,Female,Asia,Industry Professional
+Supply Chain Management – Chopra,456,104.84,47807.04,29555.3,18251.74,38.18,25-34,Non-binary,USA,Industry Professional
+The Phoenix Project – Gene Kim,349,67.84,23676.16,12146.99,11529.17,48.7,25-34,Female,Asia,PhD Student
+Strategic Operations Management – Brown,191,87.59,16729.69,11046.55,5683.14,33.97,35-44,Non-binary,Europe,MBA Student
+The Toyota Way – Jeffrey Liker,152,75.81,11523.12,5386.6,6136.52,53.25,35-44,Female,Australia,MBA Student
+Supply Chain Management – Chopra,172,67.98,11692.56,6643.08,5049.48,43.19,35-44,Female,UK,Industry Professional
+Strategic Operations Management – Brown,204,109.58,22354.32,11587.58,10766.74,48.16,35-44,Male,Canada,Undergraduate Student
+Operations Management – Stevenson,499,91.41,45613.59,22985.1,22628.49,49.61,45-54,Non-binary,Canada,Professor
+The Toyota Way – Jeffrey Liker,113,102.8,11616.4,5591.44,6024.96,51.87,55+,Non-binary,Canada,MBA Student
+The Goal – Eliyahu Goldratt,325,94.09,30579.25,14426.82,16152.43,52.82,18-24,Non-binary,Asia,MBA Student
+The Toyota Way – Jeffrey Liker,36,30.02,1080.72,539.37,541.35,50.09,45-54,Male,Australia,MBA Student
+Operations Strategy – Nigel Slack,291,117.79,34276.89,15334.87,18942.02,55.26,45-54,Female,Australia,MBA Student
+Operations Management – Stevenson,174,48.54,8445.96,3528.29,4917.67,58.23,18-24,Non-binary,Asia,MBA Student
+Strategic Operations Management – Brown,388,92.31,35816.28,24390.92,11425.36,31.9,25-34,Female,USA,Undergraduate Student
+Operations Strategy – Michael Lewis,413,69.54,28720.02,19557.83,9162.19,31.9,35-44,Male,UK,PhD Student
+Operations Management: Theory and Practice – Mahadevan,318,30.73,9772.14,6790.64,2981.5,30.51,35-44,Female,Australia,Industry Professional
+Strategic Operations Management – Brown,262,108.93,28539.66,12564.87,15974.79,55.97,55+,Female,Canada,MBA Student
+The Goal – Eliyahu Goldratt,179,36.25,6488.75,3488.83,2999.92,46.23,35-44,Non-binary,USA,Undergraduate Student
+The Phoenix Project – Gene Kim,414,49.5,20493.0,12343.35,8149.65,39.77,25-34,Male,Asia,Professor
+Operations Strategy – Michael Lewis,273,52.79,14411.67,7497.67,6914.0,47.98,18-24,Male,USA,Professor
+The Phoenix Project – Gene Kim,489,44.8,21907.2,10476.8,11430.4,52.18,25-34,Female,Canada,PhD Student
+Operations Management – Stevenson,308,92.29,28425.32,11467.65,16957.67,59.66,35-44,Non-binary,USA,Undergraduate Student
+The Goal – Eliyahu Goldratt,248,50.68,12568.64,6556.12,6012.52,47.84,55+,Non-binary,Canada,Undergraduate Student
+Operations Management – Stevenson,198,81.46,16129.08,7511.93,8617.15,53.43,25-34,Female,USA,Professor
+Operations Management: Theory and Practice – Mahadevan,201,61.58,12377.58,6990.49,5387.09,43.52,45-54,Non-binary,Australia,MBA Student
+The Toyota Way – Jeffrey Liker,358,95.47,34178.26,22623.98,11554.28,33.81,18-24,Non-binary,Europe,Industry Professional
+The Phoenix Project – Gene Kim,49,111.72,5474.28,2373.99,3100.29,56.63,55+,Non-binary,USA,Industry Professional
+Strategic Operations Management – Brown,86,36.45,3134.7,2057.45,1077.25,34.37,45-54,Male,Australia,MBA Student
+Operations Management: Theory and Practice – Mahadevan,260,29.09,7563.4,4183.41,3379.99,44.69,18-24,Female,USA,Industry Professional
+Operations Strategy – Michael Lewis,243,76.39,18562.77,10536.96,8025.81,43.24,35-44,Non-binary,UK,Professor
+Operations Management – Stevenson,428,20.3,8688.4,4043.32,4645.08,53.46,18-24,Male,Europe,PhD Student
+The Goal – Eliyahu Goldratt,287,119.41,34270.67,23316.9,10953.77,31.96,18-24,Female,UK,PhD Student
+Operations Strategy – Michael Lewis,102,96.9,9883.8,6224.31,3659.49,37.03,45-54,Female,Europe,Professor
+Operations Strategy – Michael Lewis,202,28.02,5660.04,3901.14,1758.9,31.08,55+,Male,Australia,PhD Student
+The Goal – Eliyahu Goldratt,101,119.28,12047.28,6239.5,5807.78,48.21,25-34,Non-binary,USA,Undergraduate Student
+Operations Strategy – Nigel Slack,162,66.3,10740.6,6613.29,4127.31,38.43,45-54,Non-binary,Europe,MBA Student
+The Toyota Way – Jeffrey Liker,245,54.62,13381.9,6459.38,6922.52,51.73,18-24,Male,Australia,Professor
+Operations Management: Theory and Practice – Mahadevan,402,113.62,45675.24,30452.25,15222.99,33.33,25-34,Male,UK,Undergraduate Student
+Operations Management: Theory and Practice – Mahadevan,27,64.64,1745.28,1049.97,695.31,39.84,18-24,Male,Australia,Undergraduate Student
+Operations Strategy – Michael Lewis,234,43.43,10162.62,4727.46,5435.16,53.48,18-24,Male,Asia,PhD Student
+The Toyota Way – Jeffrey Liker,427,111.64,47670.28,27307.11,20363.17,42.72,55+,Non-binary,Australia,PhD Student
+The Toyota Way – Jeffrey Liker,164,107.63,17651.32,12280.18,5371.14,30.43,55+,Male,Europe,PhD Student
+Operations Management – Stevenson,41,75.67,3102.47,1791.68,1310.79,42.25,25-34,Non-binary,Australia,Professor
+Strategic Operations Management – Brown,263,24.69,6493.47,3268.32,3225.15,49.67,45-54,Non-binary,Canada,Professor
+Operations Strategy – Michael Lewis,86,49.99,4299.14,1956.81,2342.33,54.48,55+,Female,USA,MBA Student
+Operations Management – Stevenson,449,90.76,40751.24,26151.41,14599.83,35.83,18-24,Non-binary,Europe,Professor
+Strategic Operations Management – Brown,281,33.41,9388.21,4439.29,4948.92,52.71,25-34,Female,Australia,Undergraduate Student
+Supply Chain Management – Chopra,443,57.11,25299.73,14185.32,11114.41,43.93,25-34,Male,Canada,Professor
+Operations Management: Theory and Practice – Mahadevan,318,23.95,7616.1,3212.74,4403.36,57.82,55+,Non-binary,Australia,Industry Professional
+The Toyota Way – Jeffrey Liker,255,40.89,10426.95,7008.06,3418.89,32.79,35-44,Male,USA,MBA Student
+The Goal – Eliyahu Goldratt,392,119.96,47024.32,25566.01,21458.31,45.63,25-34,Non-binary,Asia,MBA Student
+Operations Strategy – Michael Lewis,478,43.93,20998.54,10425.45,10573.09,50.35,35-44,Female,Europe,Industry Professional
+The Phoenix Project – Gene Kim,167,46.16,7708.72,4269.44,3439.28,44.62,45-54,Female,UK,Professor
+The Phoenix Project – Gene Kim,478,40.31,19268.18,9516.1,9752.08,50.61,18-24,Non-binary,USA,MBA Student
+Operations Strategy – Nigel Slack,143,75.33,10772.19,6196.27,4575.92,42.48,45-54,Female,USA,MBA Student
+The Phoenix Project – Gene Kim,127,57.98,7363.46,4786.31,2577.15,35.0,45-54,Non-binary,Australia,PhD Student
+Operations Management – Stevenson,400,102.16,40864.0,28194.22,12669.78,31.0,45-54,Female,USA,PhD Student
+Lean Thinking – Womack & Jones,81,92.03,7454.43,4073.81,3380.62,45.35,55+,Non-binary,UK,Industry Professional
+Operations Strategy – Nigel Slack,439,104.67,45950.13,31409.51,14540.62,31.64,18-24,Male,Europe,MBA Student
+The Toyota Way – Jeffrey Liker,44,90.72,3991.68,1607.62,2384.06,59.73,55+,Female,Canada,Undergraduate Student
+Operations Management: Theory and Practice – Mahadevan,336,86.68,29124.48,17036.53,12087.95,41.5,45-54,Non-binary,Europe,Undergraduate Student
+Operations Strategy – Nigel Slack,282,75.16,21195.12,8553.4,12641.72,59.64,55+,Non-binary,Canada,Industry Professional
+Operations Management – Stevenson,18,70.22,1263.96,770.2,493.76,39.06,45-54,Male,UK,Undergraduate Student
+Strategic Operations Management – Brown,86,44.1,3792.6,2222.21,1570.39,41.41,35-44,Female,Canada,Professor
+The Goal – Eliyahu Goldratt,201,115.93,23301.93,12529.43,10772.5,46.23,25-34,Non-binary,USA,PhD Student
+The Goal – Eliyahu Goldratt,344,119.17,40994.48,24390.42,16604.06,40.5,18-24,Male,Europe,Professor
+Operations Strategy – Michael Lewis,292,67.6,19739.2,11666.35,8072.85,40.9,25-34,Male,Europe,Professor
+The Phoenix Project – Gene Kim,299,117.73,35201.27,24364.63,10836.64,30.78,55+,Male,USA,MBA Student
+Operations Management: Theory and Practice – Mahadevan,253,47.11,11918.83,8072.0,3846.83,32.28,35-44,Non-binary,Asia,Undergraduate Student
+Lean Thinking – Womack & Jones,485,105.04,50944.4,20617.07,30327.33,59.53,25-34,Non-binary,USA,Professor
+The Goal – Eliyahu Goldratt,163,36.25,5908.75,2789.77,3118.98,52.79,45-54,Non-binary,Asia,PhD Student
+Operations Strategy – Michael Lewis,396,93.97,37212.12,23709.68,13502.44,36.29,18-24,Non-binary,Australia,PhD Student
+Operations Strategy – Nigel Slack,60,63.71,3822.6,2490.82,1331.78,34.84,35-44,Non-binary,Asia,Industry Professional
+Operations Strategy – Michael Lewis,406,52.64,21371.84,12614.45,8757.39,40.98,45-54,Female,USA,PhD Student
+Strategic Operations Management – Brown,491,57.54,28252.14,12875.1,15377.04,54.43,55+,Non-binary,Europe,Undergraduate Student
+Operations Management: Theory and Practice – Mahadevan,161,99.81,16069.41,9865.53,6203.88,38.61,18-24,Female,USA,Professor
+Lean Thinking – Womack & Jones,388,58.96,22876.48,11626.06,11250.42,49.18,18-24,Male,Canada,Professor
+The Phoenix Project – Gene Kim,399,46.98,18745.02,8243.16,10501.86,56.02,25-34,Female,Europe,Industry Professional
+Strategic Operations Management – Brown,272,60.8,16537.6,6745.33,9792.27,59.21,35-44,Non-binary,UK,Industry Professional
+Operations Management: Theory and Practice – Mahadevan,411,52.44,21552.84,11112.03,10440.81,48.44,35-44,Female,Europe,Undergraduate Student
+Strategic Operations Management – Brown,473,119.27,56414.71,26674.16,29740.55,52.72,55+,Male,Australia,Professor
+Lean Thinking – Womack & Jones,81,46.89,3798.09,1825.07,1973.02,51.95,25-34,Male,USA,Professor
+Operations Management – Stevenson,225,49.98,11245.5,7138.64,4106.86,36.52,35-44,Female,USA,Professor
+Operations Management: Theory and Practice – Mahadevan,325,39.55,12853.75,5554.0,7299.75,56.79,35-44,Male,Europe,PhD Student
+Operations Management: Theory and Practice – Mahadevan,204,100.41,20483.64,10218.52,10265.12,50.11,35-44,Female,Australia,Industry Professional
+Lean Thinking – Womack & Jones,163,52.07,8487.41,5806.95,2680.46,31.58,25-34,Female,Canada,MBA Student
+Operations Strategy – Michael Lewis,173,49.14,8501.22,5172.88,3328.34,39.15,45-54,Non-binary,USA,PhD Student
+Operations Strategy – Michael Lewis,153,101.65,15552.45,8054.31,7498.14,48.21,18-24,Non-binary,USA,Industry Professional
+Strategic Operations Management – Brown,102,88.17,8993.34,5081.5,3911.84,43.5,45-54,Non-binary,USA,Professor
+Operations Management – Stevenson,435,89.28,38836.8,25076.52,13760.28,35.43,45-54,Non-binary,Europe,MBA Student
+Operations Management – Stevenson,133,45.27,6020.91,2686.79,3334.12,55.38,45-54,Female,UK,Professor
+Operations Management: Theory and Practice – Mahadevan,255,78.22,19946.1,11176.0,8770.1,43.97,45-54,Non-binary,UK,PhD Student
+Strategic Operations Management – Brown,314,83.82,26319.48,11198.8,15120.68,57.45,25-34,Non-binary,Australia,PhD Student
+Lean Thinking – Womack & Jones,341,81.27,27713.07,15767.8,11945.27,43.1,45-54,Female,Europe,Undergraduate Student
+Operations Strategy – Nigel Slack,60,45.87,2752.2,1522.52,1229.68,44.68,55+,Non-binary,Asia,Industry Professional
+The Toyota Way – Jeffrey Liker,238,57.41,13663.58,7363.56,6300.02,46.11,55+,Non-binary,Asia,MBA Student
+The Phoenix Project – Gene Kim,22,68.28,1502.16,734.0,768.16,51.14,18-24,Male,Australia,MBA Student
+The Phoenix Project – Gene Kim,169,54.31,9178.39,5830.86,3347.53,36.47,55+,Female,Canada,Professor
+The Goal – Eliyahu Goldratt,234,92.2,21574.8,11558.36,10016.44,46.43,18-24,Female,UK,Undergraduate Student
+Operations Strategy – Nigel Slack,444,54.31,24113.64,10436.6,13677.04,56.72,25-34,Non-binary,USA,Industry Professional
+Lean Thinking – Womack & Jones,292,36.01,10514.92,5972.0,4542.92,43.2,45-54,Male,Europe,MBA Student
+Lean Thinking – Womack & Jones,337,85.73,28891.01,14985.04,13905.97,48.13,55+,Male,Europe,Industry Professional
+Operations Strategy – Michael Lewis,209,20.45,4274.05,1985.03,2289.02,53.56,35-44,Non-binary,UK,Industry Professional
+The Goal – Eliyahu Goldratt,419,107.2,44916.8,20486.01,24430.79,54.39,35-44,Male,Europe,Undergraduate Student
+Operations Management – Stevenson,353,106.26,37509.78,20942.25,16567.53,44.17,35-44,Non-binary,Europe,Industry Professional
+Operations Strategy – Michael Lewis,310,31.42,9740.2,4924.6,4815.6,49.44,45-54,Non-binary,USA,PhD Student
+Operations Management: Theory and Practice – Mahadevan,312,28.48,8885.76,3911.37,4974.39,55.98,18-24,Male,Canada,Undergraduate Student
+Lean Thinking – Womack & Jones,201,89.34,17957.34,9934.85,8022.49,44.68,45-54,Non-binary,USA,Industry Professional
+Operations Strategy – Michael Lewis,226,38.58,8719.08,5149.93,3569.15,40.93,25-34,Non-binary,USA,Professor
+Operations Management – Stevenson,81,38.71,3135.51,2046.22,1089.29,34.74,55+,Male,Canada,Undergraduate Student
+Supply Chain Management – Chopra,79,39.51,3121.29,1608.04,1513.25,48.48,55+,Non-binary,Australia,Professor
+Operations Strategy – Michael Lewis,360,69.17,24901.2,15265.5,9635.7,38.7,45-54,Female,USA,Undergraduate Student
+Operations Management: Theory and Practice – Mahadevan,25,99.59,2489.75,1160.62,1329.13,53.38,18-24,Female,USA,Industry Professional
+Operations Management – Stevenson,96,98.07,9414.72,5363.52,4051.2,43.03,45-54,Non-binary,Asia,Undergraduate Student
+Operations Management: Theory and Practice – Mahadevan,68,46.79,3181.72,1791.09,1390.63,43.71,35-44,Non-binary,UK,Professor
+Strategic Operations Management – Brown,121,118.98,14396.58,6200.97,8195.61,56.93,25-34,Female,UK,Professor
+Operations Management – Stevenson,188,106.22,19969.36,8508.84,11460.52,57.39,18-24,Male,USA,Industry Professional
+The Phoenix Project – Gene Kim,450,91.08,40986.0,24174.82,16811.18,41.02,25-34,Non-binary,USA,MBA Student
+The Toyota Way – Jeffrey Liker,422,25.94,10946.68,5530.75,5415.93,49.48,35-44,Non-binary,Asia,MBA Student
+The Phoenix Project – Gene Kim,370,49.26,18226.2,10422.12,7804.08,42.82,55+,Non-binary,UK,MBA Student
+Operations Strategy – Michael Lewis,480,25.93,12446.4,6014.06,6432.34,51.68,25-34,Non-binary,USA,MBA Student
+Lean Thinking – Womack & Jones,374,52.21,19526.54,9260.78,10265.76,52.57,45-54,Female,USA,Industry Professional
+Operations Management – Stevenson,331,61.42,20330.02,10888.71,9441.31,46.44,18-24,Female,Asia,PhD Student
+The Phoenix Project – Gene Kim,242,115.03,27837.26,13868.16,13969.1,50.18,18-24,Non-binary,UK,Professor
+The Phoenix Project – Gene Kim,445,26.33,11716.85,6565.27,5151.58,43.97,25-34,Female,USA,Professor
+Operations Management – Stevenson,175,102.83,17995.25,9021.5,8973.75,49.87,55+,Male,Asia,Professor
+The Phoenix Project – Gene Kim,467,88.26,41217.42,17085.56,24131.86,58.55,18-24,Non-binary,Europe,Undergraduate Student
+The Goal – Eliyahu Goldratt,485,105.77,51298.45,27310.57,23987.88,46.76,18-24,Female,USA,MBA Student
+Operations Management – Stevenson,91,107.44,9777.04,6481.97,3295.07,33.7,18-24,Non-binary,Canada,PhD Student
+The Goal – Eliyahu Goldratt,200,86.45,17290.0,10281.9,7008.1,40.53,18-24,Female,Australia,PhD Student
+The Toyota Way – Jeffrey Liker,229,85.55,19590.95,11972.21,7618.74,38.89,18-24,Male,Europe,Undergraduate Student
+Lean Thinking – Womack & Jones,313,42.62,13340.06,8057.33,5282.73,39.6,18-24,Male,Australia,PhD Student
+The Goal – Eliyahu Goldratt,450,62.23,28003.5,12311.81,15691.69,56.03,18-24,Male,Europe,Undergraduate Student
+The Goal – Eliyahu Goldratt,62,51.34,3183.08,2114.51,1068.57,33.57,25-34,Female,USA,MBA Student
+The Goal – Eliyahu Goldratt,281,76.33,21448.73,12506.66,8942.07,41.69,25-34,Female,Canada,MBA Student
+Lean Thinking – Womack & Jones,480,61.17,29361.6,17792.24,11569.36,39.4,25-34,Male,UK,MBA Student
+The Goal – Eliyahu Goldratt,311,93.0,28923.0,14619.44,14303.56,49.45,45-54,Female,USA,MBA Student
+Operations Management – Stevenson,340,28.42,9662.8,5469.33,4193.47,43.4,55+,Non-binary,Asia,PhD Student
+Operations Strategy – Nigel Slack,444,104.71,46491.24,30811.98,15679.26,33.73,25-34,Non-binary,Asia,Industry Professional
+The Toyota Way – Jeffrey Liker,392,59.18,23198.56,13776.49,9422.07,40.61,25-34,Female,Europe,Undergraduate Student
+The Toyota Way – Jeffrey Liker,265,83.81,22209.65,9357.01,12852.64,57.87,18-24,Female,Canada,MBA Student
+Operations Strategy – Michael Lewis,450,103.9,46755.0,24605.24,22149.76,47.37,55+,Non-binary,USA,Professor
+The Goal – Eliyahu Goldratt,18,78.74,1417.32,572.79,844.53,59.59,25-34,Male,UK,Professor
+Strategic Operations Management – Brown,156,82.86,12926.16,7113.46,5812.7,44.97,45-54,Female,Australia,Professor
+The Goal – Eliyahu Goldratt,337,73.66,24823.42,14517.09,10306.33,41.52,35-44,Male,Canada,Undergraduate Student
+Strategic Operations Management – Brown,481,40.32,19393.92,12459.0,6934.92,35.76,55+,Female,Europe,Industry Professional
+The Goal – Eliyahu Goldratt,168,89.87,15098.16,9345.57,5752.59,38.1,25-34,Male,USA,Undergraduate Student
+Operations Strategy – Michael Lewis,69,65.34,4508.46,2626.85,1881.61,41.74,35-44,Non-binary,Australia,MBA Student
+The Goal – Eliyahu Goldratt,16,90.79,1452.64,886.76,565.88,38.96,25-34,Female,Canada,Industry Professional
+Strategic Operations Management – Brown,410,102.25,41922.5,20029.48,21893.02,52.22,35-44,Male,Australia,PhD Student
+The Goal – Eliyahu Goldratt,404,109.99,44435.96,22240.34,22195.62,49.95,45-54,Female,Asia,Undergraduate Student
+Operations Management – Stevenson,374,117.51,43948.74,25853.28,18095.46,41.17,45-54,Female,Asia,PhD Student
+Operations Strategy – Nigel Slack,265,105.94,28074.1,12635.15,15438.95,54.99,25-34,Female,UK,Industry Professional
+The Goal – Eliyahu Goldratt,126,94.08,11854.08,4750.77,7103.31,59.92,18-24,Male,UK,Professor
+The Phoenix Project – Gene Kim,206,112.02,23076.12,10469.37,12606.75,54.63,18-24,Non-binary,Australia,Professor
+The Toyota Way – Jeffrey Liker,174,44.83,7800.42,5263.38,2537.04,32.52,35-44,Female,UK,Industry Professional
+The Phoenix Project – Gene Kim,71,70.2,4984.2,3342.32,1641.88,32.94,25-34,Male,Asia,Undergraduate Student
+Operations Strategy – Michael Lewis,45,107.7,4846.5,3197.77,1648.73,34.02,35-44,Female,UK,Industry Professional
+Supply Chain Management – Chopra,14,56.89,796.46,388.26,408.2,51.25,35-44,Non-binary,Asia,MBA Student
+Supply Chain Management – Chopra,198,79.17,15675.66,8590.39,7085.27,45.2,25-34,Non-binary,Asia,MBA Student
+Lean Thinking – Womack & Jones,13,113.24,1472.12,599.41,872.71,59.28,55+,Female,Australia,Undergraduate Student
+The Phoenix Project – Gene Kim,10,95.89,958.9,491.8,467.1,48.71,35-44,Male,USA,Industry Professional
+The Toyota Way – Jeffrey Liker,224,69.2,15500.8,6478.85,9021.95,58.2,25-34,Non-binary,Canada,Undergraduate Student
+Operations Strategy – Nigel Slack,481,43.15,20755.15,13566.63,7188.52,34.63,45-54,Non-binary,Canada,Professor
+The Goal – Eliyahu Goldratt,307,29.56,9074.92,3993.46,5081.46,55.99,45-54,Male,Asia,Industry Professional
+Operations Strategy – Nigel Slack,232,86.24,20007.68,8787.62,11220.06,56.08,35-44,Female,Canada,Professor
+The Phoenix Project – Gene Kim,172,65.28,11228.16,5278.17,5949.99,52.99,25-34,Male,Asia,Undergraduate Student
+Lean Thinking – Womack & Jones,64,36.44,2332.16,1258.94,1073.22,46.02,45-54,Male,Asia,PhD Student
+The Toyota Way – Jeffrey Liker,241,50.83,12250.03,5873.92,6376.11,52.05,18-24,Male,USA,PhD Student
+Operations Management: Theory and Practice – Mahadevan,30,41.5,1245.0,817.93,427.07,34.3,25-34,Male,Australia,MBA Student
+The Phoenix Project – Gene Kim,212,71.35,15126.2,9123.44,6002.76,39.68,35-44,Male,UK,Professor
+Supply Chain Management – Chopra,294,94.81,27874.14,13238.98,14635.16,52.5,45-54,Male,USA,Undergraduate Student
+Operations Strategy – Nigel Slack,41,103.04,4224.64,2935.15,1289.49,30.52,25-34,Male,Europe,PhD Student
+The Goal – Eliyahu Goldratt,308,78.61,24211.88,16348.55,7863.33,32.48,18-24,Male,UK,MBA Student
+Supply Chain Management – Chopra,424,32.88,13941.12,9361.79,4579.33,32.85,35-44,Male,UK,Professor
+Operations Strategy – Nigel Slack,96,112.41,10791.36,5718.85,5072.51,47.01,45-54,Female,UK,Professor
+Operations Strategy – Michael Lewis,98,55.39,5428.22,3650.43,1777.79,32.75,35-44,Female,Europe,MBA Student
+Operations Strategy – Nigel Slack,324,81.92,26542.08,12573.92,13968.16,52.63,35-44,Female,Europe,Industry Professional
+Supply Chain Management – Chopra,41,28.77,1179.57,607.37,572.2,48.51,45-54,Male,Australia,Industry Professional
+The Toyota Way – Jeffrey Liker,332,119.41,39644.12,22323.49,17320.63,43.69,18-24,Female,Australia,PhD Student
+Supply Chain Management – Chopra,288,98.14,28264.32,14222.9,14041.42,49.68,55+,Non-binary,Canada,Professor
+Operations Management – Stevenson,102,22.61,2306.22,1335.61,970.61,42.09,18-24,Female,UK,Professor
+Strategic Operations Management – Brown,193,96.68,18659.24,13059.26,5599.98,30.01,25-34,Male,USA,MBA Student
+Operations Management – Stevenson,283,101.63,28761.29,19418.99,9342.3,32.48,18-24,Male,Asia,Professor
+The Phoenix Project – Gene Kim,488,103.92,50712.96,33144.28,17568.68,34.64,25-34,Male,Asia,PhD Student
+The Phoenix Project – Gene Kim,477,79.16,37759.32,23072.3,14687.02,38.9,35-44,Non-binary,Asia,MBA Student
+Operations Management: Theory and Practice – Mahadevan,495,38.82,19215.9,13381.99,5833.91,30.36,45-54,Non-binary,Canada,MBA Student
+Supply Chain Management – Chopra,29,29.03,841.87,395.5,446.37,53.02,25-34,Male,Asia,Professor
+Operations Strategy – Nigel Slack,179,111.79,20010.41,9213.58,10796.83,53.96,25-34,Female,Australia,MBA Student
+The Phoenix Project – Gene Kim,40,22.19,887.6,511.24,376.36,42.4,25-34,Male,Asia,PhD Student
+The Goal – Eliyahu Goldratt,201,90.45,18180.45,10883.58,7296.87,40.14,55+,Male,Canada,PhD Student
+The Phoenix Project – Gene Kim,79,117.59,9289.61,5756.82,3532.79,38.03,45-54,Non-binary,Europe,PhD Student
+Lean Thinking – Womack & Jones,372,116.87,43475.64,26436.15,17039.49,39.19,55+,Female,USA,Industry Professional
+Lean Thinking – Womack & Jones,203,50.68,10288.04,6240.21,4047.83,39.35,25-34,Male,Australia,Undergraduate Student
+Operations Management: Theory and Practice – Mahadevan,210,105.08,22066.8,13929.65,8137.15,36.88,55+,Male,USA,Industry Professional
+The Phoenix Project – Gene Kim,481,100.88,48523.28,28309.18,20214.1,41.66,55+,Male,Europe,MBA Student
+The Phoenix Project – Gene Kim,391,27.78,10861.98,5474.91,5387.07,49.6,35-44,Male,Australia,Undergraduate Student
+The Phoenix Project – Gene Kim,238,21.14,5031.32,2329.02,2702.3,53.71,18-24,Female,Canada,Undergraduate Student
+Operations Strategy – Nigel Slack,34,58.59,1992.06,1234.63,757.43,38.02,25-34,Female,Europe,Professor
+The Phoenix Project – Gene Kim,289,57.53,16626.17,10784.43,5841.74,35.14,55+,Non-binary,Australia,MBA Student
+Lean Thinking – Womack & Jones,241,27.37,6596.17,4312.11,2284.06,34.63,35-44,Male,Canada,PhD Student
+The Goal – Eliyahu Goldratt,47,54.18,2546.46,1696.91,849.55,33.36,25-34,Non-binary,UK,Industry Professional
+The Goal – Eliyahu Goldratt,183,79.4,14530.2,8486.99,6043.21,41.59,45-54,Non-binary,UK,Professor
+Lean Thinking – Womack & Jones,320,108.98,34873.6,15593.07,19280.53,55.29,18-24,Female,USA,MBA Student
+Operations Strategy – Michael Lewis,366,75.41,27600.06,18703.79,8896.27,32.23,55+,Female,Australia,PhD Student
+Operations Management – Stevenson,131,29.59,3876.29,2007.42,1868.87,48.21,55+,Female,USA,Undergraduate Student
+The Phoenix Project – Gene Kim,11,62.76,690.36,337.15,353.21,51.16,55+,Female,USA,Undergraduate Student
+Operations Strategy – Nigel Slack,115,37.08,4264.2,2078.98,2185.22,51.25,18-24,Female,UK,PhD Student
+Operations Strategy – Michael Lewis,251,68.91,17296.41,10348.65,6947.76,40.17,18-24,Non-binary,Asia,Professor
+Lean Thinking – Womack & Jones,199,108.55,21601.45,11034.46,10566.99,48.92,45-54,Male,Canada,Professor
+Supply Chain Management – Chopra,144,42.62,6137.28,2949.38,3187.9,51.94,18-24,Male,Australia,Undergraduate Student
+The Goal – Eliyahu Goldratt,352,54.38,19141.76,10765.99,8375.77,43.76,55+,Male,Asia,Undergraduate Student
+Operations Strategy – Michael Lewis,429,72.26,30999.54,21380.02,9619.52,31.03,45-54,Non-binary,USA,Professor
+Operations Management – Stevenson,50,59.48,2974.0,1951.49,1022.51,34.38,18-24,Non-binary,Asia,Industry Professional
+Operations Management: Theory and Practice – Mahadevan,356,118.28,42107.68,18705.68,23402.0,55.58,45-54,Male,USA,MBA Student
+The Toyota Way – Jeffrey Liker,74,24.27,1795.98,760.62,1035.36,57.65,45-54,Male,Australia,MBA Student
+Operations Management: Theory and Practice – Mahadevan,142,51.97,7379.74,4561.65,2818.09,38.19,18-24,Male,Europe,Industry Professional
+Operations Strategy – Michael Lewis,292,52.61,15362.12,7417.76,7944.36,51.71,45-54,Male,Australia,Industry Professional
+Operations Management: Theory and Practice – Mahadevan,277,98.17,27193.09,11795.16,15397.93,56.62,25-34,Male,Asia,Industry Professional
