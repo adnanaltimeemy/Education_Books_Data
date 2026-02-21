@@ -1,0 +1,501 @@
+Book_ID,Book_Title,Author,Units_Sold,Price,Cost,Revenue,Total_Cost,Profit,Profit_Margin (%),Age_Group,Gender,Income_Level,Education_Level,Region
+1,Content Marketing Mastery,Sarah Johnson,62,48.37,22.9,2998.94,1419.8,1579.14,52.66,26-35,Male,High,High School,Central
+2,Growth Hacking Techniques,James Anderson,66,16.34,7.61,1078.44,502.26,576.18,53.43,60+,Male,High,Bachelor,Central
+3,Growth Hacking Techniques,James Anderson,162,35.21,17.02,5704.02,2757.24,2946.78,51.66,18-25,Male,High,PhD,East
+4,Brand Management Handbook,David Wilson,129,24.69,15.53,3185.01,2003.37,1181.64,37.1,18-25,Male,Medium,High School,East
+5,Email Marketing Secrets,Laura Taylor,359,26.9,11.11,9657.1,3988.49,5668.61,58.7,46-60,Male,Medium,High School,Central
+6,Brand Management Handbook,David Wilson,474,43.29,28.82,20519.46,13660.68,6858.78,33.43,36-45,Male,High,High School,North
+7,Marketing Analytics Essentials,Emily Davis,445,28.02,11.88,12468.9,5286.6,7182.3,57.6,26-35,Male,Medium,Master,West
+8,Email Marketing Secrets,Laura Taylor,133,31.66,14.65,4210.78,1948.45,2262.33,53.73,36-45,Male,High,Bachelor,Central
+9,Marketing Analytics Essentials,Emily Davis,133,35.8,17.22,4761.4,2290.26,2471.14,51.9,60+,Male,High,Master,North
+10,Marketing Analytics Essentials,Emily Davis,470,16.44,8.13,7726.8,3821.1,3905.7,50.55,36-45,Male,Low,Master,South
+11,Consumer Behavior Explained,Olivia Thomas,252,54.81,32.49,13812.12,8187.48,5624.64,40.72,26-35,Female,Low,Bachelor,Central
+12,Marketing Data Science,Daniel Moore,184,48.62,25.7,8946.08,4728.8,4217.28,47.14,60+,Female,Medium,Bachelor,South
+13,Marketing Data Science,Daniel Moore,302,19.09,7.91,5765.18,2388.82,3376.36,58.56,18-25,Male,High,Bachelor,West
+14,SEO Optimization Blueprint,Sophia Martin,82,32.31,18.7,2649.42,1533.4,1116.02,42.12,46-60,Female,High,High School,North
+15,Marketing Data Science,Daniel Moore,434,27.01,16.0,11722.34,6944.0,4778.34,40.76,18-25,Female,Medium,Bachelor,West
+16,Digital Marketing Strategy,John Smith,419,54.41,26.06,22797.79,10919.14,11878.65,52.1,60+,Male,High,High School,East
+17,Marketing Data Science,Daniel Moore,361,23.95,12.27,8645.95,4429.47,4216.48,48.77,26-35,Male,High,Master,West
+18,Digital Marketing Strategy,John Smith,107,56.81,37.7,6078.67,4033.9,2044.77,33.64,36-45,Male,Low,Bachelor,Central
+19,Content Marketing Mastery,Sarah Johnson,93,47.94,30.91,4458.42,2874.63,1583.79,35.52,60+,Male,Low,PhD,Central
+20,Social Media Marketing Guide,Michael Brown,185,38.75,22.55,7168.75,4171.75,2997.0,41.81,26-35,Male,High,Master,West
+21,Email Marketing Secrets,Laura Taylor,274,55.48,29.71,15201.52,8140.54,7060.98,46.45,26-35,Male,Low,Master,North
+22,SEO Optimization Blueprint,Sophia Martin,333,25.36,11.82,8444.88,3936.06,4508.82,53.39,18-25,Male,Low,High School,North
+23,Email Marketing Secrets,Laura Taylor,86,38.14,18.44,3280.04,1585.84,1694.2,51.65,46-60,Male,High,Bachelor,Central
+24,SEO Optimization Blueprint,Sophia Martin,292,25.93,14.05,7571.56,4102.6,3468.96,45.82,46-60,Male,Low,High School,West
+25,Email Marketing Secrets,Laura Taylor,266,33.5,22.08,8911.0,5873.28,3037.72,34.09,18-25,Male,Low,PhD,East
+26,Content Marketing Mastery,Sarah Johnson,177,23.62,13.25,4180.74,2345.25,1835.49,43.9,26-35,Female,Low,Master,West
+27,Marketing Analytics Essentials,Emily Davis,497,56.55,30.14,28105.35,14979.58,13125.77,46.7,60+,Male,Low,High School,North
+28,Marketing Analytics Essentials,Emily Davis,135,33.29,18.12,4494.15,2446.2,2047.95,45.57,46-60,Male,Low,PhD,North
+29,Growth Hacking Techniques,James Anderson,185,56.69,36.03,10487.65,6665.55,3822.1,36.44,36-45,Female,High,PhD,South
+30,Marketing Analytics Essentials,Emily Davis,201,24.8,10.36,4984.8,2082.36,2902.44,58.23,60+,Male,High,Master,North
+31,Digital Marketing Strategy,John Smith,349,36.46,24.64,12724.54,8599.36,4125.18,32.42,60+,Male,Low,High School,South
+32,Content Marketing Mastery,Sarah Johnson,354,18.06,11.89,6393.24,4209.06,2184.18,34.16,46-60,Male,High,Bachelor,Central
+33,SEO Optimization Blueprint,Sophia Martin,70,42.87,22.54,3000.9,1577.8,1423.1,47.42,60+,Female,Medium,Bachelor,East
+34,Marketing Analytics Essentials,Emily Davis,185,32.81,19.74,6069.85,3651.9,2417.95,39.84,36-45,Female,Medium,High School,North
+35,Consumer Behavior Explained,Olivia Thomas,368,59.93,41.88,22054.24,15411.84,6642.4,30.12,18-25,Male,High,Master,South
+36,Email Marketing Secrets,Laura Taylor,85,54.57,27.88,4638.45,2369.8,2268.65,48.91,26-35,Female,High,Master,Central
+37,Marketing Data Science,Daniel Moore,54,45.05,25.52,2432.7,1378.08,1054.62,43.35,18-25,Male,Medium,High School,North
+38,Marketing Data Science,Daniel Moore,129,27.26,15.85,3516.54,2044.65,1471.89,41.86,36-45,Male,High,Master,Central
+39,Consumer Behavior Explained,Olivia Thomas,178,55.74,36.44,9921.72,6486.32,3435.4,34.63,18-25,Female,Medium,High School,North
+40,Email Marketing Secrets,Laura Taylor,444,20.89,14.5,9275.16,6438.0,2837.16,30.59,26-35,Female,High,PhD,Central
+41,Digital Marketing Strategy,John Smith,107,18.39,12.23,1967.73,1308.61,659.12,33.5,26-35,Male,Medium,Bachelor,West
+42,Social Media Marketing Guide,Michael Brown,71,28.87,19.33,2049.77,1372.43,677.34,33.04,18-25,Female,Low,Bachelor,North
+43,Email Marketing Secrets,Laura Taylor,449,40.19,26.62,18045.31,11952.38,6092.93,33.76,60+,Male,Low,Bachelor,South
+44,Growth Hacking Techniques,James Anderson,62,23.07,15.63,1430.34,969.06,461.28,32.25,46-60,Male,Medium,Bachelor,North
+45,Growth Hacking Techniques,James Anderson,496,16.74,9.06,8303.04,4493.76,3809.28,45.88,26-35,Female,Medium,Master,South
+46,Marketing Analytics Essentials,Emily Davis,62,44.7,23.22,2771.4,1439.64,1331.76,48.05,36-45,Male,Medium,Master,Central
+47,Growth Hacking Techniques,James Anderson,397,59.15,33.18,23482.55,13172.46,10310.09,43.91,18-25,Male,Medium,Bachelor,Central
+48,Brand Management Handbook,David Wilson,69,19.88,10.54,1371.72,727.26,644.46,46.98,36-45,Female,High,High School,West
+49,SEO Optimization Blueprint,Sophia Martin,147,26.46,16.21,3889.62,2382.87,1506.75,38.74,18-25,Male,Medium,PhD,North
+50,Email Marketing Secrets,Laura Taylor,369,29.13,19.06,10748.97,7033.14,3715.83,34.57,36-45,Female,High,PhD,East
+51,Growth Hacking Techniques,James Anderson,406,28.3,12.4,11489.8,5034.4,6455.4,56.18,46-60,Female,High,Bachelor,Central
+52,SEO Optimization Blueprint,Sophia Martin,204,33.27,21.63,6787.08,4412.52,2374.56,34.99,36-45,Female,Low,PhD,Central
+53,SEO Optimization Blueprint,Sophia Martin,385,29.5,15.71,11357.5,6048.35,5309.15,46.75,26-35,Female,High,Bachelor,North
+54,Brand Management Handbook,David Wilson,313,44.87,26.28,14044.31,8225.64,5818.67,41.43,18-25,Male,High,Master,South
+55,Marketing Analytics Essentials,Emily Davis,125,16.1,7.62,2012.5,952.5,1060.0,52.67,46-60,Male,Medium,PhD,Central
+56,Marketing Analytics Essentials,Emily Davis,417,46.34,25.41,19323.78,10595.97,8727.81,45.17,26-35,Male,High,High School,North
+57,Growth Hacking Techniques,James Anderson,162,22.91,15.75,3711.42,2551.5,1159.92,31.25,60+,Female,Low,Bachelor,North
+58,Consumer Behavior Explained,Olivia Thomas,118,51.06,30.65,6025.08,3616.7,2408.38,39.97,60+,Female,Medium,PhD,Central
+59,Consumer Behavior Explained,Olivia Thomas,131,48.46,26.28,6348.26,3442.68,2905.58,45.77,36-45,Male,High,Master,Central
+60,Consumer Behavior Explained,Olivia Thomas,370,25.77,13.71,9534.9,5072.7,4462.2,46.8,36-45,Male,Medium,Master,East
+61,Marketing Data Science,Daniel Moore,91,21.23,9.96,1931.93,906.36,1025.57,53.09,26-35,Male,Low,PhD,West
+62,Email Marketing Secrets,Laura Taylor,327,35.97,15.06,11762.19,4924.62,6837.57,58.13,46-60,Female,High,High School,Central
+63,Growth Hacking Techniques,James Anderson,294,15.27,7.72,4489.38,2269.68,2219.7,49.44,46-60,Female,High,Bachelor,West
+64,Marketing Analytics Essentials,Emily Davis,189,34.61,14.15,6541.29,2674.35,3866.94,59.12,36-45,Female,High,Bachelor,West
+65,Social Media Marketing Guide,Michael Brown,368,39.04,26.24,14366.72,9656.32,4710.4,32.79,60+,Male,Low,PhD,South
+66,Consumer Behavior Explained,Olivia Thomas,143,17.26,8.87,2468.18,1268.41,1199.77,48.61,26-35,Female,Medium,Master,West
+67,Brand Management Handbook,David Wilson,435,57.8,30.43,25143.0,13237.05,11905.95,47.35,18-25,Female,Low,High School,East
+68,Marketing Analytics Essentials,Emily Davis,382,18.09,12.43,6910.38,4748.26,2162.12,31.29,18-25,Male,Low,Bachelor,North
+69,SEO Optimization Blueprint,Sophia Martin,128,25.73,13.95,3293.44,1785.6,1507.84,45.78,18-25,Male,Medium,Master,East
+70,Social Media Marketing Guide,Michael Brown,360,42.33,26.43,15238.8,9514.8,5724.0,37.56,18-25,Male,Medium,High School,Central
+71,Digital Marketing Strategy,John Smith,209,40.91,27.51,8550.19,5749.59,2800.6,32.75,46-60,Female,High,Bachelor,North
+72,SEO Optimization Blueprint,Sophia Martin,403,52.38,24.77,21109.14,9982.31,11126.83,52.71,36-45,Male,High,High School,East
+73,Marketing Data Science,Daniel Moore,269,44.77,18.83,12043.13,5065.27,6977.86,57.94,36-45,Male,Medium,PhD,North
+74,Growth Hacking Techniques,James Anderson,235,43.6,28.28,10246.0,6645.8,3600.2,35.14,26-35,Female,Low,Master,Central
+75,Marketing Data Science,Daniel Moore,446,36.76,19.51,16394.96,8701.46,7693.5,46.93,60+,Female,Medium,Bachelor,North
+76,Brand Management Handbook,David Wilson,280,25.97,14.01,7271.6,3922.8,3348.8,46.05,60+,Female,Medium,High School,West
+77,Email Marketing Secrets,Laura Taylor,143,36.94,18.71,5282.42,2675.53,2606.89,49.35,36-45,Female,Medium,Master,Central
+78,Digital Marketing Strategy,John Smith,314,57.66,24.54,18105.24,7705.56,10399.68,57.44,46-60,Female,High,Bachelor,West
+79,Consumer Behavior Explained,Olivia Thomas,279,50.68,21.69,14139.72,6051.51,8088.21,57.2,26-35,Female,High,Bachelor,East
+80,SEO Optimization Blueprint,Sophia Martin,238,36.3,20.3,8639.4,4831.4,3808.0,44.08,46-60,Female,Medium,PhD,East
+81,Brand Management Handbook,David Wilson,178,25.37,15.64,4515.86,2783.92,1731.94,38.35,36-45,Male,High,Bachelor,South
+82,Marketing Analytics Essentials,Emily Davis,428,36.79,22.71,15746.12,9719.88,6026.24,38.27,60+,Female,Low,Bachelor,East
+83,Marketing Analytics Essentials,Emily Davis,234,23.07,9.33,5398.38,2183.22,3215.16,59.56,60+,Male,Medium,High School,North
+84,Marketing Data Science,Daniel Moore,199,46.38,20.31,9229.62,4041.69,5187.93,56.21,46-60,Male,Low,Master,West
+85,Consumer Behavior Explained,Olivia Thomas,275,30.33,20.92,8340.75,5753.0,2587.75,31.03,36-45,Female,Low,High School,West
+86,Consumer Behavior Explained,Olivia Thomas,87,40.97,24.83,3564.39,2160.21,1404.18,39.39,26-35,Male,High,Master,North
+87,Marketing Analytics Essentials,Emily Davis,110,40.11,21.05,4412.1,2315.5,2096.6,47.52,60+,Male,High,PhD,West
+88,Consumer Behavior Explained,Olivia Thomas,202,53.71,37.44,10849.42,7562.88,3286.54,30.29,36-45,Male,High,High School,South
+89,Marketing Analytics Essentials,Emily Davis,185,44.72,20.0,8273.2,3700.0,4573.2,55.28,26-35,Male,Low,High School,West
+90,Consumer Behavior Explained,Olivia Thomas,402,41.72,20.33,16771.44,8172.66,8598.78,51.27,26-35,Female,High,Master,West
+91,Content Marketing Mastery,Sarah Johnson,401,25.5,12.22,10225.5,4900.22,5325.28,52.08,60+,Male,Medium,High School,Central
+92,Marketing Analytics Essentials,Emily Davis,381,21.7,10.41,8267.7,3966.21,4301.49,52.03,26-35,Male,Low,Bachelor,East
+93,SEO Optimization Blueprint,Sophia Martin,433,52.09,35.23,22554.97,15254.59,7300.38,32.37,46-60,Male,Medium,Master,West
+94,Brand Management Handbook,David Wilson,306,39.3,20.88,12025.8,6389.28,5636.52,46.87,60+,Male,Medium,Master,Central
+95,Brand Management Handbook,David Wilson,63,19.11,13.16,1203.93,829.08,374.85,31.14,60+,Male,High,Master,Central
+96,Digital Marketing Strategy,John Smith,440,49.03,26.53,21573.2,11673.2,9900.0,45.89,46-60,Female,Low,PhD,West
+97,Content Marketing Mastery,Sarah Johnson,290,30.66,15.33,8891.4,4445.7,4445.7,50.0,18-25,Male,Medium,PhD,West
+98,Brand Management Handbook,David Wilson,389,57.53,37.05,22379.17,14412.45,7966.72,35.6,60+,Male,Medium,High School,East
+99,Brand Management Handbook,David Wilson,215,20.22,12.77,4347.3,2745.55,1601.75,36.84,60+,Male,High,PhD,West
+100,Digital Marketing Strategy,John Smith,146,38.33,22.49,5596.18,3283.54,2312.64,41.33,46-60,Female,Low,Bachelor,East
+101,Marketing Data Science,Daniel Moore,117,56.75,30.16,6639.75,3528.72,3111.03,46.85,46-60,Male,Low,Bachelor,South
+102,Brand Management Handbook,David Wilson,332,15.62,8.16,5185.84,2709.12,2476.72,47.76,26-35,Male,Medium,High School,South
+103,Consumer Behavior Explained,Olivia Thomas,416,28.13,17.2,11702.08,7155.2,4546.88,38.86,46-60,Female,Medium,Bachelor,West
+104,Marketing Data Science,Daniel Moore,124,32.26,21.83,4000.24,2706.92,1293.32,32.33,60+,Male,Low,Master,West
+105,Email Marketing Secrets,Laura Taylor,453,37.85,24.46,17146.05,11080.38,6065.67,35.38,36-45,Female,High,PhD,South
+106,Consumer Behavior Explained,Olivia Thomas,325,36.8,18.39,11960.0,5976.75,5983.25,50.03,60+,Female,Medium,Master,South
+107,Marketing Analytics Essentials,Emily Davis,342,32.23,21.17,11022.66,7240.14,3782.52,34.32,46-60,Male,Medium,PhD,West
+108,Growth Hacking Techniques,James Anderson,389,50.66,30.17,19706.74,11736.13,7970.61,40.45,26-35,Female,Low,Bachelor,Central
+109,SEO Optimization Blueprint,Sophia Martin,219,54.14,35.85,11856.66,7851.15,4005.51,33.78,46-60,Male,High,PhD,North
+110,Social Media Marketing Guide,Michael Brown,259,54.19,37.44,14035.21,9696.96,4338.25,30.91,18-25,Female,Medium,Master,Central
+111,Growth Hacking Techniques,James Anderson,382,18.61,9.28,7109.02,3544.96,3564.06,50.13,60+,Female,Medium,PhD,Central
+112,Digital Marketing Strategy,John Smith,366,18.08,10.66,6617.28,3901.56,2715.72,41.04,36-45,Male,High,High School,West
+113,Content Marketing Mastery,Sarah Johnson,439,43.52,28.8,19105.28,12643.2,6462.08,33.82,46-60,Male,High,Master,North
+114,Digital Marketing Strategy,John Smith,216,50.83,24.81,10979.28,5358.96,5620.32,51.19,36-45,Female,Low,Bachelor,Central
+115,Growth Hacking Techniques,James Anderson,339,45.68,20.74,15485.52,7030.86,8454.66,54.6,26-35,Male,High,PhD,Central
+116,Marketing Analytics Essentials,Emily Davis,304,56.08,24.84,17048.32,7551.36,9496.96,55.71,46-60,Female,Medium,Master,North
+117,Consumer Behavior Explained,Olivia Thomas,197,45.49,20.35,8961.53,4008.95,4952.58,55.26,46-60,Female,High,Master,West
+118,Brand Management Handbook,David Wilson,283,53.04,24.39,15010.32,6902.37,8107.95,54.02,46-60,Female,Low,Bachelor,West
+119,SEO Optimization Blueprint,Sophia Martin,233,40.87,28.52,9522.71,6645.16,2877.55,30.22,36-45,Male,High,PhD,East
+120,Digital Marketing Strategy,John Smith,339,53.93,34.16,18282.27,11580.24,6702.03,36.66,18-25,Female,Medium,Bachelor,Central
+121,Email Marketing Secrets,Laura Taylor,162,43.65,25.59,7071.3,4145.58,2925.72,41.37,26-35,Male,High,High School,East
+122,Consumer Behavior Explained,Olivia Thomas,67,41.08,25.46,2752.36,1705.82,1046.54,38.02,18-25,Female,Medium,PhD,South
+123,Marketing Analytics Essentials,Emily Davis,117,50.39,33.41,5895.63,3908.97,1986.66,33.7,36-45,Female,Low,Master,West
+124,Brand Management Handbook,David Wilson,432,54.17,34.74,23401.44,15007.68,8393.76,35.87,46-60,Male,Low,Bachelor,West
+125,Marketing Data Science,Daniel Moore,237,19.06,9.88,4517.22,2341.56,2175.66,48.16,36-45,Male,Medium,Master,East
+126,SEO Optimization Blueprint,Sophia Martin,245,52.01,35.48,12742.45,8692.6,4049.85,31.78,18-25,Male,Medium,High School,Central
+127,Marketing Data Science,Daniel Moore,217,56.19,26.21,12193.23,5687.57,6505.66,53.35,18-25,Female,High,Master,West
+128,Content Marketing Mastery,Sarah Johnson,121,17.04,7.01,2061.84,848.21,1213.63,58.86,46-60,Male,Low,Bachelor,Central
+129,Social Media Marketing Guide,Michael Brown,248,35.41,21.29,8781.68,5279.92,3501.76,39.88,60+,Female,High,Bachelor,West
+130,Content Marketing Mastery,Sarah Johnson,476,37.02,19.34,17621.52,9205.84,8415.68,47.76,36-45,Male,High,Master,South
+131,Consumer Behavior Explained,Olivia Thomas,277,57.77,37.93,16002.29,10506.61,5495.68,34.34,18-25,Female,High,Master,North
+132,Growth Hacking Techniques,James Anderson,191,23.54,10.28,4496.14,1963.48,2532.66,56.33,46-60,Male,High,Bachelor,Central
+133,Digital Marketing Strategy,John Smith,75,50.41,23.85,3780.75,1788.75,1992.0,52.69,26-35,Male,Low,Bachelor,Central
+134,Marketing Analytics Essentials,Emily Davis,466,54.14,26.99,25229.24,12577.34,12651.9,50.15,26-35,Male,Medium,Bachelor,South
+135,Marketing Data Science,Daniel Moore,178,50.93,22.05,9065.54,3924.9,5140.64,56.71,18-25,Male,Low,Master,South
+136,SEO Optimization Blueprint,Sophia Martin,215,15.71,7.53,3377.65,1618.95,1758.7,52.07,26-35,Female,High,High School,North
+137,Consumer Behavior Explained,Olivia Thomas,279,50.01,27.7,13952.79,7728.3,6224.49,44.61,18-25,Female,High,Bachelor,Central
+138,Digital Marketing Strategy,John Smith,422,50.25,33.17,21205.5,13997.74,7207.76,33.99,60+,Female,Medium,High School,North
+139,Consumer Behavior Explained,Olivia Thomas,483,33.07,20.03,15972.81,9674.49,6298.32,39.43,46-60,Female,Low,High School,East
+140,SEO Optimization Blueprint,Sophia Martin,125,17.96,8.67,2245.0,1083.75,1161.25,51.73,60+,Female,Medium,Master,West
+141,Marketing Data Science,Daniel Moore,359,34.36,21.92,12335.24,7869.28,4465.96,36.2,18-25,Male,Medium,PhD,South
+142,Growth Hacking Techniques,James Anderson,223,52.23,27.14,11647.29,6052.22,5595.07,48.04,18-25,Female,Medium,Master,East
+143,Email Marketing Secrets,Laura Taylor,128,45.91,24.9,5876.48,3187.2,2689.28,45.76,18-25,Male,Low,PhD,North
+144,Email Marketing Secrets,Laura Taylor,465,20.86,8.72,9699.9,4054.8,5645.1,58.2,60+,Female,High,High School,West
+145,Email Marketing Secrets,Laura Taylor,497,44.94,28.09,22335.18,13960.73,8374.45,37.49,18-25,Female,High,Master,East
+146,Content Marketing Mastery,Sarah Johnson,345,37.83,16.89,13051.35,5827.05,7224.3,55.35,46-60,Male,Low,Master,Central
+147,Email Marketing Secrets,Laura Taylor,108,49.32,28.22,5326.56,3047.76,2278.8,42.78,46-60,Male,High,Master,North
+148,Social Media Marketing Guide,Michael Brown,189,46.62,22.97,8811.18,4341.33,4469.85,50.73,36-45,Female,Low,Bachelor,South
+149,SEO Optimization Blueprint,Sophia Martin,386,33.04,14.62,12753.44,5643.32,7110.12,55.75,18-25,Male,High,Bachelor,West
+150,Growth Hacking Techniques,James Anderson,282,30.34,15.5,8555.88,4371.0,4184.88,48.91,36-45,Male,Low,Bachelor,South
+151,SEO Optimization Blueprint,Sophia Martin,75,45.33,21.83,3399.75,1637.25,1762.5,51.84,46-60,Female,High,PhD,West
+152,Brand Management Handbook,David Wilson,160,48.97,21.26,7835.2,3401.6,4433.6,56.59,46-60,Male,Medium,PhD,Central
+153,Brand Management Handbook,David Wilson,73,24.92,17.33,1819.16,1265.09,554.07,30.46,18-25,Male,Low,Master,South
+154,Social Media Marketing Guide,Michael Brown,441,26.5,13.21,11686.5,5825.61,5860.89,50.15,18-25,Female,High,PhD,South
+155,Social Media Marketing Guide,Michael Brown,244,38.97,18.28,9508.68,4460.32,5048.36,53.09,60+,Female,Low,PhD,North
+156,Growth Hacking Techniques,James Anderson,59,35.69,15.11,2105.71,891.49,1214.22,57.66,36-45,Female,High,PhD,West
+157,Brand Management Handbook,David Wilson,108,33.23,22.92,3588.84,2475.36,1113.48,31.03,26-35,Female,High,Master,North
+158,Growth Hacking Techniques,James Anderson,482,19.76,10.49,9524.32,5056.18,4468.14,46.91,46-60,Male,Medium,Master,East
+159,Marketing Analytics Essentials,Emily Davis,220,50.06,21.17,11013.2,4657.4,6355.8,57.71,18-25,Male,Medium,Master,South
+160,Marketing Analytics Essentials,Emily Davis,102,21.59,9.91,2202.18,1010.82,1191.36,54.1,60+,Male,High,High School,South
+161,Consumer Behavior Explained,Olivia Thomas,287,48.95,30.74,14048.65,8822.38,5226.27,37.2,46-60,Female,High,Master,South
+162,Consumer Behavior Explained,Olivia Thomas,84,36.1,21.28,3032.4,1787.52,1244.88,41.05,36-45,Male,Medium,High School,East
+163,Consumer Behavior Explained,Olivia Thomas,281,16.69,8.52,4689.89,2394.12,2295.77,48.95,36-45,Male,High,High School,Central
+164,SEO Optimization Blueprint,Sophia Martin,309,32.3,18.54,9980.7,5728.86,4251.84,42.6,18-25,Female,High,Bachelor,East
+165,SEO Optimization Blueprint,Sophia Martin,293,37.56,25.82,11005.08,7565.26,3439.82,31.26,46-60,Male,Medium,High School,Central
+166,Social Media Marketing Guide,Michael Brown,70,26.15,13.89,1830.5,972.3,858.2,46.88,46-60,Male,Medium,Master,East
+167,Growth Hacking Techniques,James Anderson,259,49.85,30.09,12911.15,7793.31,5117.84,39.64,18-25,Female,Low,Master,North
+168,Marketing Data Science,Daniel Moore,397,32.4,15.41,12862.8,6117.77,6745.03,52.44,60+,Male,Medium,High School,Central
+169,Social Media Marketing Guide,Michael Brown,229,28.96,17.28,6631.84,3957.12,2674.72,40.33,46-60,Male,High,High School,East
+170,Marketing Data Science,Daniel Moore,242,43.96,21.92,10638.32,5304.64,5333.68,50.14,26-35,Male,High,PhD,Central
+171,Email Marketing Secrets,Laura Taylor,59,31.32,14.22,1847.88,838.98,1008.9,54.6,26-35,Female,Medium,Bachelor,South
+172,Social Media Marketing Guide,Michael Brown,129,18.47,12.07,2382.63,1557.03,825.6,34.65,18-25,Male,High,Master,Central
+173,Social Media Marketing Guide,Michael Brown,355,31.95,14.34,11342.25,5090.7,6251.55,55.12,60+,Male,High,PhD,North
+174,Growth Hacking Techniques,James Anderson,236,45.44,21.41,10723.84,5052.76,5671.08,52.88,46-60,Female,High,PhD,South
+175,Marketing Data Science,Daniel Moore,172,28.93,18.59,4975.96,3197.48,1778.48,35.74,46-60,Male,Medium,PhD,West
+176,Brand Management Handbook,David Wilson,448,32.18,17.96,14416.64,8046.08,6370.56,44.19,26-35,Male,High,Bachelor,East
+177,Digital Marketing Strategy,John Smith,378,36.63,18.73,13846.14,7079.94,6766.2,48.87,18-25,Male,Medium,High School,South
+178,Brand Management Handbook,David Wilson,280,55.74,24.76,15607.2,6932.8,8674.4,55.58,46-60,Male,Low,PhD,East
+179,Digital Marketing Strategy,John Smith,262,17.4,9.58,4558.8,2509.96,2048.84,44.94,26-35,Female,Low,Master,South
+180,Digital Marketing Strategy,John Smith,213,56.89,37.08,12117.57,7898.04,4219.53,34.82,36-45,Male,Low,High School,East
+181,Consumer Behavior Explained,Olivia Thomas,406,52.4,32.89,21274.4,13353.34,7921.06,37.23,46-60,Female,High,High School,North
+182,Digital Marketing Strategy,John Smith,181,24.7,10.99,4470.7,1989.19,2481.51,55.51,60+,Female,Low,Master,South
+183,Brand Management Handbook,David Wilson,112,17.15,9.02,1920.8,1010.24,910.56,47.41,60+,Female,Low,High School,West
+184,SEO Optimization Blueprint,Sophia Martin,324,15.74,8.73,5099.76,2828.52,2271.24,44.54,26-35,Male,Medium,PhD,North
+185,SEO Optimization Blueprint,Sophia Martin,230,25.83,13.56,5940.9,3118.8,2822.1,47.5,18-25,Female,Low,High School,West
+186,Consumer Behavior Explained,Olivia Thomas,72,43.61,30.28,3139.92,2180.16,959.76,30.57,36-45,Male,Medium,High School,East
+187,Marketing Analytics Essentials,Emily Davis,425,44.57,19.21,18942.25,8164.25,10778.0,56.9,60+,Female,Low,High School,East
+188,Marketing Data Science,Daniel Moore,223,51.61,23.35,11509.03,5207.05,6301.98,54.76,46-60,Female,High,Bachelor,South
+189,Content Marketing Mastery,Sarah Johnson,416,49.93,26.83,20770.88,11161.28,9609.6,46.26,36-45,Male,Low,Bachelor,North
+190,Email Marketing Secrets,Laura Taylor,208,38.19,26.61,7943.52,5534.88,2408.64,30.32,60+,Female,Medium,High School,South
+191,Brand Management Handbook,David Wilson,232,53.8,22.29,12481.6,5171.28,7310.32,58.57,36-45,Female,Low,Master,West
+192,Growth Hacking Techniques,James Anderson,430,34.79,23.9,14959.7,10277.0,4682.7,31.3,36-45,Male,Medium,PhD,East
+193,Marketing Data Science,Daniel Moore,186,51.05,31.56,9495.3,5870.16,3625.14,38.18,18-25,Female,High,Bachelor,Central
+194,Brand Management Handbook,David Wilson,214,19.62,9.78,4198.68,2092.92,2105.76,50.15,36-45,Female,Medium,PhD,South
+195,Consumer Behavior Explained,Olivia Thomas,229,35.12,21.71,8042.48,4971.59,3070.89,38.18,36-45,Female,Medium,High School,North
+196,Growth Hacking Techniques,James Anderson,236,38.09,23.81,8989.24,5619.16,3370.08,37.49,26-35,Male,Low,PhD,North
+197,Social Media Marketing Guide,Michael Brown,84,25.62,15.21,2152.08,1277.64,874.44,40.63,36-45,Female,High,High School,Central
+198,Social Media Marketing Guide,Michael Brown,397,35.25,18.02,13994.25,7153.94,6840.31,48.88,46-60,Male,High,Bachelor,Central
+199,Email Marketing Secrets,Laura Taylor,253,29.15,14.1,7374.95,3567.3,3807.65,51.63,18-25,Male,High,Bachelor,West
+200,Marketing Data Science,Daniel Moore,248,56.11,24.43,13915.28,6058.64,7856.64,56.46,36-45,Female,Low,Master,West
+201,Marketing Analytics Essentials,Emily Davis,112,21.11,8.91,2364.32,997.92,1366.4,57.79,26-35,Female,Low,Master,East
+202,Content Marketing Mastery,Sarah Johnson,331,39.4,26.3,13041.4,8705.3,4336.1,33.25,26-35,Male,Medium,Bachelor,North
+203,Marketing Analytics Essentials,Emily Davis,455,21.25,13.54,9668.75,6160.7,3508.05,36.28,18-25,Female,High,Master,West
+204,Marketing Data Science,Daniel Moore,116,42.54,18.12,4934.64,2101.92,2832.72,57.4,36-45,Female,High,PhD,Central
+205,Growth Hacking Techniques,James Anderson,443,33.42,19.13,14805.06,8474.59,6330.47,42.76,26-35,Female,High,High School,West
+206,Consumer Behavior Explained,Olivia Thomas,398,38.28,16.79,15235.44,6682.42,8553.02,56.14,60+,Male,Low,PhD,Central
+207,Digital Marketing Strategy,John Smith,475,20.59,9.18,9780.25,4360.5,5419.75,55.42,26-35,Male,Medium,Bachelor,East
+208,Marketing Data Science,Daniel Moore,195,53.07,25.22,10348.65,4917.9,5430.75,52.48,60+,Female,Low,Master,Central
+209,Marketing Data Science,Daniel Moore,97,37.62,16.95,3649.14,1644.15,2004.99,54.94,60+,Male,Low,Master,Central
+210,Digital Marketing Strategy,John Smith,472,53.87,22.86,25426.64,10789.92,14636.72,57.56,60+,Female,High,Bachelor,Central
+211,Growth Hacking Techniques,James Anderson,366,43.75,24.04,16012.5,8798.64,7213.86,45.05,60+,Female,High,Master,West
+212,Marketing Analytics Essentials,Emily Davis,462,51.33,26.79,23714.46,12376.98,11337.48,47.81,46-60,Male,High,High School,South
+213,Consumer Behavior Explained,Olivia Thomas,262,36.79,16.97,9638.98,4446.14,5192.84,53.87,60+,Male,Medium,Master,East
+214,Growth Hacking Techniques,James Anderson,116,49.23,27.3,5710.68,3166.8,2543.88,44.55,18-25,Female,Low,PhD,North
+215,Brand Management Handbook,David Wilson,280,26.16,11.22,7324.8,3141.6,4183.2,57.11,36-45,Female,High,PhD,South
+216,Social Media Marketing Guide,Michael Brown,466,29.73,17.04,13854.18,7940.64,5913.54,42.68,36-45,Male,Low,PhD,Central
+217,Consumer Behavior Explained,Olivia Thomas,305,54.56,29.96,16640.8,9137.8,7503.0,45.09,18-25,Female,High,PhD,South
+218,Marketing Analytics Essentials,Emily Davis,348,30.88,12.82,10746.24,4461.36,6284.88,58.48,46-60,Female,Medium,High School,North
+219,Growth Hacking Techniques,James Anderson,118,54.71,33.82,6455.78,3990.76,2465.02,38.18,46-60,Female,Low,PhD,North
+220,SEO Optimization Blueprint,Sophia Martin,337,23.76,13.45,8007.12,4532.65,3474.47,43.39,18-25,Female,High,PhD,Central
+221,Brand Management Handbook,David Wilson,472,59.51,35.95,28088.72,16968.4,11120.32,39.59,18-25,Male,Low,PhD,East
+222,Email Marketing Secrets,Laura Taylor,335,57.25,35.87,19178.75,12016.45,7162.3,37.34,26-35,Female,High,High School,North
+223,Digital Marketing Strategy,John Smith,120,47.11,30.21,5653.2,3625.2,2028.0,35.87,60+,Female,Low,Bachelor,East
+224,SEO Optimization Blueprint,Sophia Martin,213,22.31,15.55,4752.03,3312.15,1439.88,30.3,36-45,Female,High,PhD,Central
+225,Brand Management Handbook,David Wilson,293,51.71,26.4,15151.03,7735.2,7415.83,48.95,18-25,Female,High,Master,North
+226,SEO Optimization Blueprint,Sophia Martin,292,26.95,16.08,7869.4,4695.36,3174.04,40.33,60+,Male,High,High School,Central
+227,Consumer Behavior Explained,Olivia Thomas,137,38.59,23.79,5286.83,3259.23,2027.6,38.35,46-60,Male,High,Bachelor,North
+228,SEO Optimization Blueprint,Sophia Martin,408,19.95,8.09,8139.6,3300.72,4838.88,59.45,36-45,Female,Low,PhD,South
+229,Growth Hacking Techniques,James Anderson,306,49.87,33.72,15260.22,10318.32,4941.9,32.38,18-25,Male,High,Bachelor,Central
+230,Email Marketing Secrets,Laura Taylor,389,36.53,18.74,14210.17,7289.86,6920.31,48.7,26-35,Female,High,Master,Central
+231,Email Marketing Secrets,Laura Taylor,396,49.74,30.65,19697.04,12137.4,7559.64,38.38,36-45,Female,Low,Bachelor,East
+232,Marketing Data Science,Daniel Moore,202,25.12,17.38,5074.24,3510.76,1563.48,30.81,36-45,Female,High,Bachelor,West
+233,Email Marketing Secrets,Laura Taylor,295,30.7,20.88,9056.5,6159.6,2896.9,31.99,36-45,Female,Low,PhD,West
+234,Email Marketing Secrets,Laura Taylor,445,51.21,24.95,22788.45,11102.75,11685.7,51.28,36-45,Male,Medium,PhD,East
+235,Consumer Behavior Explained,Olivia Thomas,159,24.09,13.53,3830.31,2151.27,1679.04,43.84,60+,Female,Low,High School,Central
+236,SEO Optimization Blueprint,Sophia Martin,172,25.91,15.57,4456.52,2678.04,1778.48,39.91,60+,Male,High,Bachelor,North
+237,Content Marketing Mastery,Sarah Johnson,261,29.86,16.18,7793.46,4222.98,3570.48,45.81,26-35,Male,High,Bachelor,West
+238,Consumer Behavior Explained,Olivia Thomas,294,44.27,27.75,13015.38,8158.5,4856.88,37.32,36-45,Female,Medium,High School,North
+239,SEO Optimization Blueprint,Sophia Martin,168,39.08,24.11,6565.44,4050.48,2514.96,38.31,18-25,Male,Medium,Bachelor,North
+240,Growth Hacking Techniques,James Anderson,453,37.29,25.39,16892.37,11501.67,5390.7,31.91,36-45,Male,Low,Master,Central
+241,SEO Optimization Blueprint,Sophia Martin,104,56.78,28.42,5905.12,2955.68,2949.44,49.95,46-60,Female,Low,PhD,East
+242,Marketing Analytics Essentials,Emily Davis,464,20.07,9.01,9312.48,4180.64,5131.84,55.11,46-60,Female,High,Bachelor,North
+243,Email Marketing Secrets,Laura Taylor,454,28.28,17.03,12839.12,7731.62,5107.5,39.78,26-35,Male,High,PhD,West
+244,Marketing Data Science,Daniel Moore,217,18.9,11.35,4101.3,2462.95,1638.35,39.95,26-35,Male,Medium,Master,South
+245,Digital Marketing Strategy,John Smith,183,32.26,17.23,5903.58,3153.09,2750.49,46.59,36-45,Female,Medium,High School,East
+246,Email Marketing Secrets,Laura Taylor,404,25.63,15.39,10354.52,6217.56,4136.96,39.95,46-60,Female,Low,PhD,Central
+247,Brand Management Handbook,David Wilson,403,20.28,13.69,8172.84,5517.07,2655.77,32.5,36-45,Female,High,Bachelor,South
+248,Social Media Marketing Guide,Michael Brown,294,21.89,13.67,6435.66,4018.98,2416.68,37.55,60+,Female,Medium,PhD,Central
+249,Marketing Analytics Essentials,Emily Davis,440,26.14,16.37,11501.6,7202.8,4298.8,37.38,18-25,Female,High,Master,North
+250,SEO Optimization Blueprint,Sophia Martin,107,17.78,10.03,1902.46,1073.21,829.25,43.59,60+,Male,High,Bachelor,South
+251,Email Marketing Secrets,Laura Taylor,487,38.42,16.71,18710.54,8137.77,10572.77,56.51,26-35,Female,Low,PhD,North
+252,Consumer Behavior Explained,Olivia Thomas,117,38.1,20.46,4457.7,2393.82,2063.88,46.3,18-25,Female,High,Master,North
+253,Growth Hacking Techniques,James Anderson,180,51.74,32.27,9313.2,5808.6,3504.6,37.63,60+,Male,Low,PhD,East
+254,Content Marketing Mastery,Sarah Johnson,327,59.74,40.65,19534.98,13292.55,6242.43,31.96,18-25,Female,Low,Master,West
+255,Social Media Marketing Guide,Michael Brown,443,21.09,12.49,9342.87,5533.07,3809.8,40.78,46-60,Female,Medium,PhD,West
+256,Growth Hacking Techniques,James Anderson,91,45.72,27.37,4160.52,2490.67,1669.85,40.14,60+,Male,High,Master,North
+257,Social Media Marketing Guide,Michael Brown,325,32.69,14.32,10624.25,4654.0,5970.25,56.19,26-35,Male,Low,Master,West
+258,Marketing Data Science,Daniel Moore,267,38.94,25.19,10396.98,6725.73,3671.25,35.31,26-35,Female,Medium,Bachelor,East
+259,Marketing Analytics Essentials,Emily Davis,498,47.63,20.66,23719.74,10288.68,13431.06,56.62,46-60,Male,Low,Bachelor,North
+260,Content Marketing Mastery,Sarah Johnson,354,16.51,9.56,5844.54,3384.24,2460.3,42.1,18-25,Male,High,High School,West
+261,Consumer Behavior Explained,Olivia Thomas,169,39.29,24.61,6640.01,4159.09,2480.92,37.36,18-25,Male,High,Master,South
+262,SEO Optimization Blueprint,Sophia Martin,213,40.99,25.9,8730.87,5516.7,3214.17,36.81,36-45,Male,Medium,Bachelor,Central
+263,Marketing Analytics Essentials,Emily Davis,261,28.52,11.93,7443.72,3113.73,4329.99,58.17,60+,Male,High,PhD,Central
+264,Consumer Behavior Explained,Olivia Thomas,74,58.75,40.1,4347.5,2967.4,1380.1,31.74,46-60,Female,High,PhD,West
+265,Social Media Marketing Guide,Michael Brown,203,31.94,20.0,6483.82,4060.0,2423.82,37.38,46-60,Male,Low,Master,South
+266,Consumer Behavior Explained,Olivia Thomas,79,40.31,27.83,3184.49,2198.57,985.92,30.96,60+,Male,Medium,Bachelor,East
+267,Marketing Analytics Essentials,Emily Davis,219,44.1,29.84,9657.9,6534.96,3122.94,32.34,36-45,Male,High,Bachelor,North
+268,Brand Management Handbook,David Wilson,243,45.32,26.33,11012.76,6398.19,4614.57,41.9,18-25,Male,High,Bachelor,West
+269,Marketing Analytics Essentials,Emily Davis,495,55.82,27.41,27630.9,13567.95,14062.95,50.9,18-25,Male,Low,High School,West
+270,Marketing Analytics Essentials,Emily Davis,406,42.2,19.47,17133.2,7904.82,9228.38,53.86,26-35,Female,Medium,PhD,West
+271,Marketing Data Science,Daniel Moore,382,31.17,14.91,11906.94,5695.62,6211.32,52.17,60+,Female,Medium,High School,West
+272,Email Marketing Secrets,Laura Taylor,154,31.68,16.61,4878.72,2557.94,2320.78,47.57,60+,Male,High,Bachelor,North
+273,Brand Management Handbook,David Wilson,333,57.06,32.74,19000.98,10902.42,8098.56,42.62,46-60,Female,Low,Bachelor,East
+274,Marketing Analytics Essentials,Emily Davis,244,40.64,19.25,9916.16,4697.0,5219.16,52.63,60+,Female,Medium,PhD,West
+275,Consumer Behavior Explained,Olivia Thomas,136,47.97,24.26,6523.92,3299.36,3224.56,49.43,26-35,Female,Low,High School,Central
+276,Digital Marketing Strategy,John Smith,479,53.1,36.3,25434.9,17387.7,8047.2,31.64,18-25,Male,Medium,Bachelor,South
+277,Content Marketing Mastery,Sarah Johnson,412,21.8,10.15,8981.6,4181.8,4799.8,53.44,46-60,Female,Low,PhD,West
+278,Digital Marketing Strategy,John Smith,53,38.95,20.39,2064.35,1080.67,983.68,47.65,18-25,Female,High,Master,North
+279,Marketing Data Science,Daniel Moore,466,46.4,24.55,21622.4,11440.3,10182.1,47.09,26-35,Male,Low,Bachelor,South
+280,Marketing Analytics Essentials,Emily Davis,367,38.69,24.94,14199.23,9152.98,5046.25,35.54,36-45,Female,Low,Master,West
+281,Consumer Behavior Explained,Olivia Thomas,339,25.94,15.8,8793.66,5356.2,3437.46,39.09,36-45,Male,High,High School,North
+282,Growth Hacking Techniques,James Anderson,244,31.97,17.35,7800.68,4233.4,3567.28,45.73,18-25,Male,Low,PhD,West
+283,Email Marketing Secrets,Laura Taylor,339,58.98,40.82,19994.22,13837.98,6156.24,30.79,60+,Male,Low,Bachelor,Central
+284,Consumer Behavior Explained,Olivia Thomas,188,17.1,7.22,3214.8,1357.36,1857.44,57.78,36-45,Male,Low,Master,North
+285,Marketing Analytics Essentials,Emily Davis,350,21.49,13.89,7521.5,4861.5,2660.0,35.37,46-60,Male,Medium,Bachelor,Central
+286,Marketing Analytics Essentials,Emily Davis,340,52.56,27.16,17870.4,9234.4,8636.0,48.33,60+,Female,Medium,Bachelor,North
+287,Marketing Data Science,Daniel Moore,431,58.84,24.48,25360.04,10550.88,14809.16,58.4,46-60,Male,Low,Master,Central
+288,SEO Optimization Blueprint,Sophia Martin,354,32.85,20.76,11628.9,7349.04,4279.86,36.8,18-25,Female,Medium,PhD,South
+289,Email Marketing Secrets,Laura Taylor,333,57.35,30.37,19097.55,10113.21,8984.34,47.04,60+,Female,Low,Master,South
+290,Content Marketing Mastery,Sarah Johnson,92,27.06,13.91,2489.52,1279.72,1209.8,48.6,26-35,Female,Medium,Master,North
+291,Content Marketing Mastery,Sarah Johnson,52,57.43,30.63,2986.36,1592.76,1393.6,46.67,36-45,Male,Low,High School,South
+292,Growth Hacking Techniques,James Anderson,279,40.06,22.18,11176.74,6188.22,4988.52,44.63,18-25,Male,Low,Master,Central
+293,Content Marketing Mastery,Sarah Johnson,355,41.91,20.84,14878.05,7398.2,7479.85,50.27,46-60,Male,Medium,PhD,West
+294,Content Marketing Mastery,Sarah Johnson,421,55.55,37.31,23386.55,15707.51,7679.04,32.84,26-35,Male,High,PhD,South
+295,Social Media Marketing Guide,Michael Brown,187,28.55,15.64,5338.85,2924.68,2414.17,45.22,18-25,Male,Medium,Master,West
+296,Brand Management Handbook,David Wilson,297,50.22,25.53,14915.34,7582.41,7332.93,49.16,26-35,Female,High,Bachelor,West
+297,Content Marketing Mastery,Sarah Johnson,119,28.71,19.66,3416.49,2339.54,1076.95,31.52,36-45,Female,Medium,PhD,East
+298,Growth Hacking Techniques,James Anderson,467,52.06,30.99,24312.02,14472.33,9839.69,40.47,60+,Male,Medium,Master,Central
+299,Marketing Analytics Essentials,Emily Davis,295,29.14,20.09,8596.3,5926.55,2669.75,31.06,36-45,Female,High,PhD,Central
+300,Marketing Analytics Essentials,Emily Davis,216,31.92,20.59,6894.72,4447.44,2447.28,35.49,46-60,Female,Low,Bachelor,Central
+301,Marketing Data Science,Daniel Moore,142,45.68,25.81,6486.56,3665.02,2821.54,43.5,46-60,Male,Medium,Master,North
+302,Growth Hacking Techniques,James Anderson,394,37.47,22.11,14763.18,8711.34,6051.84,40.99,26-35,Female,High,Bachelor,West
+303,Growth Hacking Techniques,James Anderson,87,35.21,20.4,3063.27,1774.8,1288.47,42.06,60+,Female,High,PhD,Central
+304,Digital Marketing Strategy,John Smith,454,58.58,35.76,26595.32,16235.04,10360.28,38.96,60+,Male,Low,Bachelor,East
+305,Social Media Marketing Guide,Michael Brown,381,42.57,24.22,16219.17,9227.82,6991.35,43.11,46-60,Female,Medium,High School,North
+306,Content Marketing Mastery,Sarah Johnson,182,24.99,15.6,4548.18,2839.2,1708.98,37.58,60+,Male,Medium,Master,West
+307,Consumer Behavior Explained,Olivia Thomas,445,45.58,27.67,20283.1,12313.15,7969.95,39.29,26-35,Female,Low,PhD,North
+308,Brand Management Handbook,David Wilson,262,56.42,24.02,14782.04,6293.24,8488.8,57.43,26-35,Female,Medium,Master,West
+309,Marketing Analytics Essentials,Emily Davis,316,36.73,19.94,11606.68,6301.04,5305.64,45.71,46-60,Female,Medium,High School,East
+310,Digital Marketing Strategy,John Smith,464,46.99,19.11,21803.36,8867.04,12936.32,59.33,36-45,Male,High,Bachelor,South
+311,Marketing Data Science,Daniel Moore,139,39.84,19.89,5537.76,2764.71,2773.05,50.08,46-60,Female,Low,PhD,South
+312,Social Media Marketing Guide,Michael Brown,377,44.58,23.12,16806.66,8716.24,8090.42,48.14,60+,Male,Medium,PhD,West
+313,Digital Marketing Strategy,John Smith,410,24.67,11.93,10114.7,4891.3,5223.4,51.64,18-25,Male,High,Bachelor,East
+314,Email Marketing Secrets,Laura Taylor,150,35.59,17.04,5338.5,2556.0,2782.5,52.12,46-60,Female,High,PhD,Central
+315,Growth Hacking Techniques,James Anderson,350,20.14,10.18,7049.0,3563.0,3486.0,49.45,46-60,Male,High,Master,Central
+316,SEO Optimization Blueprint,Sophia Martin,93,45.24,22.35,4207.32,2078.55,2128.77,50.6,26-35,Female,Low,Bachelor,East
+317,Social Media Marketing Guide,Michael Brown,311,32.48,18.8,10101.28,5846.8,4254.48,42.12,60+,Female,Medium,Bachelor,West
+318,Marketing Data Science,Daniel Moore,405,56.36,38.28,22825.8,15503.4,7322.4,32.08,26-35,Male,Medium,Master,South
+319,Social Media Marketing Guide,Michael Brown,211,52.89,30.98,11159.79,6536.78,4623.01,41.43,36-45,Male,Medium,Bachelor,South
+320,Growth Hacking Techniques,James Anderson,337,37.74,20.7,12718.38,6975.9,5742.48,45.15,46-60,Female,High,PhD,West
+321,Social Media Marketing Guide,Michael Brown,92,40.44,25.83,3720.48,2376.36,1344.12,36.13,26-35,Female,Low,Master,South
+322,Marketing Data Science,Daniel Moore,197,22.57,12.12,4446.29,2387.64,2058.65,46.3,46-60,Male,High,High School,East
+323,Marketing Data Science,Daniel Moore,471,59.59,33.53,28066.89,15792.63,12274.26,43.73,18-25,Female,High,Bachelor,West
+324,Content Marketing Mastery,Sarah Johnson,426,52.35,32.74,22301.1,13947.24,8353.86,37.46,36-45,Male,Medium,Master,East
+325,Content Marketing Mastery,Sarah Johnson,274,53.94,23.48,14779.56,6433.52,8346.04,56.47,26-35,Male,High,Master,Central
+326,Growth Hacking Techniques,James Anderson,134,42.73,27.15,5725.82,3638.1,2087.72,36.46,26-35,Male,High,Master,Central
+327,Brand Management Handbook,David Wilson,355,39.24,19.51,13930.2,6926.05,7004.15,50.28,36-45,Female,High,Master,Central
+328,Content Marketing Mastery,Sarah Johnson,119,58.32,37.07,6940.08,4411.33,2528.75,36.44,18-25,Female,High,Bachelor,South
+329,Marketing Analytics Essentials,Emily Davis,124,47.01,30.49,5829.24,3780.76,2048.48,35.14,46-60,Female,Low,Master,West
+330,Growth Hacking Techniques,James Anderson,281,18.4,11.75,5170.4,3301.75,1868.65,36.14,18-25,Female,High,Master,East
+331,Consumer Behavior Explained,Olivia Thomas,299,29.73,11.91,8889.27,3561.09,5328.18,59.94,18-25,Female,High,Master,North
+332,Marketing Data Science,Daniel Moore,253,24.8,13.12,6274.4,3319.36,2955.04,47.1,26-35,Female,Medium,Master,East
+333,Email Marketing Secrets,Laura Taylor,330,41.01,23.37,13533.3,7712.1,5821.2,43.01,46-60,Female,High,High School,North
+334,Content Marketing Mastery,Sarah Johnson,370,50.28,27.04,18603.6,10004.8,8598.8,46.22,18-25,Male,Medium,PhD,North
+335,Growth Hacking Techniques,James Anderson,153,59.81,40.24,9150.93,6156.72,2994.21,32.72,36-45,Male,Medium,High School,East
+336,Brand Management Handbook,David Wilson,92,31.73,21.3,2919.16,1959.6,959.56,32.87,26-35,Male,Medium,Master,South
+337,Growth Hacking Techniques,James Anderson,385,19.1,8.19,7353.5,3153.15,4200.35,57.12,26-35,Female,Low,Bachelor,Central
+338,Marketing Analytics Essentials,Emily Davis,315,45.6,18.37,14364.0,5786.55,8577.45,59.71,36-45,Male,Medium,Bachelor,West
+339,Content Marketing Mastery,Sarah Johnson,167,32.24,19.96,5384.08,3333.32,2050.76,38.09,18-25,Male,Medium,Master,East
+340,Social Media Marketing Guide,Michael Brown,245,49.81,31.18,12203.45,7639.1,4564.35,37.4,26-35,Male,Low,High School,Central
+341,Social Media Marketing Guide,Michael Brown,275,30.8,14.29,8470.0,3929.75,4540.25,53.6,26-35,Female,High,PhD,South
+342,Content Marketing Mastery,Sarah Johnson,101,21.3,9.31,2151.3,940.31,1210.99,56.29,46-60,Female,Medium,Master,South
+343,Marketing Analytics Essentials,Emily Davis,191,44.01,20.88,8405.91,3988.08,4417.83,52.56,60+,Female,High,High School,East
+344,Marketing Analytics Essentials,Emily Davis,315,42.31,19.32,13327.65,6085.8,7241.85,54.34,46-60,Female,High,High School,South
+345,Consumer Behavior Explained,Olivia Thomas,247,20.07,11.04,4957.29,2726.88,2230.41,44.99,60+,Male,High,High School,East
+346,Email Marketing Secrets,Laura Taylor,117,32.41,21.12,3791.97,2471.04,1320.93,34.83,46-60,Female,High,Bachelor,West
+347,Content Marketing Mastery,Sarah Johnson,58,41.43,16.74,2402.94,970.92,1432.02,59.59,26-35,Male,Low,PhD,Central
+348,Brand Management Handbook,David Wilson,371,47.07,29.66,17462.97,11003.86,6459.11,36.99,46-60,Female,Low,Bachelor,East
+349,Content Marketing Mastery,Sarah Johnson,208,18.56,12.55,3860.48,2610.4,1250.08,32.38,26-35,Female,Medium,High School,East
+350,Growth Hacking Techniques,James Anderson,423,57.9,27.31,24491.7,11552.13,12939.57,52.83,26-35,Male,Medium,High School,West
+351,SEO Optimization Blueprint,Sophia Martin,361,17.48,10.48,6310.28,3783.28,2527.0,40.05,26-35,Male,Low,Bachelor,North
+352,Social Media Marketing Guide,Michael Brown,304,57.89,32.24,17598.56,9800.96,7797.6,44.31,36-45,Male,Medium,Bachelor,East
+353,Content Marketing Mastery,Sarah Johnson,444,55.5,27.78,24642.0,12334.32,12307.68,49.95,46-60,Female,High,High School,East
+354,SEO Optimization Blueprint,Sophia Martin,371,18.47,9.91,6852.37,3676.61,3175.76,46.35,36-45,Male,Medium,Bachelor,East
+355,Social Media Marketing Guide,Michael Brown,180,49.8,33.28,8964.0,5990.4,2973.6,33.17,18-25,Male,High,High School,North
+356,Digital Marketing Strategy,John Smith,175,17.07,8.69,2987.25,1520.75,1466.5,49.09,26-35,Male,Low,PhD,South
+357,Email Marketing Secrets,Laura Taylor,177,33.73,20.78,5970.21,3678.06,2292.15,38.39,36-45,Male,High,Master,North
+358,Marketing Data Science,Daniel Moore,394,55.59,25.23,21902.46,9940.62,11961.84,54.61,60+,Male,Medium,High School,West
+359,Brand Management Handbook,David Wilson,446,53.02,26.41,23646.92,11778.86,11868.06,50.19,60+,Female,Low,Master,South
+360,Brand Management Handbook,David Wilson,338,50.3,31.28,17001.4,10572.64,6428.76,37.81,26-35,Female,Medium,PhD,South
+361,Marketing Data Science,Daniel Moore,439,50.82,22.62,22309.98,9930.18,12379.8,55.49,46-60,Male,Low,Master,North
+362,Email Marketing Secrets,Laura Taylor,50,49.15,25.21,2457.5,1260.5,1197.0,48.71,36-45,Male,Low,Bachelor,West
+363,Consumer Behavior Explained,Olivia Thomas,80,58.77,26.02,4701.6,2081.6,2620.0,55.73,36-45,Male,Low,Bachelor,Central
+364,Growth Hacking Techniques,James Anderson,408,55.3,29.73,22562.4,12129.84,10432.56,46.24,18-25,Male,High,Bachelor,West
+365,Content Marketing Mastery,Sarah Johnson,353,40.55,21.51,14314.15,7593.03,6721.12,46.95,26-35,Male,Medium,Master,East
+366,Growth Hacking Techniques,James Anderson,408,52.44,26.11,21395.52,10652.88,10742.64,50.21,46-60,Female,Low,High School,South
+367,Social Media Marketing Guide,Michael Brown,449,49.66,21.49,22297.34,9649.01,12648.33,56.73,18-25,Male,Medium,PhD,East
+368,Growth Hacking Techniques,James Anderson,111,39.12,26.97,4342.32,2993.67,1348.65,31.06,26-35,Female,Medium,PhD,East
+369,Content Marketing Mastery,Sarah Johnson,96,22.09,13.38,2120.64,1284.48,836.16,39.43,60+,Male,Low,Master,South
+370,Content Marketing Mastery,Sarah Johnson,414,26.17,13.26,10834.38,5489.64,5344.74,49.33,60+,Male,High,Master,East
+371,Social Media Marketing Guide,Michael Brown,65,57.84,37.97,3759.6,2468.05,1291.55,34.35,60+,Male,Low,PhD,North
+372,Social Media Marketing Guide,Michael Brown,112,15.54,10.09,1740.48,1130.08,610.4,35.07,26-35,Male,Low,PhD,East
+373,Content Marketing Mastery,Sarah Johnson,348,41.38,27.94,14400.24,9723.12,4677.12,32.48,18-25,Male,Low,Bachelor,West
+374,Social Media Marketing Guide,Michael Brown,97,55.73,36.16,5405.81,3507.52,1898.29,35.12,36-45,Male,Low,PhD,North
+375,Social Media Marketing Guide,Michael Brown,343,34.49,21.29,11830.07,7302.47,4527.6,38.27,46-60,Male,Medium,PhD,South
+376,Email Marketing Secrets,Laura Taylor,159,55.87,26.96,8883.33,4286.64,4596.69,51.75,46-60,Male,Low,Bachelor,East
+377,Consumer Behavior Explained,Olivia Thomas,260,54.73,29.76,14229.8,7737.6,6492.2,45.62,18-25,Female,Medium,Bachelor,West
+378,Marketing Analytics Essentials,Emily Davis,379,54.81,30.57,20772.99,11586.03,9186.96,44.23,60+,Male,Medium,Master,West
+379,Marketing Data Science,Daniel Moore,450,36.81,24.8,16564.5,11160.0,5404.5,32.63,60+,Female,Medium,Master,South
+380,Digital Marketing Strategy,John Smith,213,41.87,17.12,8918.31,3646.56,5271.75,59.11,36-45,Male,Medium,Master,Central
+381,Marketing Analytics Essentials,Emily Davis,131,19.51,11.65,2555.81,1526.15,1029.66,40.29,36-45,Male,Low,PhD,East
+382,Social Media Marketing Guide,Michael Brown,140,25.64,12.7,3589.6,1778.0,1811.6,50.47,36-45,Male,High,Master,Central
+383,SEO Optimization Blueprint,Sophia Martin,122,40.34,18.41,4921.48,2246.02,2675.46,54.36,46-60,Female,Low,PhD,North
+384,Content Marketing Mastery,Sarah Johnson,78,25.47,11.86,1986.66,925.08,1061.58,53.44,60+,Female,Low,Master,Central
+385,Marketing Analytics Essentials,Emily Davis,462,20.87,12.84,9641.94,5932.08,3709.86,38.48,36-45,Male,Low,Bachelor,Central
+386,Social Media Marketing Guide,Michael Brown,446,19.99,11.15,8915.54,4972.9,3942.64,44.22,36-45,Male,Medium,PhD,Central
+387,Content Marketing Mastery,Sarah Johnson,222,28.58,12.6,6344.76,2797.2,3547.56,55.91,26-35,Female,High,PhD,East
+388,Social Media Marketing Guide,Michael Brown,412,58.59,35.63,24139.08,14679.56,9459.52,39.19,60+,Female,Low,Bachelor,West
+389,Brand Management Handbook,David Wilson,425,45.98,20.15,19541.5,8563.75,10977.75,56.18,18-25,Female,High,High School,South
+390,SEO Optimization Blueprint,Sophia Martin,212,56.45,38.97,11967.4,8261.64,3705.76,30.97,26-35,Male,Medium,Bachelor,East
+391,Content Marketing Mastery,Sarah Johnson,171,30.61,15.18,5234.31,2595.78,2638.53,50.41,18-25,Female,Medium,High School,East
+392,Marketing Analytics Essentials,Emily Davis,177,46.19,23.33,8175.63,4129.41,4046.22,49.49,18-25,Male,Low,PhD,West
+393,Growth Hacking Techniques,James Anderson,135,54.8,30.03,7398.0,4054.05,3343.95,45.2,46-60,Female,High,PhD,North
+394,Consumer Behavior Explained,Olivia Thomas,453,53.88,32.07,24407.64,14527.71,9879.93,40.48,26-35,Male,Medium,High School,North
+395,Brand Management Handbook,David Wilson,60,29.34,20.11,1760.4,1206.6,553.8,31.46,18-25,Female,Low,PhD,South
+396,Content Marketing Mastery,Sarah Johnson,330,57.38,39.79,18935.4,13130.7,5804.7,30.66,36-45,Female,High,High School,West
+397,Social Media Marketing Guide,Michael Brown,360,55.04,24.61,19814.4,8859.6,10954.8,55.29,18-25,Female,Low,Bachelor,West
+398,Marketing Data Science,Daniel Moore,419,56.65,31.84,23736.35,13340.96,10395.39,43.8,36-45,Female,Low,High School,North
+399,Growth Hacking Techniques,James Anderson,342,39.73,21.74,13587.66,7435.08,6152.58,45.28,18-25,Female,Low,PhD,North
+400,Brand Management Handbook,David Wilson,471,44.79,25.98,21096.09,12236.58,8859.51,42.0,26-35,Male,Low,Bachelor,South
+401,Brand Management Handbook,David Wilson,91,36.31,15.78,3304.21,1435.98,1868.23,56.54,46-60,Female,Medium,Master,North
+402,Marketing Data Science,Daniel Moore,248,23.32,15.52,5783.36,3848.96,1934.4,33.45,36-45,Male,Medium,High School,East
+403,Consumer Behavior Explained,Olivia Thomas,288,26.85,17.48,7732.8,5034.24,2698.56,34.9,60+,Male,Low,High School,North
+404,Email Marketing Secrets,Laura Taylor,463,39.37,27.21,18228.31,12598.23,5630.08,30.89,60+,Male,High,High School,West
+405,Marketing Data Science,Daniel Moore,264,58.45,35.43,15430.8,9353.52,6077.28,39.38,46-60,Male,Medium,Master,North
+406,Growth Hacking Techniques,James Anderson,487,47.14,25.96,22957.18,12642.52,10314.66,44.93,60+,Male,Low,PhD,South
+407,Social Media Marketing Guide,Michael Brown,158,51.38,22.5,8118.04,3555.0,4563.04,56.21,46-60,Male,High,PhD,South
+408,Social Media Marketing Guide,Michael Brown,477,41.78,20.72,19929.06,9883.44,10045.62,50.41,18-25,Male,Medium,PhD,Central
+409,Email Marketing Secrets,Laura Taylor,488,27.43,14.74,13385.84,7193.12,6192.72,46.26,18-25,Female,Low,PhD,South
+410,Social Media Marketing Guide,Michael Brown,340,41.46,26.02,14096.4,8846.8,5249.6,37.24,18-25,Male,High,High School,East
+411,Marketing Data Science,Daniel Moore,500,30.47,15.94,15235.0,7970.0,7265.0,47.69,46-60,Female,High,PhD,North
+412,Social Media Marketing Guide,Michael Brown,191,33.13,19.4,6327.83,3705.4,2622.43,41.44,46-60,Male,Medium,Master,South
+413,Digital Marketing Strategy,John Smith,431,36.38,17.48,15679.78,7533.88,8145.9,51.95,36-45,Male,Medium,Master,East
+414,Brand Management Handbook,David Wilson,481,37.12,22.6,17854.72,10870.6,6984.12,39.12,18-25,Male,Low,Master,West
+415,Email Marketing Secrets,Laura Taylor,187,47.8,27.8,8938.6,5198.6,3740.0,41.84,18-25,Male,Medium,Bachelor,West
+416,Consumer Behavior Explained,Olivia Thomas,438,38.24,19.59,16749.12,8580.42,8168.7,48.77,18-25,Male,Low,Master,Central
+417,Growth Hacking Techniques,James Anderson,119,50.12,27.93,5964.28,3323.67,2640.61,44.27,60+,Male,Low,Bachelor,South
+418,Digital Marketing Strategy,John Smith,177,16.49,6.85,2918.73,1212.45,1706.28,58.46,36-45,Male,Medium,Master,West
+419,Marketing Data Science,Daniel Moore,253,43.59,19.06,11028.27,4822.18,6206.09,56.27,18-25,Male,Medium,PhD,Central
+420,Consumer Behavior Explained,Olivia Thomas,140,58.22,31.58,8150.8,4421.2,3729.6,45.76,60+,Female,Medium,Bachelor,East
+421,Content Marketing Mastery,Sarah Johnson,195,16.24,6.74,3166.8,1314.3,1852.5,58.5,60+,Male,Low,Bachelor,South
+422,Brand Management Handbook,David Wilson,383,33.43,13.57,12803.69,5197.31,7606.38,59.41,18-25,Female,Low,Bachelor,Central
+423,Digital Marketing Strategy,John Smith,164,26.36,16.91,4323.04,2773.24,1549.8,35.85,36-45,Female,Medium,PhD,East
+424,Consumer Behavior Explained,Olivia Thomas,179,24.82,12.18,4442.78,2180.22,2262.56,50.93,60+,Female,High,High School,North
+425,Marketing Data Science,Daniel Moore,389,58.49,38.12,22752.61,14828.68,7923.93,34.83,60+,Female,Medium,High School,West
+426,Content Marketing Mastery,Sarah Johnson,222,59.48,35.22,13204.56,7818.84,5385.72,40.79,36-45,Female,High,Master,South
+427,Social Media Marketing Guide,Michael Brown,314,49.45,33.13,15527.3,10402.82,5124.48,33.0,60+,Female,High,Master,South
+428,Digital Marketing Strategy,John Smith,385,37.38,18.27,14391.3,7033.95,7357.35,51.12,46-60,Female,Medium,High School,Central
+429,SEO Optimization Blueprint,Sophia Martin,467,23.55,14.55,10997.85,6794.85,4203.0,38.22,26-35,Female,High,Master,Central
+430,Brand Management Handbook,David Wilson,482,22.65,13.53,10917.3,6521.46,4395.84,40.26,60+,Male,Medium,High School,West
+431,Social Media Marketing Guide,Michael Brown,429,26.64,17.12,11428.56,7344.48,4084.08,35.74,26-35,Female,High,High School,South
+432,Email Marketing Secrets,Laura Taylor,164,48.49,23.86,7952.36,3913.04,4039.32,50.79,36-45,Female,Medium,Master,West
+433,Content Marketing Mastery,Sarah Johnson,290,17.42,10.28,5051.8,2981.2,2070.6,40.99,60+,Male,Medium,Bachelor,Central
+434,Content Marketing Mastery,Sarah Johnson,494,45.63,25.5,22541.22,12597.0,9944.22,44.12,46-60,Male,Low,Bachelor,South
+435,Email Marketing Secrets,Laura Taylor,259,59.42,39.68,15389.78,10277.12,5112.66,33.22,46-60,Male,Medium,Bachelor,North
+436,Consumer Behavior Explained,Olivia Thomas,220,43.4,19.66,9548.0,4325.2,5222.8,54.7,18-25,Male,Medium,Master,South
+437,Social Media Marketing Guide,Michael Brown,345,49.4,27.02,17043.0,9321.9,7721.1,45.3,18-25,Male,High,PhD,West
+438,Growth Hacking Techniques,James Anderson,269,58.44,30.1,15720.36,8096.9,7623.46,48.49,18-25,Male,High,Master,North
+439,Email Marketing Secrets,Laura Taylor,437,52.5,24.0,22942.5,10488.0,12454.5,54.29,18-25,Male,Low,Master,East
+440,Social Media Marketing Guide,Michael Brown,102,32.26,18.6,3290.52,1897.2,1393.32,42.34,26-35,Male,Low,Master,East
+441,Consumer Behavior Explained,Olivia Thomas,422,38.41,21.4,16209.02,9030.8,7178.22,44.29,46-60,Male,Medium,PhD,East
+442,Marketing Analytics Essentials,Emily Davis,134,57.66,38.95,7726.44,5219.3,2507.14,32.45,46-60,Male,Low,Bachelor,South
+443,Marketing Analytics Essentials,Emily Davis,425,15.99,8.82,6795.75,3748.5,3047.25,44.84,18-25,Female,High,High School,West
+444,Brand Management Handbook,David Wilson,444,39.06,16.19,17342.64,7188.36,10154.28,58.55,18-25,Male,High,High School,North
+445,Content Marketing Mastery,Sarah Johnson,263,34.99,15.29,9202.37,4021.27,5181.1,56.3,36-45,Female,High,Bachelor,South
+446,Digital Marketing Strategy,John Smith,204,33.94,14.6,6923.76,2978.4,3945.36,56.98,60+,Female,High,Bachelor,West
+447,Content Marketing Mastery,Sarah Johnson,311,47.34,20.61,14722.74,6409.71,8313.03,56.46,18-25,Male,Medium,Bachelor,Central
+448,Marketing Analytics Essentials,Emily Davis,448,26.83,14.94,12019.84,6693.12,5326.72,44.32,26-35,Female,High,PhD,East
+449,Social Media Marketing Guide,Michael Brown,70,39.67,26.7,2776.9,1869.0,907.9,32.69,46-60,Female,Low,High School,North
+450,Content Marketing Mastery,Sarah Johnson,106,52.59,31.59,5574.54,3348.54,2226.0,39.93,26-35,Male,High,High School,North
+451,Brand Management Handbook,David Wilson,379,25.4,17.69,9626.6,6704.51,2922.09,30.35,36-45,Female,Medium,High School,North
+452,Social Media Marketing Guide,Michael Brown,497,16.78,8.17,8339.66,4060.49,4279.17,51.31,36-45,Female,High,High School,North
+453,Digital Marketing Strategy,John Smith,54,53.34,31.95,2880.36,1725.3,1155.06,40.1,26-35,Female,Medium,PhD,Central
+454,Brand Management Handbook,David Wilson,499,47.99,24.56,23947.01,12255.44,11691.57,48.82,36-45,Male,Low,PhD,West
+455,Consumer Behavior Explained,Olivia Thomas,189,52.61,31.93,9943.29,6034.77,3908.52,39.31,46-60,Female,High,Bachelor,North
+456,Social Media Marketing Guide,Michael Brown,406,47.69,33.12,19362.14,13446.72,5915.42,30.55,26-35,Male,Medium,PhD,Central
+457,Consumer Behavior Explained,Olivia Thomas,142,42.51,26.94,6036.42,3825.48,2210.94,36.63,60+,Male,High,Bachelor,West
+458,Consumer Behavior Explained,Olivia Thomas,107,54.94,29.24,5878.58,3128.68,2749.9,46.78,18-25,Female,High,Master,North
+459,Marketing Data Science,Daniel Moore,442,48.46,29.91,21419.32,13220.22,8199.1,38.28,26-35,Female,High,High School,West
+460,Marketing Analytics Essentials,Emily Davis,296,30.56,18.42,9045.76,5452.32,3593.44,39.73,46-60,Male,High,High School,North
+461,Social Media Marketing Guide,Michael Brown,308,53.2,34.88,16385.6,10743.04,5642.56,34.44,26-35,Male,Medium,Master,South
+462,Email Marketing Secrets,Laura Taylor,192,17.27,8.06,3315.84,1547.52,1768.32,53.33,46-60,Female,Low,High School,West
+463,Consumer Behavior Explained,Olivia Thomas,460,40.79,17.39,18763.4,7999.4,10764.0,57.37,46-60,Female,Medium,High School,West
+464,Digital Marketing Strategy,John Smith,102,33.15,13.62,3381.3,1389.24,1992.06,58.91,60+,Male,Low,Master,Central
+465,Marketing Data Science,Daniel Moore,155,44.46,23.87,6891.3,3699.85,3191.45,46.31,36-45,Female,Low,Bachelor,West
+466,Email Marketing Secrets,Laura Taylor,336,49.53,28.73,16642.08,9653.28,6988.8,41.99,36-45,Female,Low,High School,South
+467,Digital Marketing Strategy,John Smith,224,30.98,18.28,6939.52,4094.72,2844.8,40.99,36-45,Female,High,High School,North
+468,Social Media Marketing Guide,Michael Brown,302,21.32,13.11,6438.64,3959.22,2479.42,38.51,46-60,Male,Medium,Bachelor,South
+469,Content Marketing Mastery,Sarah Johnson,486,32.68,17.55,15882.48,8529.3,7353.18,46.3,26-35,Female,Low,PhD,North
+470,SEO Optimization Blueprint,Sophia Martin,113,49.75,26.62,5621.75,3008.06,2613.69,46.49,60+,Male,Medium,High School,Central
+471,Digital Marketing Strategy,John Smith,333,57.09,37.2,19010.97,12387.6,6623.37,34.84,46-60,Male,High,Bachelor,South
+472,Content Marketing Mastery,Sarah Johnson,248,44.59,25.94,11058.32,6433.12,4625.2,41.83,36-45,Female,Medium,Bachelor,East
+473,Growth Hacking Techniques,James Anderson,225,58.67,31.44,13200.75,7074.0,6126.75,46.41,26-35,Male,Medium,Master,Central
+474,Email Marketing Secrets,Laura Taylor,414,48.16,27.26,19938.24,11285.64,8652.6,43.4,26-35,Male,Low,Master,East
+475,Social Media Marketing Guide,Michael Brown,413,44.25,30.42,18275.25,12563.46,5711.79,31.25,60+,Female,High,High School,East
+476,Marketing Data Science,Daniel Moore,295,41.23,28.15,12162.85,8304.25,3858.6,31.72,46-60,Female,Medium,High School,Central
+477,Content Marketing Mastery,Sarah Johnson,62,32.14,13.37,1992.68,828.94,1163.74,58.4,18-25,Male,Medium,Bachelor,East
+478,Brand Management Handbook,David Wilson,124,52.77,32.04,6543.48,3972.96,2570.52,39.28,36-45,Male,High,High School,East
+479,Consumer Behavior Explained,Olivia Thomas,102,42.72,25.75,4357.44,2626.5,1730.94,39.72,60+,Male,High,PhD,South
+480,Marketing Data Science,Daniel Moore,451,50.86,30.97,22937.86,13967.47,8970.39,39.11,18-25,Female,Medium,PhD,East
+481,Marketing Data Science,Daniel Moore,77,15.58,7.41,1199.66,570.57,629.09,52.44,60+,Female,Low,Master,Central
+482,Marketing Data Science,Daniel Moore,428,42.15,26.67,18040.2,11414.76,6625.44,36.73,26-35,Female,Medium,Bachelor,North
+483,Social Media Marketing Guide,Michael Brown,138,48.08,20.95,6635.04,2891.1,3743.94,56.43,18-25,Female,Medium,Master,South
+484,Social Media Marketing Guide,Michael Brown,349,53.07,21.32,18521.43,7440.68,11080.75,59.83,46-60,Male,Low,Bachelor,East
+485,SEO Optimization Blueprint,Sophia Martin,76,49.81,29.27,3785.56,2224.52,1561.04,41.24,36-45,Female,High,Master,North
+486,Email Marketing Secrets,Laura Taylor,319,24.9,11.33,7943.1,3614.27,4328.83,54.5,18-25,Male,Medium,PhD,North
+487,Email Marketing Secrets,Laura Taylor,163,54.75,32.8,8924.25,5346.4,3577.85,40.09,36-45,Female,Medium,Bachelor,Central
+488,Marketing Data Science,Daniel Moore,293,59.85,38.73,17536.05,11347.89,6188.16,35.29,18-25,Male,High,Master,West
+489,Marketing Analytics Essentials,Emily Davis,378,42.62,24.99,16110.36,9446.22,6664.14,41.37,18-25,Female,Medium,High School,West
+490,Brand Management Handbook,David Wilson,326,47.58,19.38,15511.08,6317.88,9193.2,59.27,60+,Female,High,PhD,West
+491,Digital Marketing Strategy,John Smith,201,55.42,25.37,11139.42,5099.37,6040.05,54.22,60+,Male,Low,Bachelor,Central
+492,Marketing Data Science,Daniel Moore,53,43.21,20.02,2290.13,1061.06,1229.07,53.67,26-35,Female,Low,Bachelor,Central
+493,Growth Hacking Techniques,James Anderson,381,51.75,21.82,19716.75,8313.42,11403.33,57.84,26-35,Male,Medium,Master,North
+494,Content Marketing Mastery,Sarah Johnson,87,17.44,11.13,1517.28,968.31,548.97,36.18,60+,Male,High,Bachelor,East
+495,Growth Hacking Techniques,James Anderson,248,35.3,18.4,8754.4,4563.2,4191.2,47.88,36-45,Male,Medium,High School,Central
+496,Digital Marketing Strategy,John Smith,378,47.41,19.86,17920.98,7507.08,10413.9,58.11,60+,Male,High,High School,East
+497,Marketing Data Science,Daniel Moore,104,28.04,16.99,2916.16,1766.96,1149.2,39.41,60+,Male,Medium,PhD,West
+498,Growth Hacking Techniques,James Anderson,470,44.73,24.25,21023.1,11397.5,9625.6,45.79,60+,Male,Low,PhD,Central
+499,Brand Management Handbook,David Wilson,374,21.48,12.96,8033.52,4847.04,3186.48,39.66,36-45,Male,High,Bachelor,North
+500,Digital Marketing Strategy,John Smith,52,40.77,21.13,2120.04,1098.76,1021.28,48.17,60+,Male,Medium,Bachelor,East
