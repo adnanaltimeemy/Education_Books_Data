@@ -1,0 +1,501 @@
+Transaction_ID,Date,Book_Title,Category,Units_Sold,Price_Per_Unit,Cost_Per_Unit,Customer_ID,Customer_Age,Customer_Gender,Customer_Income_Level,Customer_Region,Customer_Education,Revenue,Cost,Profit,Profit_Margin
+1,2025-01-01,Ethical Business,Environment,17,28.87,5.34,1226,25,Non-binary,Medium,Glasgow,PhD,490.79,90.78,400.01,0.82
+2,2025-01-02,Sustainable Future,Education,9,24.8,8.97,1153,40,Non-binary,High,Manchester,High School,223.20000000000002,80.73,142.47000000000003,0.64
+3,2025-01-03,Youth Empowerment,Education,1,11.08,14.27,1804,20,Female,High,Birmingham,PhD,11.08,14.27,-3.1899999999999995,-0.29
+4,2025-01-04,Ethical Business,Social Justice,13,27.11,7.48,1741,21,Female,Medium,Birmingham,PhD,352.43,97.24000000000001,255.19,0.72
+5,2025-01-05,Education for Change,Environment,16,18.72,9.58,1468,42,Non-binary,Low,Leeds,Bachelor,299.52,153.28,146.23999999999998,0.49
+6,2025-01-06,Climate Action,Education,13,27.68,4.46,1821,64,Male,High,Manchester,Master,359.84,57.98,301.85999999999996,0.84
+7,2025-01-07,Youth Empowerment,Social Justice,14,25.6,5.63,1999,55,Female,Low,Leeds,High School,358.40000000000003,78.82,279.58000000000004,0.78
+8,2025-01-08,Youth Empowerment,Environment,3,17.35,14.85,1870,32,Non-binary,Low,Manchester,Bachelor,52.050000000000004,44.55,7.500000000000007,0.14
+9,2025-01-09,Ethical Business,Social Justice,6,8.49,14.62,1404,38,Non-binary,High,Leeds,High School,50.94,87.72,-36.78,-0.72
+10,2025-01-10,Social Impact Guide,Leadership,18,13.91,4.05,1201,52,Non-binary,Low,Birmingham,PhD,250.38,72.89999999999999,177.48000000000002,0.71
+11,2025-01-11,Education for Change,Education,19,19.92,14.47,1037,63,Non-binary,Low,Glasgow,High School,378.48,274.93,103.55000000000001,0.27
+12,2025-01-12,Ethical Business,Leadership,5,21.94,11.03,1941,69,Male,Medium,Leeds,Master,109.7,55.15,54.550000000000004,0.5
+13,2025-01-13,Education for Change,Environment,15,13.67,13.55,1771,31,Non-binary,Low,Manchester,PhD,205.05,203.25,1.8000000000000114,0.01
+14,2025-01-14,Education for Change,Leadership,2,11.07,9.0,1187,53,Female,Medium,Manchester,PhD,22.14,18.0,4.140000000000001,0.19
+15,2025-01-15,Climate Action,Leadership,10,26.37,9.67,1056,29,Male,High,Birmingham,Bachelor,263.7,96.7,167.0,0.63
+16,2025-01-16,Youth Empowerment,Environment,18,29.66,9.38,1940,34,Non-binary,High,Manchester,Master,533.88,168.84,365.03999999999996,0.68
+17,2025-01-17,Sustainable Future,Social Justice,13,19.57,11.34,1019,56,Male,Medium,London,PhD,254.41,147.42,106.99000000000001,0.42
+18,2025-01-18,Climate Action,Leadership,5,11.78,5.54,1272,26,Female,High,Glasgow,Master,58.9,27.7,31.2,0.53
+19,2025-01-19,Climate Action,Social Justice,1,13.99,4.33,1118,52,Non-binary,Low,Leeds,High School,13.99,4.33,9.66,0.69
+20,2025-01-20,Education for Change,Leadership,1,8.4,7.39,1582,30,Female,Low,Glasgow,Master,8.4,7.39,1.0100000000000007,0.12
+21,2025-01-21,Women in Leadership,Social Justice,18,28.11,11.75,1515,32,Non-binary,Low,Birmingham,PhD,505.98,211.5,294.48,0.58
+22,2025-01-22,Youth Empowerment,Environment,15,10.59,6.22,1220,35,Non-binary,High,Leeds,Bachelor,158.85,93.3,65.55,0.41
+23,2025-01-23,Social Impact Guide,Leadership,17,20.68,11.41,1525,68,Non-binary,Low,Leeds,PhD,351.56,193.97,157.59,0.45
+24,2025-01-24,Climate Action,Environment,11,14.03,14.67,1514,50,Non-binary,High,London,Master,154.32999999999998,161.37,-7.0400000000000205,-0.05
+25,2025-01-25,Sustainable Future,Leadership,17,20.19,5.03,1727,23,Non-binary,Low,Birmingham,Master,343.23,85.51,257.72,0.75
+26,2025-01-26,Women in Leadership,Environment,13,22.33,11.4,1740,44,Male,Medium,Manchester,PhD,290.28999999999996,148.20000000000002,142.08999999999995,0.49
+27,2025-01-27,Women in Leadership,Environment,1,26.25,8.88,1335,40,Non-binary,High,London,Master,26.25,8.88,17.369999999999997,0.66
+28,2025-01-28,Social Impact Guide,Leadership,2,12.54,13.55,1697,44,Non-binary,High,London,High School,25.08,27.1,-2.020000000000003,-0.08
+29,2025-01-29,Climate Action,Leadership,9,8.24,5.95,1054,51,Male,Low,Glasgow,PhD,74.16,53.550000000000004,20.609999999999992,0.28
+30,2025-01-30,Sustainable Future,Leadership,3,11.01,11.62,1499,63,Male,High,Glasgow,Bachelor,33.03,34.86,-1.8299999999999983,-0.06
+31,2025-01-31,Youth Empowerment,Education,1,27.8,13.22,1899,55,Male,High,Glasgow,PhD,27.8,13.22,14.58,0.52
+32,2025-02-01,Community Leadership,Social Justice,16,27.23,14.39,1887,31,Male,Medium,London,High School,435.68,230.24,205.44,0.47
+33,2025-02-02,Sustainable Future,Education,6,21.14,11.52,1765,53,Male,Medium,Manchester,High School,126.84,69.12,57.72,0.46
+34,2025-02-03,Social Impact Guide,Education,17,21.21,9.47,1535,25,Male,Low,Leeds,High School,360.57,160.99,199.57999999999998,0.55
+35,2025-02-04,Women in Leadership,Environment,5,22.63,10.8,1161,52,Non-binary,Medium,Glasgow,High School,113.14999999999999,54.0,59.14999999999999,0.52
+36,2025-02-05,Youth Empowerment,Leadership,5,11.86,13.56,1669,36,Non-binary,Low,Manchester,High School,59.3,67.8,-8.5,-0.14
+37,2025-02-06,Sustainable Future,Social Justice,6,28.12,10.28,1593,47,Female,Low,Birmingham,Bachelor,168.72,61.67999999999999,107.04,0.63
+38,2025-02-07,Community Leadership,Environment,3,17.21,4.33,1914,31,Non-binary,Low,Glasgow,Master,51.63,12.99,38.64,0.75
+39,2025-02-08,Community Leadership,Education,5,16.43,14.24,1158,37,Non-binary,High,Leeds,High School,82.15,71.2,10.950000000000003,0.13
+40,2025-02-09,Education for Change,Leadership,5,19.42,11.58,1187,66,Male,Medium,Birmingham,High School,97.10000000000001,57.9,39.20000000000001,0.4
+41,2025-02-10,Education for Change,Environment,10,9.03,11.44,1059,42,Male,Low,Birmingham,PhD,90.3,114.39999999999999,-24.099999999999994,-0.27
+42,2025-02-11,Ethical Business,Leadership,10,11.66,6.37,1914,57,Non-binary,Medium,Leeds,Bachelor,116.6,63.7,52.89999999999999,0.45
+43,2025-02-12,Social Impact Guide,Environment,19,24.24,11.25,1816,41,Female,Low,Glasgow,Bachelor,460.55999999999995,213.75,246.80999999999995,0.54
+44,2025-02-13,Climate Action,Leadership,17,9.82,8.33,1318,31,Male,Medium,London,Master,166.94,141.61,25.329999999999984,0.15
+45,2025-02-14,Sustainable Future,Education,14,21.27,11.16,1877,43,Non-binary,Medium,Leeds,Bachelor,297.78,156.24,141.53999999999996,0.48
+46,2025-02-15,Sustainable Future,Social Justice,9,13.4,5.17,1210,55,Non-binary,Low,Leeds,PhD,120.60000000000001,46.53,74.07000000000001,0.61
+47,2025-02-16,Climate Action,Education,14,16.56,11.24,1405,40,Female,High,Leeds,PhD,231.83999999999997,157.36,74.47999999999996,0.32
+48,2025-02-17,Ethical Business,Social Justice,1,14.35,14.99,1663,39,Female,Medium,Birmingham,Master,14.35,14.99,-0.6400000000000006,-0.04
+49,2025-02-18,Women in Leadership,Leadership,19,15.82,4.53,1108,65,Male,High,Manchester,PhD,300.58,86.07000000000001,214.51,0.71
+50,2025-02-19,Women in Leadership,Environment,13,23.82,14.75,1075,36,Female,High,London,High School,309.66,191.75,117.91000000000003,0.38
+51,2025-02-20,Ethical Business,Education,13,14.54,8.48,1541,63,Non-binary,Low,Glasgow,High School,189.01999999999998,110.24000000000001,78.77999999999997,0.42
+52,2025-02-21,Women in Leadership,Social Justice,4,20.46,13.58,1313,68,Non-binary,Low,Glasgow,PhD,81.84,54.32,27.520000000000003,0.34
+53,2025-02-22,Education for Change,Education,1,18.47,12.61,1997,20,Female,Low,Manchester,Master,18.47,12.61,5.859999999999999,0.32
+54,2025-02-23,Sustainable Future,Social Justice,17,22.6,10.24,1116,59,Female,Medium,Leeds,Bachelor,384.20000000000005,174.08,210.12000000000003,0.55
+55,2025-02-24,Ethical Business,Education,8,28.61,12.12,1926,36,Female,Low,London,Master,228.88,96.96,131.92000000000002,0.58
+56,2025-02-25,Sustainable Future,Social Justice,2,24.12,13.66,1867,26,Female,Low,Glasgow,Bachelor,48.24,27.32,20.92,0.43
+57,2025-02-26,Climate Action,Social Justice,8,12.73,8.45,1703,45,Male,Medium,Glasgow,PhD,101.84,67.6,34.24000000000001,0.34
+58,2025-02-27,Community Leadership,Leadership,7,8.69,7.6,1018,37,Female,Medium,Leeds,PhD,60.83,53.199999999999996,7.630000000000003,0.13
+59,2025-02-28,Education for Change,Social Justice,2,13.77,11.34,1431,62,Male,Low,Manchester,High School,27.54,22.68,4.859999999999999,0.18
+60,2025-03-01,Youth Empowerment,Leadership,3,21.09,12.89,1684,24,Non-binary,Low,London,Bachelor,63.269999999999996,38.67,24.599999999999994,0.39
+61,2025-03-02,Education for Change,Social Justice,18,9.13,12.39,1739,31,Female,Low,Manchester,Master,164.34,223.02,-58.68000000000001,-0.36
+62,2025-03-03,Ethical Business,Environment,12,18.92,12.78,1349,26,Male,Low,Manchester,PhD,227.04000000000002,153.35999999999999,73.68000000000004,0.32
+63,2025-03-04,Youth Empowerment,Environment,1,21.13,8.79,1182,36,Female,High,London,Master,21.13,8.79,12.34,0.58
+64,2025-03-05,Community Leadership,Environment,12,15.35,13.0,1112,64,Non-binary,High,London,High School,184.2,156.0,28.19999999999999,0.15
+65,2025-03-06,Ethical Business,Social Justice,5,24.96,5.32,1182,69,Non-binary,Low,Glasgow,Bachelor,124.80000000000001,26.6,98.20000000000002,0.79
+66,2025-03-07,Social Impact Guide,Leadership,17,10.35,9.99,1480,31,Non-binary,High,Glasgow,Bachelor,175.95,169.83,6.119999999999976,0.03
+67,2025-03-08,Sustainable Future,Leadership,16,9.65,4.06,1145,55,Female,Medium,London,PhD,154.4,64.96,89.44000000000001,0.58
+68,2025-03-09,Community Leadership,Social Justice,15,24.02,7.57,1830,53,Female,High,Birmingham,Bachelor,360.3,113.55000000000001,246.75,0.68
+69,2025-03-10,Sustainable Future,Environment,15,18.9,8.03,1627,57,Male,High,Glasgow,PhD,283.5,120.44999999999999,163.05,0.58
+70,2025-03-11,Women in Leadership,Environment,5,23.14,8.36,1112,34,Non-binary,Low,Birmingham,High School,115.7,41.8,73.9,0.64
+71,2025-03-12,Social Impact Guide,Leadership,14,17.57,11.65,1762,47,Female,High,London,Bachelor,245.98000000000002,163.1,82.88000000000002,0.34
+72,2025-03-13,Social Impact Guide,Environment,2,13.42,8.27,1475,26,Non-binary,High,Glasgow,PhD,26.84,16.54,10.3,0.38
+73,2025-03-14,Community Leadership,Education,11,26.02,8.94,1762,50,Non-binary,High,Manchester,Master,286.21999999999997,98.33999999999999,187.88,0.66
+74,2025-03-15,Social Impact Guide,Leadership,19,25.59,6.61,1302,69,Male,High,London,PhD,486.21,125.59,360.62,0.74
+75,2025-03-16,Youth Empowerment,Environment,7,23.28,8.11,1970,42,Male,Medium,Leeds,Bachelor,162.96,56.769999999999996,106.19000000000001,0.65
+76,2025-03-17,Social Impact Guide,Leadership,6,13.99,6.5,1824,31,Male,Low,Birmingham,High School,83.94,39.0,44.94,0.54
+77,2025-03-18,Sustainable Future,Education,2,20.99,4.81,1117,28,Male,Low,London,Bachelor,41.98,9.62,32.36,0.77
+78,2025-03-19,Sustainable Future,Leadership,6,15.94,10.64,1812,52,Non-binary,Medium,London,Bachelor,95.64,63.84,31.799999999999997,0.33
+79,2025-03-20,Ethical Business,Leadership,18,10.01,11.35,1160,58,Male,High,Glasgow,PhD,180.18,204.29999999999998,-24.119999999999976,-0.13
+80,2025-03-21,Sustainable Future,Leadership,2,28.18,10.81,1400,31,Male,Medium,Glasgow,Master,56.36,21.62,34.739999999999995,0.62
+81,2025-03-22,Ethical Business,Leadership,18,11.01,9.1,1197,47,Male,High,Glasgow,Bachelor,198.18,163.79999999999998,34.380000000000024,0.17
+82,2025-03-23,Sustainable Future,Education,15,28.91,8.18,1259,58,Male,Medium,Leeds,Master,433.65,122.69999999999999,310.95,0.72
+83,2025-03-24,Youth Empowerment,Social Justice,19,17.81,13.5,1659,21,Non-binary,Low,Glasgow,PhD,338.39,256.5,81.88999999999999,0.24
+84,2025-03-25,Climate Action,Leadership,2,12.07,9.71,1751,21,Male,Low,London,Master,24.14,19.42,4.719999999999999,0.2
+85,2025-03-26,Ethical Business,Leadership,6,19.92,9.27,1046,45,Non-binary,Low,Glasgow,PhD,119.52000000000001,55.62,63.90000000000001,0.53
+86,2025-03-27,Education for Change,Environment,1,27.2,4.28,1986,25,Female,High,Manchester,High School,27.2,4.28,22.919999999999998,0.84
+87,2025-03-28,Women in Leadership,Leadership,15,24.11,7.75,1398,19,Non-binary,High,Glasgow,Master,361.65,116.25,245.39999999999998,0.68
+88,2025-03-29,Community Leadership,Environment,10,25.74,8.18,1709,58,Non-binary,Medium,Leeds,Master,257.4,81.8,175.59999999999997,0.68
+89,2025-03-30,Sustainable Future,Social Justice,19,22.49,8.39,1558,63,Male,Medium,Manchester,High School,427.30999999999995,159.41000000000003,267.8999999999999,0.63
+90,2025-03-31,Social Impact Guide,Education,17,23.23,10.38,1077,39,Female,Low,London,Master,394.91,176.46,218.45000000000002,0.55
+91,2025-04-01,Climate Action,Education,5,26.68,9.87,1123,58,Female,High,London,High School,133.4,49.349999999999994,84.05000000000001,0.63
+92,2025-04-02,Sustainable Future,Social Justice,4,13.49,10.69,1074,33,Female,Medium,Birmingham,Bachelor,53.96,42.76,11.200000000000003,0.21
+93,2025-04-03,Social Impact Guide,Education,10,18.77,12.41,1870,46,Female,High,Manchester,PhD,187.7,124.1,63.599999999999994,0.34
+94,2025-04-04,Women in Leadership,Social Justice,17,12.87,12.94,1136,66,Non-binary,High,Birmingham,High School,218.79,219.98,-1.1899999999999977,-0.01
+95,2025-04-05,Women in Leadership,Social Justice,10,29.73,11.9,1601,65,Female,Low,Manchester,Master,297.3,119.0,178.3,0.6
+96,2025-04-06,Women in Leadership,Social Justice,17,28.77,14.51,1399,47,Non-binary,Low,Manchester,High School,489.09,246.67,242.42,0.5
+97,2025-04-07,Social Impact Guide,Education,5,8.87,4.2,1836,29,Non-binary,High,Leeds,Master,44.349999999999994,21.0,23.349999999999994,0.53
+98,2025-04-08,Sustainable Future,Environment,2,23.52,6.15,1504,52,Non-binary,High,Birmingham,Bachelor,47.04,12.3,34.739999999999995,0.74
+99,2025-04-09,Women in Leadership,Social Justice,6,28.36,4.08,1499,28,Female,High,Leeds,High School,170.16,24.48,145.68,0.86
+100,2025-04-10,Youth Empowerment,Leadership,2,11.97,11.12,1572,63,Male,High,Manchester,Bachelor,23.94,22.24,1.7000000000000028,0.07
+101,2025-04-11,Ethical Business,Education,13,20.49,13.88,1137,67,Male,Low,London,PhD,266.37,180.44,85.93,0.32
+102,2025-04-12,Social Impact Guide,Social Justice,11,28.14,6.68,1049,38,Female,Medium,Manchester,Master,309.54,73.47999999999999,236.06000000000003,0.76
+103,2025-04-13,Social Impact Guide,Social Justice,11,8.75,14.2,1770,38,Male,Low,Leeds,Master,96.25,156.2,-59.94999999999999,-0.62
+104,2025-04-14,Sustainable Future,Leadership,16,23.34,4.66,1972,22,Male,Medium,Birmingham,Bachelor,373.44,74.56,298.88,0.8
+105,2025-04-15,Social Impact Guide,Environment,11,14.54,14.28,1618,65,Non-binary,High,Birmingham,PhD,159.94,157.07999999999998,2.8600000000000136,0.02
+106,2025-04-16,Social Impact Guide,Environment,19,28.34,7.87,1624,37,Non-binary,Medium,Leeds,High School,538.46,149.53,388.93000000000006,0.72
+107,2025-04-17,Women in Leadership,Environment,15,29.36,5.12,1861,54,Female,Low,Birmingham,High School,440.4,76.8,363.59999999999997,0.83
+108,2025-04-18,Sustainable Future,Social Justice,16,28.77,9.34,1253,20,Female,Low,Glasgow,Master,460.32,149.44,310.88,0.68
+109,2025-04-19,Women in Leadership,Social Justice,11,18.43,6.82,1629,61,Male,High,London,Bachelor,202.73,75.02000000000001,127.70999999999998,0.63
+110,2025-04-20,Ethical Business,Social Justice,16,26.96,7.13,1709,50,Non-binary,Low,London,Bachelor,431.36,114.08,317.28000000000003,0.74
+111,2025-04-21,Climate Action,Education,8,26.58,7.38,1848,26,Female,High,London,High School,212.64,59.04,153.6,0.72
+112,2025-04-22,Ethical Business,Leadership,4,15.02,12.83,1876,26,Female,Low,Birmingham,PhD,60.08,51.32,8.759999999999998,0.15
+113,2025-04-23,Climate Action,Social Justice,8,26.24,9.93,1562,21,Female,Low,Birmingham,PhD,209.92,79.44,130.48,0.62
+114,2025-04-24,Women in Leadership,Leadership,4,8.81,7.42,1756,52,Female,High,Manchester,High School,35.24,29.68,5.560000000000002,0.16
+115,2025-04-25,Ethical Business,Leadership,3,21.12,10.71,1914,34,Female,Medium,Manchester,High School,63.36,32.13,31.229999999999997,0.49
+116,2025-04-26,Sustainable Future,Environment,3,13.06,11.88,1425,51,Female,Low,London,Bachelor,39.18,35.64,3.539999999999999,0.09
+117,2025-04-27,Community Leadership,Education,18,10.65,7.0,1546,41,Male,Medium,Glasgow,PhD,191.70000000000002,126.0,65.70000000000002,0.34
+118,2025-04-28,Women in Leadership,Social Justice,19,9.69,8.55,1301,49,Non-binary,Low,Manchester,High School,184.10999999999999,162.45000000000002,21.659999999999968,0.12
+119,2025-04-29,Climate Action,Environment,19,23.32,5.34,1921,18,Non-binary,Low,Manchester,High School,443.08,101.46,341.62,0.77
+120,2025-04-30,Youth Empowerment,Environment,5,15.48,5.99,1580,25,Female,Low,Birmingham,Master,77.4,29.950000000000003,47.45,0.61
+121,2025-05-01,Climate Action,Social Justice,18,23.94,11.49,1348,62,Non-binary,Low,Glasgow,High School,430.92,206.82,224.10000000000002,0.52
+122,2025-05-02,Youth Empowerment,Leadership,10,9.44,6.0,1831,40,Non-binary,Medium,London,High School,94.39999999999999,60.0,34.39999999999999,0.36
+123,2025-05-03,Social Impact Guide,Environment,6,14.94,9.78,1932,64,Non-binary,Medium,Manchester,PhD,89.64,58.67999999999999,30.960000000000008,0.35
+124,2025-05-04,Ethical Business,Leadership,1,19.87,11.8,1979,57,Female,Low,Glasgow,Bachelor,19.87,11.8,8.07,0.41
+125,2025-05-05,Youth Empowerment,Education,5,25.4,5.18,1048,29,Female,Low,Glasgow,PhD,127.0,25.9,101.1,0.8
+126,2025-05-06,Climate Action,Leadership,9,15.01,10.24,1916,29,Non-binary,Medium,London,Bachelor,135.09,92.16,42.93000000000001,0.32
+127,2025-05-07,Social Impact Guide,Education,12,21.77,6.82,1073,63,Non-binary,High,Glasgow,Master,261.24,81.84,179.4,0.69
+128,2025-05-08,Community Leadership,Leadership,14,27.49,14.59,1703,64,Female,High,Glasgow,High School,384.85999999999996,204.26,180.59999999999997,0.47
+129,2025-05-09,Sustainable Future,Environment,2,21.55,9.32,1260,32,Male,Medium,Glasgow,Master,43.1,18.64,24.46,0.57
+130,2025-05-10,Sustainable Future,Environment,17,13.13,12.87,1355,58,Non-binary,Low,Manchester,Bachelor,223.21,218.79,4.420000000000016,0.02
+131,2025-05-11,Sustainable Future,Education,14,8.54,10.05,1581,36,Male,Low,London,PhD,119.55999999999999,140.70000000000002,-21.14000000000003,-0.18
+132,2025-05-12,Youth Empowerment,Social Justice,13,27.14,4.48,1601,43,Non-binary,High,Glasgow,PhD,352.82,58.24000000000001,294.58,0.83
+133,2025-05-13,Community Leadership,Education,9,8.47,10.96,1259,69,Male,High,Glasgow,Master,76.23,98.64000000000001,-22.41000000000001,-0.29
+134,2025-05-14,Youth Empowerment,Education,15,27.24,14.47,1637,46,Male,Medium,Manchester,Bachelor,408.59999999999997,217.05,191.54999999999995,0.47
+135,2025-05-15,Ethical Business,Leadership,15,19.64,10.62,1742,39,Male,High,London,Master,294.6,159.29999999999998,135.30000000000004,0.46
+136,2025-05-16,Youth Empowerment,Leadership,11,28.66,13.01,1294,57,Female,Medium,Birmingham,Master,315.26,143.10999999999999,172.15,0.55
+137,2025-05-17,Community Leadership,Education,16,25.57,13.73,1930,38,Male,High,Manchester,High School,409.12,219.68,189.44,0.46
+138,2025-05-18,Community Leadership,Environment,17,29.95,6.51,1640,68,Male,High,London,Master,509.15,110.67,398.47999999999996,0.78
+139,2025-05-19,Ethical Business,Leadership,4,15.72,6.33,1791,55,Male,High,Glasgow,High School,62.88,25.32,37.56,0.6
+140,2025-05-20,Community Leadership,Social Justice,1,24.88,10.72,1312,37,Non-binary,Low,London,High School,24.88,10.72,14.159999999999998,0.57
+141,2025-05-21,Climate Action,Leadership,8,16.84,8.52,1611,46,Male,Low,London,PhD,134.72,68.16,66.56,0.49
+142,2025-05-22,Community Leadership,Leadership,17,18.56,13.24,1837,68,Non-binary,Low,London,High School,315.52,225.08,90.43999999999997,0.29
+143,2025-05-23,Sustainable Future,Social Justice,3,21.81,13.9,1808,21,Male,High,Birmingham,High School,65.42999999999999,41.7,23.72999999999999,0.36
+144,2025-05-24,Climate Action,Education,15,27.22,7.89,1181,24,Male,Medium,London,PhD,408.29999999999995,118.35,289.94999999999993,0.71
+145,2025-05-25,Climate Action,Social Justice,15,29.65,6.61,1685,45,Female,Medium,Birmingham,Master,444.75,99.15,345.6,0.78
+146,2025-05-26,Ethical Business,Education,14,24.9,12.59,1827,45,Non-binary,Medium,Glasgow,Bachelor,348.59999999999997,176.26,172.33999999999997,0.49
+147,2025-05-27,Education for Change,Education,14,17.19,7.02,1363,21,Male,Medium,Birmingham,Bachelor,240.66000000000003,98.28,142.38000000000002,0.59
+148,2025-05-28,Education for Change,Education,2,17.27,13.05,1187,39,Non-binary,Low,Glasgow,Bachelor,34.54,26.1,8.439999999999998,0.24
+149,2025-05-29,Community Leadership,Social Justice,13,24.23,8.66,1568,29,Non-binary,Low,Glasgow,Master,314.99,112.58,202.41000000000003,0.64
+150,2025-05-30,Climate Action,Education,14,13.25,11.34,1542,62,Female,High,Birmingham,High School,185.5,158.76,26.74000000000001,0.14
+151,2025-05-31,Education for Change,Environment,19,10.43,5.05,1595,20,Female,High,Manchester,Bachelor,198.17,95.95,102.21999999999998,0.52
+152,2025-06-01,Education for Change,Social Justice,7,15.8,10.86,1663,39,Female,Medium,Leeds,Master,110.60000000000001,76.02,34.58000000000001,0.31
+153,2025-06-02,Community Leadership,Environment,3,14.32,8.97,1984,61,Female,Low,London,High School,42.96,26.910000000000004,16.049999999999997,0.37
+154,2025-06-03,Education for Change,Education,15,14.52,10.45,1547,19,Female,Medium,Leeds,PhD,217.79999999999998,156.75,61.04999999999998,0.28
+155,2025-06-04,Youth Empowerment,Leadership,14,13.14,5.85,1724,41,Female,High,London,Bachelor,183.96,81.89999999999999,102.06000000000002,0.55
+156,2025-06-05,Social Impact Guide,Education,11,8.93,12.11,1925,51,Female,High,London,High School,98.22999999999999,133.20999999999998,-34.97999999999999,-0.36
+157,2025-06-06,Ethical Business,Environment,15,8.39,13.49,1407,44,Female,Medium,Glasgow,Bachelor,125.85000000000001,202.35,-76.49999999999999,-0.61
+158,2025-06-07,Social Impact Guide,Environment,13,29.73,6.38,1875,58,Male,High,London,Bachelor,386.49,82.94,303.55,0.79
+159,2025-06-08,Community Leadership,Social Justice,18,17.41,5.05,1617,18,Non-binary,Medium,London,Bachelor,313.38,90.89999999999999,222.48000000000002,0.71
+160,2025-06-09,Sustainable Future,Leadership,6,16.46,4.26,1413,25,Female,Low,Birmingham,High School,98.76,25.56,73.2,0.74
+161,2025-06-10,Ethical Business,Social Justice,3,22.95,11.06,1341,40,Female,Medium,Leeds,Master,68.85,33.18,35.669999999999995,0.52
+162,2025-06-11,Community Leadership,Environment,19,12.8,10.68,1219,55,Non-binary,Low,Birmingham,High School,243.20000000000002,202.92,40.28000000000003,0.17
+163,2025-06-12,Climate Action,Education,15,28.9,10.01,1902,23,Male,Low,London,Bachelor,433.5,150.15,283.35,0.65
+164,2025-06-13,Sustainable Future,Leadership,5,25.3,6.55,1162,39,Non-binary,High,Glasgow,High School,126.5,32.75,93.75,0.74
+165,2025-06-14,Social Impact Guide,Education,10,9.97,8.3,1950,42,Non-binary,High,Birmingham,PhD,99.7,83.0,16.700000000000003,0.17
+166,2025-06-15,Community Leadership,Education,7,17.19,10.54,1219,35,Female,High,Birmingham,Master,120.33000000000001,73.78,46.55000000000001,0.39
+167,2025-06-16,Climate Action,Leadership,17,27.34,9.46,1269,34,Non-binary,Medium,Manchester,High School,464.78,160.82000000000002,303.9599999999999,0.65
+168,2025-06-17,Ethical Business,Social Justice,7,28.78,14.87,1631,29,Non-binary,Medium,London,PhD,201.46,104.08999999999999,97.37000000000002,0.48
+169,2025-06-18,Ethical Business,Education,12,18.28,5.5,1905,23,Female,High,Glasgow,Master,219.36,66.0,153.36,0.7
+170,2025-06-19,Women in Leadership,Environment,17,21.5,11.65,1847,43,Female,Medium,Birmingham,PhD,365.5,198.05,167.45,0.46
+171,2025-06-20,Climate Action,Education,13,11.67,8.45,1399,44,Female,High,Birmingham,Master,151.71,109.85,41.860000000000014,0.28
+172,2025-06-21,Youth Empowerment,Leadership,4,29.81,8.71,1181,25,Female,Medium,Glasgow,High School,119.24,34.84,84.39999999999999,0.71
+173,2025-06-22,Education for Change,Leadership,10,13.1,11.89,1990,36,Non-binary,Low,London,PhD,131.0,118.9,12.099999999999994,0.09
+174,2025-06-23,Sustainable Future,Leadership,3,28.74,11.62,1617,59,Non-binary,Low,Manchester,Bachelor,86.22,34.86,51.36,0.6
+175,2025-06-24,Climate Action,Social Justice,9,22.29,14.9,1728,18,Male,High,Birmingham,PhD,200.60999999999999,134.1,66.50999999999999,0.33
+176,2025-06-25,Women in Leadership,Education,13,21.37,5.41,1204,46,Male,Medium,Manchester,Master,277.81,70.33,207.48000000000002,0.75
+177,2025-06-26,Education for Change,Social Justice,18,19.28,5.15,1581,62,Non-binary,Medium,Leeds,High School,347.04,92.7,254.34000000000003,0.73
+178,2025-06-27,Education for Change,Social Justice,15,13.07,11.97,1555,66,Male,Low,London,Master,196.05,179.55,16.5,0.08
+179,2025-06-28,Community Leadership,Leadership,4,11.88,10.36,1840,52,Non-binary,Low,Leeds,PhD,47.52,41.44,6.080000000000005,0.13
+180,2025-06-29,Education for Change,Leadership,15,12.85,7.02,1812,57,Male,High,Leeds,PhD,192.75,105.3,87.45,0.45
+181,2025-06-30,Youth Empowerment,Social Justice,2,12.1,4.87,1227,31,Female,Low,Leeds,Bachelor,24.2,9.74,14.459999999999999,0.6
+182,2025-07-01,Ethical Business,Education,15,25.15,4.94,1695,52,Male,High,London,High School,377.25,74.10000000000001,303.15,0.8
+183,2025-07-02,Women in Leadership,Environment,8,15.7,13.84,1618,65,Female,Low,London,High School,125.6,110.72,14.879999999999995,0.12
+184,2025-07-03,Education for Change,Social Justice,8,9.27,6.11,1595,62,Female,Low,Glasgow,PhD,74.16,48.88,25.279999999999994,0.34
+185,2025-07-04,Community Leadership,Education,17,29.32,7.56,1849,37,Female,Medium,Manchester,High School,498.44,128.51999999999998,369.92,0.74
+186,2025-07-05,Youth Empowerment,Leadership,12,27.44,6.49,1249,66,Female,Low,Manchester,Bachelor,329.28000000000003,77.88,251.40000000000003,0.76
+187,2025-07-06,Social Impact Guide,Leadership,19,28.41,7.9,1874,30,Male,Low,Glasgow,Master,539.79,150.1,389.68999999999994,0.72
+188,2025-07-07,Ethical Business,Education,10,29.89,4.76,1440,55,Non-binary,High,Glasgow,High School,298.9,47.599999999999994,251.29999999999998,0.84
+189,2025-07-08,Ethical Business,Environment,9,11.83,9.71,1532,66,Female,Low,Leeds,PhD,106.47,87.39000000000001,19.079999999999984,0.18
+190,2025-07-09,Women in Leadership,Leadership,5,16.72,4.74,1195,63,Male,High,Glasgow,Master,83.6,23.700000000000003,59.89999999999999,0.72
+191,2025-07-10,Ethical Business,Leadership,6,24.68,12.8,1689,66,Female,Low,Birmingham,Master,148.07999999999998,76.80000000000001,71.27999999999997,0.48
+192,2025-07-11,Education for Change,Leadership,2,23.31,6.57,1928,25,Male,Low,Manchester,Bachelor,46.62,13.14,33.48,0.72
+193,2025-07-12,Community Leadership,Education,13,11.39,9.94,1986,60,Male,High,Glasgow,PhD,148.07,129.22,18.849999999999994,0.13
+194,2025-07-13,Ethical Business,Social Justice,6,25.95,13.68,1518,37,Male,Medium,Birmingham,High School,155.7,82.08,73.61999999999999,0.47
+195,2025-07-14,Ethical Business,Leadership,5,12.94,11.16,1069,50,Non-binary,High,Birmingham,PhD,64.7,55.8,8.900000000000006,0.14
+196,2025-07-15,Social Impact Guide,Social Justice,1,12.92,9.86,1638,43,Male,High,Birmingham,Master,12.92,9.86,3.0600000000000005,0.24
+197,2025-07-16,Social Impact Guide,Environment,6,19.81,7.57,1398,56,Male,High,Birmingham,PhD,118.85999999999999,45.42,73.43999999999998,0.62
+198,2025-07-17,Sustainable Future,Leadership,6,21.04,7.66,1977,38,Non-binary,Medium,Leeds,High School,126.24,45.96,80.28,0.64
+199,2025-07-18,Youth Empowerment,Leadership,16,20.76,11.36,1671,66,Non-binary,Low,Birmingham,High School,332.16,181.76,150.40000000000003,0.45
+200,2025-07-19,Education for Change,Environment,4,10.01,14.94,1759,59,Male,High,Leeds,Bachelor,40.04,59.76,-19.72,-0.49
+201,2025-07-20,Ethical Business,Leadership,11,27.3,11.28,1202,60,Non-binary,High,Leeds,High School,300.3,124.08,176.22000000000003,0.59
+202,2025-07-21,Climate Action,Social Justice,9,13.84,10.14,1147,58,Female,Medium,Birmingham,High School,124.56,91.26,33.3,0.27
+203,2025-07-22,Ethical Business,Education,3,10.85,12.04,1471,26,Female,High,Manchester,PhD,32.55,36.12,-3.5700000000000003,-0.11
+204,2025-07-23,Community Leadership,Social Justice,19,27.55,9.12,1654,41,Non-binary,Low,Birmingham,PhD,523.45,173.27999999999997,350.1700000000001,0.67
+205,2025-07-24,Sustainable Future,Education,8,29.02,4.66,1943,54,Non-binary,Medium,Birmingham,Master,232.16,37.28,194.88,0.84
+206,2025-07-25,Youth Empowerment,Education,5,26.97,10.19,1198,66,Male,Low,Birmingham,Bachelor,134.85,50.949999999999996,83.9,0.62
+207,2025-07-26,Climate Action,Social Justice,4,25.81,14.53,1916,58,Non-binary,Low,Manchester,PhD,103.24,58.12,45.12,0.44
+208,2025-07-27,Sustainable Future,Social Justice,6,22.42,5.93,1425,34,Male,Medium,London,High School,134.52,35.58,98.94000000000001,0.74
+209,2025-07-28,Women in Leadership,Social Justice,2,20.12,11.59,1665,41,Female,High,London,Master,40.24,23.18,17.060000000000002,0.42
+210,2025-07-29,Youth Empowerment,Social Justice,11,9.91,6.21,1491,38,Non-binary,Low,Leeds,PhD,109.01,68.31,40.7,0.37
+211,2025-07-30,Ethical Business,Environment,4,16.99,9.89,1887,68,Male,Low,Leeds,Bachelor,67.96,39.56,28.39999999999999,0.42
+212,2025-07-31,Ethical Business,Leadership,15,16.2,5.06,1895,56,Male,Low,Manchester,Bachelor,243.0,75.89999999999999,167.10000000000002,0.69
+213,2025-08-01,Youth Empowerment,Education,6,13.71,8.95,1141,58,Female,Low,Glasgow,Master,82.26,53.699999999999996,28.56000000000001,0.35
+214,2025-08-02,Ethical Business,Social Justice,17,23.92,12.32,1312,56,Non-binary,Medium,London,Master,406.64000000000004,209.44,197.20000000000005,0.48
+215,2025-08-03,Education for Change,Social Justice,6,18.91,7.82,1164,30,Female,Medium,Leeds,Master,113.46000000000001,46.92,66.54,0.59
+216,2025-08-04,Youth Empowerment,Social Justice,19,9.78,11.31,1313,28,Male,Low,London,Master,185.82,214.89000000000001,-29.07000000000002,-0.16
+217,2025-08-05,Sustainable Future,Environment,2,12.84,12.75,1020,63,Male,High,Manchester,Master,25.68,25.5,0.17999999999999972,0.01
+218,2025-08-06,Youth Empowerment,Social Justice,15,23.03,14.2,1081,36,Non-binary,Low,Manchester,High School,345.45000000000005,213.0,132.45000000000005,0.38
+219,2025-08-07,Climate Action,Social Justice,11,9.67,6.58,1580,28,Male,High,Glasgow,High School,106.37,72.38,33.99000000000001,0.32
+220,2025-08-08,Ethical Business,Social Justice,8,26.73,8.39,1130,30,Non-binary,Low,Glasgow,PhD,213.84,67.12,146.72,0.69
+221,2025-08-09,Education for Change,Leadership,19,18.89,5.68,1598,63,Female,High,Manchester,Bachelor,358.91,107.91999999999999,250.99000000000004,0.7
+222,2025-08-10,Education for Change,Environment,13,18.57,14.92,1729,62,Non-binary,Low,Leeds,High School,241.41,193.96,47.44999999999999,0.2
+223,2025-08-11,Women in Leadership,Social Justice,12,21.03,14.2,1932,18,Non-binary,High,London,High School,252.36,170.39999999999998,81.96000000000004,0.32
+224,2025-08-12,Sustainable Future,Education,5,26.14,9.94,1983,57,Male,Low,Birmingham,High School,130.7,49.699999999999996,81.0,0.62
+225,2025-08-13,Social Impact Guide,Education,6,15.65,13.26,1304,61,Male,Low,Glasgow,PhD,93.9,79.56,14.340000000000003,0.15
+226,2025-08-14,Social Impact Guide,Education,4,22.92,9.73,1914,36,Non-binary,High,Birmingham,Master,91.68,38.92,52.760000000000005,0.58
+227,2025-08-15,Youth Empowerment,Environment,19,20.45,10.86,1370,29,Male,Medium,Leeds,PhD,388.55,206.33999999999997,182.21000000000004,0.47
+228,2025-08-16,Women in Leadership,Environment,1,13.87,4.98,1856,25,Male,High,Glasgow,Bachelor,13.87,4.98,8.889999999999999,0.64
+229,2025-08-17,Community Leadership,Education,17,27.33,12.31,1852,25,Male,Medium,Birmingham,Bachelor,464.60999999999996,209.27,255.33999999999995,0.55
+230,2025-08-18,Youth Empowerment,Social Justice,12,25.54,5.4,1383,62,Non-binary,Low,Leeds,Bachelor,306.48,64.80000000000001,241.68,0.79
+231,2025-08-19,Women in Leadership,Environment,15,22.49,13.09,1907,29,Male,High,London,Bachelor,337.34999999999997,196.35,140.99999999999997,0.42
+232,2025-08-20,Sustainable Future,Education,1,26.71,12.6,1444,65,Non-binary,High,Leeds,High School,26.71,12.6,14.110000000000001,0.53
+233,2025-08-21,Sustainable Future,Education,14,27.08,11.8,1424,50,Male,High,Glasgow,High School,379.12,165.20000000000002,213.92,0.56
+234,2025-08-22,Sustainable Future,Social Justice,6,23.58,4.4,1160,62,Female,Medium,Manchester,PhD,141.48,26.400000000000002,115.07999999999998,0.81
+235,2025-08-23,Sustainable Future,Leadership,5,26.41,7.33,1177,43,Male,Medium,London,Master,132.05,36.65,95.4,0.72
+236,2025-08-24,Sustainable Future,Environment,11,23.34,6.89,1628,56,Male,Low,Birmingham,Bachelor,256.74,75.78999999999999,180.95000000000002,0.7
+237,2025-08-25,Women in Leadership,Social Justice,4,22.96,7.96,1707,45,Non-binary,Medium,Glasgow,PhD,91.84,31.84,60.0,0.65
+238,2025-08-26,Women in Leadership,Education,13,21.61,4.96,1894,22,Non-binary,Medium,Manchester,High School,280.93,64.48,216.45,0.77
+239,2025-08-27,Education for Change,Education,11,24.56,14.31,1489,25,Male,Low,Leeds,High School,270.15999999999997,157.41,112.74999999999997,0.42
+240,2025-08-28,Climate Action,Social Justice,3,11.49,10.09,1326,42,Female,High,Manchester,Master,34.47,30.27,4.199999999999999,0.12
+241,2025-08-29,Social Impact Guide,Environment,1,27.38,7.36,1597,44,Male,High,Glasgow,Master,27.38,7.36,20.02,0.73
+242,2025-08-30,Ethical Business,Leadership,6,27.18,8.37,1288,63,Male,Low,Glasgow,Master,163.07999999999998,50.22,112.85999999999999,0.69
+243,2025-08-31,Sustainable Future,Leadership,18,8.64,8.92,1592,40,Female,High,Manchester,PhD,155.52,160.56,-5.039999999999992,-0.03
+244,2025-09-01,Community Leadership,Education,10,26.17,10.61,1663,47,Non-binary,Medium,Leeds,High School,261.70000000000005,106.1,155.60000000000005,0.59
+245,2025-09-02,Ethical Business,Environment,5,10.84,9.67,1572,62,Male,Low,Manchester,High School,54.2,48.35,5.850000000000001,0.11
+246,2025-09-03,Women in Leadership,Leadership,10,15.37,14.11,1572,64,Non-binary,Low,Glasgow,Master,153.7,141.1,12.599999999999994,0.08
+247,2025-09-04,Community Leadership,Environment,12,24.36,9.47,1353,40,Non-binary,Low,Glasgow,Bachelor,292.32,113.64000000000001,178.67999999999998,0.61
+248,2025-09-05,Community Leadership,Environment,2,11.54,14.91,1027,66,Female,High,Birmingham,Master,23.08,29.82,-6.740000000000002,-0.29
+249,2025-09-06,Community Leadership,Education,13,26.0,13.37,1953,64,Female,Low,Birmingham,PhD,338.0,173.81,164.19,0.49
+250,2025-09-07,Education for Change,Leadership,8,26.31,6.29,1042,37,Non-binary,Low,London,Master,210.48,50.32,160.16,0.76
+251,2025-09-08,Women in Leadership,Social Justice,2,19.16,14.24,1680,35,Male,Low,Glasgow,Master,38.32,28.48,9.84,0.26
+252,2025-09-09,Community Leadership,Education,1,8.14,5.28,1422,35,Non-binary,High,Birmingham,PhD,8.14,5.28,2.8600000000000003,0.35
+253,2025-09-10,Sustainable Future,Leadership,5,14.31,12.99,1597,19,Male,Medium,Manchester,Master,71.55,64.95,6.599999999999994,0.09
+254,2025-09-11,Youth Empowerment,Leadership,9,21.57,8.19,1176,21,Male,Low,Leeds,High School,194.13,73.71,120.42,0.62
+255,2025-09-12,Community Leadership,Leadership,17,29.59,13.66,1528,47,Female,Medium,Manchester,Bachelor,503.03,232.22,270.80999999999995,0.54
+256,2025-09-13,Education for Change,Leadership,9,21.9,13.55,1609,50,Male,High,Leeds,Master,197.1,121.95,75.14999999999999,0.38
+257,2025-09-14,Ethical Business,Leadership,11,13.72,12.87,1965,53,Male,High,Birmingham,PhD,150.92000000000002,141.57,9.350000000000023,0.06
+258,2025-09-15,Women in Leadership,Environment,15,21.95,12.69,1493,35,Non-binary,High,London,Bachelor,329.25,190.35,138.9,0.42
+259,2025-09-16,Climate Action,Education,6,19.88,7.35,1197,54,Female,High,Manchester,PhD,119.28,44.099999999999994,75.18,0.63
+260,2025-09-17,Education for Change,Environment,3,25.16,4.89,1609,36,Male,Medium,Manchester,Bachelor,75.48,14.669999999999998,60.81,0.81
+261,2025-09-18,Community Leadership,Social Justice,17,10.35,8.43,1576,64,Male,Low,Manchester,Bachelor,175.95,143.31,32.639999999999986,0.19
+262,2025-09-19,Women in Leadership,Leadership,5,24.74,5.91,1841,45,Female,High,Leeds,Master,123.69999999999999,29.55,94.14999999999999,0.76
+263,2025-09-20,Youth Empowerment,Education,12,19.91,11.64,1852,57,Non-binary,High,Birmingham,High School,238.92000000000002,139.68,99.24000000000001,0.42
+264,2025-09-21,Community Leadership,Leadership,18,29.19,7.81,1516,37,Female,Medium,Manchester,Master,525.4200000000001,140.57999999999998,384.8400000000001,0.73
+265,2025-09-22,Education for Change,Education,14,15.52,14.73,1513,66,Female,Medium,Manchester,PhD,217.28,206.22,11.060000000000002,0.05
+266,2025-09-23,Social Impact Guide,Environment,11,21.92,11.05,1021,50,Male,High,London,PhD,241.12,121.55000000000001,119.57,0.5
+267,2025-09-24,Sustainable Future,Education,9,28.5,13.05,1111,29,Male,Low,London,Bachelor,256.5,117.45,139.05,0.54
+268,2025-09-25,Climate Action,Social Justice,2,10.26,5.46,1056,68,Non-binary,Low,Birmingham,Bachelor,20.52,10.92,9.6,0.47
+269,2025-09-26,Ethical Business,Social Justice,12,28.62,13.48,1065,32,Male,High,Birmingham,High School,343.44,161.76,181.68,0.53
+270,2025-09-27,Education for Change,Education,3,23.13,14.15,1841,58,Male,Medium,Glasgow,Master,69.39,42.45,26.939999999999998,0.39
+271,2025-09-28,Women in Leadership,Education,3,9.49,9.36,1097,56,Female,High,London,PhD,28.47,28.08,0.39000000000000057,0.01
+272,2025-09-29,Climate Action,Education,1,14.62,10.67,1143,19,Male,High,Glasgow,Bachelor,14.62,10.67,3.9499999999999993,0.27
+273,2025-09-30,Climate Action,Education,8,23.58,12.41,1879,46,Non-binary,Medium,Leeds,High School,188.64,99.28,89.35999999999999,0.47
+274,2025-10-01,Climate Action,Social Justice,8,9.48,5.92,1434,58,Female,High,Glasgow,PhD,75.84,47.36,28.480000000000004,0.38
+275,2025-10-02,Community Leadership,Leadership,11,20.81,9.53,1636,27,Non-binary,High,Manchester,Bachelor,228.91,104.83,124.08,0.54
+276,2025-10-03,Sustainable Future,Education,9,15.61,8.39,1678,19,Female,High,Glasgow,PhD,140.49,75.51,64.98,0.46
+277,2025-10-04,Community Leadership,Education,5,21.66,5.61,1085,68,Male,Medium,Birmingham,High School,108.3,28.05,80.25,0.74
+278,2025-10-05,Women in Leadership,Social Justice,14,9.01,8.04,1587,28,Female,Low,Leeds,High School,126.14,112.55999999999999,13.580000000000013,0.11
+279,2025-10-06,Community Leadership,Social Justice,3,27.17,4.75,1343,30,Female,Low,Manchester,PhD,81.51,14.25,67.26,0.83
+280,2025-10-07,Social Impact Guide,Environment,5,29.42,4.28,1935,27,Male,Medium,Glasgow,Master,147.10000000000002,21.400000000000002,125.70000000000002,0.85
+281,2025-10-08,Sustainable Future,Education,5,29.32,5.49,1293,31,Male,Low,Leeds,PhD,146.6,27.450000000000003,119.14999999999999,0.81
+282,2025-10-09,Sustainable Future,Environment,19,24.49,14.59,1955,35,Non-binary,High,Leeds,Bachelor,465.30999999999995,277.21,188.09999999999997,0.4
+283,2025-10-10,Women in Leadership,Social Justice,14,10.86,10.04,1570,68,Non-binary,Low,Manchester,Master,152.04,140.56,11.47999999999999,0.08
+284,2025-10-11,Ethical Business,Social Justice,4,24.68,14.62,1649,26,Male,High,Glasgow,Bachelor,98.72,58.48,40.24,0.41
+285,2025-10-12,Social Impact Guide,Leadership,13,8.54,8.76,1610,56,Male,Low,Leeds,PhD,111.01999999999998,113.88,-2.8600000000000136,-0.03
+286,2025-10-13,Education for Change,Education,10,8.49,7.43,1703,45,Male,Medium,Leeds,Master,84.9,74.3,10.600000000000009,0.12
+287,2025-10-14,Community Leadership,Environment,18,15.12,9.57,1242,20,Female,Low,London,Bachelor,272.15999999999997,172.26,99.89999999999998,0.37
+288,2025-10-15,Youth Empowerment,Social Justice,8,18.75,8.83,1830,37,Female,Low,Leeds,PhD,150.0,70.64,79.36,0.53
+289,2025-10-16,Community Leadership,Social Justice,8,24.95,5.16,1560,23,Female,Low,London,PhD,199.6,41.28,158.32,0.79
+290,2025-10-17,Climate Action,Environment,7,23.03,11.05,1959,44,Male,Medium,Glasgow,Master,161.21,77.35000000000001,83.86,0.52
+291,2025-10-18,Community Leadership,Leadership,8,17.81,6.38,1031,19,Non-binary,Low,Glasgow,PhD,142.48,51.04,91.44,0.64
+292,2025-10-19,Education for Change,Social Justice,14,14.02,10.82,1390,46,Male,Medium,Glasgow,High School,196.28,151.48000000000002,44.79999999999998,0.23
+293,2025-10-20,Community Leadership,Education,19,29.94,11.15,1276,55,Female,High,Birmingham,Bachelor,568.86,211.85,357.01,0.63
+294,2025-10-21,Social Impact Guide,Social Justice,6,17.38,5.67,1531,20,Female,Low,Glasgow,Bachelor,104.28,34.019999999999996,70.26,0.67
+295,2025-10-22,Social Impact Guide,Education,1,17.93,4.67,1153,33,Male,Medium,Leeds,PhD,17.93,4.67,13.26,0.74
+296,2025-10-23,Sustainable Future,Environment,15,11.6,12.59,1382,47,Male,Medium,Manchester,PhD,174.0,188.85,-14.849999999999994,-0.09
+297,2025-10-24,Women in Leadership,Education,1,25.49,9.06,1067,57,Female,Low,London,High School,25.49,9.06,16.43,0.64
+298,2025-10-25,Ethical Business,Environment,17,23.26,4.64,1877,19,Female,High,Birmingham,Master,395.42,78.88,316.54,0.8
+299,2025-10-26,Youth Empowerment,Education,1,12.86,14.94,1883,34,Female,Medium,Glasgow,PhD,12.86,14.94,-2.08,-0.16
+300,2025-10-27,Climate Action,Environment,15,9.81,4.64,1213,58,Male,Low,Glasgow,PhD,147.15,69.6,77.55000000000001,0.53
+301,2025-10-28,Community Leadership,Education,2,22.97,11.65,1654,29,Female,High,Manchester,PhD,45.94,23.3,22.639999999999997,0.49
+302,2025-10-29,Community Leadership,Leadership,14,22.4,14.82,1375,52,Female,Medium,Manchester,PhD,313.59999999999997,207.48000000000002,106.11999999999995,0.34
+303,2025-10-30,Education for Change,Education,8,14.01,6.63,1743,60,Non-binary,Medium,Birmingham,Bachelor,112.08,53.04,59.04,0.53
+304,2025-10-31,Women in Leadership,Education,8,28.92,5.56,1212,18,Male,High,London,PhD,231.36,44.48,186.88000000000002,0.81
+305,2025-11-01,Social Impact Guide,Leadership,19,11.32,5.34,1078,62,Non-binary,High,Glasgow,Bachelor,215.08,101.46,113.62000000000002,0.53
+306,2025-11-02,Youth Empowerment,Social Justice,7,17.51,7.34,1725,32,Non-binary,Low,Birmingham,PhD,122.57000000000001,51.379999999999995,71.19000000000001,0.58
+307,2025-11-03,Sustainable Future,Social Justice,19,28.76,5.11,1627,43,Female,Low,Leeds,Master,546.44,97.09,449.35,0.82
+308,2025-11-04,Social Impact Guide,Education,6,17.23,11.61,1603,54,Male,Medium,Leeds,High School,103.38,69.66,33.72,0.33
+309,2025-11-05,Climate Action,Leadership,6,22.05,4.69,1781,38,Female,High,Birmingham,Master,132.3,28.14,104.16000000000001,0.79
+310,2025-11-06,Women in Leadership,Education,3,16.75,9.6,1922,66,Male,High,Glasgow,PhD,50.25,28.799999999999997,21.450000000000003,0.43
+311,2025-11-07,Climate Action,Environment,7,14.03,14.96,1380,48,Non-binary,High,Birmingham,PhD,98.21,104.72,-6.510000000000005,-0.07
+312,2025-11-08,Ethical Business,Environment,19,29.65,12.95,1679,42,Male,Medium,Glasgow,PhD,563.35,246.04999999999998,317.30000000000007,0.56
+313,2025-11-09,Sustainable Future,Education,8,17.01,10.77,1057,40,Female,High,Manchester,Master,136.08,86.16,49.920000000000016,0.37
+314,2025-11-10,Ethical Business,Social Justice,10,27.67,7.37,1795,41,Female,High,Birmingham,PhD,276.70000000000005,73.7,203.00000000000006,0.73
+315,2025-11-11,Education for Change,Social Justice,15,13.06,10.86,1025,55,Female,Medium,Glasgow,Master,195.9,162.89999999999998,33.00000000000003,0.17
+316,2025-11-12,Climate Action,Education,15,12.69,9.8,1880,45,Male,Low,Birmingham,Bachelor,190.35,147.0,43.349999999999994,0.23
+317,2025-11-13,Education for Change,Education,1,8.68,8.69,1446,38,Non-binary,Low,Birmingham,High School,8.68,8.69,-0.009999999999999787,-0.0
+318,2025-11-14,Community Leadership,Environment,7,22.34,5.44,1065,60,Non-binary,Medium,Glasgow,High School,156.38,38.080000000000005,118.29999999999998,0.76
+319,2025-11-15,Ethical Business,Social Justice,4,16.11,13.75,1920,35,Male,High,Glasgow,Master,64.44,55.0,9.439999999999998,0.15
+320,2025-11-16,Women in Leadership,Education,6,27.02,8.95,1759,53,Female,Medium,London,Bachelor,162.12,53.699999999999996,108.42000000000002,0.67
+321,2025-11-17,Climate Action,Environment,1,18.41,6.14,1253,52,Non-binary,Low,Birmingham,Master,18.41,6.14,12.27,0.67
+322,2025-11-18,Youth Empowerment,Social Justice,5,29.3,8.05,1898,62,Female,Low,Leeds,Bachelor,146.5,40.25,106.25,0.73
+323,2025-11-19,Sustainable Future,Leadership,1,12.08,8.56,1967,26,Male,Medium,Birmingham,PhD,12.08,8.56,3.5199999999999996,0.29
+324,2025-11-20,Social Impact Guide,Environment,4,27.11,13.1,1043,55,Female,Medium,Birmingham,Bachelor,108.44,52.4,56.04,0.52
+325,2025-11-21,Women in Leadership,Social Justice,2,25.09,12.07,1096,47,Non-binary,Low,Glasgow,Bachelor,50.18,24.14,26.04,0.52
+326,2025-11-22,Women in Leadership,Social Justice,10,24.96,12.46,1553,61,Non-binary,Medium,Birmingham,Bachelor,249.60000000000002,124.60000000000001,125.00000000000001,0.5
+327,2025-11-23,Education for Change,Environment,5,26.59,4.12,1226,51,Female,Low,Birmingham,High School,132.95,20.6,112.35,0.85
+328,2025-11-24,Ethical Business,Leadership,10,24.74,8.58,1773,49,Male,Medium,Leeds,Bachelor,247.39999999999998,85.8,161.59999999999997,0.65
+329,2025-11-25,Climate Action,Environment,1,21.78,9.29,1678,20,Female,Medium,Glasgow,PhD,21.78,9.29,12.490000000000002,0.57
+330,2025-11-26,Climate Action,Social Justice,6,10.89,4.21,1435,20,Male,Medium,Birmingham,PhD,65.34,25.259999999999998,40.080000000000005,0.61
+331,2025-11-27,Community Leadership,Education,13,8.72,6.86,1790,45,Female,Low,Manchester,PhD,113.36000000000001,89.18,24.180000000000007,0.21
+332,2025-11-28,Community Leadership,Education,15,28.26,12.36,1600,61,Non-binary,Medium,London,Bachelor,423.90000000000003,185.39999999999998,238.50000000000006,0.56
+333,2025-11-29,Sustainable Future,Environment,4,21.57,5.51,1378,32,Male,Low,Leeds,Master,86.28,22.04,64.24000000000001,0.74
+334,2025-11-30,Education for Change,Social Justice,13,25.52,9.89,1177,58,Male,Low,Birmingham,Master,331.76,128.57,203.19,0.61
+335,2025-12-01,Women in Leadership,Education,15,18.59,6.37,1426,40,Male,Medium,Manchester,PhD,278.85,95.55,183.3,0.66
+336,2025-12-02,Climate Action,Social Justice,8,10.58,4.13,1914,57,Non-binary,Medium,Birmingham,High School,84.64,33.04,51.6,0.61
+337,2025-12-03,Youth Empowerment,Environment,5,10.75,6.65,1708,28,Female,Low,Birmingham,Master,53.75,33.25,20.5,0.38
+338,2025-12-04,Education for Change,Education,15,23.08,14.73,1306,65,Non-binary,Low,Glasgow,Bachelor,346.2,220.95000000000002,125.24999999999997,0.36
+339,2025-12-05,Sustainable Future,Social Justice,4,17.47,12.82,1778,49,Male,High,Glasgow,Master,69.88,51.28,18.599999999999994,0.27
+340,2025-12-06,Sustainable Future,Education,12,12.41,14.56,1503,53,Female,Low,Glasgow,PhD,148.92000000000002,174.72,-25.799999999999983,-0.17
+341,2025-12-07,Education for Change,Environment,13,18.82,9.37,1267,50,Non-binary,High,Manchester,High School,244.66,121.80999999999999,122.85000000000001,0.5
+342,2025-12-08,Sustainable Future,Social Justice,2,9.41,5.21,1585,41,Male,High,Birmingham,Master,18.82,10.42,8.4,0.45
+343,2025-12-09,Education for Change,Education,19,20.8,10.03,1007,56,Male,High,London,Master,395.2,190.57,204.63,0.52
+344,2025-12-10,Social Impact Guide,Environment,19,13.92,9.0,1919,51,Non-binary,Medium,Leeds,PhD,264.48,171.0,93.48000000000002,0.35
+345,2025-12-11,Education for Change,Education,4,25.55,13.29,1507,45,Non-binary,Medium,Glasgow,High School,102.2,53.16,49.040000000000006,0.48
+346,2025-12-12,Ethical Business,Education,4,14.83,5.08,1475,54,Non-binary,Low,Glasgow,High School,59.32,20.32,39.0,0.66
+347,2025-12-13,Education for Change,Leadership,11,18.01,9.37,1296,24,Male,High,Birmingham,PhD,198.11,103.07,95.04000000000002,0.48
+348,2025-12-14,Sustainable Future,Leadership,5,8.26,5.65,1163,21,Non-binary,Medium,Birmingham,Bachelor,41.3,28.25,13.049999999999997,0.32
+349,2025-12-15,Climate Action,Environment,11,9.59,7.57,1484,54,Male,Medium,Manchester,Master,105.49,83.27000000000001,22.219999999999985,0.21
+350,2025-12-16,Ethical Business,Leadership,10,16.63,12.11,1596,18,Non-binary,Medium,Manchester,Bachelor,166.29999999999998,121.1,45.19999999999999,0.27
+351,2025-12-17,Sustainable Future,Environment,8,18.56,9.24,1071,18,Male,Medium,Glasgow,Master,148.48,73.92,74.55999999999999,0.5
+352,2025-12-18,Community Leadership,Leadership,6,21.2,8.13,1566,64,Male,Medium,Birmingham,Master,127.19999999999999,48.78,78.41999999999999,0.62
+353,2025-12-19,Community Leadership,Education,6,14.42,8.34,1904,37,Female,High,London,Bachelor,86.52,50.04,36.48,0.42
+354,2025-12-20,Climate Action,Environment,8,23.29,9.05,1558,36,Non-binary,High,Leeds,PhD,186.32,72.4,113.91999999999999,0.61
+355,2025-12-21,Climate Action,Environment,15,26.92,12.64,1910,46,Non-binary,High,Birmingham,PhD,403.8,189.60000000000002,214.2,0.53
+356,2025-12-22,Ethical Business,Education,14,25.16,13.81,1943,27,Male,High,Birmingham,Master,352.24,193.34,158.9,0.45
+357,2025-12-23,Social Impact Guide,Environment,11,8.87,14.51,1237,35,Male,Low,Manchester,PhD,97.57,159.60999999999999,-62.03999999999999,-0.64
+358,2025-12-24,Climate Action,Environment,12,18.57,12.66,1103,45,Male,High,Leeds,Master,222.84,151.92000000000002,70.91999999999999,0.32
+359,2025-12-25,Community Leadership,Leadership,13,10.31,7.47,1209,52,Female,Medium,Glasgow,PhD,134.03,97.11,36.92,0.28
+360,2025-12-26,Education for Change,Environment,8,13.32,11.57,1553,60,Female,High,Birmingham,Master,106.56,92.56,14.0,0.13
+361,2025-12-27,Sustainable Future,Social Justice,18,29.71,8.81,1827,64,Male,Low,Glasgow,PhD,534.78,158.58,376.19999999999993,0.7
+362,2025-12-28,Community Leadership,Education,1,11.13,6.8,1467,48,Non-binary,Medium,Birmingham,High School,11.13,6.8,4.330000000000001,0.39
+363,2025-12-29,Community Leadership,Leadership,15,18.98,13.25,1453,44,Non-binary,High,Glasgow,Bachelor,284.7,198.75,85.94999999999999,0.3
+364,2025-12-30,Social Impact Guide,Leadership,8,21.6,4.42,1267,28,Female,High,Leeds,High School,172.8,35.36,137.44,0.8
+365,2025-12-31,Ethical Business,Social Justice,11,23.45,13.92,1385,66,Female,High,Manchester,Bachelor,257.95,153.12,104.82999999999998,0.41
+366,2026-01-01,Ethical Business,Education,12,20.31,9.08,1774,66,Male,Medium,Leeds,Bachelor,243.71999999999997,108.96000000000001,134.75999999999996,0.55
+367,2026-01-02,Women in Leadership,Education,12,8.21,11.01,1847,55,Non-binary,Medium,London,Master,98.52000000000001,132.12,-33.599999999999994,-0.34
+368,2026-01-03,Social Impact Guide,Leadership,4,15.18,11.25,1386,22,Male,Low,Manchester,Bachelor,60.72,45.0,15.719999999999999,0.26
+369,2026-01-04,Education for Change,Environment,16,19.39,13.85,1876,25,Female,Medium,Leeds,High School,310.24,221.6,88.64000000000001,0.29
+370,2026-01-05,Ethical Business,Leadership,4,9.93,11.0,1258,51,Non-binary,Medium,London,High School,39.72,44.0,-4.280000000000001,-0.11
+371,2026-01-06,Sustainable Future,Education,5,15.71,10.75,1282,65,Non-binary,High,Birmingham,PhD,78.55000000000001,53.75,24.80000000000001,0.32
+372,2026-01-07,Climate Action,Social Justice,5,8.73,4.73,1625,69,Female,Medium,Birmingham,High School,43.650000000000006,23.650000000000002,20.000000000000004,0.46
+373,2026-01-08,Social Impact Guide,Leadership,8,9.73,9.7,1874,29,Male,High,Glasgow,PhD,77.84,77.6,0.2400000000000091,0.0
+374,2026-01-09,Climate Action,Education,10,16.73,5.65,1039,55,Male,High,Manchester,Bachelor,167.3,56.5,110.80000000000001,0.66
+375,2026-01-10,Community Leadership,Leadership,17,10.92,12.11,1485,18,Non-binary,Medium,Birmingham,High School,185.64,205.87,-20.230000000000018,-0.11
+376,2026-01-11,Sustainable Future,Environment,9,20.49,9.63,1928,48,Female,Low,Manchester,Bachelor,184.41,86.67,97.74,0.53
+377,2026-01-12,Sustainable Future,Leadership,19,23.17,11.48,1219,21,Non-binary,Low,Birmingham,High School,440.23,218.12,222.11,0.5
+378,2026-01-13,Community Leadership,Leadership,14,25.61,4.46,1128,66,Female,Medium,Glasgow,High School,358.53999999999996,62.44,296.09999999999997,0.83
+379,2026-01-14,Social Impact Guide,Education,8,12.4,4.93,1519,62,Male,Low,Leeds,PhD,99.2,39.44,59.760000000000005,0.6
+380,2026-01-15,Community Leadership,Education,9,11.68,11.88,1612,67,Female,High,Glasgow,Bachelor,105.12,106.92,-1.7999999999999972,-0.02
+381,2026-01-16,Climate Action,Education,11,10.3,4.79,1927,22,Male,High,London,High School,113.30000000000001,52.69,60.610000000000014,0.53
+382,2026-01-17,Women in Leadership,Leadership,1,22.0,4.78,1891,47,Female,Medium,Birmingham,Master,22.0,4.78,17.22,0.78
+383,2026-01-18,Sustainable Future,Environment,14,23.54,4.13,1687,41,Non-binary,Low,London,Bachelor,329.56,57.82,271.74,0.82
+384,2026-01-19,Youth Empowerment,Social Justice,5,8.69,14.52,1618,20,Male,Low,London,Bachelor,43.449999999999996,72.6,-29.15,-0.67
+385,2026-01-20,Youth Empowerment,Social Justice,14,28.6,12.11,1612,28,Non-binary,High,Manchester,Bachelor,400.40000000000003,169.54,230.86000000000004,0.58
+386,2026-01-21,Climate Action,Education,4,9.14,7.89,1259,62,Non-binary,Medium,Birmingham,PhD,36.56,31.56,5.0000000000000036,0.14
+387,2026-01-22,Education for Change,Education,1,19.91,7.26,1989,21,Male,Low,London,Master,19.91,7.26,12.65,0.64
+388,2026-01-23,Ethical Business,Leadership,19,23.6,7.85,1965,43,Male,Medium,Leeds,Bachelor,448.40000000000003,149.15,299.25,0.67
+389,2026-01-24,Community Leadership,Social Justice,8,27.16,12.52,1365,44,Non-binary,Low,London,High School,217.28,100.16,117.12,0.54
+390,2026-01-25,Community Leadership,Education,15,23.71,11.28,1757,63,Non-binary,High,Leeds,High School,355.65000000000003,169.2,186.45000000000005,0.52
+391,2026-01-26,Education for Change,Environment,15,25.64,6.04,1786,60,Non-binary,High,Manchester,PhD,384.6,90.6,294.0,0.76
+392,2026-01-27,Education for Change,Environment,9,15.47,5.92,1543,44,Non-binary,Medium,London,High School,139.23000000000002,53.28,85.95000000000002,0.62
+393,2026-01-28,Climate Action,Education,9,25.93,5.08,1648,59,Male,High,Glasgow,Bachelor,233.37,45.72,187.65,0.8
+394,2026-01-29,Climate Action,Education,10,9.76,11.26,1523,68,Male,Low,Manchester,High School,97.6,112.6,-15.0,-0.15
+395,2026-01-30,Education for Change,Social Justice,9,27.69,12.41,1906,67,Non-binary,High,Leeds,Bachelor,249.21,111.69,137.52,0.55
+396,2026-01-31,Sustainable Future,Social Justice,3,20.05,6.92,1813,23,Female,Medium,Manchester,High School,60.150000000000006,20.759999999999998,39.39000000000001,0.65
+397,2026-02-01,Climate Action,Leadership,11,25.98,4.23,1886,32,Female,Medium,London,Master,285.78000000000003,46.53,239.25000000000003,0.84
+398,2026-02-02,Women in Leadership,Social Justice,6,17.95,4.9,1015,47,Male,Medium,Birmingham,PhD,107.69999999999999,29.400000000000002,78.29999999999998,0.73
+399,2026-02-03,Climate Action,Environment,2,22.16,14.65,1128,59,Non-binary,Low,Birmingham,PhD,44.32,29.3,15.02,0.34
+400,2026-02-04,Community Leadership,Environment,7,19.58,7.25,1574,54,Non-binary,Low,Leeds,Master,137.06,50.75,86.31,0.63
+401,2026-02-05,Climate Action,Education,18,24.09,12.46,1108,54,Male,Low,Leeds,Master,433.62,224.28000000000003,209.33999999999997,0.48
+402,2026-02-06,Sustainable Future,Social Justice,2,9.8,10.87,1886,59,Female,Low,Birmingham,PhD,19.6,21.74,-2.139999999999997,-0.11
+403,2026-02-07,Education for Change,Leadership,17,9.33,8.2,1532,54,Female,Low,Leeds,Master,158.61,139.39999999999998,19.210000000000036,0.12
+404,2026-02-08,Community Leadership,Environment,11,13.44,6.26,1669,52,Female,High,Manchester,Bachelor,147.84,68.86,78.98,0.53
+405,2026-02-09,Climate Action,Environment,12,11.51,5.34,1268,40,Male,Low,Glasgow,High School,138.12,64.08,74.04,0.54
+406,2026-02-10,Sustainable Future,Leadership,19,27.18,10.77,1161,23,Female,Low,Glasgow,PhD,516.42,204.63,311.78999999999996,0.6
+407,2026-02-11,Women in Leadership,Leadership,7,12.82,12.52,1259,21,Male,High,Manchester,Master,89.74000000000001,87.64,2.1000000000000085,0.02
+408,2026-02-12,Climate Action,Environment,6,29.47,11.08,1923,35,Male,Low,Glasgow,Bachelor,176.82,66.48,110.33999999999999,0.62
+409,2026-02-13,Sustainable Future,Environment,1,15.41,9.83,1101,26,Non-binary,Medium,London,PhD,15.41,9.83,5.58,0.36
+410,2026-02-14,Women in Leadership,Leadership,17,12.01,4.46,1505,66,Female,Low,Manchester,Master,204.17,75.82,128.35,0.63
+411,2026-02-15,Education for Change,Environment,11,25.37,14.65,1734,46,Male,Low,Leeds,PhD,279.07,161.15,117.91999999999999,0.42
+412,2026-02-16,Climate Action,Education,18,22.49,12.79,1570,30,Female,Medium,Manchester,Master,404.82,230.21999999999997,174.60000000000002,0.43
+413,2026-02-17,Women in Leadership,Education,17,18.96,7.22,1246,64,Female,Medium,Birmingham,PhD,322.32,122.74,199.57999999999998,0.62
+414,2026-02-18,Community Leadership,Leadership,7,20.22,14.78,1639,69,Non-binary,Medium,Leeds,Bachelor,141.54,103.46,38.08,0.27
+415,2026-02-19,Education for Change,Social Justice,17,23.82,10.62,1794,34,Female,Medium,Birmingham,Bachelor,404.94,180.54,224.4,0.55
+416,2026-02-20,Community Leadership,Leadership,9,13.03,10.41,1836,62,Non-binary,Low,Leeds,High School,117.27,93.69,23.58,0.2
+417,2026-02-21,Youth Empowerment,Leadership,17,29.92,12.23,1536,49,Male,Medium,Glasgow,PhD,508.64000000000004,207.91,300.73,0.59
+418,2026-02-22,Social Impact Guide,Social Justice,8,29.45,12.93,1130,65,Female,Medium,Manchester,High School,235.6,103.44,132.16,0.56
+419,2026-02-23,Climate Action,Social Justice,17,22.31,11.22,1352,39,Male,High,London,PhD,379.27,190.74,188.52999999999997,0.5
+420,2026-02-24,Women in Leadership,Social Justice,7,12.39,5.41,1195,21,Female,Medium,Leeds,Master,86.73,37.870000000000005,48.86,0.56
+421,2026-02-25,Social Impact Guide,Education,1,22.97,7.72,1792,22,Male,Medium,Leeds,Master,22.97,7.72,15.25,0.66
+422,2026-02-26,Social Impact Guide,Environment,13,9.59,14.21,1915,54,Female,High,Birmingham,High School,124.67,184.73000000000002,-60.06000000000002,-0.48
+423,2026-02-27,Women in Leadership,Education,19,8.67,6.47,1929,58,Female,High,Glasgow,PhD,164.73,122.92999999999999,41.8,0.25
+424,2026-02-28,Education for Change,Environment,19,13.67,8.09,1665,66,Female,Low,Birmingham,High School,259.73,153.71,106.02000000000001,0.41
+425,2026-03-01,Climate Action,Education,17,18.18,8.75,1381,30,Female,High,Birmingham,Bachelor,309.06,148.75,160.31,0.52
+426,2026-03-02,Youth Empowerment,Environment,13,27.1,8.83,1644,51,Female,Low,Glasgow,High School,352.3,114.79,237.51,0.67
+427,2026-03-03,Community Leadership,Education,16,24.0,10.74,1226,62,Female,High,London,High School,384.0,171.84,212.16,0.55
+428,2026-03-04,Sustainable Future,Social Justice,8,24.34,14.37,1700,39,Female,High,Birmingham,Master,194.72,114.96,79.76,0.41
+429,2026-03-05,Community Leadership,Leadership,19,17.36,6.65,1475,40,Female,Low,Birmingham,High School,329.84,126.35000000000001,203.48999999999995,0.62
+430,2026-03-06,Sustainable Future,Education,18,15.61,5.34,1476,68,Female,High,Leeds,PhD,280.98,96.12,184.86,0.66
+431,2026-03-07,Community Leadership,Environment,1,16.16,6.17,1264,20,Male,Low,Glasgow,Master,16.16,6.17,9.99,0.62
+432,2026-03-08,Women in Leadership,Social Justice,14,29.73,13.76,1371,59,Non-binary,High,Manchester,High School,416.22,192.64,223.58000000000004,0.54
+433,2026-03-09,Youth Empowerment,Education,19,8.88,11.1,1485,51,Female,Medium,London,Bachelor,168.72000000000003,210.9,-42.17999999999998,-0.25
+434,2026-03-10,Climate Action,Education,15,27.07,7.14,1433,49,Non-binary,High,London,High School,406.05,107.1,298.95000000000005,0.74
+435,2026-03-11,Sustainable Future,Social Justice,18,20.73,12.98,1645,62,Female,Low,Glasgow,High School,373.14,233.64000000000001,139.49999999999997,0.37
+436,2026-03-12,Climate Action,Education,2,17.65,13.48,1210,68,Female,High,Leeds,High School,35.3,26.96,8.339999999999996,0.24
+437,2026-03-13,Climate Action,Leadership,17,23.96,13.31,1571,66,Male,Low,Leeds,Master,407.32,226.27,181.04999999999998,0.44
+438,2026-03-14,Climate Action,Education,18,18.71,14.11,1939,38,Male,Low,Glasgow,PhD,336.78000000000003,253.98,82.80000000000004,0.25
+439,2026-03-15,Ethical Business,Leadership,6,27.22,6.77,1376,63,Non-binary,Medium,Leeds,Bachelor,163.32,40.62,122.69999999999999,0.75
+440,2026-03-16,Education for Change,Leadership,19,27.82,12.31,1394,61,Male,Medium,London,High School,528.58,233.89000000000001,294.69000000000005,0.56
+441,2026-03-17,Community Leadership,Social Justice,4,17.28,9.07,1449,38,Male,Low,London,PhD,69.12,36.28,32.84,0.48
+442,2026-03-18,Climate Action,Education,1,14.09,13.26,1942,61,Non-binary,High,Manchester,PhD,14.09,13.26,0.8300000000000001,0.06
+443,2026-03-19,Community Leadership,Social Justice,8,21.03,12.01,1363,28,Male,Low,Glasgow,Master,168.24,96.08,72.16000000000001,0.43
+444,2026-03-20,Climate Action,Education,7,28.07,12.54,1875,56,Female,Low,Birmingham,Bachelor,196.49,87.78,108.71000000000001,0.55
+445,2026-03-21,Sustainable Future,Education,3,12.63,11.22,1456,21,Non-binary,High,Birmingham,Master,37.89,33.660000000000004,4.229999999999997,0.11
+446,2026-03-22,Education for Change,Environment,10,21.71,5.95,1724,68,Non-binary,High,Manchester,PhD,217.10000000000002,59.5,157.60000000000002,0.73
+447,2026-03-23,Education for Change,Education,10,21.89,10.0,1727,18,Female,High,Manchester,PhD,218.9,100.0,118.9,0.54
+448,2026-03-24,Women in Leadership,Social Justice,19,24.13,14.83,1225,45,Male,High,Leeds,PhD,458.46999999999997,281.77,176.7,0.39
+449,2026-03-25,Ethical Business,Leadership,14,10.89,14.31,1981,41,Non-binary,Low,Manchester,Master,152.46,200.34,-47.879999999999995,-0.31
+450,2026-03-26,Women in Leadership,Education,2,23.75,4.47,1130,52,Non-binary,Low,Manchester,Bachelor,47.5,8.94,38.56,0.81
+451,2026-03-27,Women in Leadership,Environment,1,28.0,5.81,1587,30,Female,Medium,Birmingham,High School,28.0,5.81,22.19,0.79
+452,2026-03-28,Women in Leadership,Social Justice,18,11.95,5.45,1475,64,Female,Low,Leeds,Master,215.1,98.10000000000001,116.99999999999999,0.54
+453,2026-03-29,Women in Leadership,Education,7,13.23,11.99,1797,51,Male,High,Manchester,PhD,92.61,83.93,8.679999999999993,0.09
+454,2026-03-30,Women in Leadership,Social Justice,8,29.37,13.0,1985,28,Non-binary,Medium,Manchester,Master,234.96,104.0,130.96,0.56
+455,2026-03-31,Youth Empowerment,Environment,1,11.98,6.35,1276,53,Male,High,Leeds,PhD,11.98,6.35,5.630000000000001,0.47
+456,2026-04-01,Education for Change,Environment,3,26.8,9.56,1155,68,Male,Low,Glasgow,High School,80.4,28.68,51.720000000000006,0.64
+457,2026-04-02,Women in Leadership,Social Justice,8,18.83,13.25,1759,34,Female,Medium,Leeds,High School,150.64,106.0,44.639999999999986,0.3
+458,2026-04-03,Climate Action,Education,15,13.44,12.06,1217,52,Non-binary,High,Birmingham,Bachelor,201.6,180.9,20.69999999999999,0.1
+459,2026-04-04,Education for Change,Leadership,5,27.16,9.96,1189,35,Non-binary,Medium,Glasgow,PhD,135.8,49.800000000000004,86.0,0.63
+460,2026-04-05,Education for Change,Environment,3,17.8,10.49,1416,57,Non-binary,Medium,London,Bachelor,53.400000000000006,31.47,21.930000000000007,0.41
+461,2026-04-06,Social Impact Guide,Education,19,19.33,9.59,1980,39,Female,Low,Leeds,Bachelor,367.27,182.21,185.05999999999997,0.5
+462,2026-04-07,Youth Empowerment,Education,1,15.9,7.27,1674,41,Female,High,Birmingham,High School,15.9,7.27,8.63,0.54
+463,2026-04-08,Women in Leadership,Leadership,15,21.04,10.22,1691,36,Female,Medium,Glasgow,Master,315.59999999999997,153.3,162.29999999999995,0.51
+464,2026-04-09,Community Leadership,Environment,8,11.6,11.58,1545,54,Female,Medium,Leeds,Master,92.8,92.64,0.1599999999999966,0.0
+465,2026-04-10,Sustainable Future,Environment,2,16.6,13.61,1040,56,Female,High,Manchester,Bachelor,33.2,27.22,5.980000000000004,0.18
+466,2026-04-11,Ethical Business,Education,3,29.33,11.0,1306,38,Non-binary,Medium,Leeds,High School,87.99,33.0,54.989999999999995,0.62
+467,2026-04-12,Climate Action,Education,14,13.68,12.37,1942,25,Male,Medium,London,PhD,191.51999999999998,173.17999999999998,18.340000000000003,0.1
+468,2026-04-13,Community Leadership,Leadership,14,22.45,5.76,1337,45,Non-binary,Medium,Leeds,Master,314.3,80.64,233.66000000000003,0.74
+469,2026-04-14,Youth Empowerment,Leadership,11,15.15,9.08,1313,22,Male,High,Glasgow,Bachelor,166.65,99.88,66.77000000000001,0.4
+470,2026-04-15,Sustainable Future,Environment,16,25.02,4.1,1074,34,Female,High,Glasgow,Master,400.32,65.6,334.72,0.84
+471,2026-04-16,Youth Empowerment,Social Justice,4,10.88,6.71,1952,54,Male,High,Leeds,Master,43.52,26.84,16.680000000000003,0.38
+472,2026-04-17,Climate Action,Environment,5,29.34,11.99,1278,53,Non-binary,High,Glasgow,PhD,146.7,59.95,86.74999999999999,0.59
+473,2026-04-18,Education for Change,Education,14,17.98,14.91,1175,36,Non-binary,Low,Manchester,High School,251.72,208.74,42.97999999999999,0.17
+474,2026-04-19,Sustainable Future,Environment,16,13.19,5.09,1895,44,Male,Medium,Leeds,PhD,211.04,81.44,129.6,0.61
+475,2026-04-20,Education for Change,Social Justice,18,9.62,8.42,1661,51,Female,High,Manchester,High School,173.16,151.56,21.599999999999994,0.12
+476,2026-04-21,Climate Action,Leadership,7,11.73,12.8,1272,28,Female,Medium,Manchester,Master,82.11,89.60000000000001,-7.490000000000009,-0.09
+477,2026-04-22,Community Leadership,Social Justice,10,19.44,6.24,1836,62,Non-binary,Medium,Birmingham,Bachelor,194.4,62.400000000000006,132.0,0.68
+478,2026-04-23,Climate Action,Social Justice,7,15.41,10.11,1619,64,Male,Low,Leeds,PhD,107.87,70.77,37.10000000000001,0.34
+479,2026-04-24,Community Leadership,Social Justice,1,26.24,12.06,1650,29,Female,High,Glasgow,High School,26.24,12.06,14.179999999999998,0.54
+480,2026-04-25,Sustainable Future,Leadership,19,17.48,10.78,1861,38,Female,High,Manchester,Master,332.12,204.82,127.30000000000001,0.38
+481,2026-04-26,Sustainable Future,Social Justice,16,13.47,6.07,1782,28,Non-binary,Medium,Birmingham,High School,215.52,97.12,118.4,0.55
+482,2026-04-27,Women in Leadership,Social Justice,19,21.58,7.91,1858,56,Female,High,Leeds,High School,410.02,150.29,259.73,0.63
+483,2026-04-28,Youth Empowerment,Social Justice,4,23.55,12.62,1930,45,Male,Medium,Leeds,High School,94.2,50.48,43.720000000000006,0.46
+484,2026-04-29,Women in Leadership,Education,18,11.67,10.1,1288,22,Non-binary,Medium,London,Master,210.06,181.79999999999998,28.26000000000002,0.13
+485,2026-04-30,Youth Empowerment,Social Justice,2,11.69,4.06,1723,34,Non-binary,Low,London,Bachelor,23.38,8.12,15.26,0.65
+486,2026-05-01,Women in Leadership,Leadership,1,8.81,12.37,1892,37,Male,Low,Manchester,Bachelor,8.81,12.37,-3.5599999999999987,-0.4
+487,2026-05-02,Education for Change,Social Justice,15,24.2,4.39,1271,58,Non-binary,Low,London,Bachelor,363.0,65.85,297.15,0.82
+488,2026-05-03,Sustainable Future,Social Justice,5,22.6,12.2,1929,63,Female,Medium,Manchester,High School,113.0,61.0,52.0,0.46
+489,2026-05-04,Community Leadership,Leadership,11,18.44,6.23,1065,29,Female,High,Glasgow,Master,202.84,68.53,134.31,0.66
+490,2026-05-05,Youth Empowerment,Social Justice,10,26.57,14.54,1482,23,Male,Low,Manchester,High School,265.7,145.39999999999998,120.30000000000001,0.45
+491,2026-05-06,Climate Action,Leadership,2,25.72,8.05,1935,34,Female,High,London,Bachelor,51.44,16.1,35.339999999999996,0.69
+492,2026-05-07,Youth Empowerment,Social Justice,3,20.88,7.6,1247,68,Male,Low,Glasgow,Bachelor,62.64,22.799999999999997,39.84,0.64
+493,2026-05-08,Community Leadership,Leadership,12,27.1,5.64,1155,36,Male,Low,London,Master,325.20000000000005,67.67999999999999,257.52000000000004,0.79
+494,2026-05-09,Women in Leadership,Social Justice,5,12.53,7.36,1046,43,Female,Medium,Manchester,High School,62.65,36.800000000000004,25.849999999999994,0.41
+495,2026-05-10,Youth Empowerment,Social Justice,5,10.46,13.64,1934,65,Male,Low,Birmingham,PhD,52.300000000000004,68.2,-15.899999999999999,-0.3
+496,2026-05-11,Ethical Business,Education,6,13.93,14.96,1453,61,Female,Low,Leeds,PhD,83.58,89.76,-6.180000000000007,-0.07
+497,2026-05-12,Education for Change,Education,9,9.26,8.05,1200,61,Non-binary,Medium,London,Bachelor,83.34,72.45,10.89,0.13
+498,2026-05-13,Sustainable Future,Social Justice,2,19.69,8.93,1659,69,Non-binary,High,Manchester,Master,39.38,17.86,21.520000000000003,0.55
+499,2026-05-14,Community Leadership,Social Justice,12,28.61,11.94,1123,49,Male,Low,Glasgow,High School,343.32,143.28,200.04,0.58
+500,2026-05-15,Sustainable Future,Environment,3,8.87,13.75,1000,23,Female,Medium,London,High School,26.61,41.25,-14.64,-0.55
