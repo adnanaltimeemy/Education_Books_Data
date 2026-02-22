@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Age,Customer_Gender,Customer_Region,Corporate_Segment,Book_Category,Book_Title,Units_Sold,Unit_Cost,Unit_Price,Revenue,Profit,Profit_Margin,Purchase_Date
+e92b3f70-b2ce-4241-82e5-341c86f17633,29,Male,Glasgow,SME,Technology,Marketing Strategy 2026,43,14.36,33.62,1445.84,828.21,0.57,2025-10-26
+9ef2cfc8-7e0b-4954-90af-9b8081fc55cc,61,Female,Birmingham,Enterprise,Data Science,Advanced Python for Business,36,7.5,19.39,697.97,427.99,0.61,2024-06-28
+3ee0199f-9443-4250-b46a-615f51e854f7,42,Male,Leeds,Enterprise,Data Science,Leadership Principles,2,23.05,42.13,84.26,38.16,0.45,2024-09-20
+426fe28c-d80b-42e1-82ba-1f76b8311493,49,Female,Birmingham,SME,Leadership,Corporate Finance Guide,42,5.58,18.45,774.82,540.61,0.7,2024-08-12
+22a3eab1-7748-4b37-810d-584f02d85da4,30,Male,Manchester,Corporate,Leadership,Advanced Python for Business,21,6.16,20.27,425.76,296.38,0.7,2025-06-11
+9eb3f233-c57a-4a43-9c56-2e44617da0d2,41,Female,Leeds,SME,Leadership,Data Analytics Handbook,2,14.64,19.87,39.75,10.48,0.26,2025-06-19
+23b38f95-8157-4255-84ed-7ece77f008b0,57,Female,Leeds,Enterprise,Technology,Leadership Principles,17,25.83,33.43,568.32,129.21,0.23,2025-05-01
+03f67120-2b8b-47bb-9e14-e8a2b66052ca,55,Female,Leeds,Enterprise,Leadership,Corporate Finance Guide,26,9.62,29.17,758.29,508.14,0.67,2025-08-25
+358e2891-00f1-45c1-9a32-9c278e77e1a1,39,Male,Glasgow,Enterprise,Finance,Leadership Principles,45,29.03,46.7,2101.38,795.06,0.38,2025-05-17
+a12f5799-7636-4138-8a0d-0a5a0e9fccdb,36,Male,London,Corporate,Finance,Corporate Finance Guide,29,20.18,29.32,850.16,265.06,0.31,2025-03-15
+2d2b8c2f-a103-42ea-b9d6-6fc7789729f3,38,Female,Birmingham,SME,Finance,Marketing Strategy 2026,11,9.97,15.05,165.56,55.91,0.34,2025-12-10
+cb007cce-128d-4a4e-abc4-6adc6cd811b1,49,Male,London,Enterprise,Finance,Data Analytics Handbook,41,6.85,17.23,706.35,425.46,0.6,2025-05-27
+fc82f3ec-d9c1-4ce7-9fe7-47e7a994e969,56,Male,Birmingham,Corporate,Marketing,Corporate Finance Guide,27,23.24,37.8,1020.69,393.21,0.39,2024-07-21
+e810a360-3173-462f-853f-7d5d2d817c0f,60,Male,London,SME,Technology,Advanced Python for Business,14,23.04,31.58,442.16,119.56,0.27,2026-01-10
+379f45f1-8de3-4b02-aaa3-a1d3c297004c,60,Male,Leeds,Corporate,Leadership,Data Analytics Handbook,32,15.98,24.01,768.29,256.83,0.33,2026-01-21
+79103cc4-a64c-4def-85f4-e6b617485192,50,Female,Glasgow,SME,Marketing,Marketing Strategy 2026,43,11.23,22.39,962.69,479.7,0.5,2025-12-28
+627245c3-35fe-4722-8117-8aa41a4aae69,27,Female,Leeds,Enterprise,Marketing,Advanced Python for Business,45,9.03,27.98,1258.92,852.55,0.68,2025-03-30
+8fdcf411-7841-45f8-b5ef-1a1bf21a80cf,22,Male,Birmingham,Enterprise,Finance,Leadership Principles,33,8.05,18.4,607.09,341.37,0.56,2025-10-19
+f1bc8046-35da-4c0a-a743-9c2675cdb0ba,29,Male,London,Enterprise,Data Science,Corporate Finance Guide,6,13.81,23.39,140.32,57.43,0.41,2024-05-23
+382902f7-bc76-4a27-899a-79bbe80f48c1,53,Female,London,Corporate,Finance,Advanced Python for Business,15,8.0,18.06,270.91,150.96,0.56,2025-06-05
+c4f79ae4-0e03-4323-9156-3a916b0747ef,24,Male,Glasgow,Corporate,Finance,Marketing Strategy 2026,2,29.06,37.84,75.68,17.55,0.23,2025-07-19
+80aa8c6a-7b7e-4a05-8fff-5890d806517a,58,Female,London,Corporate,Marketing,Advanced Python for Business,23,20.24,32.78,753.92,288.42,0.38,2024-05-10
+8479ac43-f67a-45ec-98f7-f055cad9fb17,53,Male,Leeds,SME,Marketing,Marketing Strategy 2026,6,18.27,29.99,179.94,70.3,0.39,2024-08-04
+c28927ae-462a-4b88-8a3f-6ac341cb4684,55,Female,Birmingham,SME,Finance,Corporate Finance Guide,5,11.05,28.1,140.51,85.24,0.61,2024-07-02
+40fade51-0ad7-47b1-9c86-e36727437b5d,24,Female,Leeds,SME,Leadership,Marketing Strategy 2026,29,13.02,20.82,603.7,226.14,0.37,2024-02-23
+a38a8e15-0447-4082-bd8c-133855cbb2b1,53,Male,Leeds,Corporate,Finance,Advanced Python for Business,20,22.78,39.92,798.43,342.85,0.43,2025-02-25
+2ed40493-1b48-4d25-b369-9ec35e0d7d88,44,Male,Manchester,SME,Leadership,Advanced Python for Business,25,25.94,41.08,1026.95,378.38,0.37,2024-08-19
+13219289-2a56-4adc-a71e-fa273c77e443,23,Male,Leeds,Corporate,Data Science,Marketing Strategy 2026,49,29.55,42.3,2072.88,624.73,0.3,2026-02-11
+0ecfbb38-122f-459d-af75-51ad04be6153,37,Male,Leeds,Enterprise,Finance,Leadership Principles,19,9.72,18.9,359.11,174.48,0.49,2024-05-30
+c9defd24-a08e-4ad1-8a5d-c9eb86a903f3,61,Female,Birmingham,Enterprise,Finance,Marketing Strategy 2026,38,7.1,14.53,552.06,282.13,0.51,2025-04-13
+fdaa4896-b585-4671-bcbc-7f38d2c3313d,39,Female,Birmingham,Corporate,Finance,Leadership Principles,46,29.34,38.6,1775.62,425.91,0.24,2024-03-18
+652d63ff-c58d-41ca-841e-fa2552e29fec,41,Female,Birmingham,Corporate,Finance,Leadership Principles,21,22.8,31.36,658.63,179.73,0.27,2024-10-05
+c54f2356-90a1-4345-a23f-6af6ba2c88a2,51,Female,Glasgow,SME,Marketing,Marketing Strategy 2026,22,17.72,32.27,709.84,319.99,0.45,2026-01-10
+ddacb82e-5be9-43d9-bcbf-46c1bd4f8e02,54,Male,Leeds,Corporate,Marketing,Leadership Principles,28,24.87,37.41,1047.48,351.11,0.34,2026-01-12
+0f189daa-b7c4-4ca5-b8e1-fce9e8d1ecdb,49,Female,Glasgow,Enterprise,Data Science,Marketing Strategy 2026,17,5.61,20.29,344.93,249.6,0.72,2024-08-21
+98293235-d108-4cf1-8e2a-524999c9103d,52,Male,Leeds,Corporate,Leadership,Data Analytics Handbook,29,23.69,42.99,1246.68,559.59,0.45,2025-10-14
+ab677dde-7d81-4ed7-bfce-e0c0fb89b043,39,Male,Manchester,SME,Technology,Marketing Strategy 2026,3,14.63,32.39,97.18,53.3,0.55,2025-05-10
+4b6b29e3-a37c-4ddc-a750-98ba0cd852a9,43,Male,Manchester,SME,Marketing,Advanced Python for Business,32,19.25,25.71,822.69,206.64,0.25,2024-11-03
+9e3211f4-ffa9-4e87-aaa7-8757f8ab1ef7,30,Male,Glasgow,Enterprise,Technology,Marketing Strategy 2026,33,26.93,43.05,1420.51,531.68,0.37,2025-12-09
+05238402-8191-41f2-9fc3-32f9e85182a1,57,Male,Leeds,Corporate,Leadership,Marketing Strategy 2026,7,11.41,25.58,179.05,99.21,0.55,2025-09-24
+88a3547e-4253-44e7-a16a-04730a9e63de,53,Male,Birmingham,Corporate,Technology,Data Analytics Handbook,2,13.45,24.08,48.17,21.27,0.44,2024-07-05
+f4c68e3a-3b39-4a2a-b524-03f2b5a00779,63,Female,Birmingham,Corporate,Finance,Data Analytics Handbook,49,25.97,43.88,2150.09,877.4,0.41,2024-04-09
+c2abb0f0-1019-4c18-adaa-a3a8c190b5ce,25,Female,Glasgow,Enterprise,Marketing,Leadership Principles,39,11.79,31.27,1219.43,759.67,0.62,2024-08-23
+e9fa77ae-3fdc-4099-8c8f-ac1f0d1fea36,51,Male,London,SME,Marketing,Leadership Principles,42,8.32,27.86,1170.19,820.81,0.7,2024-12-27
+45d61352-4c00-420d-9d20-2996aaaa925e,44,Male,London,Corporate,Finance,Advanced Python for Business,26,23.6,32.36,841.46,227.84,0.27,2025-08-30
+fa7b8f76-851f-4295-98a0-86d4dd1e3e5b,46,Female,Glasgow,Corporate,Finance,Data Analytics Handbook,32,27.88,39.52,1264.5,372.33,0.29,2024-08-24
+36a157ef-2fa8-45aa-9f29-cec38dfa90bf,50,Male,Birmingham,Enterprise,Marketing,Data Analytics Handbook,22,23.45,36.76,808.78,292.94,0.36,2024-04-17
+d2bf61f6-e160-422c-9b9c-d99b265faa58,26,Male,London,Enterprise,Leadership,Data Analytics Handbook,28,8.0,18.13,507.7,283.59,0.56,2025-05-08
+e6ef3b00-bba7-40ab-afd3-277f7cdb3edb,42,Male,Leeds,Corporate,Data Science,Advanced Python for Business,48,16.85,23.32,1119.45,310.44,0.28,2025-01-25
+b729650f-6dd3-4141-ac6f-641d30ab5d67,52,Female,Manchester,SME,Technology,Corporate Finance Guide,34,20.4,34.92,1187.37,493.9,0.42,2024-12-04
+9d6e2ab7-13df-4531-b1a4-7591432114f4,45,Female,Manchester,Corporate,Leadership,Marketing Strategy 2026,16,18.48,33.74,539.9,244.15,0.45,2025-09-05
+fe6e67b3-1036-44f6-8692-20707b4d20fa,54,Male,Glasgow,SME,Marketing,Data Analytics Handbook,35,25.02,40.18,1406.34,530.51,0.38,2025-04-23
+8309b50f-7a31-41a7-9811-37b0de37aae6,31,Male,Leeds,Corporate,Data Science,Leadership Principles,40,20.65,37.95,1518.2,692.26,0.46,2025-09-18
+f361c25d-8503-4cfe-99cf-5c07e8bdcd6f,44,Male,Manchester,Corporate,Technology,Advanced Python for Business,35,7.52,12.79,447.75,184.57,0.41,2024-10-14
+80c587b1-2982-4952-8fe2-0dbc0d02b513,28,Female,Manchester,Corporate,Technology,Data Analytics Handbook,41,5.58,22.8,934.75,705.9,0.76,2025-05-07
+85f78002-182d-4c7f-a7d3-6d4f29faf5ad,42,Male,London,Enterprise,Data Science,Corporate Finance Guide,25,28.42,34.0,850.1,139.69,0.16,2025-12-21
+d8b454d3-594d-4485-a6b8-58d2645c288e,57,Female,London,SME,Data Science,Leadership Principles,35,19.21,32.85,1149.82,477.36,0.42,2025-12-16
+d21a0423-d3e3-4226-bb73-4c9661b17b24,56,Male,London,Corporate,Leadership,Corporate Finance Guide,25,15.72,31.99,799.7,406.58,0.51,2025-12-09
+4cecc5b2-dbdf-40df-89ce-fb97e3164438,57,Female,Glasgow,Corporate,Marketing,Leadership Principles,49,13.0,31.43,1540.27,903.21,0.59,2025-07-25
+b9a99b29-9102-444f-9284-ab1fa14a4ceb,40,Female,Glasgow,Corporate,Marketing,Leadership Principles,31,13.87,33.22,1029.96,599.91,0.58,2025-02-24
+1bb8ff1c-7a9e-405c-b9bb-98e558593547,44,Female,London,SME,Data Science,Data Analytics Handbook,36,13.22,28.3,1018.96,543.16,0.53,2025-12-26
+b1809b7e-2c6d-4f1a-8da4-565a0cb7db82,26,Male,Glasgow,SME,Marketing,Advanced Python for Business,31,17.36,23.22,719.94,181.76,0.25,2024-02-29
+844edf1d-b5ac-4e32-bbe0-1ece50f6dea5,38,Male,Glasgow,Enterprise,Finance,Advanced Python for Business,44,29.22,44.54,1959.62,674.1,0.34,2024-07-13
+6f7d6397-d5b0-475f-ad37-f2025b075554,58,Female,Birmingham,Corporate,Finance,Leadership Principles,29,27.3,34.5,1000.4,208.77,0.21,2024-06-26
+f462376b-4f00-4ff1-9cce-6c06c7d44b26,25,Female,Leeds,SME,Marketing,Data Analytics Handbook,45,10.92,29.53,1328.96,837.69,0.63,2024-02-29
+da5a1d86-231b-41ed-b785-f6ef77cef017,47,Male,Birmingham,Corporate,Data Science,Advanced Python for Business,10,14.45,30.03,300.26,155.76,0.52,2025-02-10
+2a858bc3-a0a3-4a5b-b7f4-45500e38438b,29,Male,London,SME,Finance,Marketing Strategy 2026,28,16.72,22.56,631.71,163.65,0.26,2026-02-06
+6a849089-87fd-4fcc-b716-409c5314ac0f,46,Female,London,Enterprise,Data Science,Advanced Python for Business,49,19.58,39.02,1911.82,952.2,0.5,2025-07-20
+7b9f54d4-33eb-4d1d-9792-785268be2e81,42,Female,Glasgow,SME,Leadership,Data Analytics Handbook,47,5.3,24.85,1168.05,918.76,0.79,2025-07-30
+090d3c22-c9b1-4ae1-b3e3-9084f744b0d1,62,Male,London,Corporate,Marketing,Corporate Finance Guide,18,11.32,26.76,481.61,277.76,0.58,2024-08-31
+d765b71d-fb82-4849-aba7-72a0cd741646,29,Female,Leeds,Corporate,Technology,Leadership Principles,16,27.88,47.26,756.19,310.09,0.41,2024-11-07
+0aeeee52-1196-4ce8-882d-040a20e47aaa,49,Male,London,SME,Finance,Corporate Finance Guide,28,21.17,32.0,895.87,303.07,0.34,2025-11-24
+6275acd2-c778-4e5b-9518-5b6f5ec70309,50,Male,Birmingham,Corporate,Technology,Marketing Strategy 2026,28,12.74,29.95,838.46,481.79,0.57,2024-06-27
+c6a8cab0-711e-4291-b445-eedfb0a001e0,31,Female,Manchester,SME,Data Science,Data Analytics Handbook,2,23.14,37.34,74.69,28.4,0.38,2025-04-06
+5cf9fbc3-6653-4b32-b978-d9199e5bad7e,39,Female,London,SME,Data Science,Advanced Python for Business,1,5.66,16.31,16.31,10.65,0.65,2025-03-24
+613b5c7a-4486-4266-a0d2-23eebcfcff3f,34,Male,Manchester,Corporate,Marketing,Corporate Finance Guide,27,14.52,34.07,919.92,527.82,0.57,2025-10-25
+27999b4f-8103-42a6-887d-3f481837ad1b,38,Male,Glasgow,Enterprise,Marketing,Data Analytics Handbook,28,5.34,11.47,321.22,171.65,0.53,2025-05-04
+b37ee8ed-efdb-44bb-aebb-571f8987817d,31,Male,London,Corporate,Finance,Corporate Finance Guide,10,19.63,35.52,355.21,158.92,0.45,2026-01-02
+941bf118-6159-452e-8217-1799cb16aa98,61,Female,Manchester,SME,Technology,Advanced Python for Business,1,28.85,42.94,42.94,14.09,0.33,2024-12-30
+155d9b2e-189b-4bff-8761-c52cb4c13907,22,Female,Leeds,Corporate,Marketing,Corporate Finance Guide,12,18.01,34.59,415.11,199.02,0.48,2024-07-17
+e1837759-93ad-4655-9451-bed56a130068,36,Male,Glasgow,Enterprise,Technology,Marketing Strategy 2026,23,19.75,31.95,734.84,280.62,0.38,2025-11-10
+138e79b6-7756-488d-b1eb-2509fd513149,59,Female,Manchester,Enterprise,Marketing,Marketing Strategy 2026,34,10.32,17.37,590.57,239.55,0.41,2025-12-18
+3a0414f5-fcfc-4d0c-b1cc-16acef5882df,54,Female,Leeds,Enterprise,Technology,Marketing Strategy 2026,38,27.6,37.83,1437.46,388.51,0.27,2025-09-28
+ce747834-33d8-454c-8d93-6ca3ed871bf5,38,Female,London,Corporate,Technology,Data Analytics Handbook,10,22.44,39.39,393.88,169.47,0.43,2025-08-05
+c0a0b298-388f-4e87-b0d4-df3e50649199,32,Male,London,SME,Marketing,Leadership Principles,43,13.69,21.82,938.36,349.89,0.37,2024-12-11
+55377f55-1194-4009-b14b-0eb3d0820001,53,Male,Birmingham,Corporate,Technology,Data Analytics Handbook,3,9.55,19.73,59.2,30.56,0.52,2024-10-03
+4c350256-580d-4b76-83a4-a4a2efc8dd8c,39,Female,Manchester,Corporate,Data Science,Corporate Finance Guide,5,9.81,15.42,77.1,28.07,0.36,2024-04-13
+6d42b1d3-a97c-4a8c-a899-6b7adb615312,55,Male,Manchester,Corporate,Marketing,Corporate Finance Guide,46,18.36,28.7,1320.22,475.63,0.36,2025-12-23
+3b305145-bbf3-4fc5-a4ea-9581a656de34,51,Male,Glasgow,Corporate,Technology,Leadership Principles,22,7.31,19.52,429.54,268.78,0.63,2025-12-03
+590010f0-8031-49b6-987f-dd475e631657,43,Female,Manchester,SME,Technology,Data Analytics Handbook,15,25.16,41.38,620.68,243.36,0.39,2024-03-11
+73a7260a-618d-4864-a8e5-316c73fa97f6,24,Male,Birmingham,SME,Leadership,Data Analytics Handbook,7,6.56,13.77,96.42,50.51,0.52,2024-12-20
+e160cab0-a83c-49a0-a5c5-8f0576cf0f34,46,Male,Glasgow,Enterprise,Finance,Corporate Finance Guide,15,26.68,36.99,554.89,154.68,0.28,2024-03-14
+debe6df4-0413-46e3-bc35-c83c0a81fcbc,46,Male,Glasgow,Corporate,Leadership,Advanced Python for Business,44,10.29,20.2,888.74,436.15,0.49,2025-06-21
+5e75309a-7be7-427e-8878-fe199379d1cd,57,Male,Manchester,SME,Finance,Leadership Principles,47,24.73,37.21,1748.68,586.4,0.34,2024-05-05
+a873ca15-1877-4753-bb34-1991672c1299,47,Female,Manchester,SME,Marketing,Data Analytics Handbook,6,8.19,17.45,104.68,55.54,0.53,2024-10-10
+cbdf6048-caf4-4779-9abc-2cda92b92efc,42,Female,Leeds,Enterprise,Marketing,Corporate Finance Guide,22,13.26,32.26,709.81,418.12,0.59,2025-09-15
+ecd2be04-ae68-4871-b650-f29fde18c935,58,Female,Manchester,SME,Leadership,Corporate Finance Guide,40,7.01,19.87,794.94,514.71,0.65,2024-06-13
+7a1c862b-c7a0-41b1-84a8-783f9b029d9a,36,Male,Manchester,SME,Data Science,Leadership Principles,2,17.27,33.11,66.22,31.69,0.48,2025-10-03
+ff4ac8f0-1f9c-4fe7-9047-1e7b3f079c32,40,Female,London,Corporate,Leadership,Corporate Finance Guide,4,10.13,29.65,118.59,78.08,0.66,2025-11-30
+0a8a5583-f26f-47a0-8789-a95f444d0fdb,32,Male,Leeds,Corporate,Marketing,Marketing Strategy 2026,37,20.27,29.59,1095.01,345.19,0.32,2026-01-07
+c85ca464-d4c8-42c9-976b-59caaacf738a,26,Male,Manchester,Enterprise,Data Science,Advanced Python for Business,10,6.3,16.34,163.45,100.49,0.61,2026-01-19
+d5816baa-ca03-4ba2-be75-2456a8b6e944,38,Male,Birmingham,SME,Marketing,Corporate Finance Guide,9,7.2,14.28,128.51,63.74,0.5,2024-08-20
+23cbcaac-4abd-4ca4-bc62-d5da3f0ccb66,32,Male,Manchester,SME,Marketing,Corporate Finance Guide,14,26.27,42.46,594.41,226.65,0.38,2024-02-25
+1a3982a3-e9ed-4d59-a297-801873adcbae,29,Male,London,Corporate,Leadership,Marketing Strategy 2026,29,23.53,37.15,1077.21,394.9,0.37,2025-06-30
+cbd0b27e-3ddc-4008-87a5-a52ae7380f38,47,Female,Leeds,Corporate,Data Science,Advanced Python for Business,14,9.11,26.33,368.55,241.06,0.65,2024-03-14
+54036adc-e44a-4a00-9cba-12bffe1c2082,61,Female,Birmingham,Corporate,Finance,Corporate Finance Guide,39,14.81,32.06,1250.34,672.71,0.54,2026-02-15
+b0c05e73-f0be-44cf-b1fd-2371bcbba0b3,35,Male,Birmingham,SME,Marketing,Marketing Strategy 2026,2,10.81,29.3,58.6,36.99,0.63,2025-06-21
+34dfa8f8-a7df-4b5d-ad4c-596f0808c592,50,Male,Leeds,Enterprise,Marketing,Leadership Principles,15,20.69,30.72,460.74,150.35,0.33,2024-04-04
+f4909dfb-230f-4a02-aa88-337000ad002d,48,Male,London,Enterprise,Leadership,Advanced Python for Business,37,29.94,46.23,1710.45,602.58,0.35,2024-07-22
+1d7d0b94-206a-4bfc-b723-28c2a80fb1a3,59,Male,Leeds,Corporate,Leadership,Data Analytics Handbook,33,24.06,42.21,1393.03,599.0,0.43,2025-10-11
+e28998bd-2487-47db-a8e4-01f58559a5c5,33,Male,Manchester,SME,Marketing,Marketing Strategy 2026,4,18.5,30.79,123.17,49.18,0.4,2025-05-13
+46950aa6-c979-41a3-8a45-96ab0524dcd4,26,Female,Birmingham,Enterprise,Technology,Advanced Python for Business,27,19.14,34.88,941.77,425.05,0.45,2024-05-02
+2d54c2f4-8f55-4418-b999-e637163c7214,61,Female,Manchester,Corporate,Finance,Leadership Principles,13,28.68,35.98,467.77,94.9,0.2,2025-12-14
+a89b70b1-174a-4a8f-8db5-7e79286d7ca4,25,Male,Glasgow,SME,Technology,Corporate Finance Guide,48,19.82,26.36,1265.15,313.59,0.25,2025-10-13
+139f7ed8-632a-45d8-9b40-99e38b7a4bd0,35,Female,London,Enterprise,Marketing,Corporate Finance Guide,29,19.41,33.51,971.73,408.92,0.42,2024-03-09
+fc5ac576-bc32-48f0-8909-367097504833,57,Female,London,Corporate,Marketing,Data Analytics Handbook,46,7.83,27.6,1269.76,909.54,0.72,2025-09-05
+63dec09a-62d9-4bce-9ae6-6b4a31a66bb3,47,Male,Birmingham,SME,Leadership,Corporate Finance Guide,10,14.48,30.65,306.46,161.64,0.53,2025-12-21
+f25ddb3a-72e1-423a-a74b-88bba5bf825b,39,Male,Manchester,SME,Finance,Marketing Strategy 2026,7,26.59,45.43,318.03,131.91,0.41,2025-10-22
+39a6d561-d40c-4ef8-9fa2-f5ebe5fe1bc3,46,Male,Leeds,Enterprise,Data Science,Corporate Finance Guide,24,5.82,24.51,588.3,448.59,0.76,2024-10-15
+45776fe7-c9a9-4b36-98d2-691b75d6c26a,47,Female,Manchester,Corporate,Finance,Corporate Finance Guide,22,14.06,27.77,610.91,301.59,0.49,2024-04-21
+a4860c14-dd6d-4309-9d13-5050d95a14f0,49,Male,Glasgow,Corporate,Finance,Data Analytics Handbook,22,29.03,36.26,797.65,159.06,0.2,2024-08-13
+b02a51be-76db-446c-935d-d5d078735f22,53,Female,Glasgow,Corporate,Data Science,Data Analytics Handbook,19,14.93,26.33,500.36,216.63,0.43,2025-10-14
+bda6d0f8-334c-4837-ad50-db074da07718,22,Female,Birmingham,SME,Technology,Advanced Python for Business,18,16.8,30.27,544.94,242.51,0.45,2024-12-12
+70fbd951-e993-4e0b-81d4-0f4d65ae966d,59,Male,Leeds,Corporate,Data Science,Marketing Strategy 2026,30,18.36,30.58,917.33,366.49,0.4,2025-01-21
+b6099c1c-8dc0-4387-83c4-ad15d5234228,55,Female,London,SME,Leadership,Advanced Python for Business,46,14.33,23.39,1076.12,416.81,0.39,2024-09-25
+2d5a1500-902a-4de0-981f-d0397e327fee,45,Male,Birmingham,SME,Data Science,Corporate Finance Guide,3,26.67,37.79,113.38,33.36,0.29,2024-08-28
+717141d6-bba4-47c7-8510-f0c478b69ceb,49,Male,Manchester,SME,Marketing,Leadership Principles,33,25.0,32.68,1078.31,253.38,0.23,2025-10-05
+6e8efe59-9945-4a67-8849-e360d26cb7ac,52,Male,Manchester,SME,Technology,Corporate Finance Guide,14,28.61,35.73,500.17,99.63,0.2,2025-09-18
+bba284a9-61ae-4936-a7d0-3f3833576423,57,Male,Leeds,Enterprise,Technology,Corporate Finance Guide,19,10.2,15.6,296.31,102.56,0.35,2025-07-21
+a1b37437-e260-44cb-ad54-c1ba1a5d820e,23,Male,Leeds,Corporate,Data Science,Corporate Finance Guide,42,25.44,35.56,1493.66,425.34,0.28,2025-09-20
+f69a0ad2-3b9f-4aaf-b2c8-d36e9cbd0552,45,Male,Manchester,Enterprise,Marketing,Corporate Finance Guide,22,15.9,25.32,557.04,207.17,0.37,2024-08-25
+ea13d651-a342-41fe-ae44-977286e01906,61,Female,Glasgow,Corporate,Finance,Marketing Strategy 2026,9,17.12,29.81,268.26,114.18,0.43,2024-03-17
+e381c2e5-a2d6-4439-aeb5-77e8c8908c40,55,Male,Glasgow,SME,Technology,Data Analytics Handbook,29,15.54,22.53,653.28,202.54,0.31,2025-09-15
+1fe1b52f-7d49-4bcd-bbf0-b38892a59e62,38,Male,London,Enterprise,Technology,Leadership Principles,34,25.38,37.85,1286.82,424.03,0.33,2025-10-28
+4a3621fb-8d35-45ca-b023-0b2267dc367e,48,Male,Birmingham,Enterprise,Leadership,Data Analytics Handbook,21,10.16,15.33,321.83,108.46,0.34,2024-11-03
+8063c579-c0ad-48dd-a176-10100ec28afd,38,Female,Glasgow,Enterprise,Technology,Advanced Python for Business,45,21.63,29.26,1316.54,343.38,0.26,2025-09-17
+262c9a3d-8c7c-4c7f-8042-8faf2d4b690d,47,Male,Glasgow,SME,Marketing,Leadership Principles,36,9.16,25.23,908.19,578.54,0.64,2025-06-26
+c504b2dc-0e6f-4258-b5db-f41cb03d69c5,55,Male,Glasgow,Corporate,Technology,Leadership Principles,35,22.98,32.43,1135.15,330.99,0.29,2024-10-05
+9da80aa4-ff64-4ad5-98a8-59328b905e95,38,Female,Birmingham,Corporate,Marketing,Advanced Python for Business,43,18.5,25.93,1114.83,319.5,0.29,2025-07-31
+9dd5eb93-665f-45cb-9946-0aa31d90548e,30,Female,London,Corporate,Finance,Data Analytics Handbook,9,20.58,32.7,294.27,109.02,0.37,2024-03-04
+9beba80d-11b1-4c71-9c08-941299f41aaf,56,Male,Manchester,Corporate,Leadership,Leadership Principles,39,22.21,33.73,1315.57,449.37,0.34,2024-10-23
+3a8d981a-bd85-4fd9-9b33-13afb6c16173,40,Male,Leeds,SME,Marketing,Corporate Finance Guide,12,29.19,34.27,411.26,60.95,0.15,2025-05-23
+e2192827-474d-4665-8bb6-392d852916f6,33,Female,Birmingham,SME,Data Science,Corporate Finance Guide,49,8.42,27.67,1356.03,943.42,0.7,2024-08-19
+825fdf31-3b7a-4327-b258-9786a4c3d665,29,Male,Manchester,Corporate,Leadership,Marketing Strategy 2026,6,21.47,36.85,221.12,92.3,0.42,2024-06-20
+d031e117-6044-44f9-9353-facd6145e442,53,Female,London,SME,Technology,Data Analytics Handbook,47,29.69,48.85,2296.07,900.56,0.39,2024-09-23
+8750ca22-f444-419b-9eed-a32aba278a61,28,Male,Birmingham,Enterprise,Marketing,Data Analytics Handbook,15,16.83,26.52,397.85,145.39,0.37,2024-11-02
+f14118c9-9829-4278-97f3-9bfb6f8776d2,56,Female,Birmingham,Enterprise,Finance,Marketing Strategy 2026,39,16.86,34.79,1356.65,699.29,0.52,2024-04-11
+fd279ac7-aeb1-40c6-86cf-3c62c6547348,58,Male,Manchester,SME,Leadership,Corporate Finance Guide,3,19.02,31.23,93.7,36.65,0.39,2024-08-02
+c2871212-93bb-4c22-9529-3f3ff40b3421,39,Male,Glasgow,Enterprise,Leadership,Advanced Python for Business,13,18.46,33.38,434.0,194.02,0.45,2025-09-10
+9fc97eae-5c30-4cfb-8095-43f8ed9f376a,34,Male,Manchester,SME,Marketing,Leadership Principles,30,5.61,23.66,709.85,541.54,0.76,2024-12-30
+cc6c0505-694f-4f11-b124-e9ed6a2f4e1e,37,Female,Leeds,SME,Finance,Advanced Python for Business,44,6.32,12.65,556.39,278.44,0.5,2024-09-15
+3efcf4d9-81df-4145-bef5-a8dac7d38b17,26,Male,London,SME,Data Science,Advanced Python for Business,20,7.29,17.34,346.76,200.91,0.58,2025-05-31
+ccee6048-dc93-45cf-9abc-9155c44328a6,22,Male,London,SME,Finance,Corporate Finance Guide,25,12.41,20.91,522.8,212.6,0.41,2024-03-01
+c9436e6f-1662-4f93-a7d3-4b1b53edeeca,58,Male,Leeds,Enterprise,Marketing,Data Analytics Handbook,37,21.99,30.26,1119.8,306.13,0.27,2025-04-28
+30561662-3e4d-4d41-92f7-3ea6e91a2749,29,Female,Glasgow,SME,Data Science,Marketing Strategy 2026,4,29.73,45.88,183.52,64.6,0.35,2024-11-16
+91520632-8ef0-4005-a216-7aba4e203a42,47,Male,London,Enterprise,Marketing,Data Analytics Handbook,34,17.82,26.28,893.43,287.64,0.32,2026-01-22
+136a0a20-c123-40e6-8b6e-a6755b08d452,30,Male,Leeds,Enterprise,Finance,Data Analytics Handbook,49,6.45,25.98,1273.15,957.29,0.75,2025-12-25
+7f46b1f2-e7dc-494f-a3cf-4af076a2cabd,38,Female,Birmingham,SME,Data Science,Data Analytics Handbook,18,11.51,24.23,436.22,229.12,0.53,2025-03-29
+e3857deb-0dfc-458a-bd78-f6152969436c,58,Female,Birmingham,Corporate,Marketing,Marketing Strategy 2026,14,18.42,32.32,452.46,194.52,0.43,2024-12-14
+8b83d28b-862c-4140-9e45-23388ddfb1a4,55,Female,Manchester,Corporate,Finance,Data Analytics Handbook,25,8.24,26.57,664.23,458.28,0.69,2025-01-05
+f71a6c45-ef0e-4de4-8ca7-0b26e911b7a9,59,Female,Birmingham,Corporate,Technology,Advanced Python for Business,15,23.38,32.6,489.02,138.31,0.28,2025-09-25
+7a917014-c357-44a8-89b7-f8ed6f22501c,49,Male,Glasgow,Corporate,Technology,Data Analytics Handbook,13,7.03,15.33,199.28,107.94,0.54,2024-04-21
+c2366628-bef8-406d-8418-b7acc7375c92,61,Female,Birmingham,Corporate,Data Science,Corporate Finance Guide,3,17.01,30.9,92.7,41.66,0.45,2025-06-20
+78359d6e-2b69-4ba4-b1f5-e919a40ac563,49,Male,Birmingham,SME,Finance,Data Analytics Handbook,40,26.97,43.93,1757.09,678.46,0.39,2024-06-21
+8501a183-ddeb-4a89-b5aa-a2b0ea0d2886,57,Male,Birmingham,Enterprise,Leadership,Data Analytics Handbook,42,25.93,41.39,1738.27,649.41,0.37,2024-09-17
+943509e5-1b2b-4d3f-8e53-05e225487330,44,Female,Manchester,SME,Data Science,Advanced Python for Business,31,27.02,45.1,1398.08,560.41,0.4,2024-12-07
+06f961f9-7476-49db-abf3-330412f2d2a2,33,Male,Manchester,Corporate,Marketing,Corporate Finance Guide,29,25.45,42.93,1245.0,506.98,0.41,2025-08-25
+9a79758f-131f-44b8-be7b-5b5dae2c4403,45,Male,Birmingham,Enterprise,Marketing,Advanced Python for Business,34,19.0,25.73,874.95,229.08,0.26,2026-01-10
+5a315d7a-efea-403e-9321-72d88eb779e2,36,Female,Glasgow,Corporate,Leadership,Leadership Principles,28,15.81,33.41,935.42,492.85,0.53,2026-01-21
+58ac9d72-beb0-42f1-9015-d97ed662c835,38,Female,London,Enterprise,Finance,Advanced Python for Business,27,22.2,28.21,761.8,162.47,0.21,2024-04-06
+418eb5a7-1dab-455e-9cd4-530988745b4e,50,Female,Leeds,SME,Marketing,Leadership Principles,14,6.87,24.65,345.15,249.01,0.72,2025-11-20
+ed283c0d-571e-4f4d-9c7e-c5103df5d8e5,54,Female,Birmingham,SME,Technology,Advanced Python for Business,11,23.96,29.33,322.58,59.06,0.18,2024-09-15
+66e560ad-213f-42e0-96a6-1f543e0d43f2,38,Male,Glasgow,Corporate,Data Science,Data Analytics Handbook,4,8.97,21.0,84.01,48.11,0.57,2024-05-17
+24aa78f1-46f7-43ac-9ef9-1f07aa20c1fb,35,Female,Birmingham,SME,Marketing,Corporate Finance Guide,47,12.46,30.06,1412.75,827.16,0.59,2024-08-05
+8f69ea1c-4087-43f5-b82d-327f8213135f,42,Male,Glasgow,SME,Leadership,Marketing Strategy 2026,29,29.08,34.55,1001.96,158.62,0.16,2025-07-25
+c5ccb3ef-15e9-48d3-a1b8-c9e284428e73,59,Male,Manchester,Corporate,Marketing,Corporate Finance Guide,1,11.86,31.62,31.62,19.76,0.63,2025-06-27
+ee474f05-7eeb-4993-b1fb-47f0ea266ac5,37,Male,Leeds,Enterprise,Finance,Corporate Finance Guide,15,21.29,31.82,477.29,157.92,0.33,2024-12-07
+e73e1fe5-fa68-4e38-9637-0b3abf2db35e,28,Male,Glasgow,Corporate,Leadership,Advanced Python for Business,27,7.28,14.58,393.77,197.23,0.5,2025-05-15
+d4ebbb48-e388-4d2b-b659-f558a0dd9144,51,Female,London,Enterprise,Leadership,Leadership Principles,25,20.42,37.36,934.11,423.7,0.45,2024-08-28
+e4e131a6-988d-4f80-86a0-4c3ad33ba589,23,Female,Birmingham,Corporate,Finance,Data Analytics Handbook,22,15.76,23.77,522.84,176.17,0.34,2025-11-28
+5979a8ba-22dd-4902-b5ba-ff6203402532,52,Female,Birmingham,Corporate,Finance,Corporate Finance Guide,46,6.81,17.7,814.13,500.82,0.62,2026-01-05
+29e9ac71-e68b-4dd4-8e9b-f5f0d224f8c8,43,Male,London,Corporate,Leadership,Corporate Finance Guide,11,28.82,47.43,521.77,204.79,0.39,2025-07-18
+15521f03-09c9-48e6-a6c6-7fe532dd2c20,49,Female,London,Enterprise,Technology,Leadership Principles,22,19.27,24.55,540.06,116.06,0.21,2024-12-29
+f7e6bc45-aa57-4756-b018-cf6901585bbd,34,Female,London,Corporate,Leadership,Advanced Python for Business,41,6.81,19.82,812.79,533.56,0.66,2025-03-26
+42c989f5-f506-4204-b91d-13a350d11f93,47,Female,Manchester,Enterprise,Technology,Advanced Python for Business,39,14.92,21.91,854.64,272.64,0.32,2024-12-07
+5660d096-c267-4efd-8531-49c3f57315bd,24,Male,London,Enterprise,Finance,Corporate Finance Guide,11,9.19,15.76,173.31,72.25,0.42,2024-05-19
+4a871e02-2f15-4c05-b8b1-c3398ea01172,41,Female,Birmingham,SME,Marketing,Leadership Principles,28,22.73,40.79,1142.15,505.81,0.44,2025-08-13
+181d2630-4bc9-463a-8b05-6c22b730757b,47,Male,Birmingham,SME,Finance,Leadership Principles,22,18.83,32.79,721.32,307.17,0.43,2025-10-03
+fc71b790-42b7-4ea2-9426-14500f26ef28,44,Female,Glasgow,Corporate,Data Science,Marketing Strategy 2026,12,23.29,29.51,354.17,74.69,0.21,2024-07-07
+beb0b478-316e-4378-9924-044dd867fd07,29,Male,Glasgow,SME,Marketing,Leadership Principles,36,10.48,30.12,1084.26,706.97,0.65,2025-08-09
+a73e6a71-783f-4458-849a-c037ed890b34,58,Female,London,SME,Marketing,Leadership Principles,22,18.88,34.67,762.79,347.34,0.46,2025-05-15
+aff9d3c6-7220-4536-bf07-3c2a868a86e3,36,Male,Leeds,Corporate,Data Science,Advanced Python for Business,29,9.99,25.19,730.57,440.9,0.6,2026-02-20
+4e42e64f-f16b-4ce0-8c18-f508ea447a17,49,Female,Leeds,Enterprise,Finance,Marketing Strategy 2026,4,23.57,34.95,139.8,45.53,0.33,2025-11-12
+ccac0d42-d771-4dab-a88e-39c7499ff9f4,57,Female,Manchester,Enterprise,Technology,Marketing Strategy 2026,34,19.47,31.05,1055.57,393.69,0.37,2025-04-14
+ea7cb19f-c4cc-4f31-983b-222abf949ee8,24,Male,Manchester,Corporate,Finance,Marketing Strategy 2026,12,19.81,38.49,461.93,224.23,0.49,2024-08-29
+7e7f91cd-1afe-49e8-8783-894f9e9f7ed7,44,Female,Leeds,Enterprise,Technology,Data Analytics Handbook,30,24.4,35.48,1064.39,332.39,0.31,2024-09-26
+8b690dbe-d314-4822-b93c-22894ed9b86c,35,Female,London,Enterprise,Finance,Marketing Strategy 2026,47,26.36,38.74,1820.96,582.06,0.32,2025-12-06
+6bb380d4-59e8-4452-bd14-300dcf8585c2,58,Male,London,Corporate,Marketing,Advanced Python for Business,35,12.8,23.79,832.63,384.5,0.46,2024-03-01
+5a422cb8-6a8b-4b65-af4b-719b7d3079ed,50,Female,Leeds,Enterprise,Finance,Corporate Finance Guide,10,6.84,14.38,143.84,75.46,0.52,2024-09-14
+2b1c7119-751c-4221-831c-b758cafed045,22,Male,Leeds,Corporate,Marketing,Data Analytics Handbook,12,16.24,30.05,360.65,165.82,0.46,2024-08-02
+a805ea67-3e6c-42ef-b63b-be214fc54f57,49,Male,Leeds,SME,Data Science,Leadership Principles,49,13.92,26.92,1319.13,637.13,0.48,2024-05-23
+e599f06c-5620-43bd-a902-ea1b8ca69f87,41,Female,Glasgow,Corporate,Marketing,Data Analytics Handbook,37,11.74,17.6,651.2,216.68,0.33,2024-07-19
+e3a6d1d0-aec3-4d2b-a898-ee9c2843107f,35,Female,Manchester,Corporate,Technology,Marketing Strategy 2026,49,28.35,38.09,1866.37,477.37,0.26,2025-11-12
+9ace7af3-d967-4c28-a95d-e5b6870733e0,60,Male,Birmingham,Enterprise,Leadership,Leadership Principles,29,5.12,24.4,707.62,559.04,0.79,2025-11-08
+f0ea8d3b-bfa3-4856-93d1-3a4623d0bb04,63,Female,Manchester,Corporate,Finance,Data Analytics Handbook,16,8.14,15.13,242.15,111.85,0.46,2025-08-06
+2bc0ff13-3ed3-4340-a16b-997da623b06e,55,Male,Manchester,SME,Technology,Advanced Python for Business,22,16.09,34.12,750.55,396.49,0.53,2025-09-10
+657fa57c-78be-443f-9dfe-6b7e0645f729,61,Male,Leeds,SME,Finance,Leadership Principles,47,11.1,28.57,1342.64,820.77,0.61,2024-08-12
+39274aa7-6e16-4ec3-8d91-8061ee46cabd,35,Male,Glasgow,Corporate,Technology,Leadership Principles,16,21.91,30.15,482.37,131.76,0.27,2024-04-20
+7fecab3c-a13e-4d4e-9295-c9a7a04e968e,54,Male,London,Corporate,Finance,Data Analytics Handbook,9,8.98,23.06,207.51,126.67,0.61,2024-04-07
+292bda7e-638e-454a-b350-d61ea08794a6,55,Male,Leeds,Enterprise,Marketing,Advanced Python for Business,4,19.18,35.25,141.01,64.31,0.46,2025-03-12
+11adba9a-7ccd-4fc6-99c2-80af9f1bd33c,32,Male,London,Corporate,Finance,Leadership Principles,19,24.06,41.02,779.46,322.38,0.41,2025-01-07
+12c431d0-629b-4f13-8dd8-98b2beddf659,50,Male,London,Corporate,Finance,Marketing Strategy 2026,19,20.25,33.7,640.25,255.58,0.4,2024-06-11
+fcef0129-266c-45f2-8e88-a156f0176018,29,Female,Manchester,Enterprise,Finance,Marketing Strategy 2026,35,10.68,16.78,587.29,213.43,0.36,2024-09-03
+af1c5dc7-4418-453f-bd35-ba975be93573,27,Female,Glasgow,Corporate,Technology,Corporate Finance Guide,2,18.56,37.83,75.66,38.54,0.51,2025-11-03
+6df8d76b-28e9-4e28-a36e-0d0f3a25f4a8,36,Female,Leeds,SME,Marketing,Advanced Python for Business,37,14.5,25.49,943.03,406.35,0.43,2025-07-30
+3532a55f-622e-43e0-9b7e-3f8a73ee2198,44,Male,Glasgow,SME,Finance,Leadership Principles,21,22.89,35.71,749.82,269.19,0.36,2024-06-04
+225f267e-b453-4ff6-a084-6207f3b3244a,34,Female,Birmingham,Enterprise,Data Science,Leadership Principles,21,28.18,34.08,715.68,123.98,0.17,2025-03-02
+2f4cc12e-49c4-472d-9508-cb468af241ed,50,Male,Leeds,SME,Technology,Leadership Principles,27,11.42,20.69,558.7,250.37,0.45,2025-06-25
+bb59ccb1-8971-4c67-9621-2b7d13fb38e2,25,Female,London,Enterprise,Marketing,Leadership Principles,13,22.94,33.94,441.21,142.98,0.32,2025-06-20
+4043be9b-9476-4626-b5b0-caad6c5b53d9,63,Male,Manchester,Enterprise,Finance,Leadership Principles,7,9.54,22.41,156.89,90.14,0.57,2024-11-15
+58f79e18-5181-4e08-b916-7c24534b38bf,43,Female,Glasgow,Enterprise,Leadership,Corporate Finance Guide,13,6.09,20.58,267.57,188.46,0.7,2024-04-20
+fce713a4-cc46-4d72-bada-89fd78056d9a,63,Female,London,Enterprise,Marketing,Data Analytics Handbook,24,24.84,39.54,949.02,352.78,0.37,2025-11-20
+da1d624a-1737-4447-90f1-6f0dd2b3b5c0,60,Female,London,Enterprise,Marketing,Leadership Principles,36,12.55,28.53,1027.11,575.26,0.56,2026-01-02
+1fdd73b4-d5a2-46f2-b60b-8f01ff0cd452,56,Female,Manchester,Corporate,Data Science,Corporate Finance Guide,5,8.74,20.1,100.51,56.8,0.57,2024-03-13
+a9622e64-4bce-44c3-a450-f53424ad02b4,49,Male,Birmingham,Enterprise,Finance,Data Analytics Handbook,35,9.46,19.15,670.08,338.94,0.51,2025-05-16
+2af924cd-a9af-4986-b4d5-04d90dcafcd2,56,Male,Glasgow,Enterprise,Marketing,Advanced Python for Business,2,19.86,32.31,64.63,24.9,0.39,2024-09-02
+5f182f19-34ab-4b67-8c18-fe7be4ea4c8a,32,Male,Leeds,Enterprise,Marketing,Leadership Principles,49,15.7,31.47,1541.98,772.43,0.5,2024-12-23
+8f7f6328-2b2c-4a68-bce9-fea760c871aa,57,Female,Glasgow,Corporate,Leadership,Marketing Strategy 2026,39,23.11,36.78,1434.59,533.36,0.37,2026-01-11
+a490be06-79f0-45c4-8a05-f82499fc3dd5,62,Male,Leeds,Corporate,Finance,Leadership Principles,6,15.03,25.53,153.2,63.03,0.41,2024-04-24
+06054797-2293-4a37-8ccf-5ef841f5fd09,53,Male,Manchester,SME,Leadership,Data Analytics Handbook,27,6.69,23.7,639.78,459.14,0.72,2024-10-16
+b072cb7d-3e07-4152-bb6d-2e3fd60f0e04,44,Female,Manchester,Enterprise,Finance,Marketing Strategy 2026,2,16.42,24.28,48.55,15.71,0.32,2025-03-26
+fd5d461c-a7b8-4cb3-9bac-050734417784,43,Female,Manchester,Corporate,Data Science,Data Analytics Handbook,8,23.27,35.24,281.95,95.82,0.34,2024-04-29
+8732c6e3-b21f-42e7-ac39-adab62e23efa,63,Female,London,SME,Leadership,Corporate Finance Guide,16,22.25,30.26,484.23,128.22,0.26,2025-07-15
+b403b986-7268-4825-802f-60fcc27ad486,37,Female,Glasgow,SME,Leadership,Marketing Strategy 2026,3,12.52,32.24,96.72,59.16,0.61,2025-05-26
+4d30fe17-d0a1-4df6-8253-c657a4c8fa53,22,Male,Glasgow,Enterprise,Technology,Corporate Finance Guide,40,8.81,28.7,1147.91,795.49,0.69,2024-09-18
+4bef7a79-e3b2-44b7-be8a-709da6746064,35,Female,London,SME,Technology,Data Analytics Handbook,34,20.21,32.81,1115.7,428.49,0.38,2024-05-11
+f1b318d8-70a9-4a40-8ecc-587b8012cd2f,30,Male,Birmingham,SME,Leadership,Advanced Python for Business,27,14.0,20.32,548.59,170.5,0.31,2025-02-17
+37d47e29-de3e-45b3-b66a-283ac3c39cd5,43,Male,Leeds,Corporate,Leadership,Advanced Python for Business,35,20.01,32.75,1146.25,445.73,0.39,2024-09-27
+1b4c97ce-6ad3-4ee9-ab97-0d12cde26bc2,39,Male,Birmingham,Enterprise,Technology,Marketing Strategy 2026,38,17.53,28.49,1082.49,416.39,0.38,2025-06-20
+75862c8d-c300-433a-ac09-74ccf6b52dd9,36,Male,Birmingham,Enterprise,Marketing,Advanced Python for Business,9,24.75,34.32,308.89,86.13,0.28,2024-10-24
+47ab3058-3b72-46f7-86ef-1090627ece3a,31,Male,Manchester,Corporate,Data Science,Corporate Finance Guide,18,10.59,29.95,539.1,348.48,0.65,2024-11-15
+e315d756-0a49-4a5c-933f-9bd67f426c04,37,Female,Glasgow,SME,Marketing,Corporate Finance Guide,46,28.07,40.37,1857.24,566.07,0.3,2025-04-11
+204fd4a1-8c45-4577-8c87-aa50350c9534,29,Male,Manchester,Corporate,Leadership,Data Analytics Handbook,34,25.63,40.62,1381.24,509.82,0.37,2026-01-01
+237b28ac-c1f6-4f24-987b-59c45fa9497d,49,Male,Leeds,Enterprise,Data Science,Leadership Principles,32,18.74,38.23,1223.22,623.59,0.51,2025-06-13
+8ef5a220-6345-4e49-b679-e6c0f9d67ffc,23,Female,Birmingham,SME,Marketing,Data Analytics Handbook,43,26.29,31.29,1345.52,215.21,0.16,2025-10-01
+244116ca-346d-4ee9-9657-a9c6f847b22c,32,Female,Glasgow,SME,Finance,Marketing Strategy 2026,2,24.52,36.42,72.83,23.79,0.33,2024-10-23
+3d65327b-98c0-42e7-a5cd-7229e9f4aa9f,28,Female,Leeds,Corporate,Leadership,Leadership Principles,28,9.27,15.39,430.81,171.34,0.4,2024-07-21
+723d380f-ac50-483a-88ad-d53eb75af694,50,Female,Leeds,Enterprise,Technology,Data Analytics Handbook,39,29.92,47.13,1837.95,671.17,0.37,2025-11-18
+2cb5bd71-3646-4864-af7a-f816c45281ce,28,Male,Leeds,Enterprise,Data Science,Data Analytics Handbook,35,27.17,38.91,1361.92,411.14,0.3,2025-09-28
+c131f7f0-9ebc-4ffc-a174-9464f935b6c8,48,Male,Glasgow,Enterprise,Technology,Data Analytics Handbook,2,24.23,29.4,58.8,10.33,0.18,2025-07-30
+f063bd8b-f5fc-4028-ba2c-045ba815a37b,42,Male,Manchester,Corporate,Data Science,Leadership Principles,45,10.38,15.56,700.28,233.18,0.33,2025-11-23
+f570ba66-d7c1-45fe-83b5-5ca894f44a4f,42,Female,Glasgow,Enterprise,Leadership,Advanced Python for Business,11,14.29,23.27,256.0,98.87,0.39,2025-07-17
+e96f1494-555f-44db-bfaf-9e9fe8ed8f95,56,Male,Glasgow,Corporate,Technology,Data Analytics Handbook,40,13.12,29.18,1167.09,642.41,0.55,2025-02-04
+84af93e6-50c1-458d-85ee-1f625f01f23b,30,Male,London,Enterprise,Leadership,Data Analytics Handbook,17,28.91,35.9,610.35,118.95,0.19,2025-04-20
+57c99549-a0b3-4d03-93bb-89642d808fdd,42,Female,Birmingham,SME,Technology,Marketing Strategy 2026,40,11.98,30.94,1237.56,758.19,0.61,2025-03-14
+41f5b094-1649-4b5c-9268-5096d30b58b5,44,Female,Glasgow,SME,Data Science,Leadership Principles,17,16.25,24.66,419.18,142.88,0.34,2025-05-21
+3f939428-34e2-4a26-b4d8-aab89db4fbac,29,Male,Birmingham,Corporate,Data Science,Marketing Strategy 2026,13,17.81,33.01,429.12,197.64,0.46,2025-11-09
+4336dc35-58ba-4e33-b72a-767d873fbbf0,41,Male,Manchester,SME,Leadership,Marketing Strategy 2026,5,6.78,11.96,59.82,25.91,0.43,2025-08-15
+185f6ee5-a494-44b2-9dcb-30f39f2c292e,64,Female,Glasgow,Corporate,Technology,Leadership Principles,28,29.27,48.4,1355.3,535.77,0.4,2025-06-28
+23d85b5b-1818-4761-80bd-3699218346bd,46,Male,Manchester,SME,Technology,Marketing Strategy 2026,40,27.47,44.21,1768.39,669.49,0.38,2025-11-27
+7a0b7f5d-e3c9-428b-8ad8-1fa273970403,62,Male,London,Enterprise,Technology,Advanced Python for Business,14,8.03,22.26,311.64,199.15,0.64,2025-03-15
+34320f9f-441b-4fdd-a058-f7d0a0240b4b,23,Female,Glasgow,Corporate,Leadership,Advanced Python for Business,40,24.97,34.36,1374.41,375.69,0.27,2025-03-04
+ae2cf27a-a8f0-4c05-bea2-1aebe4110c08,39,Male,London,Corporate,Marketing,Leadership Principles,40,8.2,18.28,731.06,402.96,0.55,2025-04-03
+f5592072-c04f-4bdc-a2e9-13f2294874e3,41,Male,Leeds,SME,Finance,Data Analytics Handbook,30,14.72,22.17,665.15,223.66,0.34,2026-02-07
+06031df5-0465-41c7-b46a-b4cda19058de,33,Male,Manchester,Corporate,Data Science,Data Analytics Handbook,39,12.15,29.39,1146.09,672.33,0.59,2024-05-30
+2c61c29b-bb11-456b-8422-d6d5beb80373,28,Male,Leeds,SME,Marketing,Corporate Finance Guide,46,29.46,45.68,2101.41,746.25,0.36,2025-02-26
+66760a83-803a-453e-8fea-6b6b25c64548,23,Male,Glasgow,SME,Leadership,Marketing Strategy 2026,18,28.43,34.08,613.48,101.66,0.17,2025-03-24
+0c644f23-eff0-41d2-aeed-e15e49930154,45,Female,Glasgow,Enterprise,Marketing,Data Analytics Handbook,23,29.13,41.45,953.45,283.5,0.3,2026-02-04
+599e63f6-eeba-4c6e-ad04-07ab3b6e1552,44,Male,Leeds,SME,Finance,Data Analytics Handbook,19,19.76,32.38,615.3,239.88,0.39,2025-05-10
+5b32825a-6475-4e22-b52d-bde57ed767ab,29,Male,Leeds,Corporate,Marketing,Corporate Finance Guide,16,9.0,20.93,334.8,190.77,0.57,2024-06-19
+71375775-c607-474d-93e5-b17aede9b86a,55,Male,London,Enterprise,Data Science,Marketing Strategy 2026,42,11.95,19.86,833.99,332.19,0.4,2025-06-26
+e0fac58a-5f33-4e82-919d-106ef9750142,30,Female,Leeds,Enterprise,Technology,Advanced Python for Business,13,9.7,20.03,260.41,134.3,0.52,2024-10-14
+6fbe69eb-4d4f-4673-a040-986531df7dbc,35,Male,Manchester,Corporate,Finance,Leadership Principles,14,26.0,43.49,608.85,244.86,0.4,2024-03-14
+09b57795-4a87-4bcf-9cd5-908067e6dcbb,40,Male,Manchester,SME,Data Science,Leadership Principles,6,13.17,20.41,122.44,43.4,0.35,2024-03-03
+2d4bc0e7-dc7a-4501-a4e9-534a56249416,47,Male,Glasgow,Enterprise,Data Science,Advanced Python for Business,35,23.05,41.34,1447.06,640.25,0.44,2024-08-24
+71272cba-918e-4095-aa43-6d69d4b4684a,41,Male,Leeds,Corporate,Marketing,Data Analytics Handbook,45,20.49,30.82,1387.0,464.96,0.34,2026-01-18
+45bd718a-0429-499d-9f18-b2450df4d1fd,45,Female,Manchester,SME,Leadership,Leadership Principles,4,19.5,32.92,131.69,53.69,0.41,2024-09-13
+7a33598c-842f-4cca-a7f7-ef4f6f5bd404,43,Female,Glasgow,Enterprise,Technology,Data Analytics Handbook,19,13.05,27.6,524.4,276.4,0.53,2025-11-24
+f3d47a95-c5cb-40ea-860b-280a82616fc0,57,Female,London,SME,Finance,Advanced Python for Business,48,24.72,37.47,1798.77,612.43,0.34,2024-11-10
+edb9a7e4-41e6-4ba4-b8af-c871567d5e09,32,Male,Leeds,Enterprise,Data Science,Corporate Finance Guide,28,14.29,20.22,566.26,166.27,0.29,2025-02-18
+152ecd6f-0ac9-414a-b690-1096580e8e7c,48,Male,Leeds,SME,Finance,Advanced Python for Business,48,15.53,30.07,1443.55,698.05,0.48,2024-03-12
+52f6b82f-d824-4dee-b0ba-cba6d7103dcc,24,Male,Birmingham,Corporate,Data Science,Corporate Finance Guide,10,19.69,27.46,274.61,77.67,0.28,2026-01-26
+2eacc6f0-fb66-44fd-b5b1-09502d89c092,63,Male,Manchester,SME,Data Science,Data Analytics Handbook,19,28.24,44.98,854.6,318.04,0.37,2026-01-18
+35f0e9d6-2ed9-40ea-b8d6-ac9f9069f200,31,Female,Glasgow,Enterprise,Technology,Leadership Principles,21,16.54,28.76,603.9,256.49,0.42,2024-05-18
+216d5eb1-a855-440c-8624-558d0ca10874,22,Female,London,Enterprise,Finance,Leadership Principles,35,6.25,24.8,868.17,649.55,0.75,2025-04-29
+16aa0c43-b9b9-492b-85c8-0de7f7152c7b,45,Male,Leeds,Corporate,Leadership,Advanced Python for Business,20,8.28,19.27,385.33,219.65,0.57,2025-03-07
+2d11f12d-c15c-4ba9-870a-8934cb1b2a6d,49,Female,Manchester,Enterprise,Technology,Corporate Finance Guide,35,12.05,20.98,734.31,312.4,0.43,2024-07-03
+9cf44502-1a5f-4cf5-b74d-43a17a8e4fa4,57,Female,Birmingham,Enterprise,Technology,Marketing Strategy 2026,45,24.42,30.4,1367.92,269.12,0.2,2024-11-22
+0ca6824e-12eb-4d03-bfd4-7440ba91fb86,48,Male,Manchester,SME,Leadership,Data Analytics Handbook,33,8.48,21.47,708.43,428.55,0.6,2025-01-18
+c80ab4a2-c1a6-411d-b441-d32c37c1317b,58,Female,Glasgow,Enterprise,Data Science,Marketing Strategy 2026,14,6.31,17.59,246.24,157.95,0.64,2024-10-19
+1d07d126-a051-4d03-9d4a-20779cd0158a,40,Male,London,Corporate,Leadership,Corporate Finance Guide,49,23.13,31.0,1518.84,385.53,0.25,2026-01-08
+9845b035-b96b-4405-b015-e7dcf8815ac1,63,Male,London,Corporate,Data Science,Data Analytics Handbook,4,9.58,14.91,59.62,21.32,0.36,2025-08-03
+28300395-537d-446b-801b-33ee47a325c7,60,Female,London,Corporate,Technology,Advanced Python for Business,41,26.5,42.35,1736.17,649.53,0.37,2025-01-05
+d3fccde6-27ba-41ed-8293-2c72b1fb7070,43,Female,London,Enterprise,Technology,Advanced Python for Business,2,17.12,24.6,49.21,14.97,0.3,2025-11-23
+03596bd9-7076-4ec7-9a32-297970ae7a24,43,Female,Leeds,SME,Technology,Marketing Strategy 2026,39,26.55,38.45,1499.63,464.19,0.31,2026-01-01
+2931cda6-d8f4-4ad9-95dd-94353649af10,28,Male,Leeds,Enterprise,Leadership,Leadership Principles,32,6.3,23.09,738.98,537.41,0.73,2025-08-03
+0f5d2773-f034-4e99-93fd-85b5a0be4d29,36,Female,Leeds,Enterprise,Marketing,Data Analytics Handbook,21,17.98,26.06,547.22,169.54,0.31,2024-08-24
+de99be5c-8294-447c-8250-d54177dca6fa,23,Male,Birmingham,Corporate,Technology,Leadership Principles,26,16.28,36.06,937.45,514.15,0.55,2025-10-09
+bfe8fe31-fd17-4b1a-81fd-8587244cb715,46,Male,Manchester,SME,Marketing,Data Analytics Handbook,23,24.96,35.54,817.36,243.32,0.3,2024-04-17
+d01ce3a3-93eb-45c0-9314-2d3c0fc5f4e9,29,Female,Leeds,Corporate,Leadership,Data Analytics Handbook,10,29.11,37.17,371.68,80.56,0.22,2025-02-11
+8a872e44-1e93-40e7-b39e-2824de472d31,36,Female,Manchester,Enterprise,Leadership,Leadership Principles,47,20.86,37.83,1778.16,797.53,0.45,2026-01-31
+2df04fb7-78b1-475d-8324-f75b2dfe8ada,24,Male,Birmingham,SME,Technology,Marketing Strategy 2026,16,18.95,26.44,422.98,119.85,0.28,2024-07-29
+ab95c799-73a0-4589-8fe9-f2075dd2c68e,29,Male,Leeds,SME,Data Science,Leadership Principles,1,29.59,36.7,36.7,7.11,0.19,2025-09-15
+cec3322c-5a80-474c-914b-5c87ffe1f62a,53,Male,Leeds,SME,Finance,Data Analytics Handbook,19,24.96,44.48,845.14,370.81,0.44,2024-07-20
+075f1720-ed05-41ec-a12b-b6c0e336c04b,55,Female,Leeds,Enterprise,Technology,Marketing Strategy 2026,13,29.6,44.62,580.08,195.24,0.34,2025-03-14
+f03c07cf-b645-40e7-a65a-88abd31f7f86,24,Male,Leeds,Corporate,Leadership,Advanced Python for Business,25,9.06,14.24,356.12,129.73,0.36,2025-04-09
+08946a53-51eb-4937-98b8-732a0493865a,49,Male,London,Enterprise,Technology,Marketing Strategy 2026,35,10.24,20.93,732.52,373.99,0.51,2024-12-03
+d6aa0adb-9acf-4c05-a4e7-fa3719992978,30,Male,Manchester,Enterprise,Marketing,Leadership Principles,2,23.99,43.81,87.62,39.64,0.45,2025-05-20
+81719162-f1fa-4f86-94bc-50f58decf868,49,Female,Manchester,Enterprise,Finance,Data Analytics Handbook,21,13.38,20.99,440.72,159.73,0.36,2025-11-09
+ab0d7b6d-7fd5-4539-a34a-7faf3bd9bbac,39,Female,Birmingham,Corporate,Finance,Data Analytics Handbook,47,15.5,34.08,1601.92,873.28,0.55,2024-04-01
+70797528-f964-4fc5-9311-c5a534a27654,56,Male,Leeds,Corporate,Technology,Advanced Python for Business,27,25.15,42.81,1155.9,476.71,0.41,2025-06-24
+620733a9-2550-4212-9a6d-54d62eb3e192,60,Female,London,Corporate,Marketing,Leadership Principles,47,12.87,17.93,842.72,237.69,0.28,2024-04-28
+297a20e7-296b-4f05-85da-04e0ab4e13eb,42,Male,London,Corporate,Data Science,Leadership Principles,15,26.66,34.89,523.39,123.49,0.24,2025-04-02
+631c6c50-3107-49a8-bb4c-11f8b53efa1a,30,Male,Leeds,Corporate,Technology,Marketing Strategy 2026,39,28.46,46.53,1814.5,704.65,0.39,2024-05-29
+fca4dcb4-63fa-4e6a-95ed-0d9f88ab3c4f,48,Female,Leeds,Corporate,Marketing,Marketing Strategy 2026,23,27.68,42.74,983.04,346.4,0.35,2026-01-31
+dd9b7822-4649-4462-8fc7-a0aab69f02be,46,Female,Manchester,Enterprise,Finance,Marketing Strategy 2026,20,29.42,36.08,721.62,133.22,0.18,2024-07-14
+057c28de-976d-4832-b558-c7f34bc5aa4a,30,Female,Leeds,Corporate,Finance,Marketing Strategy 2026,19,29.32,46.71,887.49,330.42,0.37,2025-12-02
+97c8a586-e727-4e43-9869-7ed2ecf6a643,35,Female,Glasgow,Corporate,Leadership,Corporate Finance Guide,19,20.71,33.7,640.23,246.81,0.39,2025-12-11
+a78baa0d-986a-483d-a27e-20a7289a68fe,35,Male,Glasgow,SME,Finance,Marketing Strategy 2026,25,11.05,16.23,405.84,129.65,0.32,2024-12-27
+834f49a9-c391-4cbf-94d1-13a65b0575ea,49,Female,Manchester,Corporate,Data Science,Corporate Finance Guide,4,23.26,37.24,148.95,55.93,0.38,2025-11-03
+1808b6b6-fe21-4de7-a39f-ab320d37feab,50,Female,London,Enterprise,Leadership,Marketing Strategy 2026,16,29.73,44.12,705.89,230.28,0.33,2025-04-14
+e9b1c16b-3949-42c6-90b9-f5953df6369c,42,Male,Leeds,Corporate,Marketing,Leadership Principles,21,11.69,28.53,599.17,353.59,0.59,2026-01-23
+e198a4cc-7ca0-4131-8a2c-520640840356,25,Male,London,Enterprise,Finance,Data Analytics Handbook,9,7.87,14.28,128.53,57.67,0.45,2024-08-06
+e89e7902-3e41-41fc-9766-cfc15d081077,36,Male,Birmingham,Enterprise,Leadership,Data Analytics Handbook,12,22.36,28.59,343.13,74.8,0.22,2024-12-04
+4f7f74ee-e94e-4821-9b29-5d49749641ea,41,Male,Glasgow,SME,Leadership,Leadership Principles,38,9.26,28.49,1082.47,730.42,0.67,2024-03-12
+940e895c-2d20-4a79-8009-40d8f3d059e3,24,Female,Leeds,Enterprise,Technology,Marketing Strategy 2026,45,7.61,18.37,826.8,484.55,0.59,2024-11-30
+1821f116-a999-4027-8b07-ce7486355ea9,59,Female,London,Enterprise,Finance,Data Analytics Handbook,23,23.59,36.18,832.23,289.66,0.35,2025-12-19
+0cb8649e-86ac-4dea-a634-a8fdb18403dc,40,Female,Manchester,Corporate,Finance,Data Analytics Handbook,8,16.81,22.5,179.98,45.48,0.25,2025-08-13
+263c175f-26ac-459b-a085-c76764506021,56,Female,Glasgow,Corporate,Data Science,Data Analytics Handbook,14,16.82,31.16,436.27,200.73,0.46,2025-08-10
+1d8ee54f-24f0-41a8-8f0d-192a11d3cf12,64,Female,Leeds,Corporate,Technology,Data Analytics Handbook,8,5.14,10.25,82.02,40.92,0.5,2024-06-26
+1268ec31-eb44-4fae-a436-fe96d8302e1a,64,Female,London,Corporate,Data Science,Corporate Finance Guide,42,15.96,24.24,1018.13,347.66,0.34,2025-08-10
+ec9dc621-b521-4ca3-a344-b843fb6d42ca,62,Male,Glasgow,SME,Marketing,Marketing Strategy 2026,39,20.43,27.13,1058.24,261.6,0.25,2025-02-27
+838090c1-b571-4542-9a2f-98c4adbc35c1,61,Female,Birmingham,Corporate,Data Science,Data Analytics Handbook,1,8.29,17.41,17.41,9.12,0.52,2025-11-19
+242dcb84-b966-4f38-8361-f9b500407777,47,Male,Leeds,Enterprise,Data Science,Corporate Finance Guide,45,20.2,29.84,1342.72,433.83,0.32,2024-04-20
+7b1af411-71cc-4327-937e-80ab4b722ae4,44,Male,Leeds,Enterprise,Technology,Advanced Python for Business,45,20.91,26.68,1200.47,259.52,0.22,2024-12-11
+200e3596-3fea-4f2c-9afa-90c0232048a2,39,Male,Birmingham,SME,Leadership,Leadership Principles,36,21.63,38.64,1390.95,612.19,0.44,2024-09-11
+87f1ce58-7907-4094-8a3d-7ca90fe04c12,62,Male,Manchester,SME,Data Science,Corporate Finance Guide,15,27.51,38.57,578.57,165.95,0.29,2024-10-03
+f861c54a-a253-41ba-9525-36a5fef683ff,31,Female,Manchester,SME,Finance,Corporate Finance Guide,13,21.16,39.48,513.26,238.17,0.46,2024-03-26
+37186cc9-5e71-4914-94ac-f30790f80615,48,Male,Manchester,Corporate,Marketing,Advanced Python for Business,6,8.86,16.44,98.61,45.47,0.46,2024-08-29
+4ffe6b86-ec7a-4e5d-8f9e-587b0eaeae66,64,Male,Glasgow,SME,Technology,Data Analytics Handbook,35,5.29,16.62,581.81,396.57,0.68,2025-01-07
+5e89a889-b56e-4a34-9e8c-c577a532781c,46,Male,London,Enterprise,Leadership,Data Analytics Handbook,31,8.08,21.45,665.1,414.77,0.62,2025-07-17
+25823df3-e10c-4531-ab02-8732eac608b4,30,Male,Manchester,Enterprise,Leadership,Leadership Principles,35,22.31,33.76,1181.65,400.71,0.34,2024-08-07
+d7f364e0-7cc4-4408-83d9-2d35490562f0,36,Male,Birmingham,Enterprise,Marketing,Corporate Finance Guide,28,24.96,42.3,1184.28,485.42,0.41,2024-03-21
+7c8fc29d-40d1-4f4b-803e-854d9c355857,60,Female,Leeds,Corporate,Leadership,Data Analytics Handbook,24,5.69,16.58,397.92,261.47,0.66,2024-08-31
+a02599a4-af22-4aae-a617-b554a9179f14,40,Male,Manchester,Enterprise,Leadership,Marketing Strategy 2026,20,27.25,37.44,748.81,203.76,0.27,2026-01-27
+fbde7ce2-73e9-45cb-b91f-ec5facce6bf1,59,Female,Glasgow,Enterprise,Leadership,Leadership Principles,11,13.52,19.59,215.5,66.83,0.31,2024-03-11
+7e96b71a-3b07-486f-8036-540ffa41d3b2,26,Female,Birmingham,SME,Marketing,Data Analytics Handbook,49,18.99,25.57,1252.98,322.37,0.26,2024-07-23
+de85c335-16e3-4de6-841f-e56e0d0e521a,48,Female,Birmingham,Enterprise,Marketing,Data Analytics Handbook,43,14.61,20.19,868.17,240.15,0.28,2025-03-08
+aa95cf2a-ab91-4315-96e2-e3686452785a,58,Female,Leeds,Corporate,Marketing,Leadership Principles,37,16.46,25.8,954.66,345.53,0.36,2026-02-05
+8669eb2e-66c6-4cbd-943a-8331132f7926,34,Male,Leeds,Corporate,Data Science,Leadership Principles,29,29.87,43.05,1248.51,382.24,0.31,2024-12-24
+444c9714-cb82-4e48-9ff9-a843526af021,55,Male,Glasgow,SME,Marketing,Marketing Strategy 2026,13,29.5,41.67,541.72,158.19,0.29,2024-02-25
+9d97fbc9-bfad-4c75-a8d1-1a8358a07a80,42,Female,Leeds,Corporate,Leadership,Marketing Strategy 2026,49,12.56,21.45,1050.97,435.61,0.41,2024-10-18
+856fc6e0-aedb-4605-b7db-b19177d00cf4,45,Male,Birmingham,Corporate,Technology,Marketing Strategy 2026,28,18.94,29.15,816.25,285.86,0.35,2025-02-12
+066fa978-2691-4d77-9979-4347f2d408fb,39,Female,London,Enterprise,Marketing,Data Analytics Handbook,35,10.18,26.92,942.15,585.75,0.62,2024-05-02
+b2e26282-611e-4086-b543-5e9bfc78d4d3,38,Male,Leeds,Enterprise,Marketing,Marketing Strategy 2026,5,23.27,30.49,152.45,36.1,0.24,2025-08-09
+faacb2e9-e28b-4282-a519-f202c7b8d644,33,Female,Glasgow,Enterprise,Marketing,Leadership Principles,45,27.74,43.57,1960.58,712.45,0.36,2024-12-25
+26aa02cc-50d7-417d-866c-b67afa048b03,33,Female,London,SME,Marketing,Advanced Python for Business,41,6.44,21.65,887.85,623.66,0.7,2024-09-03
+2f83d785-d599-443a-a65b-c51a3f2fd75c,27,Male,Manchester,Enterprise,Marketing,Corporate Finance Guide,32,29.52,41.78,1336.83,392.04,0.29,2024-08-24
+efde447d-0a3f-4bef-ab0e-26b29c9832b6,32,Female,London,SME,Technology,Corporate Finance Guide,27,19.07,30.69,828.53,313.7,0.38,2024-09-14
+032d704d-35dc-4b0d-9eb1-9896840b06f6,49,Male,Leeds,SME,Data Science,Marketing Strategy 2026,18,26.64,46.35,834.31,354.8,0.43,2025-04-19
+ed3aba77-44c2-417c-a5a3-5c37fb196c0c,38,Male,London,Corporate,Marketing,Marketing Strategy 2026,45,10.01,16.65,749.29,298.75,0.4,2024-07-05
+f1bbf647-4483-4879-88b3-850e1f9b78ac,52,Male,Manchester,Enterprise,Data Science,Marketing Strategy 2026,46,16.21,28.86,1327.77,582.2,0.44,2025-08-15
+a4b932bd-6b29-404b-abe4-7ec98ff366b6,37,Female,Manchester,Corporate,Marketing,Corporate Finance Guide,21,26.8,39.71,833.9,271.08,0.33,2024-10-23
+cfb547db-0c44-4a91-adda-3e7d2fbd08a7,47,Male,Birmingham,Corporate,Leadership,Corporate Finance Guide,8,24.83,44.69,357.54,158.87,0.44,2024-03-22
+9b1a1b8b-c0d1-4205-b2d4-22c13564ba66,61,Female,Glasgow,Corporate,Finance,Leadership Principles,13,20.82,26.86,349.16,78.46,0.22,2026-02-06
+ce94024a-c04d-422a-94e8-279f5bc444ab,30,Female,Leeds,Enterprise,Marketing,Marketing Strategy 2026,23,22.5,29.07,668.54,151.02,0.23,2025-01-22
+e50f2a2b-67a3-42c9-bff8-7c92c593790a,53,Female,Glasgow,Corporate,Marketing,Marketing Strategy 2026,13,18.73,33.21,431.72,188.26,0.44,2024-05-16
+08f2cb18-1429-40b4-a134-3cfe447bfe53,55,Female,Leeds,Enterprise,Leadership,Advanced Python for Business,17,26.72,41.95,713.15,258.85,0.36,2024-12-27
+9ef37fc1-5af6-4d6c-b51b-55d673ccea43,52,Female,Manchester,SME,Marketing,Marketing Strategy 2026,47,6.82,17.87,839.69,519.03,0.62,2025-03-20
+0bd62b1e-cbff-4bf8-b26d-fc2e0cc8ad0e,22,Male,London,Enterprise,Data Science,Data Analytics Handbook,39,5.55,19.3,752.68,536.21,0.71,2025-07-16
+c9ddfe0c-fae1-47df-99c0-58f6e664afde,43,Male,London,SME,Technology,Advanced Python for Business,25,20.09,30.45,761.36,259.18,0.34,2024-04-23
+a7eb3e17-a749-41c0-90d5-59c3aa0417de,53,Female,Manchester,Enterprise,Leadership,Data Analytics Handbook,20,25.54,38.86,777.11,266.4,0.34,2025-08-11
+dbe32b5b-3861-4a47-88be-83d2788e8ca2,34,Male,Manchester,SME,Technology,Advanced Python for Business,4,25.1,38.39,153.55,53.15,0.35,2025-12-15
+8aaa313b-a3d5-4fe2-afbd-0d66aca2b9c8,33,Male,London,SME,Finance,Advanced Python for Business,41,25.59,41.42,1698.23,648.86,0.38,2025-04-04
+fb85373f-f063-4f69-a032-71f6161014ea,59,Male,Manchester,Corporate,Data Science,Leadership Principles,22,24.58,40.3,886.62,345.96,0.39,2025-12-10
+14b051b8-8f0c-4e02-898e-e323856455b8,22,Male,Birmingham,Corporate,Marketing,Advanced Python for Business,11,23.52,33.27,365.93,107.18,0.29,2024-04-12
+99f34959-dd56-4e58-bdc1-362174b9a678,34,Male,London,Enterprise,Leadership,Marketing Strategy 2026,15,12.83,29.67,445.02,252.51,0.57,2025-03-11
+cb7c62ce-1797-4e29-8a7d-07a27e6e2fd4,50,Male,Leeds,SME,Finance,Advanced Python for Business,26,7.23,22.54,585.98,397.94,0.68,2025-02-24
+391e0108-3bb3-495d-98b6-ed8d85e67295,34,Male,London,SME,Finance,Leadership Principles,43,8.48,17.29,743.53,378.98,0.51,2025-02-03
+cd890740-cef5-4397-9a99-e966df00a8c7,41,Male,Birmingham,Corporate,Technology,Corporate Finance Guide,21,22.56,32.03,672.72,198.89,0.3,2024-10-27
+38669d64-341c-4529-8938-4db5de152847,62,Male,Manchester,Enterprise,Marketing,Leadership Principles,28,14.0,33.35,933.89,541.86,0.58,2025-02-27
+8adbcacc-f106-427f-94e3-81ae02097a19,39,Male,Glasgow,SME,Technology,Corporate Finance Guide,13,5.07,22.96,298.43,232.5,0.78,2025-03-08
+d2f9881f-6c40-44c4-b063-99b297a05dfd,54,Female,Glasgow,SME,Data Science,Data Analytics Handbook,22,21.43,33.52,737.4,265.85,0.36,2025-10-10
+215096ba-1958-4a86-b89d-57b831bc09da,57,Female,Birmingham,Enterprise,Leadership,Leadership Principles,7,12.38,19.43,136.02,49.34,0.36,2025-04-01
+7f169647-9a2d-466f-8147-4b03c2aff3f9,57,Male,Leeds,SME,Marketing,Data Analytics Handbook,1,14.88,30.58,30.58,15.7,0.51,2025-12-16
+39612379-c3b7-43f9-b405-8425015502b1,31,Female,Glasgow,Corporate,Technology,Corporate Finance Guide,10,6.45,13.12,131.25,66.73,0.51,2025-06-11
+ec71bd07-c0ad-47c9-92b1-094f893f6b81,24,Male,London,Enterprise,Leadership,Data Analytics Handbook,25,8.11,19.31,482.85,280.12,0.58,2025-05-16
+e4d02853-43d9-4097-91b5-f1cfce81dc4a,59,Male,Leeds,SME,Leadership,Corporate Finance Guide,26,16.6,36.05,937.43,505.76,0.54,2025-08-26
+da7de200-ca9a-4754-b229-a6276dfab7c1,63,Male,London,Enterprise,Data Science,Data Analytics Handbook,27,18.03,37.67,1017.16,530.29,0.52,2024-10-23
+41bd7324-14f7-406c-a5c7-454467120a79,33,Female,Birmingham,Corporate,Leadership,Data Analytics Handbook,7,13.55,29.63,207.41,112.6,0.54,2025-12-27
+1fe4d01d-c3c5-423e-898d-8ae66f81ee7c,53,Male,London,SME,Finance,Data Analytics Handbook,9,29.35,47.06,423.55,159.35,0.38,2025-11-23
+1923742f-c458-452a-af44-f2b3ea81ec00,50,Male,Glasgow,Enterprise,Technology,Leadership Principles,3,14.95,24.49,73.48,28.63,0.39,2025-05-17
+26079de5-65d7-4b75-92fd-d4e2509e2776,47,Female,Manchester,Corporate,Data Science,Leadership Principles,44,16.84,22.73,1000.15,259.41,0.26,2024-12-18
+df9b4c4f-30a6-4e72-b5c5-02eb7106151b,43,Male,London,SME,Technology,Leadership Principles,28,18.61,38.05,1065.5,544.36,0.51,2024-04-17
+e8260e73-4b5f-4e0b-a8b2-c02f7c58e225,31,Male,Glasgow,SME,Marketing,Data Analytics Handbook,25,20.49,38.93,973.36,461.03,0.47,2025-02-11
+e8e91148-8817-493b-bd5c-b3ad01d8901f,52,Female,Birmingham,SME,Finance,Corporate Finance Guide,47,25.28,39.82,1871.42,683.35,0.37,2025-01-27
+50f406f8-737f-4690-aa94-469f882402c5,52,Male,Manchester,Enterprise,Finance,Advanced Python for Business,47,28.68,38.74,1821.01,472.82,0.26,2024-02-28
+6f16ecaa-7f6a-42d9-a7f3-834762072c50,54,Female,Birmingham,Enterprise,Data Science,Advanced Python for Business,11,5.2,19.66,216.26,159.1,0.74,2024-04-19
+8a8c904b-784a-4e25-b205-39208182e2cc,43,Female,Manchester,Enterprise,Technology,Data Analytics Handbook,38,21.99,28.13,1069.1,233.46,0.22,2025-01-17
+725197bc-f0fc-482a-9255-cff785aaeb20,50,Female,Leeds,Corporate,Marketing,Leadership Principles,6,16.46,29.88,179.27,80.48,0.45,2024-10-09
+fd04d78f-2e2e-4b4a-b8b9-8dac00e52965,32,Male,Leeds,Enterprise,Finance,Leadership Principles,13,26.09,45.81,595.52,256.33,0.43,2024-05-09
+129da112-5aa7-4ae2-893a-35e26670c674,33,Male,Glasgow,Corporate,Technology,Marketing Strategy 2026,26,28.79,48.71,1266.41,517.98,0.41,2025-02-06
+d2acc2db-8721-41e9-9608-75157e3ea707,47,Female,Leeds,SME,Data Science,Marketing Strategy 2026,18,9.4,17.61,317.01,147.77,0.47,2024-07-02
+2c8878cb-3b04-48b5-92db-07db1adba9e6,37,Female,Manchester,SME,Data Science,Advanced Python for Business,43,13.88,29.35,1262.08,665.41,0.53,2024-12-08
+c39f83f0-0470-480f-bcad-da2239df4fba,51,Male,Birmingham,SME,Finance,Marketing Strategy 2026,47,16.92,32.7,1536.78,741.42,0.48,2024-05-04
+2648fd6f-39ed-40b3-816f-cd1dd175d2ee,43,Female,London,Corporate,Technology,Leadership Principles,29,29.0,45.46,1318.28,477.16,0.36,2024-07-30
+76a51f0b-c499-47ac-883c-152ed36d14bc,64,Male,Manchester,Enterprise,Marketing,Data Analytics Handbook,42,13.93,32.82,1378.38,793.5,0.58,2024-04-20
+af6a1b43-8b0a-4ee7-a331-bd74657740c2,34,Male,Manchester,Corporate,Marketing,Advanced Python for Business,44,11.15,22.19,976.21,485.82,0.5,2025-10-11
+20744d04-3900-41c9-b9e7-3e41f38fb5a0,28,Male,Birmingham,Corporate,Marketing,Marketing Strategy 2026,29,29.83,35.51,1029.65,164.54,0.16,2025-04-08
+1d8a064c-ebc7-40fc-8a24-29a07c455f39,38,Female,Glasgow,Corporate,Leadership,Data Analytics Handbook,14,28.77,42.43,594.02,191.2,0.32,2024-12-26
+244e2f67-b169-4d0b-8c88-85d274f3e743,47,Male,Leeds,SME,Technology,Marketing Strategy 2026,1,13.96,28.81,28.81,14.85,0.52,2025-02-15
+0a61cefd-4461-4171-9af2-8c39cba0412f,38,Female,Manchester,Corporate,Finance,Data Analytics Handbook,1,10.52,16.11,16.11,5.58,0.35,2024-07-08
+ba23d038-fac7-4739-bd32-89c1fa97fc7b,56,Female,Manchester,SME,Marketing,Data Analytics Handbook,21,15.78,31.57,663.01,331.54,0.5,2024-11-20
+3c9c84ad-99c0-46fa-834a-4c3cb1a6bbd7,47,Female,Glasgow,Corporate,Leadership,Advanced Python for Business,7,13.83,32.24,225.66,128.88,0.57,2024-11-24
+7cf2caa4-0a98-4498-95c9-01b192f66855,50,Female,London,SME,Leadership,Corporate Finance Guide,45,27.22,40.39,1817.54,592.54,0.33,2025-01-31
+0acdb560-2b62-4214-b674-1a72cb428f8b,58,Male,Birmingham,SME,Marketing,Data Analytics Handbook,35,14.11,23.54,823.81,330.0,0.4,2024-02-28
+cf38fd51-a705-4f92-80cb-e8ec7aaeb240,63,Female,Birmingham,Enterprise,Finance,Corporate Finance Guide,24,23.17,39.78,954.66,398.61,0.42,2024-04-05
+1825e05b-3372-4775-bae6-3c2724f26ce0,26,Male,Glasgow,Enterprise,Finance,Corporate Finance Guide,23,18.48,27.71,637.43,212.45,0.33,2024-07-21
+daa9f1e4-a821-4dfb-9b44-f0b5136a3b1a,58,Male,Manchester,SME,Data Science,Data Analytics Handbook,6,19.76,25.68,154.08,35.52,0.23,2024-05-25
+a3f5a207-e51a-42d7-b41e-edc1edfc2a84,25,Female,Leeds,Enterprise,Marketing,Leadership Principles,22,15.94,34.18,751.92,401.3,0.53,2025-09-15
+93c012c1-ba6d-46ba-98e4-ff59bbd4d74d,51,Female,Glasgow,Corporate,Marketing,Marketing Strategy 2026,23,23.55,41.27,949.3,407.71,0.43,2025-05-29
+12cdaaf1-8a06-441c-ac84-d1fd9a143637,57,Male,Glasgow,Enterprise,Data Science,Corporate Finance Guide,47,9.54,20.1,944.91,496.51,0.53,2024-11-24
+fd99ba23-9112-45f1-ab44-e9afe9fe5131,31,Female,Birmingham,Enterprise,Finance,Corporate Finance Guide,42,14.52,25.73,1080.84,471.12,0.44,2025-08-13
+cb335bab-1b10-43d8-ba19-b77fd4111be9,25,Female,Leeds,SME,Finance,Marketing Strategy 2026,17,28.81,34.44,585.51,95.82,0.16,2024-11-29
+dbcb13f2-86f7-47b5-9a63-bcc494fbb477,46,Male,Leeds,Corporate,Finance,Advanced Python for Business,1,23.98,30.51,30.51,6.54,0.21,2024-08-08
+e4f724ed-6b63-47fc-a6f5-97df3cbd4e90,22,Male,Manchester,SME,Data Science,Corporate Finance Guide,6,22.43,38.15,228.87,94.29,0.41,2025-12-18
+19e2097d-38eb-4c70-b0f4-62839d069cea,30,Male,Leeds,Corporate,Marketing,Corporate Finance Guide,29,11.85,28.96,839.78,496.08,0.59,2024-11-09
+e114fea5-faec-406b-87e4-829e0fc236c9,22,Male,Birmingham,Enterprise,Leadership,Leadership Principles,47,22.53,38.44,1806.45,747.58,0.41,2024-09-21
+ed0657d4-d7d7-4dc9-8209-babd9ff4b730,61,Female,Manchester,Corporate,Technology,Data Analytics Handbook,35,14.61,19.99,699.54,188.23,0.27,2025-07-08
+59ce6c60-d2db-453e-967b-7033f6b39d6a,40,Female,London,Corporate,Finance,Marketing Strategy 2026,29,7.44,20.82,603.85,388.16,0.64,2024-06-05
+3773dca6-5762-4fb3-b409-1262e17ed651,27,Female,Glasgow,Enterprise,Marketing,Marketing Strategy 2026,16,15.74,25.37,405.96,154.12,0.38,2025-10-09
+27650110-c97c-4367-b9e2-1a434ff330de,46,Female,Leeds,SME,Technology,Marketing Strategy 2026,10,14.91,21.89,218.9,69.76,0.32,2024-05-20
+e452b6fe-e506-4653-a098-fbab9014856c,24,Female,Birmingham,SME,Technology,Leadership Principles,14,17.54,23.6,330.42,84.89,0.26,2024-07-17
+44b6caa7-be9f-4cc3-bbff-71c2176ff95c,33,Female,Glasgow,SME,Data Science,Marketing Strategy 2026,49,21.85,27.63,1353.77,283.1,0.21,2025-03-07
+a2465e9e-8192-4e34-acb0-c61c725377a3,49,Female,Glasgow,Enterprise,Marketing,Corporate Finance Guide,5,15.29,34.32,171.58,95.12,0.55,2025-06-12
+9fa8b1e9-9fb4-4ac8-9cb2-2a1af30ddab1,43,Male,Birmingham,Enterprise,Leadership,Corporate Finance Guide,19,12.14,23.64,449.07,218.34,0.49,2025-11-06
+0b990b5d-f9e3-4989-aca5-0a91d8e1c57e,44,Female,Birmingham,Enterprise,Data Science,Leadership Principles,15,21.04,36.12,541.73,226.08,0.42,2025-09-21
+905d4445-e216-432a-8fcf-df162351ab09,62,Male,Manchester,Enterprise,Data Science,Advanced Python for Business,10,11.95,21.09,210.91,91.45,0.43,2024-03-03
+a0775a9f-fbc9-43de-a2cf-ead8d83c2ffe,49,Female,London,Corporate,Technology,Advanced Python for Business,5,9.48,29.04,145.22,97.8,0.67,2025-03-11
+df131015-02aa-4bdc-8b8f-834389358e17,33,Male,Birmingham,SME,Technology,Advanced Python for Business,49,19.55,27.62,1353.44,395.26,0.29,2025-01-03
+4400ba78-90c8-49d9-999a-b924fbd20db9,31,Female,Manchester,SME,Marketing,Data Analytics Handbook,24,17.08,26.1,626.5,216.67,0.35,2024-06-26
+cea96482-75ce-47b3-80de-7b547ce721eb,41,Female,Birmingham,SME,Technology,Data Analytics Handbook,41,28.14,34.16,1400.69,247.03,0.18,2025-10-20
+4d3a3dbd-1dcd-406a-91e5-1f6724c2be2f,48,Female,London,Corporate,Finance,Marketing Strategy 2026,15,5.38,24.85,372.79,292.13,0.78,2025-02-16
+a501ceb4-faae-4f63-b108-40ebcb07bf49,25,Male,Birmingham,Enterprise,Finance,Advanced Python for Business,29,11.78,25.74,746.53,404.99,0.54,2025-12-26
+ab7a7c2d-7393-4913-a2df-144a78e0a83a,42,Male,Leeds,Enterprise,Finance,Data Analytics Handbook,48,20.31,28.5,1368.13,393.42,0.29,2025-07-06
+916c7dcc-a547-4741-bf45-4c84a566be98,28,Male,London,SME,Finance,Advanced Python for Business,4,15.2,20.43,81.74,20.92,0.26,2026-02-21
+d26a1ee8-548f-48fd-86eb-0aa6b561f341,53,Female,London,Enterprise,Technology,Marketing Strategy 2026,42,14.98,32.57,1368.06,739.08,0.54,2024-11-17
+5a4111c5-860a-43f3-8d47-066a4fdb32fe,46,Female,Leeds,Corporate,Marketing,Corporate Finance Guide,21,15.84,22.23,466.81,134.18,0.29,2024-09-30
+615f7098-cc5d-44f5-9c21-8f6a3d9a86f7,38,Male,London,Corporate,Technology,Advanced Python for Business,28,15.96,35.9,1005.3,558.43,0.56,2025-06-10
+0e69fe7e-b203-44af-a604-7c795ec14839,44,Male,Leeds,SME,Finance,Corporate Finance Guide,49,22.85,29.22,1431.89,312.17,0.22,2024-10-08
+8b6e60a0-a238-4ae8-870a-67d46af1a6b0,61,Male,Glasgow,Enterprise,Marketing,Advanced Python for Business,34,5.4,11.55,392.79,209.34,0.53,2025-03-22
+ab16618d-6444-4898-8876-d338c57a6a8d,31,Female,Birmingham,SME,Data Science,Marketing Strategy 2026,30,19.93,33.85,1015.48,417.66,0.41,2024-07-28
+2733494e-c1e1-46e7-96e9-9675c03473a6,29,Male,Manchester,Corporate,Finance,Data Analytics Handbook,27,20.42,36.56,987.2,435.87,0.44,2024-11-11
+010aa716-a069-42da-921f-ea848103bc39,49,Male,Glasgow,Corporate,Technology,Marketing Strategy 2026,49,19.61,32.69,1601.62,640.67,0.4,2024-08-15
+1869c141-ba67-42c5-8e4e-53942930480c,59,Female,Leeds,Enterprise,Leadership,Marketing Strategy 2026,43,16.36,30.81,1324.93,621.51,0.47,2025-05-30
+d70d71ec-936d-45df-a44e-1bbcf47c6753,43,Female,Birmingham,Enterprise,Finance,Data Analytics Handbook,34,28.41,34.37,1168.48,202.64,0.17,2024-08-02
+e077755e-1855-4b0f-90a2-79c283cdec2d,45,Female,Leeds,SME,Finance,Marketing Strategy 2026,43,12.53,25.07,1077.82,539.2,0.5,2025-08-15
+6afb7dd2-a000-4e4b-ae36-6eb515a60363,59,Female,Glasgow,Corporate,Data Science,Corporate Finance Guide,1,15.24,30.07,30.07,14.83,0.49,2025-05-22
+9fe98381-0a6f-4f37-b4cf-2c7b212ac546,24,Male,Leeds,SME,Marketing,Leadership Principles,7,9.64,24.6,172.23,104.74,0.61,2025-05-11
+ac60eabd-df66-4a73-9246-625535acbe5c,63,Male,London,Corporate,Data Science,Advanced Python for Business,27,12.23,21.88,590.67,260.47,0.44,2025-07-28
+71256fbd-b990-425b-bf6e-19833ded0afc,53,Male,Glasgow,Enterprise,Technology,Corporate Finance Guide,46,25.71,42.55,1957.45,774.61,0.4,2024-09-07
+b6e8a303-8151-4e41-90f1-748e4d2898bc,42,Male,London,Enterprise,Marketing,Data Analytics Handbook,33,17.64,36.76,1213.0,630.85,0.52,2024-04-06
+7af8702f-ab59-45da-9ddd-6886c172b078,63,Male,London,SME,Marketing,Corporate Finance Guide,5,17.58,25.49,127.43,39.54,0.31,2026-02-20
+3672e06e-5697-44ff-8966-35891754f5e3,58,Male,Glasgow,Enterprise,Leadership,Data Analytics Handbook,47,5.33,14.77,694.21,443.64,0.64,2025-08-11
+c24e6953-7254-4a05-b594-5b4065776dc5,58,Female,Leeds,Enterprise,Finance,Corporate Finance Guide,2,9.13,14.16,28.32,10.06,0.36,2025-06-26
+36fb89e1-0963-49ec-b433-1b30e1551023,31,Male,Leeds,SME,Leadership,Advanced Python for Business,14,15.36,31.34,438.78,223.81,0.51,2025-11-28
+df87d95a-32ab-4c7f-85fe-610a00786170,60,Male,Birmingham,Enterprise,Leadership,Marketing Strategy 2026,14,17.98,32.1,449.36,197.63,0.44,2025-05-08
+fbbafde4-a149-45da-885c-aa165f461039,40,Male,Manchester,SME,Technology,Corporate Finance Guide,33,18.92,30.16,995.23,370.81,0.37,2025-07-15
+23b7f06b-5e6d-4907-a11e-9774b1643903,22,Female,Glasgow,SME,Data Science,Corporate Finance Guide,13,10.09,20.0,260.06,128.87,0.5,2025-03-19
+9bd49f09-704e-45ed-a35e-44b30128c92a,45,Female,London,SME,Data Science,Data Analytics Handbook,39,17.39,36.39,1419.19,740.88,0.52,2025-04-18
+2bdcca2d-3c5d-4149-ab7d-b01d2aea7cc8,60,Male,London,Corporate,Finance,Marketing Strategy 2026,49,24.12,39.3,1925.87,743.99,0.39,2025-12-22
+cde00128-677c-4fc7-b169-652852014524,50,Male,Birmingham,Enterprise,Leadership,Corporate Finance Guide,15,6.73,18.84,282.6,181.71,0.64,2024-09-05
+56e2c4de-9d2f-4573-9057-23ed1393799c,50,Male,London,SME,Leadership,Marketing Strategy 2026,1,23.28,38.74,38.74,15.46,0.4,2024-10-17
+835f0c2f-f9a1-445e-a017-ad2a840e2466,40,Male,Manchester,Corporate,Data Science,Marketing Strategy 2026,29,12.14,25.11,728.23,376.24,0.52,2025-03-22
+30b63083-5e86-41ae-8957-3d9e41b1ea5e,39,Male,Manchester,Enterprise,Leadership,Corporate Finance Guide,40,5.33,16.48,659.21,445.84,0.68,2025-07-10
+bb02d2ce-5696-4208-b8cc-8515cb55e802,39,Female,Glasgow,Corporate,Leadership,Data Analytics Handbook,49,23.58,41.3,2023.5,868.23,0.43,2024-08-07
+dd9d8a49-6864-4e8a-be8c-8d603a15f950,24,Female,Birmingham,SME,Leadership,Marketing Strategy 2026,19,18.98,28.79,547.08,186.53,0.34,2025-08-03
+5dafc352-a8e2-4061-a035-a530ec7101b8,64,Female,Birmingham,Enterprise,Marketing,Advanced Python for Business,31,14.24,19.92,617.42,176.07,0.29,2024-06-13
+c5a32600-02b5-4aba-865d-3984416dd764,52,Female,Manchester,Corporate,Finance,Leadership Principles,28,21.54,33.8,946.45,343.28,0.36,2024-08-07
+468af599-3e4b-42b9-b8fd-7f163ba1652b,60,Female,Manchester,Corporate,Marketing,Data Analytics Handbook,37,24.16,37.92,1402.99,508.96,0.36,2024-06-15
+301d6e87-50df-415f-aa7a-85082a84041e,49,Male,Leeds,Enterprise,Data Science,Advanced Python for Business,7,10.18,25.88,181.16,109.89,0.61,2024-07-22
+156f6ffd-47b3-4a50-90ce-f11d8e2380ff,42,Female,Manchester,Enterprise,Data Science,Data Analytics Handbook,3,27.71,44.09,132.26,49.14,0.37,2024-04-05
+973dc709-1c26-479d-9ce6-4556c806232c,34,Male,Birmingham,Corporate,Data Science,Marketing Strategy 2026,42,20.81,28.16,1182.59,308.58,0.26,2025-09-28
+ae5810a2-7de8-447c-a4ca-12fedd03c3f5,32,Male,London,Enterprise,Technology,Advanced Python for Business,10,26.54,44.57,445.67,180.3,0.4,2025-01-15
+21d67d4d-b0ec-42b7-ab65-d7d9b49ea04f,53,Male,London,SME,Marketing,Marketing Strategy 2026,18,14.57,31.9,574.15,311.89,0.54,2025-02-20
+f2cf62a6-59d2-499c-8bd9-77518debc18a,53,Female,Glasgow,Enterprise,Data Science,Marketing Strategy 2026,45,20.91,30.78,1384.97,444.05,0.32,2024-07-18
+a303de1d-0729-4f15-bdcd-373265c82345,36,Male,Leeds,SME,Leadership,Advanced Python for Business,39,19.88,28.85,1125.23,349.81,0.31,2024-07-14
+85a809dd-ac05-455b-852e-4e4545aa40d4,29,Male,Glasgow,SME,Data Science,Data Analytics Handbook,28,22.47,33.0,923.97,294.71,0.32,2025-12-14
+568db2f7-c03f-4635-8e88-05ffc37fbfe0,27,Male,Birmingham,SME,Data Science,Data Analytics Handbook,46,27.21,44.58,2050.52,798.79,0.39,2026-02-15
+33f903fc-b62b-4d5b-b40a-400128c08bce,54,Female,Glasgow,Enterprise,Marketing,Leadership Principles,11,25.64,43.31,476.39,194.4,0.41,2025-08-06
+92868cb0-827f-47d0-b868-1ebdbc44afa6,53,Male,Manchester,SME,Data Science,Marketing Strategy 2026,27,27.58,46.58,1257.68,513.1,0.41,2024-03-31
+992b1613-8f33-45eb-9fb5-4d5def12badf,56,Female,Birmingham,SME,Data Science,Marketing Strategy 2026,13,11.04,16.64,216.35,72.87,0.34,2024-12-01
+a3cf0a56-1d9d-4afa-9d49-383eb9c67729,56,Female,Manchester,Corporate,Leadership,Marketing Strategy 2026,48,15.15,20.36,977.08,249.86,0.26,2025-11-15
+9dd37e6f-7f04-4fc2-b092-c3c8aebd4f13,42,Male,Manchester,SME,Finance,Leadership Principles,5,5.13,24.21,121.05,95.38,0.79,2025-10-04
+9a031d16-1284-4b10-8341-d82474f0609d,23,Female,Glasgow,SME,Finance,Leadership Principles,43,29.77,46.12,1983.07,703.09,0.35,2024-06-15
+bd14981b-c83c-40d9-a59e-cd7b1dee7672,55,Male,Leeds,Corporate,Marketing,Data Analytics Handbook,11,19.24,37.26,409.9,198.29,0.48,2024-05-17
+fffe0b41-c543-4619-9fbb-1e0b9594e143,63,Female,London,Enterprise,Marketing,Marketing Strategy 2026,4,29.89,49.61,198.43,78.87,0.4,2025-05-06
+d328b5ff-1788-449a-b97e-fb513f4d4713,44,Male,Glasgow,Corporate,Finance,Marketing Strategy 2026,18,25.82,36.26,652.63,187.86,0.29,2025-08-03
+624a8649-43fa-45b7-ab1f-60df98d57dac,43,Male,London,SME,Leadership,Corporate Finance Guide,10,22.43,37.16,371.58,147.3,0.4,2024-10-24
+f0d9fd7a-b5d2-4af4-8e3a-d0cdd796cae3,38,Male,Manchester,Enterprise,Finance,Marketing Strategy 2026,22,9.48,25.06,551.34,342.7,0.62,2025-04-04
+bb057585-633c-4b35-ab92-94468156a870,51,Female,Birmingham,Enterprise,Data Science,Data Analytics Handbook,20,22.49,40.06,801.27,351.45,0.44,2025-01-20
+e1ba60b9-cb87-482d-ae4f-b1c15e59e9db,57,Female,Manchester,SME,Leadership,Marketing Strategy 2026,2,19.61,37.12,74.24,35.01,0.47,2024-06-23
+b59d8688-af87-461c-9884-8d6addbe93da,47,Female,London,SME,Marketing,Data Analytics Handbook,40,6.3,11.78,471.04,219.05,0.47,2025-03-30
+79e7978b-f9f1-47b7-a420-75f69f6b8cd7,44,Female,London,SME,Marketing,Leadership Principles,27,29.4,44.66,1205.72,411.8,0.34,2024-10-05
+5e611059-204e-434f-b23c-3c7a15653124,29,Male,Glasgow,Enterprise,Leadership,Leadership Principles,31,10.41,25.77,798.99,476.41,0.6,2025-07-09
+0a4c3b6a-0df9-4fee-95f8-0e1309e70de7,38,Female,Manchester,Enterprise,Data Science,Marketing Strategy 2026,49,6.68,26.31,1288.97,961.88,0.75,2025-04-20
+1a0c0c2f-5bd5-494b-b342-b7550e67a921,55,Male,Leeds,Enterprise,Technology,Leadership Principles,7,18.8,35.64,249.47,117.89,0.47,2026-01-19
+b4b5908e-eaa8-42e2-bcf9-18fa31aa90f8,61,Female,Leeds,SME,Marketing,Data Analytics Handbook,37,15.96,28.91,1069.66,479.08,0.45,2026-01-31
+af4d1f0e-1f79-4e06-a5bc-ea31bf94eaaa,49,Male,Leeds,Corporate,Data Science,Leadership Principles,39,10.81,17.76,692.56,270.86,0.39,2025-03-27
+2a87700c-f54e-4d74-822f-94beb92de81a,39,Female,Manchester,SME,Marketing,Leadership Principles,31,10.26,27.4,849.34,531.2,0.63,2025-09-15
+2824a991-005f-4de9-9e84-7315a7c69090,31,Female,Birmingham,Enterprise,Finance,Corporate Finance Guide,38,20.43,27.77,1055.27,278.91,0.26,2025-05-12
+990c85b0-65d9-4ccb-a987-af053004eabb,55,Male,Glasgow,Corporate,Technology,Marketing Strategy 2026,42,16.49,26.09,1095.64,403.07,0.37,2025-11-17
+cf7ba2fe-8288-4ac0-8c93-d7e65fb76173,36,Male,Glasgow,Corporate,Finance,Leadership Principles,42,29.79,44.76,1879.81,628.45,0.33,2025-05-10
+c320806c-940e-401a-9261-2a3a92c4c243,37,Male,Leeds,Enterprise,Marketing,Leadership Principles,13,5.4,18.24,237.08,166.94,0.7,2024-12-22
+c2e24e20-e6a0-4ff5-90fc-2444dc433fe2,37,Male,Leeds,SME,Finance,Data Analytics Handbook,18,14.04,31.93,574.78,322.14,0.56,2024-12-30
+14e085d2-2d23-454a-8bd2-d8d924c7d00e,40,Male,London,Enterprise,Leadership,Leadership Principles,6,27.25,44.51,267.09,103.61,0.39,2025-08-08
+be73e25b-5334-40fd-b4eb-66a0af4d49c6,59,Male,Leeds,Corporate,Marketing,Leadership Principles,32,18.82,29.4,940.77,338.64,0.36,2025-04-27
+dec7eb81-6f9e-4a99-a7c3-941e792c9ddc,43,Female,Glasgow,Enterprise,Finance,Marketing Strategy 2026,16,17.27,28.37,453.88,177.57,0.39,2025-01-27
+006570af-3be8-42b6-90f6-57cab669cde4,52,Male,Glasgow,Enterprise,Leadership,Corporate Finance Guide,12,28.47,46.88,562.59,220.92,0.39,2025-08-31
+96dd9758-c9da-42b0-b636-3e1e730a6692,41,Male,Leeds,Corporate,Data Science,Advanced Python for Business,21,5.63,14.42,302.83,184.58,0.61,2024-07-23
+ca30079a-ce61-4698-b867-642d3edb797f,38,Female,Leeds,Corporate,Finance,Data Analytics Handbook,13,24.81,39.22,509.92,187.33,0.37,2025-07-21
+375942c0-353e-41d2-86fb-972c5b4c19d0,44,Female,Birmingham,Enterprise,Marketing,Data Analytics Handbook,27,7.34,19.64,530.18,331.88,0.63,2025-11-05
+a0db2e65-b3fb-4be1-90b0-95993f696da1,37,Male,Manchester,Enterprise,Technology,Corporate Finance Guide,25,16.7,28.7,717.41,299.86,0.42,2024-11-27
+b3be5199-d0f4-469c-b056-073c0288c9af,51,Female,Glasgow,SME,Data Science,Data Analytics Handbook,29,22.6,41.63,1207.26,551.8,0.46,2025-01-03
+da448541-b0f7-4db8-a8a2-bdee37851910,36,Male,Leeds,Enterprise,Leadership,Data Analytics Handbook,19,6.14,20.84,395.87,279.28,0.71,2024-02-24
+a6b9d243-dea4-48bf-b9a3-7e3c3c632078,30,Female,London,SME,Marketing,Advanced Python for Business,33,6.26,11.78,388.73,182.28,0.47,2025-11-19
+c5858c1b-fce7-4ec6-be13-1c24cdc0cc5b,54,Male,London,Corporate,Marketing,Leadership Principles,12,10.39,20.43,245.13,120.48,0.49,2025-11-30
+440ba765-e5a3-4b19-8896-457a89970293,60,Male,London,Corporate,Technology,Data Analytics Handbook,11,14.49,31.52,346.67,187.24,0.54,2025-12-30
+69c569cd-bb7c-4107-a71b-c8c421fef0f6,43,Female,Glasgow,Corporate,Marketing,Corporate Finance Guide,6,26.41,43.94,263.63,105.16,0.4,2025-06-27
+9aa95d65-3979-41a6-8929-7bff3ead9aaa,42,Male,Manchester,SME,Marketing,Leadership Principles,24,12.07,23.35,560.37,270.69,0.48,2024-11-15
+230e4c24-a432-4822-aa9f-ebd604cbc9c8,49,Female,Glasgow,SME,Leadership,Leadership Principles,38,19.93,34.73,1319.86,562.43,0.43,2024-03-30
+bdc20d38-d8c6-4113-aeeb-e598c419e699,34,Female,Manchester,Corporate,Finance,Leadership Principles,36,13.76,32.45,1168.35,672.98,0.58,2024-02-26
+e87adf09-9ca0-4afd-a8e0-ec97a03a3825,61,Female,Birmingham,Corporate,Technology,Advanced Python for Business,35,20.57,40.42,1414.66,694.81,0.49,2025-05-02
+63e01b6e-a5aa-42b4-80e1-ea2aab85c822,29,Female,Manchester,Enterprise,Leadership,Marketing Strategy 2026,12,29.79,42.91,514.89,157.38,0.31,2025-10-16
+7ff9a30b-3524-4883-82b7-8f5872220f94,52,Female,Glasgow,Corporate,Technology,Marketing Strategy 2026,12,7.31,14.75,177.01,89.3,0.5,2024-04-24
+c3917e5c-09b8-477f-a19d-38ca905bdfc5,30,Female,Leeds,Enterprise,Marketing,Marketing Strategy 2026,42,11.17,23.23,975.7,506.7,0.52,2024-05-07
+6354ba80-842e-45ec-a920-d941da42740e,37,Male,Birmingham,Corporate,Data Science,Leadership Principles,27,12.36,19.08,515.12,181.49,0.35,2025-04-29
+f82641f1-3548-415b-9104-a373ead5e661,41,Female,Leeds,SME,Finance,Corporate Finance Guide,31,15.28,26.32,815.8,342.12,0.42,2024-10-05
+8a46753b-a0ef-49b8-8af4-6726d86b6f69,46,Female,London,Enterprise,Data Science,Data Analytics Handbook,21,23.24,42.35,889.27,401.17,0.45,2024-05-27
+b9dd7430-5089-427d-a466-0407734e28d3,36,Female,London,Corporate,Finance,Advanced Python for Business,15,18.29,27.61,414.08,139.79,0.34,2025-01-09
+86aeb554-fca8-4991-874d-eedfee7d8141,44,Female,Birmingham,Enterprise,Data Science,Leadership Principles,48,18.67,37.2,1785.77,889.74,0.5,2026-02-02
+9e4cdf68-ce02-4b92-9996-86f01f549419,61,Female,Manchester,Corporate,Leadership,Corporate Finance Guide,3,26.83,39.67,119.02,38.54,0.32,2025-11-15
+bb4dac9f-95b2-4b6c-bfb1-632627b3f0ec,58,Female,Birmingham,Corporate,Data Science,Data Analytics Handbook,5,7.07,15.88,79.39,44.05,0.55,2024-04-16
+a08fe4e4-9769-4b8b-91fc-d59db53853ba,61,Female,Birmingham,Enterprise,Marketing,Leadership Principles,1,6.68,20.6,20.6,13.92,0.68,2024-09-18
+3903d3b1-a2b5-4ef4-b1f3-a5f7ecf25ad1,29,Male,Glasgow,Corporate,Leadership,Advanced Python for Business,13,10.58,28.67,372.75,235.26,0.63,2024-07-03
+cbbbe149-a4f1-470b-b65a-6df7ecc39ccc,55,Male,Leeds,Corporate,Leadership,Corporate Finance Guide,21,24.84,30.32,636.63,115.01,0.18,2024-06-23
+8795a94f-20a9-4207-ab83-7cf436011ed1,22,Male,London,SME,Technology,Advanced Python for Business,47,16.45,24.85,1167.76,394.7,0.34,2024-07-26
+b04a7852-a695-48bb-803e-2585060676e9,56,Male,London,Corporate,Technology,Data Analytics Handbook,38,25.59,42.9,1630.17,657.8,0.4,2024-04-01
+27ad191c-5ffa-4696-8b53-2811824ce719,27,Male,Glasgow,SME,Data Science,Marketing Strategy 2026,14,7.12,19.12,267.65,168.01,0.63,2025-03-01
+ad4fb156-63cd-420b-adf4-6dc8912075c6,27,Male,Manchester,Corporate,Finance,Advanced Python for Business,35,24.54,33.67,1178.59,319.77,0.27,2025-05-09
+03b32604-b180-44f9-8b20-b3c5f3613894,27,Female,Birmingham,Enterprise,Technology,Leadership Principles,20,5.82,17.95,359.01,242.68,0.68,2025-02-16
+d23cb2b3-5415-434b-a728-14e20216c87a,28,Female,Leeds,SME,Marketing,Marketing Strategy 2026,13,19.05,34.78,452.09,204.38,0.45,2024-03-28
+96756de7-e5be-4250-a7d6-dcd9c91103c7,40,Female,Leeds,SME,Technology,Leadership Principles,35,6.1,21.5,752.54,539.0,0.72,2025-01-15
+5b798a57-1a48-44c3-a2c1-2b65226b7902,28,Male,Manchester,Corporate,Marketing,Leadership Principles,17,25.37,39.54,672.25,241.02,0.36,2024-06-30
+2ada685f-f108-4c78-9079-f09dafb356fd,58,Female,Leeds,SME,Leadership,Leadership Principles,14,15.33,30.47,426.53,211.92,0.5,2025-07-15
+ed3bf5f6-0c49-4fcf-832b-347946599daa,23,Male,Birmingham,Enterprise,Marketing,Corporate Finance Guide,45,15.48,23.0,1035.12,338.54,0.33,2024-07-14
+38e50498-ed8b-4e5c-bef2-30366a5c3c0e,60,Female,Glasgow,Corporate,Marketing,Advanced Python for Business,7,12.83,30.37,212.62,122.83,0.58,2025-07-18
+33b9f948-72fd-48fa-a06b-18f5addbcf24,60,Female,Manchester,SME,Data Science,Data Analytics Handbook,29,12.87,18.52,536.98,163.73,0.3,2024-04-25
+babdbaf9-2f60-49a3-80fd-b6111c814cd7,25,Male,Manchester,Enterprise,Technology,Corporate Finance Guide,46,5.2,24.35,1120.06,880.79,0.79,2026-01-29
+47843872-3609-4c0a-b916-f613e0aa7b66,24,Female,Birmingham,SME,Finance,Leadership Principles,48,12.71,26.31,1262.75,652.59,0.52,2024-08-30
+4b671d6c-46b5-44d6-84bf-543d3803d9c0,26,Female,Birmingham,Enterprise,Finance,Leadership Principles,19,13.11,21.62,410.72,161.66,0.39,2025-09-22
+3d6876db-1dcd-45fa-a723-9dc5b5d150c1,63,Male,London,SME,Finance,Advanced Python for Business,13,14.56,28.85,375.0,185.77,0.5,2024-11-29
+5513edaf-c2cc-4d9e-ace4-e82354d2af1f,31,Male,Glasgow,SME,Data Science,Leadership Principles,23,8.01,27.09,623.02,438.79,0.7,2025-01-22
+d52a892c-bc07-4837-a07a-7c14e1296a7c,55,Male,London,Enterprise,Technology,Corporate Finance Guide,28,18.66,29.92,837.74,315.22,0.38,2024-04-08
+4f4b947f-a0a5-44e0-a478-c33ec5b7d8a8,46,Female,Birmingham,Enterprise,Technology,Marketing Strategy 2026,41,22.26,32.37,1327.1,414.44,0.31,2024-05-27
+20baa415-1d71-4a27-86ab-fcd83082c7a6,28,Male,London,Enterprise,Technology,Leadership Principles,22,10.87,28.33,623.2,383.95,0.62,2026-01-12
+3df8a6bd-0d87-43d5-94fb-3c6079c31cca,37,Male,Birmingham,Enterprise,Marketing,Data Analytics Handbook,11,5.9,24.8,272.82,207.94,0.76,2024-12-27
+fb89df73-cec1-474f-aeee-e86ea82e1c56,64,Male,Manchester,Corporate,Leadership,Advanced Python for Business,44,23.28,42.48,1869.13,844.86,0.45,2024-07-15
+aca8984b-8014-4d4b-801c-ee61b5c3031a,29,Male,Leeds,Corporate,Marketing,Corporate Finance Guide,15,6.55,19.58,293.66,195.46,0.67,2026-01-09
+65f07765-bf4a-4a75-835f-fa6651775461,42,Female,Glasgow,Enterprise,Leadership,Leadership Principles,36,10.54,20.31,731.08,351.48,0.48,2025-07-31
+330ccb05-b4f0-46ff-8340-602fa192e3b1,51,Male,Manchester,SME,Data Science,Leadership Principles,37,6.26,20.66,764.45,532.68,0.7,2024-04-20
+81333f90-29c5-48e2-bd93-0737646a6201,36,Female,Leeds,SME,Data Science,Advanced Python for Business,3,17.31,28.94,86.83,34.89,0.4,2024-04-10
+0e3cb79f-e0e1-490e-af9a-612b10c6a09d,41,Male,Leeds,Enterprise,Technology,Data Analytics Handbook,29,10.21,19.66,570.16,273.93,0.48,2024-04-24
+2324af7f-13fb-4ef1-b0ef-a51cb0a103b7,44,Female,Glasgow,SME,Data Science,Leadership Principles,19,25.68,39.46,749.67,261.68,0.35,2025-08-20
+f39faf33-aefe-4d07-955f-fb1fca5bf937,30,Male,Birmingham,SME,Leadership,Corporate Finance Guide,36,27.15,45.59,1641.15,663.67,0.4,2025-03-21
+824877b0-3445-4a88-b25d-5adb0cee5430,26,Female,Birmingham,Corporate,Technology,Leadership Principles,18,8.53,21.71,390.81,237.31,0.61,2024-12-09
+15d30913-b759-4e06-a6fc-cd20c863907f,30,Female,Leeds,SME,Technology,Marketing Strategy 2026,42,11.77,17.98,755.35,261.17,0.35,2024-10-20
+fca7ff04-c553-4426-81b1-c3e128036900,52,Male,Manchester,SME,Leadership,Advanced Python for Business,19,19.45,37.44,711.3,341.84,0.48,2025-01-30
+e10c8a0f-4706-42e9-a9a5-4b5c060429a8,53,Female,Glasgow,SME,Marketing,Corporate Finance Guide,17,15.69,25.64,435.9,169.22,0.39,2025-05-19
+a4de42d1-23a9-4adf-8ff8-b17a579bb160,47,Male,Manchester,SME,Finance,Corporate Finance Guide,7,8.23,14.72,103.06,45.45,0.44,2025-12-01
+aa8f5e02-047f-410d-965b-205677b71086,49,Male,Manchester,SME,Technology,Advanced Python for Business,47,17.31,25.23,1185.85,372.48,0.31,2024-10-05
+b15516e8-646b-46c8-bf01-05b420d9620a,32,Female,Manchester,SME,Marketing,Data Analytics Handbook,26,26.64,33.18,862.72,170.11,0.2,2024-11-02
+83791b8e-3652-43d1-b3a8-7278f01cc00c,23,Male,Manchester,Enterprise,Leadership,Leadership Principles,27,8.38,15.65,422.65,196.47,0.46,2024-06-25
+893f6dc7-8d8d-4b50-b1b1-0947ea2ca23e,61,Male,Glasgow,Corporate,Technology,Data Analytics Handbook,42,24.21,32.61,1369.56,352.55,0.26,2024-04-03
+dd04c458-2a24-462a-82d9-d56669f6ab6b,64,Male,London,Enterprise,Technology,Corporate Finance Guide,20,21.26,29.45,588.91,163.7,0.28,2025-01-01
+39804cdc-5881-4bfa-adcb-a2b27e3fc45b,47,Male,Manchester,Corporate,Technology,Leadership Principles,12,28.22,38.2,458.41,119.75,0.26,2024-03-10
+bd0b97d8-95e5-4024-b4c3-8c5b65e1334a,45,Female,Birmingham,Enterprise,Finance,Advanced Python for Business,36,17.07,33.73,1214.27,599.83,0.49,2025-11-14
+d3eeb6f4-c76c-4b44-ba42-d06bc7b5f6f7,41,Male,Glasgow,Enterprise,Data Science,Advanced Python for Business,28,6.26,24.62,689.25,513.96,0.75,2024-06-28
+44d52ea8-875b-44eb-925a-77007ca000a5,43,Female,Leeds,Corporate,Leadership,Data Analytics Handbook,12,8.19,25.19,302.28,204.04,0.67,2024-05-24
+0dfee6ca-174b-4ced-b4e9-b1c94c2a3078,57,Female,Manchester,Enterprise,Marketing,Data Analytics Handbook,33,27.51,44.39,1464.85,557.13,0.38,2025-06-29
+1ad20eee-c669-47ce-8af2-f66593b598e8,42,Female,Birmingham,Enterprise,Leadership,Corporate Finance Guide,4,11.8,20.07,80.27,33.07,0.41,2024-11-02
+6a1c37a4-7855-4e4e-ab8b-a657c71a895d,53,Male,Leeds,Corporate,Finance,Leadership Principles,7,21.63,34.98,244.83,93.44,0.38,2024-10-19
+7b18a416-e4b9-4d6d-8fcb-4c5502bf0f0b,61,Female,Birmingham,Enterprise,Marketing,Corporate Finance Guide,23,21.24,27.8,639.31,150.68,0.24,2025-09-08
+cff30a53-c785-4858-93e8-cc0fe6ec7b49,40,Female,Glasgow,SME,Leadership,Marketing Strategy 2026,28,5.34,15.18,425.09,275.55,0.65,2024-07-04
+6861c3e8-7f10-452d-9a45-a1c89238efde,52,Female,Manchester,Corporate,Data Science,Leadership Principles,25,27.47,40.77,1019.16,332.42,0.33,2025-11-11
+be8bde24-0227-4c0a-9b1a-8519c997b3d2,41,Female,Birmingham,SME,Marketing,Data Analytics Handbook,1,10.64,21.49,21.49,10.85,0.5,2026-02-12
+08872af8-dc6c-4e16-b426-f1b5925a6c0e,24,Male,Manchester,Corporate,Finance,Corporate Finance Guide,20,7.19,13.18,263.57,119.74,0.45,2025-09-02
+bf218493-1334-405a-a054-d41561dcc6d7,50,Female,Birmingham,Corporate,Marketing,Leadership Principles,8,17.23,35.12,280.95,143.15,0.51,2025-02-12
+5b210a14-ff99-4818-935e-977dac876a00,41,Male,Leeds,Corporate,Leadership,Marketing Strategy 2026,12,8.21,21.89,262.63,164.13,0.62,2026-01-13
+9dfc934e-4787-464f-9439-be252151db57,64,Male,Glasgow,Corporate,Leadership,Leadership Principles,45,17.5,33.45,1505.37,717.92,0.48,2024-11-25
+1663fadd-2219-47b2-87ed-b7322605fa60,40,Female,Leeds,Enterprise,Technology,Marketing Strategy 2026,43,17.3,34.25,1472.71,728.75,0.49,2025-01-03
+89b9f0e5-641c-4df2-84f7-2ab7a2a392ec,30,Female,Birmingham,SME,Marketing,Leadership Principles,28,16.96,30.75,860.88,385.94,0.45,2025-03-12
+6df40791-f4a8-412a-a0d0-ee1952f69ad8,47,Female,Birmingham,SME,Technology,Marketing Strategy 2026,11,16.85,22.85,251.4,66.0,0.26,2024-08-05
+d79a853f-0978-4a8a-b738-b375e1c91128,63,Female,London,SME,Marketing,Leadership Principles,38,11.79,22.78,865.72,417.53,0.48,2025-01-07
+e519357e-a0f6-4815-b4d2-a5b49ce869b5,60,Male,Leeds,Corporate,Leadership,Advanced Python for Business,11,23.26,33.73,371.01,115.2,0.31,2025-04-24
+bebc53fa-3e34-42fe-bcb1-17b52b2720b5,45,Female,London,Corporate,Finance,Data Analytics Handbook,37,24.26,34.32,1269.87,372.2,0.29,2024-04-17
+908394c2-fdba-4571-8cdf-a08e8324d3ca,32,Female,London,SME,Technology,Marketing Strategy 2026,4,22.55,32.52,130.09,39.88,0.31,2024-05-08
+53bf3cda-0b42-41f9-abd0-2b767128fd04,44,Female,Leeds,SME,Finance,Advanced Python for Business,45,14.25,27.51,1237.85,596.57,0.48,2025-12-31
+1b3539ff-ce83-428f-9578-fe330f737619,57,Female,Birmingham,Enterprise,Leadership,Corporate Finance Guide,33,25.39,37.4,1234.04,396.03,0.32,2024-10-11
+3dcc04bd-213b-472e-8680-6c3297ebac16,36,Female,London,SME,Technology,Marketing Strategy 2026,29,7.66,14.37,416.75,194.65,0.47,2024-12-31
+62574bee-1609-4dc4-94cb-2312bbb840a1,44,Male,Manchester,SME,Finance,Advanced Python for Business,38,21.49,33.12,1258.66,441.96,0.35,2024-07-01
+eb3210d5-7fab-4b04-8402-0262acaa50ef,59,Male,Leeds,Corporate,Finance,Leadership Principles,7,9.94,17.65,123.54,53.95,0.44,2024-12-20
+26da487b-d883-4f93-bfcb-acef3bfcf498,25,Male,Manchester,Corporate,Technology,Corporate Finance Guide,17,14.79,22.23,377.97,126.48,0.33,2025-07-16
+b68dcbe3-a427-4f74-9f1b-d98c6e6047c7,40,Female,Manchester,SME,Marketing,Marketing Strategy 2026,24,7.46,14.21,341.09,161.93,0.47,2024-09-05
+c1d9d845-854a-4db0-aa36-e76b5404138d,50,Female,Birmingham,SME,Marketing,Marketing Strategy 2026,28,19.82,27.04,757.25,202.31,0.27,2025-06-13
+7f89a195-876d-4ccf-b635-4228d8d3760b,47,Female,London,Enterprise,Marketing,Advanced Python for Business,39,14.29,28.5,1111.68,554.42,0.5,2024-11-11
+ee9d37ef-4e86-4434-af8f-5833dfb37971,47,Male,Glasgow,Corporate,Technology,Advanced Python for Business,18,20.75,38.18,687.28,313.74,0.46,2025-06-30
+1796f446-63c8-470f-bd85-86d17725f5d5,29,Female,Birmingham,Corporate,Technology,Data Analytics Handbook,6,29.27,36.93,221.58,45.94,0.21,2024-06-21
+c2f6d74a-adc7-41d5-9ebd-049aae711aa1,58,Female,Birmingham,SME,Finance,Data Analytics Handbook,10,5.26,23.69,236.88,184.26,0.78,2024-07-07
+557d7fbe-b475-4f55-9b97-c3ffaad489de,36,Female,Leeds,SME,Data Science,Leadership Principles,43,5.32,13.72,590.09,361.22,0.61,2025-05-31
+e96046e2-a19b-4415-8ef4-63e0e3a4727f,39,Female,Glasgow,Enterprise,Finance,Leadership Principles,43,6.36,20.36,875.31,601.65,0.69,2024-05-03
+39afb6e3-20ea-45aa-80bf-6523561c5a92,39,Female,London,Enterprise,Data Science,Advanced Python for Business,4,6.21,23.52,94.07,69.23,0.74,2025-11-20
+5935b29e-025b-4654-b5cb-c6f725c045d2,42,Male,Birmingham,SME,Leadership,Leadership Principles,25,25.65,40.12,1003.0,361.8,0.36,2025-08-02
+689135b5-8a30-45ce-bc95-2b1c2934e684,43,Female,Glasgow,SME,Data Science,Advanced Python for Business,45,5.36,17.53,789.0,547.88,0.69,2025-01-23
+3a10291a-305e-4b86-aa5a-2002ac672268,36,Male,Glasgow,SME,Marketing,Marketing Strategy 2026,39,12.08,29.64,1156.06,684.78,0.59,2025-11-10
+d8742c0e-6d1d-4b43-a0f3-4ce41de30e4a,27,Female,Glasgow,Corporate,Marketing,Marketing Strategy 2026,35,23.56,32.22,1127.69,303.18,0.27,2025-11-01
+238e914d-0c6c-4b6f-bb4b-2da0ac074d0d,25,Male,Glasgow,SME,Data Science,Data Analytics Handbook,20,14.57,32.16,643.14,351.74,0.55,2025-05-21
+bf4ad9c3-de69-445d-9c9e-0a4183cf0c9d,34,Male,London,SME,Technology,Corporate Finance Guide,14,29.86,37.89,530.49,112.39,0.21,2025-10-05
+05743ce9-96ec-4009-951c-d7d896e51e4a,22,Female,Birmingham,Enterprise,Finance,Corporate Finance Guide,44,27.57,40.44,1779.47,566.43,0.32,2024-06-21
+1bb5a84a-a5c4-45ad-93ef-a3e26fcf1a6c,35,Male,Leeds,Corporate,Marketing,Data Analytics Handbook,26,28.42,48.18,1252.78,513.77,0.41,2025-12-09
+686a7553-442b-4cae-9888-9a1774e55e07,64,Female,Leeds,Enterprise,Marketing,Leadership Principles,13,28.72,35.86,466.22,92.8,0.2,2024-11-11
+74fd3192-9190-4a71-9767-245153f14f2f,53,Male,London,Corporate,Leadership,Corporate Finance Guide,27,9.25,15.08,407.11,157.44,0.39,2025-09-24
+f03e08bc-e6a6-4487-b92f-a207f3300b94,27,Female,Glasgow,Corporate,Data Science,Corporate Finance Guide,8,7.46,26.81,214.49,154.81,0.72,2024-09-17
+486cc2f8-693b-42a6-8832-a83ac026a705,23,Female,Glasgow,Enterprise,Leadership,Data Analytics Handbook,18,6.27,20.54,369.67,256.73,0.69,2025-09-15
+009897a5-54f1-4656-af9c-e3fd68528f19,40,Male,Glasgow,Enterprise,Data Science,Leadership Principles,11,12.02,22.26,244.9,112.74,0.46,2025-09-22
+c4fe0ada-8ad7-4d83-a038-fac1b2d30f25,43,Male,Birmingham,Enterprise,Leadership,Leadership Principles,43,17.25,31.71,1363.42,621.81,0.46,2024-06-10
+01f03ee7-c3f9-4b69-a241-018d48e0164c,49,Male,Leeds,Corporate,Finance,Data Analytics Handbook,19,15.5,29.18,554.34,259.83,0.47,2024-08-03
+cc9d9f96-ce79-43e4-b7bd-322e71374eef,61,Female,Glasgow,Enterprise,Leadership,Leadership Principles,35,22.3,29.4,1029.04,248.49,0.24,2024-09-16
+e3671985-ac90-475b-a874-5a0540aec911,29,Female,Glasgow,Enterprise,Data Science,Corporate Finance Guide,46,21.89,32.83,1510.02,503.24,0.33,2025-12-15
+137dbc7b-a85f-43c0-b84b-f166e0189a9a,64,Male,Glasgow,SME,Technology,Corporate Finance Guide,23,15.23,25.54,587.48,237.26,0.4,2024-05-13
+602a8891-0f63-4b5e-b146-f3e2d7f7175d,39,Female,Birmingham,SME,Marketing,Advanced Python for Business,27,21.4,29.38,793.25,215.52,0.27,2024-02-26
+09d34dec-8c27-402c-ab61-4101f4de9495,27,Male,London,Corporate,Data Science,Corporate Finance Guide,27,16.83,22.48,606.84,152.54,0.25,2024-08-10
+a61c40a0-14da-4a5b-bde6-8a19df4b3416,34,Male,Leeds,Corporate,Data Science,Leadership Principles,48,24.91,40.93,1964.71,769.22,0.39,2024-02-27
+6446fa34-d486-40de-bd82-31b5ff457c47,62,Female,Birmingham,Corporate,Data Science,Data Analytics Handbook,25,19.98,32.69,817.2,317.64,0.39,2024-03-06
+1a10f623-8b19-459b-9ea2-aa2aa4422c2f,56,Male,Birmingham,Enterprise,Finance,Leadership Principles,3,12.97,19.54,58.61,19.71,0.34,2024-08-10
+85ccd63f-cdcf-4bfb-8b2a-9c23f89e6aaf,57,Male,Glasgow,Corporate,Leadership,Marketing Strategy 2026,1,15.18,28.0,28.0,12.82,0.46,2024-12-30
+b92b4227-a62d-43d6-bd67-443fc2c26d38,40,Male,Birmingham,Corporate,Marketing,Corporate Finance Guide,29,19.7,29.44,853.86,282.49,0.33,2026-01-19
+a349b1aa-19cf-4f57-933e-758e5736702e,37,Female,Manchester,Enterprise,Finance,Data Analytics Handbook,34,19.3,27.01,918.5,262.2,0.29,2025-08-06
+80b4c7f6-afd7-4f7f-a5e8-bb194af8889b,53,Male,Birmingham,SME,Technology,Advanced Python for Business,6,19.85,33.7,202.18,83.07,0.41,2025-11-19
+e1a25500-283e-4005-9403-867c35a70e7b,30,Male,Leeds,SME,Finance,Data Analytics Handbook,24,17.95,26.16,627.88,197.04,0.31,2024-11-18
+97b876ff-b242-4188-90f4-11d8fa9f13b0,36,Male,London,Corporate,Data Science,Leadership Principles,16,24.97,43.96,703.32,303.86,0.43,2025-06-16
+c627891c-1ca7-4e00-9d20-c43abd634e1e,34,Female,Manchester,Corporate,Technology,Data Analytics Handbook,29,25.19,43.48,1260.97,530.37,0.42,2025-08-11
+9d7f26b3-8b62-4f50-bdb8-4e716a3c534b,30,Female,Glasgow,SME,Marketing,Data Analytics Handbook,48,12.18,30.38,1458.09,873.42,0.6,2026-02-17
+b5592a67-8302-47bc-971a-f4e7a16584af,33,Male,Manchester,Corporate,Leadership,Advanced Python for Business,13,8.45,26.34,342.42,232.53,0.68,2024-10-16
+243a3357-c66b-43ef-b8d7-54e5ffb180b3,61,Female,Glasgow,SME,Data Science,Advanced Python for Business,39,22.01,40.99,1598.51,740.04,0.46,2025-10-13
+b6e15965-f8ad-4196-9193-693e328c26ce,52,Female,Leeds,SME,Finance,Data Analytics Handbook,25,24.55,41.04,1025.88,412.2,0.4,2024-08-13
+8fbcb180-4092-4f6e-aaff-8044f570d0b6,49,Female,Birmingham,Enterprise,Marketing,Advanced Python for Business,39,21.79,37.73,1471.56,621.65,0.42,2024-09-18
+5f7db337-7ccb-4bd7-b77d-12ff3c45e3e8,40,Female,Birmingham,SME,Finance,Leadership Principles,5,10.16,19.86,99.32,48.49,0.49,2025-03-05
+84f8720c-1722-450f-8863-daf6060f4616,35,Male,Birmingham,Enterprise,Leadership,Marketing Strategy 2026,35,24.88,34.73,1215.63,344.96,0.28,2026-01-26
+a3bb8f01-4dbc-40bb-b4f1-1b82d5ced6e6,29,Female,Leeds,SME,Technology,Corporate Finance Guide,40,24.7,43.25,1729.92,741.95,0.43,2024-05-17
+ab3d5d98-476d-4818-9b53-9f0994d77cbc,31,Female,Leeds,Corporate,Technology,Data Analytics Handbook,27,12.56,30.44,821.94,482.77,0.59,2025-09-25
+0f14f23f-659b-40ed-a67f-b5bffbde4630,45,Male,Manchester,SME,Marketing,Advanced Python for Business,46,13.2,19.01,874.49,267.1,0.31,2024-09-30
+97b109d3-e823-423d-b292-a6c886da0cfc,47,Female,Glasgow,Enterprise,Marketing,Marketing Strategy 2026,14,6.59,14.25,199.49,107.2,0.54,2026-01-04
+bacb870c-ff4f-4080-bdb6-42e41a18debc,30,Male,London,Corporate,Leadership,Marketing Strategy 2026,7,28.64,38.34,268.36,67.86,0.25,2025-09-11
+e1f716fb-229a-4b92-b9fd-8d3f8ec8cec9,28,Male,London,SME,Leadership,Corporate Finance Guide,40,26.83,34.36,1374.36,301.32,0.22,2025-11-15
+7e45ffc7-d8c4-4ca0-bc28-28807e290ce3,57,Male,London,SME,Finance,Marketing Strategy 2026,33,25.51,40.66,1341.89,499.94,0.37,2025-02-06
+11624634-11b8-4826-aa16-9da8f18d06b8,56,Female,Glasgow,Corporate,Finance,Leadership Principles,3,24.83,44.55,133.64,59.16,0.44,2025-11-19
+ce91c5fb-0c54-4f48-9a0a-8445da9d7672,36,Male,Birmingham,SME,Technology,Leadership Principles,14,23.13,29.82,417.52,93.64,0.22,2024-03-28
+0b1ab62e-d0d1-44a2-bbe4-e0300386f1c4,34,Male,Manchester,Corporate,Leadership,Corporate Finance Guide,47,10.83,26.25,1233.97,725.11,0.59,2025-11-29
+d1b3c195-6e56-4de5-87d1-78d5f95340ac,35,Male,Glasgow,Enterprise,Technology,Data Analytics Handbook,15,10.54,16.38,245.71,87.64,0.36,2026-02-03
+826565e1-c980-42f2-9f5f-52eac5957406,59,Female,Birmingham,Enterprise,Technology,Corporate Finance Guide,25,5.83,12.66,316.5,170.71,0.54,2024-04-27
+6dfc008c-ddb4-4306-b581-df7e54474ec4,50,Female,Glasgow,Corporate,Data Science,Marketing Strategy 2026,30,16.28,34.32,1029.58,541.13,0.53,2024-07-14
+ed1ca90d-ce63-40a2-9717-c4c14d7660bd,64,Male,Manchester,SME,Technology,Leadership Principles,49,27.38,45.18,2213.58,872.13,0.39,2024-10-15
+6c0ecd7f-829f-4d47-9d34-9e219f091c15,38,Male,London,Corporate,Data Science,Leadership Principles,6,17.82,27.63,165.81,58.88,0.36,2025-10-29
+770f2b47-49a8-4bdb-a0d3-0682ee03d26b,61,Male,Glasgow,Enterprise,Finance,Advanced Python for Business,37,5.04,15.69,580.43,393.91,0.68,2024-02-29
+3a22ab04-70bb-4a71-ab68-8a60eaaaa582,43,Female,Glasgow,Enterprise,Marketing,Corporate Finance Guide,22,5.01,23.73,522.08,411.95,0.79,2024-10-13
+c8d0893e-ab5d-4583-8a22-36a52195b112,22,Female,Leeds,Corporate,Technology,Marketing Strategy 2026,33,23.1,42.03,1387.08,624.76,0.45,2026-02-04
+b2f50655-0125-43ff-83c6-50a88858ad78,63,Male,Leeds,Enterprise,Technology,Advanced Python for Business,28,14.37,28.69,803.34,400.96,0.5,2025-11-18
+8c96e923-18ef-4f03-8490-1efe54531d83,39,Female,Glasgow,Corporate,Data Science,Marketing Strategy 2026,13,9.75,15.33,199.31,72.6,0.36,2024-09-28
+63042c5b-d030-4dcc-829e-91476ec13706,39,Male,Birmingham,Enterprise,Technology,Advanced Python for Business,15,21.89,34.52,517.85,189.5,0.37,2024-08-24
+9be76590-8db1-40f1-a962-c8dde25a3730,63,Male,Manchester,Corporate,Leadership,Corporate Finance Guide,18,16.52,36.35,654.32,356.99,0.55,2024-06-07
+35658484-f223-43b2-bc74-31923a43b8c3,47,Female,London,SME,Leadership,Advanced Python for Business,21,26.44,32.9,690.87,135.67,0.2,2026-01-04
+02301113-eeb7-432c-8632-cf4545eab46b,45,Male,London,Enterprise,Finance,Corporate Finance Guide,20,10.87,28.15,563.04,345.66,0.61,2024-04-09
+56da35e5-5ddf-4901-b689-0439eec7f51a,43,Male,London,SME,Leadership,Marketing Strategy 2026,19,10.84,16.86,320.38,114.43,0.36,2024-03-23
+21bac9e6-67dc-478a-9f79-3c43fefa9e38,41,Female,Glasgow,SME,Finance,Advanced Python for Business,11,14.08,25.66,282.28,127.38,0.45,2024-04-13
+0ee0c5d6-34cc-4455-aeab-5cae372611fb,39,Male,Manchester,Corporate,Finance,Marketing Strategy 2026,48,7.67,26.97,1294.61,926.45,0.72,2024-05-13
+9924d055-360e-43f0-93fa-d35fff5aa67c,55,Male,Manchester,Corporate,Finance,Leadership Principles,44,20.87,27.73,1220.14,301.74,0.25,2025-01-05
+bfd98122-c69f-4b0b-babe-047cd91caa27,22,Male,Glasgow,Corporate,Leadership,Marketing Strategy 2026,1,26.62,33.4,33.4,6.78,0.2,2024-12-30
+c98f1a3b-7b89-4576-9f95-0125279c92ea,49,Male,Leeds,Enterprise,Marketing,Corporate Finance Guide,16,26.35,31.55,504.75,83.17,0.16,2025-03-19
+60613fd6-e155-49d7-8891-d160b0c0b6eb,28,Female,Manchester,Enterprise,Data Science,Leadership Principles,44,25.49,43.81,1927.79,806.21,0.42,2025-10-17
+52a4935d-5924-4f68-bf8d-a5859021cd62,40,Female,Manchester,Enterprise,Data Science,Corporate Finance Guide,32,23.86,35.55,1137.45,373.82,0.33,2024-10-14
+712034b9-0a57-4563-b5eb-da897aedb427,62,Female,London,Enterprise,Data Science,Advanced Python for Business,32,17.58,34.53,1104.97,542.29,0.49,2025-08-27
+911f4802-2f7f-4b08-b273-e1372d1f25dc,54,Male,Manchester,Corporate,Leadership,Marketing Strategy 2026,45,7.19,17.85,803.1,479.72,0.6,2025-07-11
+0ee54bd9-f51c-4349-a978-d1f586a18e4b,48,Male,Glasgow,Corporate,Technology,Advanced Python for Business,45,13.81,19.45,875.46,254.09,0.29,2025-04-11
+bab6d90e-9c1b-45c4-8d1c-5f6eaa85333f,35,Male,Manchester,SME,Marketing,Data Analytics Handbook,16,7.72,27.44,438.97,315.5,0.72,2025-04-30
+23786d5b-0221-4a31-8cad-3b23e5a82019,28,Male,Manchester,SME,Technology,Marketing Strategy 2026,23,8.65,27.72,637.59,438.63,0.69,2024-11-13
+25bc37fd-2a6a-40c0-8981-950fb27d3a62,53,Female,Manchester,SME,Technology,Advanced Python for Business,14,6.73,16.75,234.47,140.31,0.6,2024-12-20
+0fb8fbf4-28a9-48d2-a1c7-767040126780,54,Female,Birmingham,SME,Technology,Marketing Strategy 2026,17,22.22,35.5,603.49,225.74,0.37,2025-12-06
+5e7af5e8-1a94-4443-8640-c82ee84d3422,53,Male,Birmingham,Corporate,Marketing,Advanced Python for Business,41,21.07,35.08,1438.45,574.58,0.4,2024-10-02
+acbaa0c2-060f-4c73-8ed5-79f6da3f8e80,34,Male,London,SME,Leadership,Advanced Python for Business,7,16.81,27.49,192.4,74.71,0.39,2025-10-12
+97a55ae2-becb-46e8-9da9-17d0090ec371,64,Male,London,Corporate,Finance,Corporate Finance Guide,37,12.9,18.74,693.33,215.94,0.31,2025-04-16
+4fbfb9cd-4725-491a-afb8-9b36cdae08e2,45,Male,Leeds,Corporate,Finance,Data Analytics Handbook,32,10.79,28.52,912.76,567.48,0.62,2024-10-16
+e6fd592f-5450-40fc-8284-00a3da82a4b5,42,Male,Manchester,SME,Data Science,Advanced Python for Business,11,19.26,32.98,362.82,150.96,0.42,2025-07-27
+061ced15-a98f-4c6d-ad71-96d31c4695ce,41,Male,Glasgow,Enterprise,Finance,Corporate Finance Guide,48,18.36,26.3,1262.2,380.73,0.3,2025-09-24
+42f0a823-c367-491e-8d1c-70dc1f77be9d,39,Male,Leeds,SME,Marketing,Leadership Principles,4,27.26,33.98,135.92,26.89,0.2,2026-02-20
+7267b6ed-cf15-4c1f-b16f-1f3c0f1cb10c,49,Male,Birmingham,Enterprise,Leadership,Advanced Python for Business,15,6.24,15.1,226.44,132.84,0.59,2024-04-07
+51bd1f62-8a4c-4444-8128-ab9520adacb4,39,Female,Glasgow,SME,Technology,Corporate Finance Guide,28,15.59,25.73,720.33,283.7,0.39,2025-03-25
+f7f2c3c3-edfa-42ab-8d7a-d10d3a9cd152,33,Male,Birmingham,SME,Finance,Advanced Python for Business,33,27.74,41.27,1362.01,446.63,0.33,2024-06-16
+a0a55fd9-8c70-4931-b5c4-90be103bf83a,57,Female,Glasgow,Enterprise,Finance,Corporate Finance Guide,7,14.08,30.99,216.93,118.36,0.55,2024-12-16
+bad40b3c-e0ad-48b2-aaf0-34aee768be81,29,Male,Leeds,Enterprise,Leadership,Corporate Finance Guide,16,5.5,11.44,183.01,95.0,0.52,2024-04-19
+9fba79ca-8f12-4436-a851-19e1a3639909,28,Male,Manchester,Corporate,Data Science,Leadership Principles,14,10.48,17.17,240.39,93.7,0.39,2025-08-12
+1e5094b4-cf46-4cf7-b4a6-b91de8acd306,32,Female,Leeds,Enterprise,Finance,Leadership Principles,26,10.4,29.91,777.66,507.24,0.65,2025-12-04
+e671384b-ee44-4b45-a79f-bc4898dbd13f,45,Female,Manchester,Enterprise,Data Science,Leadership Principles,14,29.05,42.09,589.22,182.48,0.31,2025-04-17
+783ced6e-7528-49e8-a123-4cee254ec3a0,30,Male,Glasgow,SME,Finance,Leadership Principles,42,15.72,21.53,904.09,243.88,0.27,2025-10-28
+473d0bf4-9337-4aba-97ad-725508504060,24,Male,Leeds,Enterprise,Leadership,Marketing Strategy 2026,46,23.45,41.31,1900.2,821.31,0.43,2024-08-21
+73901480-8df2-48d8-85ae-6c630d072229,34,Female,Leeds,Enterprise,Technology,Leadership Principles,6,13.54,28.27,169.61,88.36,0.52,2025-09-23
+50957ac8-9ed5-495c-abe7-8e916ec890a6,28,Female,Birmingham,Enterprise,Leadership,Marketing Strategy 2026,40,26.05,40.26,1610.59,568.48,0.35,2026-01-20
+75b42d7d-6b7a-4d64-be21-b57fcd7ea053,26,Male,Birmingham,Enterprise,Data Science,Data Analytics Handbook,7,26.29,32.55,227.84,43.85,0.19,2025-10-12
+ed83644f-4af2-4c45-a449-913796b2d85a,27,Male,Manchester,Corporate,Data Science,Corporate Finance Guide,29,18.38,32.91,954.49,421.37,0.44,2024-10-12
+e97ea54e-cfde-48d1-95aa-49da7bc20ba4,56,Male,Manchester,Enterprise,Leadership,Advanced Python for Business,24,18.99,36.86,884.7,428.86,0.48,2025-01-01
+aac34eb3-c4e3-43ca-a661-b79344c6e759,24,Female,Birmingham,Corporate,Leadership,Leadership Principles,17,6.32,22.21,377.6,270.15,0.72,2024-06-14
+fef014a5-34c1-4d72-922c-70437655b4d6,43,Male,Leeds,Enterprise,Data Science,Marketing Strategy 2026,21,9.36,24.98,524.5,327.84,0.63,2025-10-07
+65139cb7-cb8b-4818-873b-dea82ba530e7,27,Female,Glasgow,SME,Marketing,Corporate Finance Guide,34,28.07,44.5,1512.94,558.73,0.37,2024-08-29
+1b13e95f-3064-4747-9c79-4a15199cd76e,32,Female,Glasgow,Enterprise,Data Science,Leadership Principles,8,20.06,32.41,259.27,98.77,0.38,2025-09-15
+4b20b902-cd6d-42d3-ad3d-dfc51285d66e,33,Male,Manchester,Corporate,Data Science,Leadership Principles,42,11.44,28.05,1178.24,697.88,0.59,2024-06-11
+082eb4e4-3a94-4c35-81e3-5d55c470c849,44,Male,London,Corporate,Technology,Data Analytics Handbook,24,13.68,32.67,784.03,455.83,0.58,2025-07-24
+e8034a3b-7251-4265-ac44-33647ae3bcfa,38,Male,Manchester,Enterprise,Marketing,Advanced Python for Business,6,16.87,26.91,161.48,60.27,0.37,2024-08-25
+b28e0653-5190-456b-9a15-3c26c650a1c5,42,Male,London,SME,Technology,Leadership Principles,6,21.82,31.88,191.27,60.35,0.32,2024-09-14
+f84f4dd4-0a46-4663-8208-2b62bf884887,63,Male,Manchester,Enterprise,Finance,Leadership Principles,48,7.65,25.22,1210.37,842.98,0.7,2025-04-10
+9562e07a-f7d3-4985-a7c0-ff04d43e5c90,32,Male,Manchester,Corporate,Leadership,Data Analytics Handbook,25,14.45,34.17,854.19,492.94,0.58,2025-11-16
+ff2f63c0-770b-44d0-b76e-84362f85de3a,42,Female,Manchester,SME,Finance,Data Analytics Handbook,33,22.98,36.19,1194.26,436.02,0.37,2024-08-30
+8f3ba053-9bec-41d3-98c6-b555df6b4e0b,45,Female,Glasgow,Enterprise,Leadership,Data Analytics Handbook,18,6.0,17.73,319.22,211.25,0.66,2024-08-20
+8ec43ab0-2cac-4a1b-b811-c29f85c701d7,23,Female,Manchester,Corporate,Data Science,Corporate Finance Guide,11,7.49,23.99,263.85,181.49,0.69,2024-06-23
+7dbce3be-4a76-4cc2-b37b-2840dfe6b03d,51,Male,Manchester,SME,Marketing,Corporate Finance Guide,37,12.13,26.59,983.89,535.08,0.54,2025-12-16
+30042bc3-899c-4e58-a5f4-8cf562f2e489,39,Male,Glasgow,Enterprise,Data Science,Marketing Strategy 2026,8,7.39,18.68,149.42,90.3,0.6,2024-03-20
+aa0d3d19-78ed-4937-a376-586f4ecc9d76,23,Male,Leeds,Enterprise,Data Science,Data Analytics Handbook,12,13.58,31.36,376.35,213.37,0.57,2025-11-06
+ec6b309f-3f81-4b0f-b093-849c2fe3d029,28,Female,Manchester,SME,Leadership,Corporate Finance Guide,37,20.08,26.28,972.21,229.24,0.24,2024-11-26
+31d6819a-2d43-4544-be10-4e00fdbcc8fe,32,Female,Leeds,Corporate,Finance,Data Analytics Handbook,5,15.16,33.36,166.79,90.99,0.55,2024-12-03
+7b76b935-23a1-4ce2-9764-78ff8786bc9f,61,Female,Birmingham,SME,Leadership,Data Analytics Handbook,7,12.91,30.58,214.06,123.72,0.58,2026-02-05
+a773b3a7-0f63-4d48-ac91-e1ecd0fdc440,47,Male,Glasgow,SME,Data Science,Data Analytics Handbook,44,14.32,22.46,988.26,357.96,0.36,2024-11-27
+e842fb01-2a63-4185-90c3-51d3f92c02ce,60,Female,Glasgow,SME,Marketing,Data Analytics Handbook,27,16.71,23.93,646.2,194.92,0.3,2025-05-15
+c6ae5ca8-00cb-43f1-b958-89acfc1aa860,63,Male,Leeds,Enterprise,Data Science,Corporate Finance Guide,31,29.65,47.22,1463.95,544.95,0.37,2025-05-02
+7352bebf-7b51-46ac-9370-0ee481ada2b5,56,Male,Manchester,Enterprise,Technology,Data Analytics Handbook,28,7.17,20.24,566.81,366.11,0.65,2024-09-12
+b58b2dda-cf5d-49b8-a1cd-ce82ccfd92e2,32,Female,Leeds,Corporate,Finance,Corporate Finance Guide,14,16.13,28.45,398.35,172.5,0.43,2024-07-02
+adb4ae18-f664-4a19-ac89-257fe7558113,64,Male,Glasgow,Corporate,Marketing,Marketing Strategy 2026,10,24.13,43.07,430.74,189.41,0.44,2026-02-10
+f1091f4e-3b22-4672-a8d7-f67bc4f41ac2,39,Female,Leeds,Corporate,Leadership,Advanced Python for Business,31,10.09,29.41,911.57,598.87,0.66,2025-01-11
+83770526-cbe8-4859-9409-b49004007b36,64,Male,London,SME,Technology,Corporate Finance Guide,18,25.05,36.56,658.15,207.32,0.32,2024-05-26
+22287d81-e75e-448c-bc03-58a69301f5b1,36,Female,Manchester,Corporate,Technology,Advanced Python for Business,45,19.83,32.16,1447.42,555.23,0.38,2026-02-06
+f3ebc262-deeb-480d-8524-c51c7cda1282,48,Female,Birmingham,Enterprise,Technology,Advanced Python for Business,17,14.23,29.19,496.23,254.25,0.51,2025-08-17
+b8fd7782-c218-4c49-8494-0f0efb2e3082,25,Male,Birmingham,Corporate,Leadership,Advanced Python for Business,22,19.95,34.92,768.16,329.36,0.43,2024-10-08
+41848474-2a67-4438-ba45-a62b31f75de1,52,Male,Birmingham,SME,Technology,Corporate Finance Guide,31,28.35,35.32,1094.78,215.94,0.2,2025-12-29
+6e6f1f29-91b6-47b0-814c-c96309a3f367,34,Male,Birmingham,Enterprise,Leadership,Leadership Principles,47,22.93,36.66,1723.14,645.36,0.37,2025-02-15
+7d47154e-e53b-4458-8a2c-d6391f210187,33,Male,Glasgow,SME,Leadership,Advanced Python for Business,49,23.92,39.26,1923.74,751.5,0.39,2026-01-31
+7c13a159-8f44-4048-a090-a34ccc0afab4,44,Female,Glasgow,Corporate,Finance,Advanced Python for Business,15,25.66,39.03,585.4,200.48,0.34,2024-04-18
+537e2c3d-13d2-4298-b952-6231f4233f9b,39,Female,Leeds,SME,Data Science,Leadership Principles,45,25.99,40.75,1833.7,664.31,0.36,2024-12-07
+86255c90-70bf-407c-86b3-0ac284cd86fd,55,Female,Glasgow,SME,Technology,Advanced Python for Business,4,10.69,18.18,72.72,29.97,0.41,2024-03-11
+fb3784ef-cf8d-453a-8f76-c6a9314f0470,31,Female,Birmingham,SME,Data Science,Corporate Finance Guide,10,13.23,19.02,190.18,57.87,0.3,2025-03-13
+7611f244-41ce-40ba-a3fa-5d66b018ad2f,51,Male,London,Corporate,Finance,Data Analytics Handbook,21,23.01,32.24,677.01,193.77,0.29,2025-12-23
+1c50d41d-7e48-42fd-a753-df5c903bf624,59,Male,Birmingham,Enterprise,Finance,Data Analytics Handbook,40,5.49,13.32,532.72,313.28,0.59,2024-04-03
+0d768085-ce22-42f6-8f07-645430a46785,64,Male,Leeds,Enterprise,Leadership,Advanced Python for Business,29,24.05,42.45,1230.96,533.59,0.43,2025-06-27
+c897e156-922b-44c7-af87-9b77f78a0339,48,Male,Leeds,SME,Leadership,Leadership Principles,7,17.74,36.37,254.62,130.43,0.51,2025-12-22
+b36b9017-34bd-48c0-b41f-6822b1c586ea,42,Female,London,Corporate,Marketing,Corporate Finance Guide,5,18.68,37.04,185.2,91.78,0.5,2024-09-29
+42656093-d797-4e7f-9a35-76a6a150e460,56,Male,Birmingham,Corporate,Data Science,Data Analytics Handbook,21,29.97,35.79,751.68,122.31,0.16,2024-03-21
+ae45f8f7-2832-46d4-81f0-cb4f7eeefc49,55,Male,Birmingham,Corporate,Data Science,Corporate Finance Guide,45,11.47,21.22,954.75,438.61,0.46,2025-03-10
+54b1d56f-f44f-460a-b785-173101629183,40,Male,Manchester,Enterprise,Marketing,Leadership Principles,2,27.74,32.83,65.67,10.19,0.16,2025-04-07
+60b91704-addf-40b3-b338-1c8d5780d953,57,Male,London,Corporate,Technology,Data Analytics Handbook,2,24.71,30.07,60.13,10.72,0.18,2025-06-07
+4902001b-3fc8-47ea-a1f8-edd6ab75b842,57,Female,Glasgow,Enterprise,Finance,Data Analytics Handbook,39,28.9,37.45,1460.43,333.48,0.23,2024-11-28
+b3c15dda-dc47-4e25-881d-8856443e7c36,30,Female,Birmingham,Enterprise,Data Science,Advanced Python for Business,29,6.44,24.12,699.44,512.58,0.73,2025-04-08
+34140cba-bdb0-40ed-96db-183e2227e58d,38,Female,Birmingham,SME,Finance,Corporate Finance Guide,18,7.26,22.28,401.11,270.36,0.67,2024-12-27
+fa9b9681-0df3-4003-b180-6a40473504a5,49,Female,Leeds,Corporate,Marketing,Marketing Strategy 2026,15,13.67,25.15,377.27,172.16,0.46,2025-10-02
+fca1ef89-337b-48a0-94ed-87663f3414c9,42,Male,Glasgow,Corporate,Technology,Marketing Strategy 2026,1,13.55,30.7,30.7,17.15,0.56,2025-11-28
+bc9126ff-3106-4b36-a3d4-a88d06bf4d92,39,Female,Birmingham,Enterprise,Marketing,Corporate Finance Guide,22,5.23,19.95,438.94,323.94,0.74,2025-09-10
+7188f044-188e-46dc-ad81-0a94cf14f969,55,Male,Leeds,Enterprise,Leadership,Marketing Strategy 2026,31,19.23,37.25,1154.75,558.61,0.48,2025-03-23
+19933571-e548-4874-bacd-9bce7b0b5fe9,29,Male,Birmingham,SME,Technology,Data Analytics Handbook,46,14.86,32.87,1511.92,828.27,0.55,2025-02-02
+f089c907-7fda-4f86-bdaa-22059fb1488a,41,Female,London,Enterprise,Marketing,Leadership Principles,39,17.85,33.2,1294.83,598.72,0.46,2024-10-08
+fd2f50a9-2b4e-4605-ab46-eb7975a59062,45,Male,London,SME,Finance,Leadership Principles,15,10.76,17.35,260.31,98.94,0.38,2024-06-09
+ff8c3700-4190-4e29-93d3-68aa8756e571,59,Female,Leeds,SME,Technology,Advanced Python for Business,42,28.71,44.38,1863.98,658.03,0.35,2025-04-18
+a6c4aa82-4dc1-4f35-acae-534b57b727da,25,Male,London,SME,Marketing,Leadership Principles,17,16.12,29.77,506.02,232.02,0.46,2025-04-15
+4efe38b3-34eb-4320-9d3e-b98351c22601,27,Female,Glasgow,Enterprise,Marketing,Advanced Python for Business,34,14.52,26.96,916.74,422.98,0.46,2025-08-04
+006f7e6e-1cb1-4ca0-99cc-be1609b8d149,53,Male,Birmingham,Enterprise,Technology,Marketing Strategy 2026,37,26.04,31.5,1165.35,201.85,0.17,2025-08-22
+5f001110-2958-4538-8ce0-71ea6d67d77e,38,Male,Glasgow,Enterprise,Leadership,Advanced Python for Business,48,6.82,14.8,710.55,383.35,0.54,2024-09-23
+5cac3aca-9154-4cd0-9235-bff0e0a2d2b5,40,Male,Manchester,Corporate,Marketing,Data Analytics Handbook,6,12.24,20.82,124.95,51.49,0.41,2024-04-20
+87e436fb-459b-45d9-97ad-f2f738b7731d,45,Male,Birmingham,SME,Leadership,Corporate Finance Guide,4,14.17,25.03,100.12,43.46,0.43,2025-04-23
+56c32df5-6660-4110-b438-e954e09731d2,52,Female,Leeds,Corporate,Data Science,Leadership Principles,35,12.58,28.33,991.59,551.22,0.56,2025-08-17
+78346868-a004-440e-be15-f1a862be2c76,38,Female,London,SME,Finance,Corporate Finance Guide,6,23.67,28.85,173.12,31.13,0.18,2024-12-14
+cf042aaa-d795-4140-9e26-6c864f5a52f7,49,Male,Birmingham,Enterprise,Marketing,Marketing Strategy 2026,2,29.82,46.49,92.98,33.33,0.36,2025-02-01
+490fd24a-8396-4372-8dad-25959e3869b6,26,Female,Glasgow,Corporate,Finance,Data Analytics Handbook,24,12.35,24.04,577.03,280.68,0.49,2025-12-27
+ee232286-c34c-4d87-aa28-dcfef7291ea5,54,Male,Glasgow,SME,Marketing,Data Analytics Handbook,10,19.22,32.2,321.97,129.72,0.4,2025-03-04
+9667ce31-4846-4389-aa39-0318f5de6543,63,Female,Manchester,SME,Marketing,Data Analytics Handbook,10,17.96,33.79,337.9,158.33,0.47,2025-07-27
+e60e6ab6-5cf1-4c70-b793-230a08882990,53,Female,London,Enterprise,Technology,Corporate Finance Guide,41,17.3,26.95,1105.1,395.79,0.36,2024-05-31
+963fe1a6-69e8-4e6b-bcea-19d50bd6209e,32,Female,Glasgow,SME,Marketing,Advanced Python for Business,45,18.85,28.32,1274.35,426.12,0.33,2024-10-12
+9234c10c-1c77-4e63-b598-52a95bbe5967,50,Female,Glasgow,Corporate,Leadership,Corporate Finance Guide,15,27.49,41.92,628.8,216.39,0.34,2024-04-10
+59c521be-48a0-4faf-9909-58e4b33f3e83,39,Female,Glasgow,Corporate,Marketing,Advanced Python for Business,39,16.46,29.39,1146.2,504.29,0.44,2025-11-05
+f4a81b66-976c-4aa5-bd75-e34f30c29ffc,39,Male,London,Enterprise,Marketing,Advanced Python for Business,44,11.63,23.11,1016.75,505.13,0.5,2024-09-27
+2e84d425-d5ef-44ea-9f35-95c4a64ce51d,37,Male,Glasgow,SME,Leadership,Data Analytics Handbook,41,26.93,39.85,1633.89,529.84,0.32,2024-12-01
+acb0071b-a130-4afd-b500-a3f251441bb9,51,Female,Glasgow,SME,Technology,Advanced Python for Business,27,8.23,24.36,657.76,435.63,0.66,2024-07-27
+6e0cbf83-c25c-44fc-82b5-7d20eeb04b31,44,Female,Manchester,Corporate,Technology,Marketing Strategy 2026,5,27.49,34.49,172.44,35.02,0.2,2024-06-22
+8315995d-c01e-4fef-8f50-d96487e14b78,25,Female,Birmingham,Corporate,Leadership,Marketing Strategy 2026,39,23.4,32.52,1268.46,355.93,0.28,2024-06-29
+cdab2a07-7c1c-4f65-bc69-3bffdc0ba9c0,54,Male,Manchester,SME,Leadership,Marketing Strategy 2026,27,5.62,21.07,568.79,417.16,0.73,2024-09-17
+fbe7f270-e679-4398-8924-23f3c1dc0c1f,56,Male,Leeds,SME,Finance,Corporate Finance Guide,35,22.02,40.21,1407.48,636.65,0.45,2024-12-11
+ea751d0e-cac5-4972-906c-262ccd133451,39,Female,Leeds,Corporate,Technology,Data Analytics Handbook,2,23.79,37.62,75.24,27.65,0.37,2024-04-14
+6577e233-c978-4cfc-87dd-4d1ac306b9fb,52,Female,Manchester,Enterprise,Data Science,Corporate Finance Guide,38,26.46,38.41,1459.68,454.26,0.31,2024-05-13
+42c66b1b-07ee-484a-96e3-8b1b5c75e9db,31,Male,Manchester,Corporate,Data Science,Data Analytics Handbook,3,13.46,32.16,96.49,56.12,0.58,2026-01-04
+60cd931e-4a77-4141-9a46-4fad488f4ac8,29,Male,Birmingham,Corporate,Data Science,Marketing Strategy 2026,26,22.49,32.09,834.4,249.7,0.3,2025-12-14
+c2979cfb-7d92-427a-8273-20a9eacfa68f,64,Male,Manchester,Enterprise,Marketing,Advanced Python for Business,16,26.74,45.1,721.68,293.8,0.41,2024-09-25
+f1b25041-2663-406a-9f2c-cb1f9c4a3c66,46,Male,London,Corporate,Data Science,Marketing Strategy 2026,46,11.12,22.44,1032.05,520.7,0.5,2024-11-25
+f6e90c76-de46-4266-ba88-03d756d938bf,29,Female,Manchester,Corporate,Data Science,Corporate Finance Guide,20,20.78,26.15,523.02,107.5,0.21,2025-12-14
+8fc95972-f1db-4698-9ddd-5e8fe77be8f9,37,Female,Leeds,Corporate,Data Science,Corporate Finance Guide,29,7.28,23.63,685.37,474.14,0.69,2025-02-17
+ccf9a708-9596-4c4b-bc23-16553c17e055,59,Male,Glasgow,Corporate,Finance,Corporate Finance Guide,28,26.01,31.27,875.59,147.35,0.17,2024-03-16
+5b872d31-510d-45a2-abf2-16e6a2ba40a5,47,Male,Birmingham,Corporate,Marketing,Leadership Principles,13,12.1,32.02,416.3,258.98,0.62,2024-12-01
+60dc5004-fe4d-4773-bc42-640d2bc5de63,63,Male,Manchester,Corporate,Marketing,Advanced Python for Business,5,19.52,35.64,178.22,80.63,0.45,2025-08-27
+b1990373-d61a-4105-b432-9580f29ce433,22,Male,Manchester,Enterprise,Leadership,Corporate Finance Guide,27,8.25,23.39,631.51,408.86,0.65,2025-10-30
+aff15f84-b960-49cc-9366-c5b6a60333c8,23,Female,Manchester,Enterprise,Technology,Leadership Principles,6,7.64,24.83,149.0,103.16,0.69,2026-01-27
+4cb8a786-32f2-4493-893c-42952b70f0fd,41,Male,London,Corporate,Marketing,Corporate Finance Guide,24,21.82,34.28,822.7,299.0,0.36,2024-08-30
+d949c8fb-1d5d-4cef-8c52-0769df417a7d,24,Female,Birmingham,Enterprise,Leadership,Data Analytics Handbook,41,5.83,25.13,1030.51,791.67,0.77,2025-09-27
+86e56c78-a35b-4f3c-84b9-93787550322e,56,Female,Leeds,SME,Finance,Marketing Strategy 2026,10,27.87,36.05,360.47,81.76,0.23,2025-07-30
+5fdbdb72-ed3c-4021-82f4-83cdd2383155,32,Male,Manchester,SME,Leadership,Marketing Strategy 2026,34,10.82,18.17,617.9,249.95,0.4,2024-09-27
+bfec42e1-b5ce-47bf-8cc2-77241b23e837,39,Female,London,Enterprise,Technology,Marketing Strategy 2026,11,28.2,35.68,392.5,82.29,0.21,2026-02-03
+9ccdb2e3-bdc0-487d-b40c-2896d5cc74b7,47,Male,Glasgow,SME,Technology,Corporate Finance Guide,49,16.45,25.33,1241.15,435.34,0.35,2025-03-22
+20a717a5-d0f8-41a4-8c89-ca3c1de72fc9,57,Female,Leeds,Corporate,Finance,Leadership Principles,20,20.34,28.69,573.77,166.93,0.29,2025-08-02
+676c6198-5602-49fd-9dcb-8cf92661f1f9,46,Female,Manchester,SME,Finance,Data Analytics Handbook,36,9.71,19.26,693.49,344.02,0.5,2024-12-31
+f3eda877-2515-4d08-a211-f751ecf0d294,58,Male,Leeds,Corporate,Technology,Advanced Python for Business,43,8.53,15.49,666.04,299.06,0.45,2025-05-31
+0756750d-ba36-4ebf-99cb-c141019dde51,42,Female,Leeds,SME,Data Science,Advanced Python for Business,2,8.12,18.6,37.21,20.98,0.56,2024-06-03
+5ba511ac-7392-4b0e-98a9-8e9cb55d7400,30,Male,London,Corporate,Technology,Leadership Principles,31,16.39,34.75,1077.37,569.3,0.53,2025-07-12
+abf5e522-90ae-46e3-bb0b-28ac9470316e,56,Female,Manchester,SME,Marketing,Leadership Principles,33,5.17,17.18,566.82,396.17,0.7,2024-03-28
+e2bbc091-d1da-49fd-bdfb-3fc2d5893c3b,39,Female,Leeds,Corporate,Leadership,Marketing Strategy 2026,37,11.88,20.23,748.5,309.11,0.41,2025-11-20
+de1d59cf-982a-439b-bd75-ef38a0c852de,31,Male,London,Corporate,Data Science,Advanced Python for Business,32,19.34,25.81,825.95,207.21,0.25,2025-08-16
+57d3e9e2-ffce-4a82-a79c-f284297a37bc,39,Male,London,Corporate,Data Science,Advanced Python for Business,36,23.44,32.23,1160.22,316.53,0.27,2026-02-18
+f02bb3e9-47fd-40b3-a36e-840e50ab1d49,50,Male,Glasgow,Enterprise,Technology,Corporate Finance Guide,42,23.03,31.88,1339.11,372.01,0.28,2025-07-09
+11a15e4f-40ea-470c-ba86-4fde4d7d460f,35,Male,Birmingham,Enterprise,Technology,Data Analytics Handbook,11,7.39,25.86,284.47,203.19,0.71,2024-06-28
+57ac2c09-4897-447e-a496-8f9a2ba3b07d,46,Male,Glasgow,SME,Finance,Leadership Principles,20,19.49,38.18,763.58,373.78,0.49,2025-04-06
+8da707ae-ff59-40e2-ac62-10685a8aaa68,26,Female,Glasgow,SME,Data Science,Corporate Finance Guide,34,10.92,17.18,584.1,212.82,0.36,2025-08-01
+191ffd48-ddcd-459d-9138-6b260103c7b9,51,Female,Leeds,Corporate,Marketing,Advanced Python for Business,3,6.54,22.56,67.68,48.05,0.71,2025-08-06
+a2095db4-7a6e-4df4-947d-f1d6bcedc7f3,23,Female,Birmingham,Enterprise,Leadership,Corporate Finance Guide,26,14.46,20.78,540.38,164.47,0.3,2025-02-08
+ab36b11c-c451-4bd1-b290-7d8f9e895f99,44,Male,Manchester,Corporate,Finance,Leadership Principles,35,22.72,41.32,1446.05,650.7,0.45,2025-10-14
+665f2bee-3105-4157-857f-b86a8c053c4a,53,Female,Glasgow,Enterprise,Data Science,Advanced Python for Business,2,8.01,21.72,43.44,27.42,0.63,2024-09-30
+5d6caa60-8244-4075-9f5e-932db2a00789,46,Female,Glasgow,Enterprise,Marketing,Data Analytics Handbook,43,6.58,20.75,892.11,609.19,0.68,2024-04-02
+2ff65a9f-f9b0-4d84-be1a-d226736c82ae,27,Male,Leeds,Enterprise,Finance,Advanced Python for Business,24,5.86,20.38,489.22,348.57,0.71,2025-09-23
+0878c151-fd98-4edd-857c-01436a8e3a50,60,Female,Manchester,Enterprise,Data Science,Leadership Principles,11,25.34,41.06,451.71,172.97,0.38,2025-09-17
+15ddebc9-bc92-4e4e-a588-400f81824854,51,Female,Birmingham,SME,Data Science,Leadership Principles,22,7.34,12.59,276.96,115.5,0.42,2025-01-01
+ce0067b4-5750-4afc-9d77-bd5b963c4370,30,Male,Leeds,Corporate,Marketing,Data Analytics Handbook,47,20.55,38.78,1822.62,856.79,0.47,2025-09-12
+41eb2edc-97e5-41e3-8351-8102d7f8e849,44,Male,Manchester,SME,Marketing,Advanced Python for Business,19,13.58,18.87,358.55,100.44,0.28,2026-02-21
+f6017cc0-5dbc-40c5-b71a-7a5da59a7e40,54,Male,Glasgow,SME,Finance,Advanced Python for Business,41,5.19,16.53,677.6,464.95,0.69,2024-07-09
+72752299-4662-4901-84cb-7ec1af660a69,49,Male,Glasgow,Corporate,Technology,Data Analytics Handbook,42,9.45,19.72,828.36,431.58,0.52,2025-07-14
+cdf0e2b8-606c-4d1f-9d6f-af2bf486172c,64,Male,London,SME,Technology,Advanced Python for Business,33,11.46,29.46,972.27,594.17,0.61,2025-01-09
+a70f6e33-525c-4856-bdf1-a1fa00255e8c,60,Male,Manchester,Corporate,Finance,Advanced Python for Business,13,6.39,25.07,325.9,242.79,0.74,2024-08-20
+9cb54571-e6a0-446b-b818-4f140b953aa4,63,Female,Manchester,SME,Finance,Leadership Principles,38,27.92,44.93,1707.38,646.47,0.38,2024-11-16
+c5d9ea72-2c69-49df-914f-dc0c569733ce,27,Female,Manchester,SME,Leadership,Marketing Strategy 2026,29,9.81,21.77,631.24,346.81,0.55,2024-06-28
+9a693b39-a1ac-4aeb-b45f-76370011c177,28,Female,Manchester,Corporate,Data Science,Data Analytics Handbook,48,20.93,39.41,1891.54,887.04,0.47,2024-09-23
+229d022c-661c-4614-834d-cc8d23a25fc3,36,Female,Manchester,Corporate,Data Science,Advanced Python for Business,9,16.17,32.84,295.57,150.03,0.51,2024-03-01
+31a6a2db-f039-4302-95f6-ff78d5a19d07,24,Male,Manchester,SME,Finance,Marketing Strategy 2026,38,22.76,34.04,1293.69,428.79,0.33,2024-11-19
+81fccf78-de7b-4c3a-881c-450c09434590,26,Male,Birmingham,Corporate,Leadership,Data Analytics Handbook,12,7.74,27.22,326.7,233.85,0.72,2025-09-19
+29791029-84a5-4185-9dc7-26d2c572af02,39,Female,Glasgow,Corporate,Technology,Data Analytics Handbook,29,29.32,34.39,997.43,147.12,0.15,2024-06-27
+dadd3ae0-6ba4-46b6-bebb-9aaaaba98f69,43,Female,Birmingham,SME,Technology,Data Analytics Handbook,35,11.21,31.03,1085.96,693.71,0.64,2025-06-05
+2f6fa128-c4b3-47ab-ba85-eadf0617b761,63,Male,Birmingham,Enterprise,Finance,Marketing Strategy 2026,31,10.97,20.19,626.02,285.8,0.46,2024-11-01
+6dca5b32-0b27-410a-9fa8-f9880c5a579a,52,Male,Manchester,Corporate,Marketing,Advanced Python for Business,38,13.46,18.57,705.62,194.04,0.27,2024-10-20
+708015a4-4f2e-439d-9e0d-8ecc8ac984b7,24,Female,Manchester,Enterprise,Finance,Data Analytics Handbook,1,24.75,39.0,39.0,14.24,0.37,2024-10-13
+a43c64f3-9a19-4364-85c9-0c2d887c23fc,27,Male,Leeds,Corporate,Finance,Marketing Strategy 2026,42,25.27,36.28,1523.71,462.22,0.3,2025-11-21
+0a4d1c6d-b6be-4454-a0cd-e3311e764e2d,60,Female,Manchester,Enterprise,Data Science,Corporate Finance Guide,12,7.19,26.23,314.79,228.57,0.73,2024-12-28
+028fdb39-89f1-4c3c-9b9c-8843df1ce96c,23,Female,London,SME,Data Science,Marketing Strategy 2026,27,28.52,36.27,979.16,209.07,0.21,2025-08-02
+850fbfbe-8cb8-472e-89f4-55638d520e94,23,Female,London,SME,Marketing,Advanced Python for Business,23,29.01,34.68,797.59,130.38,0.16,2024-03-30
+b35082dd-01a7-40cc-b952-04d3b2f8eac4,42,Male,Leeds,SME,Data Science,Leadership Principles,5,21.65,38.99,194.94,86.7,0.44,2024-10-24
+af1d5a21-c6fd-47a4-b956-e6a3fb22d3e2,47,Female,London,Corporate,Marketing,Corporate Finance Guide,32,22.11,34.66,1109.09,401.55,0.36,2025-07-06
+2b5a49a2-0e94-4e76-8d16-dbf17bcdc0c5,33,Female,London,Corporate,Marketing,Marketing Strategy 2026,19,18.41,36.31,689.93,340.08,0.49,2025-09-26
+1f21fede-fb25-40b1-ac31-2ab205f4d99a,60,Male,London,SME,Marketing,Leadership Principles,22,17.96,24.05,529.16,134.06,0.25,2025-09-28
+c0f17a9c-0ae5-4189-9df9-d938d885fbd9,61,Female,London,Enterprise,Leadership,Leadership Principles,24,29.47,42.0,1008.04,300.67,0.3,2024-03-21
+1af036b5-a5d6-4b5a-9dc0-1f716eabdae3,63,Male,London,Enterprise,Leadership,Corporate Finance Guide,13,25.38,34.29,445.71,115.83,0.26,2025-05-25
+3934c381-d16d-4b06-8045-9d4ba18fa50c,53,Female,Leeds,Corporate,Data Science,Corporate Finance Guide,13,7.55,12.79,166.22,68.1,0.41,2024-06-21
+33690453-df0b-4b88-a5a9-6bb4cd6a148d,28,Female,Manchester,Corporate,Leadership,Marketing Strategy 2026,18,24.08,41.11,740.02,306.61,0.41,2024-12-11
+35abb515-a72e-4750-a3a2-5e77a139f696,35,Male,London,Corporate,Finance,Data Analytics Handbook,23,9.02,24.53,564.11,356.62,0.63,2025-04-29
+867299d7-0add-411c-821f-82659ecc4a0f,35,Male,Leeds,Enterprise,Marketing,Data Analytics Handbook,17,28.4,41.11,698.82,215.95,0.31,2025-06-08
+865fa594-ac2e-4b61-acea-51cf724d1132,54,Male,Manchester,Corporate,Finance,Data Analytics Handbook,23,17.32,29.4,676.27,277.81,0.41,2025-03-27
+474940b2-4559-4798-9f34-97c10dd041d2,56,Female,Glasgow,Enterprise,Leadership,Corporate Finance Guide,6,23.15,41.92,251.51,112.6,0.45,2025-12-18
+6c22b183-d2e1-4b12-8001-9969eda7b14c,32,Male,Manchester,Corporate,Data Science,Corporate Finance Guide,21,7.67,16.25,341.32,180.24,0.53,2024-10-30
+13396224-272c-44e0-a49b-8b34ef1d4353,61,Female,Leeds,SME,Finance,Data Analytics Handbook,16,5.88,15.73,251.62,157.55,0.63,2025-01-14
+06e6802f-b54f-4955-aa49-82486b4b5607,53,Male,Birmingham,Corporate,Technology,Corporate Finance Guide,17,29.14,39.8,676.57,181.22,0.27,2024-09-10
+c868842a-d350-4d41-a912-ee40f7162d6a,41,Female,London,SME,Finance,Data Analytics Handbook,3,22.73,28.05,84.15,15.95,0.19,2024-08-28
+b3d2bf5b-cf1e-44fa-8ac0-3780e2d3de27,47,Male,Manchester,Enterprise,Technology,Marketing Strategy 2026,15,10.12,26.25,393.82,241.95,0.61,2025-07-21
+3b80e5be-72f2-4e13-80a6-46704979ff2f,35,Female,Leeds,Enterprise,Data Science,Marketing Strategy 2026,17,27.65,34.55,587.3,117.29,0.2,2025-09-28
+8cdcd7b2-5b96-4732-a21a-023e8a7a939c,39,Male,Manchester,Corporate,Leadership,Marketing Strategy 2026,18,14.41,33.26,598.6,339.29,0.57,2024-07-23
+fc1a56e7-ef3a-4376-af5f-c21b522cd8bf,43,Male,Glasgow,SME,Marketing,Marketing Strategy 2026,42,29.73,38.7,1625.56,376.98,0.23,2025-09-01
+4b54fc97-906b-4747-9b36-6c7f1c9981ac,51,Male,Birmingham,SME,Marketing,Data Analytics Handbook,36,25.06,41.86,1506.88,604.83,0.4,2024-11-23
+29447b92-1104-4103-a2f7-fe340a63e48e,47,Female,Manchester,SME,Leadership,Leadership Principles,43,10.02,28.22,1213.47,782.7,0.65,2025-10-25
+c89c96fc-d928-4689-a81f-a200bfb31951,32,Female,Manchester,SME,Data Science,Marketing Strategy 2026,26,22.48,29.16,758.28,173.68,0.23,2025-02-03
+4103a54a-139e-449a-806f-cbef040c55f8,31,Male,London,SME,Marketing,Leadership Principles,14,24.58,32.1,449.41,105.3,0.23,2025-10-10
+3efe7350-e53a-49b3-baf0-517bb7627579,49,Male,London,Corporate,Technology,Marketing Strategy 2026,14,18.51,24.26,339.64,80.57,0.24,2024-12-01
+4b5d033b-5044-47fa-9e8c-22bc05b4f4c3,53,Female,Glasgow,Corporate,Leadership,Leadership Principles,21,29.89,44.88,942.38,314.68,0.33,2024-08-04
+8fef1223-20f8-4a9e-bbb9-6070082d88f8,58,Male,Manchester,Enterprise,Finance,Marketing Strategy 2026,35,17.22,28.33,991.72,388.89,0.39,2024-12-29
+2531874b-e622-4001-bf58-1f1db5d70926,55,Female,Birmingham,Corporate,Technology,Advanced Python for Business,31,11.98,22.52,698.25,326.77,0.47,2025-05-14
+7278410c-0b2c-49b9-baa8-ce1cd4cc2e7f,28,Female,Leeds,Enterprise,Leadership,Corporate Finance Guide,32,23.08,35.69,1142.17,403.72,0.35,2026-01-28
+90251768-61c9-4708-b8ab-e28db3fb76eb,27,Male,Manchester,Corporate,Technology,Marketing Strategy 2026,24,5.39,15.79,379.05,249.64,0.66,2026-01-08
+91cf7cfd-b590-497d-ac15-fcf01192df5a,33,Male,Birmingham,SME,Data Science,Advanced Python for Business,18,20.97,28.09,505.54,128.14,0.25,2024-08-26
+68d9d1be-e149-4a3c-963c-27c45eee128e,63,Female,Birmingham,Enterprise,Technology,Leadership Principles,29,18.04,26.98,782.5,259.26,0.33,2025-04-26
+844c7ad2-51d7-45a6-9574-6238f09a54b3,29,Female,Birmingham,Corporate,Finance,Corporate Finance Guide,45,6.28,18.73,842.78,560.15,0.66,2025-01-17
+e5537120-11a8-42f3-b1d6-d26bb10e42f2,47,Male,Glasgow,Enterprise,Leadership,Leadership Principles,47,11.7,24.5,1151.57,601.74,0.52,2024-08-30
+ae7eb7b4-c43e-4e73-a9c5-46ac2be184c9,25,Female,Manchester,Corporate,Leadership,Data Analytics Handbook,38,6.18,13.83,525.43,290.57,0.55,2024-12-14
+0ecea74d-fe59-4e06-810a-3bf3ab2a771b,41,Male,Leeds,SME,Marketing,Data Analytics Handbook,42,18.85,26.47,1111.74,319.93,0.29,2024-11-10
+c5b13e54-3fda-464a-bf20-53b78b505ef9,30,Female,Birmingham,Enterprise,Finance,Data Analytics Handbook,19,10.39,18.7,355.37,158.01,0.44,2025-03-07
+7c45550d-304e-4c2c-ab6c-671ab2c177a3,46,Male,Birmingham,Enterprise,Leadership,Marketing Strategy 2026,44,24.94,40.74,1792.44,695.27,0.39,2025-04-08
+7315afa4-ec5f-4ec5-8b1b-977bdc8c5e7d,35,Male,Manchester,SME,Marketing,Data Analytics Handbook,47,5.93,24.69,1160.64,881.91,0.76,2024-04-10
+d4d22642-d73b-4628-ad9b-ef88eda0c951,33,Female,Birmingham,SME,Leadership,Data Analytics Handbook,2,29.37,47.01,94.01,35.28,0.38,2025-07-17
+8322ae7c-93ce-4f4b-9d29-ad6d012f54ee,23,Male,London,Enterprise,Technology,Leadership Principles,47,28.52,43.58,2048.49,707.96,0.35,2024-06-14
+0237f739-536f-483b-945b-63df24bb46eb,27,Female,Glasgow,SME,Marketing,Corporate Finance Guide,33,21.32,30.15,995.06,291.55,0.29,2025-03-26
+d8d95c6f-2c90-4780-ac92-b4973d884030,53,Male,London,Enterprise,Finance,Advanced Python for Business,40,22.84,30.95,1238.11,324.51,0.26,2025-09-05
+081afaff-fa31-4cc5-b8c6-193fe4ab15f0,28,Male,Glasgow,Enterprise,Leadership,Advanced Python for Business,35,16.31,23.45,820.65,249.96,0.3,2025-11-11
+c4dc4c80-2e74-4266-9024-d9ccd29816ca,45,Female,Birmingham,SME,Marketing,Marketing Strategy 2026,46,27.03,37.28,1715.07,471.63,0.27,2025-02-02
+1c00c39a-d177-4cc8-a44a-65c0cb1a8789,48,Female,Manchester,SME,Leadership,Corporate Finance Guide,37,24.45,35.18,1301.78,397.21,0.31,2024-11-06
+d30c8221-0a61-4378-a2a8-cadfa9161d44,50,Male,London,Corporate,Data Science,Data Analytics Handbook,16,27.22,39.47,631.58,196.12,0.31,2024-11-01
+5eb66106-5e49-493f-b874-ebf0dbb30954,27,Female,Birmingham,Corporate,Data Science,Corporate Finance Guide,10,19.43,34.15,341.45,147.16,0.43,2025-12-11
+d029892f-200d-4356-b26e-59c1e77b3041,31,Male,London,Corporate,Marketing,Marketing Strategy 2026,8,6.92,18.31,146.5,91.16,0.62,2025-01-13
+6beb6a11-5d04-4fc7-bb28-2a762d67d0af,46,Male,Leeds,SME,Data Science,Advanced Python for Business,49,16.67,22.46,1100.43,283.74,0.26,2025-06-09
+fca76a8b-4c7b-419c-8658-df82c556bd89,25,Male,Leeds,SME,Data Science,Leadership Principles,1,7.36,14.25,14.25,6.89,0.48,2024-11-08
+19114745-9bbf-42d7-b493-b8517c1d6cfb,37,Male,Glasgow,SME,Finance,Advanced Python for Business,4,21.27,38.64,154.57,69.47,0.45,2025-03-22
+0a93836c-5b9b-4e98-b0d9-d0802f76a98a,28,Female,Birmingham,SME,Technology,Advanced Python for Business,12,22.74,27.85,334.25,61.32,0.18,2025-07-06
+42662214-00d7-4b95-9adb-261a452358cb,34,Male,Leeds,Corporate,Leadership,Corporate Finance Guide,45,18.51,30.39,1367.41,534.29,0.39,2025-09-24
+5ba7d39a-c609-40e7-b8d3-9388ce4a4be4,48,Male,London,Enterprise,Leadership,Data Analytics Handbook,28,18.54,32.98,923.48,404.36,0.44,2024-11-17
+dd7bc4dc-91fb-4c55-9047-007401fc7751,35,Male,London,Corporate,Data Science,Data Analytics Handbook,48,13.46,32.49,1559.62,913.58,0.59,2024-09-13
+de751664-cb0f-415b-b69b-64efb67ffe83,26,Male,Leeds,SME,Finance,Marketing Strategy 2026,43,25.69,45.21,1943.95,839.27,0.43,2025-01-27
+d49235f7-4aac-4c5e-a605-d5acb4e3db8a,53,Male,Glasgow,SME,Data Science,Advanced Python for Business,38,11.17,23.06,876.3,451.98,0.52,2024-11-08
+ec2d7cc0-741c-45e5-be26-cfa1170783d8,54,Female,London,Enterprise,Leadership,Marketing Strategy 2026,27,15.67,30.4,820.82,397.74,0.48,2025-10-16
+d9be105a-abbd-4927-b84e-122f603e3677,50,Female,Leeds,Corporate,Marketing,Data Analytics Handbook,42,13.24,24.85,1043.59,487.58,0.47,2024-08-11
+0df4206f-ba3c-4859-bacb-af5e9c7c455b,33,Male,London,SME,Finance,Advanced Python for Business,31,12.48,28.7,889.79,502.87,0.57,2024-06-01
+d8f71619-a471-42fe-b04f-aea88144842f,39,Male,Manchester,SME,Leadership,Marketing Strategy 2026,39,27.15,43.77,1707.11,648.33,0.38,2024-05-26
+93d4f542-9916-446c-b002-4ab0f65c3616,39,Female,London,Enterprise,Technology,Leadership Principles,5,13.41,27.21,136.05,69.01,0.51,2024-03-12
+df6f9df4-023e-48cb-afca-9367d4a38d32,49,Female,Birmingham,Corporate,Finance,Advanced Python for Business,12,23.04,42.16,505.86,229.43,0.45,2025-06-07
+543380d5-3200-461e-88f4-26b25b391fb3,43,Female,Birmingham,SME,Data Science,Advanced Python for Business,46,8.15,21.1,970.44,595.38,0.61,2025-07-13
+93c94a65-b636-4de6-b4d5-1025d5598ac4,52,Male,Leeds,Enterprise,Technology,Advanced Python for Business,33,29.99,44.32,1462.64,473.08,0.32,2024-05-10
+eba2bf43-0c24-4930-afb2-5ea2c3ab1187,28,Female,London,Corporate,Marketing,Marketing Strategy 2026,46,15.76,25.56,1175.9,451.01,0.38,2025-11-03
+e3e694f1-3e88-4eec-9fa9-d4bd20e76e29,51,Male,Birmingham,Enterprise,Marketing,Leadership Principles,44,6.03,16.24,714.4,449.21,0.63,2025-09-01
+1e4e563d-3875-474c-b1bf-2673fb5d4c7c,57,Male,Manchester,SME,Marketing,Corporate Finance Guide,27,22.56,40.34,1089.12,480.05,0.44,2024-11-16
+ec0cce67-ee52-4271-83e8-bc1ccfafc8d2,38,Female,Leeds,Corporate,Marketing,Marketing Strategy 2026,37,22.85,41.72,1543.6,698.19,0.45,2025-05-16
+6c9e9498-a252-48de-9bac-91c01ed05da0,27,Female,Manchester,SME,Finance,Corporate Finance Guide,19,17.06,31.4,596.62,272.43,0.46,2026-02-10
+a883e828-1a1b-448a-aef8-59c8acee860f,22,Male,Leeds,Corporate,Data Science,Leadership Principles,46,20.09,29.58,1360.62,436.26,0.32,2025-09-19
+1b5d3c73-37e5-4501-a039-9c20d4d4d9de,38,Male,London,SME,Technology,Marketing Strategy 2026,42,14.3,19.68,826.71,226.28,0.27,2025-01-17
+925f2898-d362-4457-b449-5626878444cf,57,Female,London,Corporate,Marketing,Advanced Python for Business,4,5.9,20.78,83.1,59.5,0.72,2024-10-04
+b211ac75-528b-4839-b771-3efade9f2a60,33,Female,Birmingham,SME,Data Science,Data Analytics Handbook,33,28.08,36.18,1193.9,267.29,0.22,2025-06-13
+517732f2-4921-4413-8ee9-6b72cb7dcde3,55,Male,Leeds,SME,Data Science,Advanced Python for Business,11,23.68,31.82,350.04,89.55,0.26,2025-09-01
+c0f62e70-de4c-43e9-bf89-8a4709a2a0b8,38,Male,Leeds,SME,Data Science,Data Analytics Handbook,37,28.99,44.14,1633.07,560.27,0.34,2025-03-31
+98ac2cf8-0758-4e41-b438-aaca950c7cb1,27,Male,Manchester,SME,Finance,Marketing Strategy 2026,24,18.87,37.39,897.36,444.59,0.5,2025-08-04
+b2917108-a491-42ec-999c-f39dfbb6f859,23,Male,Leeds,Enterprise,Finance,Corporate Finance Guide,39,21.73,40.06,1562.22,714.64,0.46,2024-03-22
+0b9e6ee5-6b60-4a78-9554-70c73520357c,30,Male,London,SME,Finance,Marketing Strategy 2026,7,29.18,38.21,267.49,63.2,0.24,2026-02-20
+15116df7-586d-493a-8bf7-1ae4f61d8ce4,54,Male,Glasgow,Corporate,Leadership,Corporate Finance Guide,11,11.02,27.17,298.88,177.69,0.59,2025-08-03
+0443b41f-a747-414f-b5b1-1b383ee2d0f1,52,Male,London,SME,Data Science,Leadership Principles,14,5.21,21.63,302.78,229.81,0.76,2025-12-18
+3dd2a06f-6fea-49db-8fcd-723d1ce3af0b,46,Female,Glasgow,Enterprise,Leadership,Data Analytics Handbook,22,28.88,37.48,824.6,189.25,0.23,2024-03-31
+94170b9d-ad15-48c5-86f5-aebcbc1aaf57,47,Male,Leeds,Corporate,Leadership,Corporate Finance Guide,25,19.0,29.8,745.0,269.92,0.36,2025-02-21
+33d5ea77-8295-45dd-ab68-f0fe4555664b,41,Male,Leeds,SME,Finance,Marketing Strategy 2026,16,6.95,22.55,360.78,249.63,0.69,2026-01-05
+017228d3-9da6-4162-be58-4f27c805a8e1,39,Female,London,SME,Data Science,Corporate Finance Guide,10,28.55,44.64,446.41,160.93,0.36,2025-03-20
+3d7616fd-7318-4fe1-918a-af3b45f5b71e,45,Male,Birmingham,SME,Finance,Marketing Strategy 2026,14,12.17,20.92,292.92,122.48,0.42,2024-05-18
+ae0b9861-b712-44cd-aea4-1de40939c6ca,50,Male,London,Corporate,Data Science,Corporate Finance Guide,28,11.81,18.57,519.97,189.35,0.36,2025-07-21
+e4df1ad8-fa1b-4195-a377-ec7fe764d447,31,Female,Birmingham,Enterprise,Leadership,Leadership Principles,34,28.61,36.8,1251.06,278.26,0.22,2024-08-05
+2ac6808d-815e-4578-b12a-931ad8cbd74e,58,Female,London,Enterprise,Technology,Corporate Finance Guide,45,12.71,30.75,1383.84,811.94,0.59,2025-01-20
+af860117-894c-4f19-a909-07572706f1d1,29,Male,Glasgow,Enterprise,Marketing,Advanced Python for Business,26,9.99,20.56,534.58,274.8,0.51,2024-03-15
+47f5bd07-6c38-4f92-b186-f3c8006eed27,59,Male,Leeds,Enterprise,Technology,Marketing Strategy 2026,12,24.18,43.77,525.24,235.08,0.45,2025-04-19
+b2c3a549-2314-4d7a-a5c6-8654bc025113,39,Male,Manchester,Corporate,Data Science,Corporate Finance Guide,13,25.44,38.68,502.9,172.12,0.34,2024-12-28
+02ffe989-dd7e-4f04-ad6b-b0beee80b6ce,24,Male,Birmingham,SME,Marketing,Data Analytics Handbook,15,15.18,30.34,455.13,227.48,0.5,2024-10-02
+65b2a6f2-4e7f-416c-b51e-5f44184ae157,28,Male,Manchester,Enterprise,Leadership,Corporate Finance Guide,47,27.46,45.91,2157.71,866.86,0.4,2024-07-07
+a0a1bf66-a7e6-4c98-ba60-94723999cf13,64,Female,Manchester,Corporate,Marketing,Corporate Finance Guide,34,9.46,18.05,613.66,292.08,0.48,2025-03-12
+4438d013-e38b-498b-82b1-4ba12fda585c,42,Female,Glasgow,SME,Data Science,Leadership Principles,2,19.31,30.93,61.87,23.26,0.38,2024-11-08
+ca914bef-cccf-4cbf-8715-c88ef171cfdf,22,Female,London,Enterprise,Leadership,Data Analytics Handbook,18,13.3,29.47,530.4,291.0,0.55,2026-01-13
+307009d8-4f16-45be-9277-436af2f237a8,37,Female,Glasgow,Enterprise,Technology,Advanced Python for Business,13,6.04,23.5,305.51,226.97,0.74,2025-09-11
+1c2727f9-1184-4187-921b-7acf183a11d2,32,Male,Birmingham,SME,Data Science,Data Analytics Handbook,49,18.19,33.02,1618.03,726.75,0.45,2025-04-30
+062d75b3-aeed-41f2-8cc5-c620b8264e9f,49,Male,Birmingham,SME,Leadership,Advanced Python for Business,42,18.24,29.25,1228.61,462.56,0.38,2024-12-24
+82b7922d-eda1-46f1-9c38-223e7fde3a63,63,Female,Manchester,Enterprise,Marketing,Corporate Finance Guide,47,24.75,33.02,1551.94,388.54,0.25,2025-03-03
+f1f328de-32ba-403a-bbe2-434651297e97,38,Female,Leeds,SME,Finance,Advanced Python for Business,2,13.89,31.02,62.04,34.27,0.55,2024-03-23
+257d8cb6-f656-4475-ac7a-b17562ed9eed,40,Female,Leeds,Corporate,Leadership,Corporate Finance Guide,20,26.28,43.26,865.18,339.55,0.39,2024-12-06
+a72c914c-10af-438d-9b76-a5f650f85df3,63,Male,London,Enterprise,Marketing,Data Analytics Handbook,12,10.8,26.44,317.23,187.6,0.59,2024-11-20
+2f613fa5-299e-4255-999a-50e5c75a7633,40,Female,Glasgow,Corporate,Finance,Advanced Python for Business,39,19.78,38.09,1485.32,713.8,0.48,2024-09-25
+d945d44e-5be1-4ea5-aff6-45cc97bb66a8,23,Female,Leeds,Enterprise,Marketing,Corporate Finance Guide,33,24.66,29.92,987.49,173.56,0.18,2025-05-10
+63a5b9d1-607c-4139-ac51-ec849a1a8276,25,Male,London,Corporate,Technology,Data Analytics Handbook,37,15.42,22.74,841.42,271.03,0.32,2025-11-03
+463e09aa-e15b-4ff0-a2b3-9837f2236d00,40,Male,Leeds,SME,Finance,Data Analytics Handbook,33,10.95,30.03,990.98,629.53,0.64,2025-11-01
+0c8a1469-7aeb-44f6-8619-4b5d2b95999a,36,Male,London,Corporate,Finance,Advanced Python for Business,9,23.43,41.67,375.01,164.1,0.44,2024-11-25
+ba2639e7-6acc-47f1-92db-13e93b7d28dc,44,Female,London,SME,Finance,Advanced Python for Business,7,18.95,28.51,199.58,66.95,0.34,2024-03-25
+2c7a8f82-49c9-4a79-82ba-abcd7f6f1d49,54,Male,Leeds,Enterprise,Data Science,Advanced Python for Business,49,29.98,39.28,1924.86,455.83,0.24,2024-07-14
+dafc94e8-ec3b-4a00-a465-4b46a755147c,57,Female,Glasgow,SME,Technology,Leadership Principles,14,24.82,43.41,607.7,260.21,0.43,2025-01-19
+19040650-be23-408b-90b0-c62b68a96e5a,43,Female,Birmingham,Enterprise,Technology,Data Analytics Handbook,16,7.82,25.87,413.94,288.81,0.7,2024-11-17
+0de11f6a-1421-4984-9283-706f564ba80d,60,Female,London,SME,Data Science,Corporate Finance Guide,42,16.34,36.17,1519.33,833.25,0.55,2025-09-05
+18184e62-ab8f-45c9-b8bd-0b5f538be220,31,Male,London,Enterprise,Leadership,Corporate Finance Guide,20,19.97,29.09,581.77,182.32,0.31,2025-02-12
+d285d9fe-a6d5-44d5-8534-609971a65d67,22,Male,London,Corporate,Finance,Leadership Principles,20,18.76,36.15,723.04,347.77,0.48,2025-09-10
+c5097898-f9fd-4cc1-8fb4-5518a1f58066,38,Male,Manchester,Corporate,Marketing,Leadership Principles,43,29.04,38.73,1665.52,416.78,0.25,2025-09-25
+0f062b69-f1bf-4197-b984-af8aa01a25bb,38,Male,London,Enterprise,Data Science,Data Analytics Handbook,31,10.48,22.45,695.95,370.92,0.53,2025-01-15
+318d27c9-06c4-46ef-b1d8-b56231895934,52,Male,Birmingham,Corporate,Technology,Data Analytics Handbook,30,12.91,29.52,885.65,498.3,0.56,2025-05-05
+db892461-3f6d-459e-8057-99a36436d312,24,Male,Leeds,Enterprise,Technology,Marketing Strategy 2026,25,6.37,19.4,485.0,325.8,0.67,2026-01-12
+25ec23f8-053f-4ab1-af1a-1d982eb54689,51,Female,Manchester,Corporate,Data Science,Advanced Python for Business,2,24.26,40.47,80.94,32.43,0.4,2025-11-06
+6e4ad65a-963d-4d46-8a8b-faf18ed3d8cc,31,Female,Glasgow,Enterprise,Marketing,Marketing Strategy 2026,8,7.23,19.9,159.19,101.38,0.64,2025-04-27
+9089c15e-205a-4960-b8a5-c07e28eb1a24,42,Female,London,Enterprise,Technology,Advanced Python for Business,20,21.76,31.09,621.88,186.65,0.3,2026-02-07
+3c6633c1-5cae-492a-84b0-dee57af7a43d,63,Male,Leeds,Corporate,Data Science,Leadership Principles,31,7.14,25.78,799.08,577.89,0.72,2026-02-18
+1abb0572-3746-435a-96f0-6e94bdd83f76,40,Male,Birmingham,Corporate,Data Science,Marketing Strategy 2026,17,10.67,29.64,503.9,322.53,0.64,2025-07-10
+ce8bb51e-54d5-4077-8eef-7409758b1c03,28,Female,London,SME,Technology,Advanced Python for Business,11,23.39,43.27,475.95,218.69,0.46,2025-11-22
+fc915c87-21af-4852-b8b3-6334df0ded20,46,Female,Manchester,Corporate,Leadership,Data Analytics Handbook,13,18.31,27.86,362.17,124.16,0.34,2024-11-08
+5807125d-a702-4481-b06c-2c6fc70a52f4,53,Female,Manchester,SME,Finance,Advanced Python for Business,21,17.58,23.82,500.23,131.12,0.26,2025-04-17
+f76a4278-4c6a-4e16-94cd-0dd38e02462f,58,Male,London,Corporate,Technology,Leadership Principles,28,9.52,21.8,610.41,343.96,0.56,2025-11-28
+a24c7369-9380-41f5-a948-8ebdf07521f7,35,Female,Leeds,Corporate,Finance,Marketing Strategy 2026,11,16.64,35.79,393.64,210.63,0.54,2024-05-30
+632c2adb-5114-4bb0-ba42-2f064d387546,50,Female,Leeds,SME,Technology,Corporate Finance Guide,3,17.75,29.66,88.98,35.73,0.4,2024-05-11
+bbeb0f2a-917f-44c1-9d10-31c71098eeb7,39,Female,London,SME,Data Science,Marketing Strategy 2026,42,27.41,44.51,1869.27,718.23,0.38,2024-04-21
+057db832-733c-4f38-a944-b40d1171b46c,24,Female,London,Corporate,Marketing,Corporate Finance Guide,3,26.47,40.9,122.71,43.3,0.35,2026-02-10
+945914de-e7a3-407b-86c0-fbdc99aee3dc,53,Male,Leeds,SME,Data Science,Marketing Strategy 2026,37,17.08,28.32,1047.76,415.92,0.4,2025-02-12
+56e64c81-3660-445e-8785-f39316cc2054,61,Female,Leeds,SME,Data Science,Leadership Principles,44,23.88,38.96,1714.3,663.74,0.39,2025-10-29
+d7fb0f13-4e6c-4bff-a4b6-b636f3c401f4,30,Female,Leeds,Corporate,Data Science,Advanced Python for Business,13,19.15,33.38,433.95,185.03,0.43,2025-06-04
+b1ad50ac-6711-400e-8e7c-7975c7072507,40,Female,Birmingham,Corporate,Data Science,Data Analytics Handbook,28,13.01,19.42,543.67,179.28,0.33,2024-10-02
+126e735d-7877-49b9-87fa-0c400f1065fb,43,Male,Manchester,Corporate,Finance,Data Analytics Handbook,10,12.93,29.43,294.26,164.95,0.56,2024-08-23
