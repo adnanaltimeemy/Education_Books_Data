@@ -1,0 +1,201 @@
+Book_ID,Book_Title,Author,Customer_Age,Customer_Gender,Customer_Income,Book_Price,Book_Cost,Quantity_Sold,Region,Revenue,Profit,Profit_Margin (%)
+1001,Business Statistics,Smith,36,Female,37640,34,19,9,Leeds,306,135,44.11764705882353
+1002,Statistical Methods,Brown,21,Female,72528,83,49,2,Birmingham,166,68,40.963855421686745
+1003,Applied Statistics,Jones,52,Male,58413,47,47,5,Leeds,235,0,0.0
+1004,Business Statistics,Brown,34,Female,72638,93,15,3,Glasgow,279,234,83.87096774193549
+1005,Probability Theory,Miller,61,Male,72736,58,17,4,Glasgow,232,164,70.6896551724138
+1006,Statistical Analysis Guide,Jones,45,Male,88866,76,32,6,Birmingham,456,264,57.89473684210527
+1007,Applied Statistics,Jones,47,Male,39087,36,56,8,Glasgow,288,-160,-55.55555555555556
+1008,Applied Statistics,Williams,46,Female,61430,63,35,1,Manchester,63,28,44.44444444444444
+1009,Business Statistics,Jones,63,Female,44504,44,55,8,Birmingham,352,-88,-25.0
+1010,Advanced Statistics,Brown,23,Male,27114,36,52,7,Manchester,252,-112,-44.44444444444444
+1011,Probability Theory,Jones,52,Male,98859,32,21,1,London,32,11,34.375
+1012,Business Statistics,Williams,58,Male,30975,44,35,2,Manchester,88,18,20.454545454545457
+1013,Probability Theory,Williams,54,Male,31023,87,22,3,London,261,195,74.71264367816092
+1014,Probability Theory,Miller,41,Female,41447,29,49,1,London,29,-20,-68.96551724137932
+1015,Statistical Analysis Guide,Brown,46,Female,43959,86,27,9,Manchester,774,531,68.6046511627907
+1016,Applied Statistics,Johnson,63,Male,86203,37,34,8,Birmingham,296,24,8.108108108108109
+1017,Statistical Methods,Johnson,48,Male,49703,53,42,2,Glasgow,106,22,20.754716981132077
+1018,Statistical Analysis Guide,Jones,52,Female,29337,27,56,9,Glasgow,243,-261,-107.40740740740742
+1019,Statistical Analysis Guide,Miller,50,Female,66427,59,49,7,London,413,70,16.94915254237288
+1020,Probability Theory,Smith,38,Male,81529,61,52,9,London,549,81,14.754098360655737
+1021,Statistics for Beginners,Jones,49,Male,51921,60,21,6,Birmingham,360,234,65.0
+1022,Applied Statistics,Miller,40,Male,53307,25,53,6,Leeds,150,-168,-112.00000000000001
+1023,Advanced Statistics,Brown,50,Female,47355,71,45,4,Manchester,284,104,36.61971830985916
+1024,Statistical Analysis Guide,Brown,20,Female,24835,45,57,2,London,90,-24,-26.666666666666668
+1025,Statistical Methods,Brown,35,Female,40159,83,13,7,Glasgow,581,490,84.33734939759037
+1026,Statistics for Beginners,Brown,42,Male,67605,78,14,5,Birmingham,390,320,82.05128205128204
+1027,Statistics for Beginners,Brown,59,Male,58088,75,46,6,Manchester,450,174,38.666666666666664
+1028,Advanced Statistics,Miller,48,Female,98752,78,17,2,Birmingham,156,122,78.2051282051282
+1029,Statistical Analysis Guide,Miller,20,Female,75284,89,51,5,Manchester,445,190,42.69662921348314
+1030,Statistical Methods,Williams,57,Male,77043,52,58,4,Manchester,208,-24,-11.538461538461538
+1031,Applied Statistics,Johnson,63,Female,55547,72,37,9,London,648,315,48.61111111111111
+1032,Statistics Fundamentals,Brown,41,Female,47532,41,40,6,Birmingham,246,6,2.4390243902439024
+1033,Statistical Methods,Smith,49,Male,54349,40,18,2,Birmingham,80,44,55.00000000000001
+1034,Advanced Statistics,Miller,64,Female,65445,89,38,1,Glasgow,89,51,57.30337078651685
+1035,Statistics for Beginners,Smith,39,Male,25713,89,23,5,Glasgow,445,330,74.15730337078652
+1036,Applied Statistics,Smith,40,Male,76178,23,49,9,London,207,-234,-113.04347826086956
+1037,Statistical Methods,Smith,19,Male,69407,94,50,6,London,564,264,46.808510638297875
+1038,Statistics Fundamentals,Williams,44,Male,90340,81,31,7,Leeds,567,350,61.72839506172839
+1039,Statistics Fundamentals,Miller,59,Male,70990,81,20,5,Glasgow,405,305,75.30864197530865
+1040,Probability Theory,Smith,19,Male,95672,43,32,6,Manchester,258,66,25.581395348837212
+1041,Probability Theory,Brown,43,Male,85545,74,10,5,Birmingham,370,320,86.48648648648648
+1042,Business Statistics,Jones,34,Female,78141,28,55,9,London,252,-243,-96.42857142857143
+1043,Advanced Statistics,Smith,57,Male,43793,22,46,6,Birmingham,132,-144,-109.09090909090908
+1044,Statistical Analysis Guide,Williams,50,Male,76570,50,30,8,Birmingham,400,160,40.0
+1045,Statistical Methods,Miller,26,Female,57892,59,35,2,Leeds,118,48,40.67796610169492
+1046,Statistical Methods,Williams,60,Female,21015,55,55,9,Glasgow,495,0,0.0
+1047,Statistical Analysis Guide,Smith,56,Female,81813,43,45,5,London,215,-10,-4.651162790697675
+1048,Business Statistics,Miller,46,Male,47712,25,32,7,Birmingham,175,-49,-28.000000000000004
+1049,Statistics for Beginners,Jones,59,Female,28415,85,10,1,London,85,75,88.23529411764706
+1050,Statistics for Beginners,Smith,43,Male,82292,94,49,5,Manchester,470,225,47.87234042553192
+1051,Business Statistics,Williams,52,Male,43833,23,24,2,Leeds,46,-2,-4.3478260869565215
+1052,Statistics for Beginners,Johnson,42,Male,24158,98,30,6,Manchester,588,408,69.38775510204081
+1053,Probability Theory,Brown,41,Male,82680,25,56,1,London,25,-31,-124.0
+1054,Statistical Methods,Williams,30,Female,40309,70,18,3,London,210,156,74.28571428571429
+1055,Business Statistics,Miller,24,Female,26970,81,18,5,Glasgow,405,315,77.77777777777779
+1056,Statistical Methods,Smith,53,Male,92474,76,19,4,Birmingham,304,228,75.0
+1057,Statistical Analysis Guide,Brown,62,Male,66540,85,35,3,Birmingham,255,150,58.82352941176471
+1058,Statistics Fundamentals,Smith,37,Male,40384,98,50,5,Manchester,490,240,48.97959183673469
+1059,Probability Theory,Miller,18,Female,38017,94,44,8,Leeds,752,400,53.191489361702125
+1060,Applied Statistics,Smith,25,Male,95880,27,34,4,Birmingham,108,-28,-25.925925925925924
+1061,Probability Theory,Johnson,63,Male,28702,45,35,1,Glasgow,45,10,22.22222222222222
+1062,Business Statistics,Brown,33,Female,20384,70,20,7,Manchester,490,350,71.42857142857143
+1063,Applied Statistics,Brown,31,Female,20404,64,47,8,Manchester,512,136,26.5625
+1064,Statistics Fundamentals,Miller,29,Male,60943,63,11,3,Glasgow,189,156,82.53968253968253
+1065,Business Statistics,Johnson,40,Female,67926,24,16,6,Leeds,144,48,33.33333333333333
+1066,Advanced Statistics,Williams,32,Female,49189,89,27,2,Glasgow,178,124,69.66292134831461
+1067,Statistical Methods,Smith,45,Male,32763,45,36,7,Leeds,315,63,20.0
+1068,Statistics Fundamentals,Jones,51,Female,38384,87,43,8,Glasgow,696,352,50.57471264367817
+1069,Statistical Methods,Smith,19,Male,80100,38,36,6,Glasgow,228,12,5.263157894736842
+1070,Statistics for Beginners,Smith,49,Female,29860,39,26,6,London,234,78,33.33333333333333
+1071,Advanced Statistics,Williams,40,Male,70612,31,52,5,Manchester,155,-105,-67.74193548387096
+1072,Advanced Statistics,Smith,39,Male,43574,66,53,8,Glasgow,528,104,19.696969696969695
+1073,Statistics Fundamentals,Johnson,42,Male,43524,20,33,1,Glasgow,20,-13,-65.0
+1074,Advanced Statistics,Johnson,39,Female,89172,33,34,4,Birmingham,132,-4,-3.0303030303030303
+1075,Applied Statistics,Brown,39,Male,30916,83,16,4,Manchester,332,268,80.72289156626506
+1076,Advanced Statistics,Miller,59,Female,24809,57,15,3,Birmingham,171,126,73.68421052631578
+1077,Statistical Methods,Jones,23,Male,52201,56,33,3,Manchester,168,69,41.07142857142857
+1078,Statistical Methods,Smith,32,Male,73330,30,42,4,Birmingham,120,-48,-40.0
+1079,Business Statistics,Smith,60,Female,33456,96,58,1,Glasgow,96,38,39.58333333333333
+1080,Statistical Methods,Williams,54,Male,76397,22,38,2,Glasgow,44,-32,-72.72727272727273
+1081,Business Statistics,Miller,50,Male,58765,52,52,9,London,468,0,0.0
+1082,Statistical Methods,Johnson,25,Female,54816,25,31,2,Birmingham,50,-12,-24.0
+1083,Applied Statistics,Jones,61,Male,65106,69,35,5,Leeds,345,170,49.275362318840585
+1084,Statistical Analysis Guide,Brown,61,Male,73932,29,37,9,London,261,-72,-27.586206896551722
+1085,Business Statistics,Johnson,22,Male,37100,24,59,9,Birmingham,216,-315,-145.83333333333331
+1086,Probability Theory,Miller,56,Male,77091,42,30,8,Birmingham,336,96,28.57142857142857
+1087,Statistics for Beginners,Brown,21,Female,41949,29,58,1,London,29,-29,-100.0
+1088,Statistics Fundamentals,Williams,23,Female,90080,63,16,1,Glasgow,63,47,74.60317460317461
+1089,Statistical Methods,Williams,62,Male,57744,21,26,9,Birmingham,189,-45,-23.809523809523807
+1090,Advanced Statistics,Smith,49,Female,65543,32,29,8,Glasgow,256,24,9.375
+1091,Statistical Analysis Guide,Miller,47,Male,56187,59,50,9,London,531,81,15.254237288135593
+1092,Statistical Methods,Jones,64,Female,27239,21,58,7,Glasgow,147,-259,-176.19047619047618
+1093,Advanced Statistics,Brown,52,Male,34489,84,29,3,Manchester,252,165,65.47619047619048
+1094,Statistics for Beginners,Johnson,57,Male,78017,82,31,3,Leeds,246,153,62.19512195121951
+1095,Statistics for Beginners,Miller,33,Male,81877,92,37,2,Birmingham,184,110,59.78260869565217
+1096,Statistics for Beginners,Miller,30,Male,63125,36,49,5,Leeds,180,-65,-36.11111111111111
+1097,Advanced Statistics,Williams,59,Male,69922,28,58,3,Glasgow,84,-90,-107.14285714285714
+1098,Statistical Methods,Smith,47,Male,52049,94,16,6,Birmingham,564,468,82.97872340425532
+1099,Statistics for Beginners,Smith,36,Female,57131,34,10,2,Glasgow,68,48,70.58823529411765
+1100,Applied Statistics,Brown,34,Male,62944,43,41,3,Manchester,129,6,4.651162790697675
+1101,Business Statistics,Williams,36,Female,93963,57,22,5,London,285,175,61.40350877192983
+1102,Advanced Statistics,Miller,45,Male,44285,54,39,1,Birmingham,54,15,27.77777777777778
+1103,Advanced Statistics,Jones,43,Female,57626,68,32,1,Manchester,68,36,52.94117647058824
+1104,Statistical Methods,Williams,54,Female,62808,88,28,9,Manchester,792,540,68.18181818181817
+1105,Advanced Statistics,Brown,43,Female,73871,81,41,7,Birmingham,567,280,49.382716049382715
+1106,Advanced Statistics,Brown,40,Male,39198,79,39,1,Glasgow,79,40,50.63291139240506
+1107,Statistics for Beginners,Williams,26,Male,39758,69,38,8,Manchester,552,248,44.927536231884055
+1108,Statistical Methods,Brown,29,Female,35254,97,58,3,Leeds,291,117,40.20618556701031
+1109,Statistics for Beginners,Williams,18,Male,64238,94,54,8,Manchester,752,320,42.5531914893617
+1110,Business Statistics,Johnson,18,Female,21252,28,38,5,Glasgow,140,-50,-35.714285714285715
+1111,Statistical Analysis Guide,Williams,64,Male,59764,53,39,1,Glasgow,53,14,26.41509433962264
+1112,Business Statistics,Williams,51,Female,97709,95,25,7,Leeds,665,490,73.68421052631578
+1113,Statistical Analysis Guide,Brown,49,Female,57441,54,49,5,Manchester,270,25,9.25925925925926
+1114,Statistics for Beginners,Brown,42,Male,73682,20,28,6,Glasgow,120,-48,-40.0
+1115,Business Statistics,Smith,57,Female,79494,59,27,6,Birmingham,354,192,54.23728813559322
+1116,Statistical Methods,Smith,62,Male,85215,83,10,8,London,664,584,87.95180722891565
+1117,Statistics Fundamentals,Johnson,18,Female,98587,41,23,9,London,369,162,43.90243902439025
+1118,Statistics for Beginners,Smith,33,Female,26949,79,56,2,London,158,46,29.11392405063291
+1119,Statistical Analysis Guide,Williams,56,Male,75393,83,59,9,Manchester,747,216,28.915662650602407
+1120,Applied Statistics,Brown,22,Male,93553,91,11,9,Leeds,819,720,87.91208791208791
+1121,Statistical Analysis Guide,Smith,39,Male,26941,30,37,7,Glasgow,210,-49,-23.333333333333332
+1122,Applied Statistics,Smith,46,Female,45934,33,58,1,Birmingham,33,-25,-75.75757575757575
+1123,Advanced Statistics,Johnson,20,Male,43386,79,59,7,Birmingham,553,140,25.31645569620253
+1124,Business Statistics,Miller,29,Female,81886,49,39,5,Manchester,245,50,20.408163265306122
+1125,Applied Statistics,Johnson,43,Female,95745,54,47,6,London,324,42,12.962962962962962
+1126,Statistical Analysis Guide,Williams,33,Male,73413,56,13,7,Manchester,392,301,76.78571428571429
+1127,Advanced Statistics,Brown,54,Male,76800,24,10,5,Leeds,120,70,58.333333333333336
+1128,Statistics Fundamentals,Johnson,39,Female,62318,97,17,7,Leeds,679,560,82.4742268041237
+1129,Statistical Methods,Smith,46,Female,90173,45,38,9,Glasgow,405,63,15.555555555555555
+1130,Statistical Methods,Brown,31,Male,90390,81,48,3,Glasgow,243,99,40.74074074074074
+1131,Statistical Methods,Brown,45,Male,72329,23,12,8,Leeds,184,88,47.82608695652174
+1132,Applied Statistics,Smith,22,Male,63088,61,41,2,Leeds,122,40,32.78688524590164
+1133,Statistics Fundamentals,Johnson,64,Male,59811,37,19,7,Leeds,259,126,48.64864864864865
+1134,Applied Statistics,Smith,47,Male,75479,59,19,2,Manchester,118,80,67.79661016949152
+1135,Business Statistics,Miller,63,Female,39963,91,28,4,Leeds,364,252,69.23076923076923
+1136,Applied Statistics,Brown,22,Female,75123,58,55,7,Birmingham,406,21,5.172413793103448
+1137,Statistics Fundamentals,Jones,29,Female,93477,33,43,3,London,99,-30,-30.303030303030305
+1138,Statistics Fundamentals,Jones,33,Female,34388,51,42,2,Leeds,102,18,17.647058823529413
+1139,Business Statistics,Williams,43,Male,25569,70,32,7,London,490,266,54.285714285714285
+1140,Statistics Fundamentals,Smith,43,Male,89836,57,37,1,Manchester,57,20,35.08771929824561
+1141,Statistical Analysis Guide,Smith,38,Male,56586,42,41,8,London,336,8,2.380952380952381
+1142,Statistics Fundamentals,Williams,56,Female,32015,82,59,3,Manchester,246,69,28.04878048780488
+1143,Statistical Methods,Williams,53,Female,65002,34,16,2,Birmingham,68,36,52.94117647058824
+1144,Statistical Analysis Guide,Williams,50,Male,26254,44,38,3,Manchester,132,18,13.636363636363635
+1145,Statistical Analysis Guide,Brown,47,Male,37144,36,17,5,Manchester,180,95,52.77777777777778
+1146,Business Statistics,Miller,54,Female,44214,85,10,8,Glasgow,680,600,88.23529411764706
+1147,Probability Theory,Smith,40,Female,91774,97,12,7,Leeds,679,595,87.62886597938144
+1148,Probability Theory,Brown,27,Male,26090,72,33,7,Leeds,504,273,54.166666666666664
+1149,Statistics Fundamentals,Williams,22,Male,31637,70,32,7,Birmingham,490,266,54.285714285714285
+1150,Statistical Analysis Guide,Smith,53,Female,42415,58,17,8,Birmingham,464,328,70.6896551724138
+1151,Probability Theory,Brown,51,Male,44071,70,56,1,Leeds,70,14,20.0
+1152,Probability Theory,Miller,48,Male,78243,89,46,4,Glasgow,356,172,48.31460674157304
+1153,Statistics Fundamentals,Brown,27,Male,61240,25,12,6,Leeds,150,78,52.0
+1154,Probability Theory,Miller,36,Female,53434,86,42,9,Glasgow,774,396,51.162790697674424
+1155,Applied Statistics,Williams,49,Female,89724,26,37,2,Birmingham,52,-22,-42.30769230769231
+1156,Advanced Statistics,Miller,18,Female,95697,70,56,1,London,70,14,20.0
+1157,Business Statistics,Smith,22,Female,48732,91,17,2,Birmingham,182,148,81.31868131868131
+1158,Advanced Statistics,Williams,62,Female,31314,61,43,7,Birmingham,427,126,29.508196721311474
+1159,Statistics Fundamentals,Smith,21,Female,43954,83,44,3,Manchester,249,117,46.98795180722892
+1160,Statistical Methods,Jones,33,Female,77108,34,41,2,Manchester,68,-14,-20.588235294117645
+1161,Business Statistics,Johnson,41,Male,56668,48,33,7,Manchester,336,105,31.25
+1162,Statistics Fundamentals,Miller,33,Male,43061,52,23,2,Manchester,104,58,55.769230769230774
+1163,Statistical Analysis Guide,Johnson,19,Male,99252,46,41,3,Glasgow,138,15,10.869565217391305
+1164,Statistical Methods,Johnson,45,Male,59749,55,55,7,Leeds,385,0,0.0
+1165,Advanced Statistics,Miller,49,Male,36907,48,52,4,London,192,-16,-8.333333333333332
+1166,Statistics Fundamentals,Williams,44,Male,38777,57,25,1,Birmingham,57,32,56.14035087719298
+1167,Statistical Analysis Guide,Jones,37,Male,71745,76,13,5,Glasgow,380,315,82.89473684210526
+1168,Business Statistics,Smith,41,Female,43624,46,46,9,London,414,0,0.0
+1169,Business Statistics,Brown,29,Female,43321,74,30,8,Glasgow,592,352,59.45945945945946
+1170,Statistics for Beginners,Smith,52,Male,30488,52,23,9,Glasgow,468,261,55.769230769230774
+1171,Statistical Analysis Guide,Brown,50,Male,42574,87,40,9,Birmingham,783,423,54.02298850574713
+1172,Applied Statistics,Smith,50,Female,25240,85,57,7,Leeds,595,196,32.94117647058823
+1173,Probability Theory,Miller,60,Male,63221,29,27,4,Manchester,116,8,6.896551724137931
+1174,Statistical Methods,Jones,54,Male,30478,24,16,5,Leeds,120,40,33.33333333333333
+1175,Statistical Analysis Guide,Brown,29,Female,75645,93,19,1,Birmingham,93,74,79.56989247311827
+1176,Statistics for Beginners,Williams,20,Male,39262,57,16,1,Birmingham,57,41,71.9298245614035
+1177,Probability Theory,Smith,18,Female,72796,32,42,3,Birmingham,96,-30,-31.25
+1178,Probability Theory,Smith,50,Male,24432,50,32,8,London,400,144,36.0
+1179,Statistics Fundamentals,Brown,57,Female,84291,66,30,2,Leeds,132,72,54.54545454545454
+1180,Probability Theory,Williams,27,Female,99104,71,28,4,Leeds,284,172,60.56338028169014
+1181,Applied Statistics,Williams,60,Female,79399,75,57,2,Glasgow,150,36,24.0
+1182,Business Statistics,Miller,61,Male,99714,34,28,5,Glasgow,170,30,17.647058823529413
+1183,Statistics for Beginners,Miller,46,Female,70428,48,45,9,Glasgow,432,27,6.25
+1184,Probability Theory,Miller,30,Male,20302,27,38,1,Birmingham,27,-11,-40.74074074074074
+1185,Statistics Fundamentals,Miller,29,Male,20055,24,27,5,Leeds,120,-15,-12.5
+1186,Applied Statistics,Miller,48,Male,28717,48,11,9,Birmingham,432,333,77.08333333333334
+1187,Advanced Statistics,Miller,63,Male,48699,66,10,1,London,66,56,84.84848484848484
+1188,Business Statistics,Jones,19,Female,93686,87,56,9,Glasgow,783,279,35.63218390804598
+1189,Business Statistics,Williams,52,Female,87661,95,14,8,Birmingham,760,648,85.26315789473684
+1190,Statistics for Beginners,Miller,40,Male,64247,64,29,4,Birmingham,256,140,54.6875
+1191,Business Statistics,Williams,34,Male,36748,21,20,5,London,105,5,4.761904761904762
+1192,Probability Theory,Williams,43,Female,24621,46,51,5,Manchester,230,-25,-10.869565217391305
+1193,Statistics Fundamentals,Johnson,25,Male,35034,55,11,6,Leeds,330,264,80.0
+1194,Business Statistics,Jones,46,Female,25126,55,12,7,Manchester,385,301,78.18181818181819
+1195,Business Statistics,Miller,43,Male,25122,45,32,8,Glasgow,360,104,28.888888888888886
+1196,Advanced Statistics,Smith,27,Male,38030,62,21,8,Birmingham,496,328,66.12903225806451
+1197,Advanced Statistics,Brown,43,Female,75658,46,29,2,London,92,34,36.95652173913043
+1198,Statistical Methods,Smith,51,Male,58638,88,14,9,London,792,666,84.0909090909091
+1199,Applied Statistics,Jones,58,Female,87067,39,46,7,Leeds,273,-49,-17.94871794871795
+1200,Probability Theory,Brown,24,Male,54674,30,47,4,Manchester,120,-68,-56.666666666666664
