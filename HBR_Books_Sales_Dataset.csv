@@ -1,0 +1,501 @@
+Sale_ID,Book_Title,Units_Sold,Price,Cost,Revenue,Total_Cost,Profit,Profit_Margin (%),Age_Group,Gender,Region,Income_Level,Education_Level
+1,HBR Guide to Better Business Writing,205,43.08,19.36,8831.4,3968.8,4862.6,55.06,60+,Female,Europe,High,MBA
+2,HBR Guide to Leadership,593,25.01,10.33,14830.93,6125.69,8705.24,58.7,18-25,Male,North America,Medium,Graduate
+3,HBR Guide to Project Management,665,38.5,16.67,25602.5,11085.55,14516.95,56.7,46-60,Non-Binary,Asia,Medium,PhD
+4,HBR Guide to Better Business Writing,198,23.3,14.93,4613.4,2956.14,1657.26,35.92,36-45,Male,Europe,High,Graduate
+5,HBR Guide to Project Management,213,10.8,5.0,2300.4,1065.0,1235.4,53.7,46-60,Male,South America,Medium,Graduate
+6,HBR Guide to Better Business Writing,211,44.08,19.37,9300.88,4087.07,5213.81,56.06,26-35,Female,North America,Low,Undergraduate
+7,HBR Guide to Negotiation,350,45.01,21.88,15753.5,7658.0,8095.5,51.39,46-60,Female,Africa,Medium,MBA
+8,HBR Guide to Leadership,420,48.82,20.75,20504.4,8715.0,11789.4,57.5,18-25,Non-Binary,Europe,Low,MBA
+9,HBR Guide to Managing People,119,27.23,18.14,3240.37,2158.66,1081.71,33.38,36-45,Non-Binary,Africa,High,MBA
+10,HBR Guide to Project Management,517,16.57,8.78,8566.69,4539.26,4027.43,47.01,26-35,Female,North America,Low,PhD
+11,HBR Guide to Data Analytics,111,49.72,32.53,5518.92,3610.83,1908.09,34.57,36-45,Female,North America,Low,MBA
+12,HBR Guide to Strategic Thinking,154,35.68,15.94,5494.72,2454.76,3039.96,55.33,46-60,Female,South America,Medium,Graduate
+13,HBR Emotional Intelligence,209,31.1,19.36,6499.9,4046.24,2453.66,37.75,36-45,Non-Binary,Europe,High,MBA
+14,HBR Guide to Project Management,789,27.23,11.85,21484.47,9349.65,12134.82,56.48,36-45,Female,Europe,Medium,PhD
+15,HBR Guide to Leadership,701,25.57,17.45,17924.57,12232.45,5692.12,31.76,18-25,Female,Asia,Low,PhD
+16,HBR Guide to Leadership,547,19.0,7.76,10393.0,4244.72,6148.28,59.16,26-35,Male,Africa,Low,PhD
+17,HBR Emotional Intelligence,820,14.89,8.14,12209.8,6674.8,5535.0,45.33,36-45,Female,North America,Medium,Graduate
+18,HBR Guide to Negotiation,328,19.65,12.55,6445.2,4116.4,2328.8,36.13,60+,Male,Asia,Low,Graduate
+19,HBR Guide to Managing People,189,17.4,8.93,3288.6,1687.77,1600.83,48.68,26-35,Non-Binary,Asia,Low,Undergraduate
+20,HBR Guide to Remote Work,245,42.86,17.55,10500.7,4299.75,6200.95,59.05,60+,Non-Binary,South America,High,PhD
+21,HBR Guide to Better Business Writing,742,38.87,22.61,28841.54,16776.62,12064.92,41.83,46-60,Male,North America,Low,MBA
+22,HBR Guide to Managing People,702,23.91,14.49,16784.82,10171.98,6612.84,39.4,46-60,Non-Binary,Europe,High,MBA
+23,HBR Guide to Managing People,686,14.48,7.99,9933.28,5481.14,4452.14,44.82,18-25,Female,North America,High,Undergraduate
+24,HBR Guide to Better Business Writing,144,33.93,21.73,4885.92,3129.12,1756.8,35.96,26-35,Non-Binary,Africa,High,Graduate
+25,HBR Guide to Negotiation,799,47.64,21.78,38064.36,17402.22,20662.14,54.28,46-60,Male,Asia,Low,Graduate
+26,HBR Guide to Negotiation,241,25.11,12.16,6051.51,2930.56,3120.95,51.57,26-35,Male,Africa,Medium,MBA
+27,HBR Guide to Finance Basics,687,11.83,5.39,8127.21,3702.93,4424.28,54.44,46-60,Non-Binary,South America,High,MBA
+28,HBR Guide to Strategic Thinking,452,16.56,10.02,7485.12,4529.04,2956.08,39.49,36-45,Male,North America,Low,Undergraduate
+29,HBR Guide to Strategic Thinking,842,36.4,25.34,30648.8,21336.28,9312.52,30.38,46-60,Non-Binary,Asia,High,MBA
+30,HBR Emotional Intelligence,91,20.75,14.09,1888.25,1282.19,606.06,32.1,36-45,Male,Asia,Low,Graduate
+31,HBR Guide to Leadership,74,24.73,17.23,1830.02,1275.02,555.0,30.33,18-25,Non-Binary,Africa,Low,MBA
+32,HBR Guide to Data Analytics,951,24.81,10.87,23594.31,10337.37,13256.94,56.19,46-60,Female,Asia,High,Graduate
+33,HBR Emotional Intelligence,250,25.02,15.02,6255.0,3755.0,2500.0,39.97,46-60,Male,Africa,Low,PhD
+34,HBR Guide to Finance Basics,429,11.25,7.08,4826.25,3037.32,1788.93,37.07,60+,Male,North America,Low,MBA
+35,HBR Guide to Project Management,518,28.41,14.85,14716.38,7692.3,7024.08,47.73,46-60,Male,Africa,Medium,Undergraduate
+36,HBR Guide to Negotiation,442,29.85,13.25,13193.7,5856.5,7337.2,55.61,36-45,Non-Binary,Africa,High,PhD
+37,HBR Guide to Negotiation,580,24.02,16.63,13931.6,9645.4,4286.2,30.77,18-25,Female,Asia,Low,Graduate
+38,HBR Emotional Intelligence,483,19.28,12.84,9312.24,6201.72,3110.52,33.4,36-45,Female,Africa,High,Graduate
+39,HBR Guide to Strategic Thinking,237,23.9,10.63,5664.3,2519.31,3144.99,55.52,46-60,Male,South America,Low,Graduate
+40,HBR Guide to Remote Work,685,48.31,20.34,33092.35,13932.9,19159.45,57.9,18-25,Female,Asia,Low,Undergraduate
+41,HBR Guide to Leadership,903,27.72,14.37,25031.16,12976.11,12055.05,48.16,46-60,Female,Asia,Low,PhD
+42,HBR Emotional Intelligence,303,44.31,19.39,13425.93,5875.17,7550.76,56.24,26-35,Male,North America,Low,Graduate
+43,HBR Guide to Better Business Writing,440,41.7,25.77,18348.0,11338.8,7009.2,38.2,26-35,Male,South America,Medium,Undergraduate
+44,HBR Guide to Project Management,333,48.73,24.62,16227.09,8198.46,8028.63,49.48,36-45,Female,South America,Low,Graduate
+45,HBR Emotional Intelligence,791,19.78,11.7,15645.98,9254.7,6391.28,40.85,18-25,Male,Asia,Medium,MBA
+46,HBR Guide to Remote Work,897,32.49,17.42,29143.53,15625.74,13517.79,46.38,60+,Non-Binary,Africa,High,MBA
+47,HBR Emotional Intelligence,478,33.13,21.97,15836.14,10501.66,5334.48,33.69,60+,Male,Africa,Low,Undergraduate
+48,HBR Guide to Data Analytics,863,13.63,5.55,11762.69,4789.65,6973.04,59.28,60+,Non-Binary,Asia,High,Undergraduate
+49,HBR Guide to Managing People,868,10.82,7.37,9391.76,6397.16,2994.6,31.89,36-45,Non-Binary,North America,Low,Undergraduate
+50,HBR Guide to Strategic Thinking,237,27.05,17.24,6410.85,4085.88,2324.97,36.27,60+,Male,Africa,High,MBA
+51,HBR Guide to Project Management,561,29.66,20.26,16639.26,11365.86,5273.4,31.69,36-45,Non-Binary,Europe,High,PhD
+52,HBR Guide to Finance Basics,293,27.15,16.62,7954.95,4869.66,3085.29,38.78,18-25,Non-Binary,Africa,High,PhD
+53,HBR Guide to Remote Work,385,19.83,13.8,7634.55,5313.0,2321.55,30.41,60+,Female,North America,Medium,MBA
+54,HBR Guide to Project Management,591,27.11,12.52,16022.01,7399.32,8622.69,53.82,46-60,Male,Europe,High,Graduate
+55,HBR Guide to Remote Work,875,43.26,22.21,37852.5,19433.75,18418.75,48.66,46-60,Non-Binary,South America,Low,PhD
+56,HBR Guide to Remote Work,667,48.15,26.66,32116.05,17782.22,14333.83,44.63,46-60,Male,Asia,High,MBA
+57,HBR Guide to Leadership,431,32.95,23.04,14201.45,9930.24,4271.21,30.08,36-45,Female,Asia,Medium,Undergraduate
+58,HBR Guide to Managing People,820,24.78,15.12,20319.6,12398.4,7921.2,38.98,46-60,Female,Europe,High,Graduate
+59,HBR Guide to Managing People,899,28.78,13.39,25873.22,12037.61,13835.61,53.47,26-35,Male,Africa,Low,Graduate
+60,HBR Guide to Data Analytics,104,24.43,13.99,2540.72,1454.96,1085.76,42.73,26-35,Male,Africa,High,PhD
+61,HBR Guide to Finance Basics,469,23.55,12.94,11044.95,6068.86,4976.09,45.05,18-25,Non-Binary,North America,Medium,PhD
+62,HBR Guide to Project Management,758,48.82,24.72,37005.56,18737.76,18267.8,49.37,60+,Male,Africa,High,Undergraduate
+63,HBR Emotional Intelligence,817,21.69,10.5,17720.73,8578.5,9142.23,51.59,60+,Female,Europe,High,PhD
+64,HBR Guide to Data Analytics,867,44.38,26.26,38477.46,22767.42,15710.04,40.83,26-35,Non-Binary,Africa,High,Graduate
+65,HBR Emotional Intelligence,937,44.37,22.27,41574.69,20866.99,20707.7,49.81,26-35,Non-Binary,Asia,High,Graduate
+66,HBR Emotional Intelligence,422,27.74,17.97,11706.28,7583.34,4122.94,35.22,36-45,Male,Asia,High,PhD
+67,HBR Guide to Strategic Thinking,104,40.39,19.44,4200.56,2021.76,2178.8,51.87,46-60,Non-Binary,Europe,Low,PhD
+68,HBR Guide to Better Business Writing,368,37.99,21.02,13980.32,7735.36,6244.96,44.67,18-25,Male,North America,Medium,MBA
+69,HBR Guide to Negotiation,97,40.75,27.59,3952.75,2676.23,1276.52,32.29,60+,Non-Binary,South America,Low,MBA
+70,HBR Guide to Finance Basics,797,17.19,8.68,13700.43,6917.96,6782.47,49.51,26-35,Male,Africa,High,Undergraduate
+71,HBR Guide to Leadership,725,37.0,21.48,26825.0,15573.0,11252.0,41.95,36-45,Female,South America,Low,Graduate
+72,HBR Guide to Remote Work,941,24.67,13.45,23214.47,12656.45,10558.02,45.48,18-25,Female,South America,Low,Undergraduate
+73,HBR Guide to Remote Work,996,46.51,23.71,46323.96,23615.16,22708.8,49.02,60+,Non-Binary,South America,High,PhD
+74,HBR Guide to Leadership,683,28.96,19.78,19779.68,13509.74,6269.94,31.7,60+,Non-Binary,Europe,Medium,Graduate
+75,HBR Guide to Remote Work,673,11.62,5.74,7820.26,3863.02,3957.24,50.6,18-25,Non-Binary,South America,Low,MBA
+76,HBR Guide to Leadership,727,30.96,12.79,22507.92,9298.33,13209.59,58.69,60+,Male,Africa,Medium,Undergraduate
+77,HBR Guide to Finance Basics,861,15.17,9.93,13061.37,8549.73,4511.64,34.54,36-45,Female,Europe,Low,MBA
+78,HBR Guide to Better Business Writing,720,48.28,25.09,34761.6,18064.8,16696.8,48.03,46-60,Female,North America,Low,MBA
+79,HBR Emotional Intelligence,497,18.2,7.41,9045.4,3682.77,5362.63,59.29,60+,Non-Binary,Asia,Low,Undergraduate
+80,HBR Guide to Negotiation,877,30.15,20.92,26441.55,18346.84,8094.71,30.61,18-25,Non-Binary,Africa,Low,PhD
+81,HBR Guide to Project Management,555,24.64,11.0,13675.2,6105.0,7570.2,55.36,60+,Non-Binary,Africa,High,Undergraduate
+82,HBR Guide to Data Analytics,352,49.23,28.13,17328.96,9901.76,7427.2,42.86,60+,Female,Asia,Low,PhD
+83,HBR Guide to Leadership,330,31.95,17.84,10543.5,5887.2,4656.3,44.16,46-60,Non-Binary,Europe,Medium,MBA
+84,HBR Guide to Managing People,318,15.17,7.32,4824.06,2327.76,2496.3,51.75,26-35,Male,Europe,Low,PhD
+85,HBR Emotional Intelligence,688,40.95,26.34,28173.6,18121.92,10051.68,35.68,46-60,Non-Binary,North America,Medium,MBA
+86,HBR Guide to Data Analytics,193,23.89,11.21,4610.77,2163.53,2447.24,53.08,18-25,Male,Europe,Medium,PhD
+87,HBR Guide to Remote Work,640,10.24,6.6,6553.6,4224.0,2329.6,35.55,36-45,Male,North America,Low,Undergraduate
+88,HBR Emotional Intelligence,441,45.15,28.42,19911.15,12533.22,7377.93,37.05,18-25,Female,Asia,Medium,Undergraduate
+89,HBR Guide to Leadership,977,12.87,8.64,12573.99,8441.28,4132.71,32.87,60+,Male,Asia,Medium,Undergraduate
+90,HBR Guide to Finance Basics,426,16.79,7.4,7152.54,3152.4,4000.14,55.93,36-45,Female,Europe,Low,Graduate
+91,HBR Guide to Finance Basics,761,41.37,23.35,31482.57,17769.35,13713.22,43.56,36-45,Female,South America,Medium,Undergraduate
+92,HBR Guide to Project Management,268,48.4,26.07,12971.2,6986.76,5984.44,46.14,36-45,Female,Europe,Low,Graduate
+93,HBR Guide to Finance Basics,181,29.29,18.33,5301.49,3317.73,1983.76,37.42,60+,Male,Asia,Low,MBA
+94,HBR Emotional Intelligence,863,22.92,13.24,19779.96,11426.12,8353.84,42.23,60+,Female,North America,Low,PhD
+95,HBR Guide to Strategic Thinking,569,12.34,5.32,7021.46,3027.08,3994.38,56.89,36-45,Male,Africa,High,Undergraduate
+96,HBR Guide to Data Analytics,575,24.24,12.78,13938.0,7348.5,6589.5,47.28,26-35,Female,South America,High,Graduate
+97,HBR Guide to Strategic Thinking,210,45.18,31.06,9487.8,6522.6,2965.2,31.25,36-45,Male,North America,Low,PhD
+98,HBR Emotional Intelligence,308,33.08,16.47,10188.64,5072.76,5115.88,50.21,18-25,Non-Binary,Europe,Low,PhD
+99,HBR Guide to Leadership,983,45.58,24.3,44805.14,23886.9,20918.24,46.69,26-35,Female,Africa,High,PhD
+100,HBR Guide to Finance Basics,509,30.84,18.34,15697.56,9335.06,6362.5,40.53,46-60,Male,Europe,High,Undergraduate
+101,HBR Guide to Finance Basics,369,24.02,15.02,8863.38,5542.38,3321.0,37.47,26-35,Male,Europe,Medium,MBA
+102,HBR Guide to Managing People,409,13.0,7.05,5317.0,2883.45,2433.55,45.77,46-60,Non-Binary,Africa,Low,MBA
+103,HBR Guide to Leadership,906,39.38,21.1,35678.28,19116.6,16561.68,46.42,18-25,Male,South America,Low,Graduate
+104,HBR Guide to Managing People,837,38.1,26.22,31889.7,21946.14,9943.56,31.18,60+,Female,Africa,High,PhD
+105,HBR Guide to Data Analytics,504,43.62,27.5,21984.48,13860.0,8124.48,36.96,60+,Non-Binary,North America,Medium,MBA
+106,HBR Guide to Managing People,219,37.39,23.31,8188.41,5104.89,3083.52,37.66,18-25,Non-Binary,South America,Low,Undergraduate
+107,HBR Guide to Negotiation,117,45.28,23.91,5297.76,2797.47,2500.29,47.2,36-45,Female,Africa,Medium,PhD
+108,HBR Guide to Managing People,77,29.84,12.17,2297.68,937.09,1360.59,59.22,60+,Male,Africa,Medium,Undergraduate
+109,HBR Guide to Remote Work,943,39.33,22.99,37088.19,21679.57,15408.62,41.55,18-25,Female,Asia,Low,Undergraduate
+110,HBR Guide to Leadership,882,11.27,6.74,9940.14,5944.68,3995.46,40.2,46-60,Female,Europe,Low,Graduate
+111,HBR Guide to Negotiation,472,14.45,9.03,6820.4,4262.16,2558.24,37.51,36-45,Non-Binary,Africa,Medium,Undergraduate
+112,HBR Guide to Better Business Writing,496,31.32,20.51,15534.72,10172.96,5361.76,34.51,60+,Male,South America,High,MBA
+113,HBR Guide to Project Management,752,49.3,21.23,37073.6,15964.96,21108.64,56.94,26-35,Female,Europe,Low,PhD
+114,HBR Guide to Strategic Thinking,159,20.8,13.27,3307.2,2109.93,1197.27,36.2,18-25,Female,Africa,High,Undergraduate
+115,HBR Guide to Managing People,475,27.22,12.22,12929.5,5804.5,7125.0,55.11,46-60,Male,Africa,High,Undergraduate
+116,HBR Guide to Strategic Thinking,197,17.5,11.41,3447.5,2247.77,1199.73,34.8,46-60,Female,Asia,Low,MBA
+117,HBR Guide to Strategic Thinking,859,45.98,23.46,39496.82,20152.14,19344.68,48.98,26-35,Male,North America,Low,Graduate
+118,HBR Guide to Strategic Thinking,965,49.47,25.14,47738.55,24260.1,23478.45,49.18,26-35,Male,Europe,Low,Graduate
+119,HBR Guide to Data Analytics,731,32.72,19.49,23918.32,14247.19,9671.13,40.43,60+,Female,Africa,Low,Graduate
+120,HBR Guide to Better Business Writing,558,34.32,20.94,19150.56,11684.52,7466.04,38.99,36-45,Female,Asia,Low,MBA
+121,HBR Emotional Intelligence,498,22.29,12.53,11100.42,6239.94,4860.48,43.79,36-45,Male,Africa,High,PhD
+122,HBR Guide to Managing People,96,27.8,15.29,2668.8,1467.84,1200.96,45.0,46-60,Female,North America,High,PhD
+123,HBR Guide to Leadership,146,38.04,21.96,5553.84,3206.16,2347.68,42.27,60+,Male,South America,Low,Graduate
+124,HBR Guide to Strategic Thinking,219,35.64,22.95,7805.16,5026.05,2779.11,35.61,36-45,Male,Europe,Medium,PhD
+125,HBR Guide to Better Business Writing,934,44.82,19.46,41861.88,18175.64,23686.24,56.58,18-25,Female,Africa,High,MBA
+126,HBR Guide to Finance Basics,576,22.48,11.2,12948.48,6451.2,6497.28,50.18,18-25,Male,South America,High,Graduate
+127,HBR Guide to Leadership,90,48.26,30.72,4343.4,2764.8,1578.6,36.34,36-45,Male,Africa,Medium,PhD
+128,HBR Guide to Negotiation,674,10.93,4.83,7366.82,3255.42,4111.4,55.81,36-45,Non-Binary,North America,High,MBA
+129,HBR Guide to Managing People,130,41.37,25.3,5378.1,3289.0,2089.1,38.84,60+,Female,North America,Low,PhD
+130,HBR Guide to Better Business Writing,580,29.34,15.07,17017.2,8740.6,8276.6,48.64,60+,Female,Asia,High,PhD
+131,HBR Guide to Data Analytics,212,24.81,13.11,5259.72,2779.32,2480.4,47.16,60+,Male,Africa,Medium,PhD
+132,HBR Emotional Intelligence,633,21.72,13.96,13748.76,8836.68,4912.08,35.73,18-25,Non-Binary,Asia,High,Graduate
+133,HBR Guide to Managing People,398,42.67,24.95,16982.66,9930.1,7052.56,41.53,18-25,Male,Asia,Low,PhD
+134,HBR Guide to Project Management,857,11.96,6.88,10249.72,5896.16,4353.56,42.47,26-35,Male,Africa,High,PhD
+135,HBR Guide to Managing People,326,22.42,9.73,7308.92,3171.98,4136.94,56.6,36-45,Female,North America,High,Undergraduate
+136,HBR Guide to Negotiation,318,46.88,22.6,14907.84,7186.8,7721.04,51.79,18-25,Non-Binary,South America,Medium,PhD
+137,HBR Guide to Managing People,227,36.66,20.47,8321.82,4646.69,3675.13,44.16,36-45,Non-Binary,South America,Low,MBA
+138,HBR Guide to Negotiation,276,43.43,17.83,11986.68,4921.08,7065.6,58.95,26-35,Non-Binary,Africa,Low,MBA
+139,HBR Emotional Intelligence,343,29.76,14.41,10207.68,4942.63,5265.05,51.58,46-60,Non-Binary,South America,High,MBA
+140,HBR Emotional Intelligence,843,41.92,20.88,35338.56,17601.84,17736.72,50.19,18-25,Female,Europe,Medium,MBA
+141,HBR Emotional Intelligence,195,31.64,18.12,6169.8,3533.4,2636.4,42.73,60+,Female,South America,Medium,Graduate
+142,HBR Guide to Data Analytics,860,36.76,22.35,31613.6,19221.0,12392.6,39.2,36-45,Female,Africa,Medium,Graduate
+143,HBR Guide to Project Management,766,43.4,17.93,33244.4,13734.38,19510.02,58.69,36-45,Non-Binary,Europe,Low,Undergraduate
+144,HBR Guide to Leadership,175,44.51,18.82,7789.25,3293.5,4495.75,57.72,36-45,Female,Africa,High,Undergraduate
+145,HBR Guide to Leadership,57,48.72,29.96,2777.04,1707.72,1069.32,38.51,18-25,Female,Europe,High,MBA
+146,HBR Guide to Data Analytics,526,34.17,17.25,17973.42,9073.5,8899.92,49.52,18-25,Female,South America,Medium,MBA
+147,HBR Guide to Leadership,393,47.79,31.59,18781.47,12414.87,6366.6,33.9,26-35,Female,North America,High,Graduate
+148,HBR Guide to Leadership,633,41.07,25.5,25997.31,16141.5,9855.81,37.91,26-35,Non-Binary,Europe,High,Graduate
+149,HBR Guide to Project Management,457,28.53,12.54,13038.21,5730.78,7307.43,56.05,46-60,Female,North America,Medium,MBA
+150,HBR Guide to Data Analytics,263,25.56,14.07,6722.28,3700.41,3021.87,44.95,46-60,Non-Binary,North America,High,MBA
+151,HBR Guide to Leadership,675,18.37,9.24,12399.75,6237.0,6162.75,49.7,18-25,Female,Europe,Medium,Undergraduate
+152,HBR Guide to Data Analytics,638,25.88,17.04,16511.44,10871.52,5639.92,34.16,36-45,Non-Binary,Asia,High,MBA
+153,HBR Guide to Project Management,576,32.03,19.21,18449.28,11064.96,7384.32,40.02,36-45,Male,North America,High,MBA
+154,HBR Guide to Strategic Thinking,112,38.18,21.97,4276.16,2460.64,1815.52,42.46,36-45,Female,Africa,Low,MBA
+155,HBR Guide to Managing People,542,15.19,9.88,8232.98,5354.96,2878.02,34.96,26-35,Female,Asia,Low,Graduate
+156,HBR Guide to Strategic Thinking,122,40.52,24.35,4943.44,2970.7,1972.74,39.91,18-25,Non-Binary,Europe,Medium,Graduate
+157,HBR Guide to Finance Basics,819,13.66,8.42,11187.54,6895.98,4291.56,38.36,36-45,Non-Binary,Africa,High,PhD
+158,HBR Emotional Intelligence,479,11.89,7.87,5695.31,3769.73,1925.58,33.81,18-25,Non-Binary,North America,High,Graduate
+159,HBR Guide to Strategic Thinking,341,36.24,22.88,12357.84,7802.08,4555.76,36.87,46-60,Male,Asia,High,Graduate
+160,HBR Guide to Negotiation,254,29.46,12.33,7482.84,3131.82,4351.02,58.15,18-25,Male,Africa,Medium,MBA
+161,HBR Guide to Project Management,832,17.09,9.76,14218.88,8120.32,6098.56,42.89,18-25,Female,South America,Medium,PhD
+162,HBR Guide to Project Management,782,37.46,26.02,29293.72,20347.64,8946.08,30.54,36-45,Male,Europe,Medium,MBA
+163,HBR Guide to Managing People,832,11.02,5.01,9168.64,4168.32,5000.32,54.54,46-60,Male,Asia,Low,Undergraduate
+164,HBR Guide to Better Business Writing,85,37.01,22.07,3145.85,1875.95,1269.9,40.37,36-45,Male,Africa,Medium,PhD
+165,HBR Guide to Data Analytics,499,48.14,25.95,24021.86,12949.05,11072.81,46.09,46-60,Non-Binary,South America,Low,Undergraduate
+166,HBR Guide to Remote Work,936,43.68,17.96,40884.48,16810.56,24073.92,58.88,60+,Non-Binary,Europe,Low,Graduate
+167,HBR Guide to Negotiation,247,35.76,18.39,8832.72,4542.33,4290.39,48.57,60+,Female,North America,Low,Undergraduate
+168,HBR Guide to Remote Work,874,13.65,9.09,11930.1,7944.66,3985.44,33.41,26-35,Non-Binary,Africa,Low,PhD
+169,HBR Emotional Intelligence,995,29.82,14.71,29670.9,14636.45,15034.45,50.67,46-60,Female,Asia,Medium,PhD
+170,HBR Emotional Intelligence,839,15.31,7.2,12845.09,6040.8,6804.29,52.97,60+,Female,North America,High,Graduate
+171,HBR Emotional Intelligence,977,12.52,7.9,12232.04,7718.3,4513.74,36.9,26-35,Male,Asia,Low,PhD
+172,HBR Guide to Managing People,576,20.65,11.12,11894.4,6405.12,5489.28,46.15,26-35,Non-Binary,North America,Medium,Undergraduate
+173,HBR Emotional Intelligence,958,43.15,21.59,41337.7,20683.22,20654.48,49.97,60+,Male,Asia,Low,Undergraduate
+174,HBR Guide to Project Management,130,10.69,5.43,1389.7,705.9,683.8,49.2,18-25,Male,Africa,Low,MBA
+175,HBR Guide to Project Management,325,24.78,10.42,8053.5,3386.5,4667.0,57.95,26-35,Female,Asia,Medium,Graduate
+176,HBR Guide to Leadership,100,23.53,10.65,2353.0,1065.0,1288.0,54.74,26-35,Female,North America,Medium,Undergraduate
+177,HBR Emotional Intelligence,970,33.36,21.95,32359.2,21291.5,11067.7,34.2,18-25,Non-Binary,Africa,Medium,PhD
+178,HBR Guide to Data Analytics,351,44.65,23.0,15672.15,8073.0,7599.15,48.49,36-45,Male,South America,High,Graduate
+179,HBR Guide to Better Business Writing,102,43.78,23.61,4465.56,2408.22,2057.34,46.07,36-45,Non-Binary,South America,Low,Graduate
+180,HBR Guide to Finance Basics,86,16.98,10.17,1460.28,874.62,585.66,40.11,26-35,Female,North America,High,Graduate
+181,HBR Guide to Finance Basics,631,17.06,10.1,10764.86,6373.1,4391.76,40.8,36-45,Non-Binary,Asia,Low,MBA
+182,HBR Guide to Leadership,297,35.25,24.52,10469.25,7282.44,3186.81,30.44,46-60,Male,Asia,High,Undergraduate
+183,HBR Guide to Data Analytics,940,22.25,14.6,20915.0,13724.0,7191.0,34.38,36-45,Male,Asia,Low,MBA
+184,HBR Guide to Leadership,659,37.92,24.94,24989.28,16435.46,8553.82,34.23,60+,Female,Asia,Medium,Graduate
+185,HBR Guide to Managing People,644,22.33,9.92,14380.52,6388.48,7992.04,55.58,18-25,Male,Europe,High,Graduate
+186,HBR Guide to Leadership,818,18.96,9.88,15509.28,8081.84,7427.44,47.89,18-25,Non-Binary,North America,Medium,PhD
+187,HBR Guide to Finance Basics,758,39.64,17.24,30047.12,13067.92,16979.2,56.51,26-35,Male,North America,Medium,Undergraduate
+188,HBR Guide to Managing People,380,41.72,27.78,15853.6,10556.4,5297.2,33.41,60+,Non-Binary,Europe,High,MBA
+189,HBR Guide to Project Management,512,47.07,28.77,24099.84,14730.24,9369.6,38.88,60+,Non-Binary,Asia,High,Graduate
+190,HBR Guide to Strategic Thinking,70,10.95,5.38,766.5,376.6,389.9,50.87,18-25,Male,Europe,Medium,Graduate
+191,HBR Guide to Remote Work,960,22.97,13.81,22051.2,13257.6,8793.6,39.88,26-35,Non-Binary,South America,High,PhD
+192,HBR Emotional Intelligence,171,48.81,20.2,8346.51,3454.2,4892.31,58.62,18-25,Male,Asia,Low,PhD
+193,HBR Guide to Leadership,645,37.84,26.41,24406.8,17034.45,7372.35,30.21,60+,Male,Africa,Medium,MBA
+194,HBR Guide to Finance Basics,321,12.24,5.23,3929.04,1678.83,2250.21,57.27,46-60,Female,Africa,Medium,Undergraduate
+195,HBR Guide to Leadership,898,32.99,16.39,29625.02,14718.22,14906.8,50.32,46-60,Female,Asia,Medium,Graduate
+196,HBR Guide to Project Management,197,34.45,21.72,6786.65,4278.84,2507.81,36.95,26-35,Non-Binary,Asia,High,Graduate
+197,HBR Guide to Project Management,285,38.48,17.82,10966.8,5078.7,5888.1,53.69,36-45,Female,Europe,Medium,Undergraduate
+198,HBR Guide to Finance Basics,192,48.87,24.71,9383.04,4744.32,4638.72,49.44,46-60,Male,Africa,High,Graduate
+199,HBR Guide to Project Management,640,38.79,23.48,24825.6,15027.2,9798.4,39.47,60+,Female,North America,High,Undergraduate
+200,HBR Guide to Negotiation,181,27.26,16.08,4934.06,2910.48,2023.58,41.01,18-25,Male,North America,Medium,Graduate
+201,HBR Guide to Strategic Thinking,936,15.97,10.98,14947.92,10277.28,4670.64,31.25,18-25,Non-Binary,Asia,Low,PhD
+202,HBR Guide to Better Business Writing,833,48.9,30.54,40733.7,25439.82,15293.88,37.55,18-25,Non-Binary,North America,Low,Undergraduate
+203,HBR Guide to Finance Basics,680,15.8,7.51,10744.0,5106.8,5637.2,52.47,46-60,Non-Binary,Asia,Low,PhD
+204,HBR Guide to Strategic Thinking,693,30.61,13.45,21212.73,9320.85,11891.88,56.06,60+,Non-Binary,North America,High,Undergraduate
+205,HBR Guide to Managing People,631,44.84,19.95,28294.04,12588.45,15705.59,55.51,18-25,Non-Binary,North America,Low,PhD
+206,HBR Guide to Strategic Thinking,193,38.27,21.01,7386.11,4054.93,3331.18,45.1,36-45,Male,South America,High,Undergraduate
+207,HBR Guide to Data Analytics,119,35.44,24.15,4217.36,2873.85,1343.51,31.86,26-35,Male,Asia,Low,Graduate
+208,HBR Guide to Project Management,782,32.83,20.64,25673.06,16140.48,9532.58,37.13,26-35,Female,Europe,Medium,Undergraduate
+209,HBR Guide to Finance Basics,148,43.96,22.62,6506.08,3347.76,3158.32,48.54,60+,Non-Binary,South America,Low,Undergraduate
+210,HBR Guide to Project Management,541,33.79,21.3,18280.39,11523.3,6757.09,36.96,60+,Male,Europe,Medium,PhD
+211,HBR Emotional Intelligence,485,24.37,10.19,11819.45,4942.15,6877.3,58.19,26-35,Male,South America,Medium,Graduate
+212,HBR Emotional Intelligence,548,46.24,19.82,25339.52,10861.36,14478.16,57.14,36-45,Female,Europe,Low,PhD
+213,HBR Guide to Remote Work,252,42.85,18.64,10798.2,4697.28,6100.92,56.5,46-60,Female,South America,High,PhD
+214,HBR Guide to Data Analytics,308,37.36,19.06,11506.88,5870.48,5636.4,48.98,36-45,Non-Binary,Europe,High,PhD
+215,HBR Guide to Data Analytics,305,32.01,16.61,9763.05,5066.05,4697.0,48.11,26-35,Male,South America,Low,PhD
+216,HBR Guide to Negotiation,229,22.61,9.97,5177.69,2283.13,2894.56,55.9,60+,Male,Europe,High,MBA
+217,HBR Guide to Finance Basics,173,20.72,8.33,3584.56,1441.09,2143.47,59.8,26-35,Male,North America,Medium,PhD
+218,HBR Guide to Strategic Thinking,451,45.93,28.53,20714.43,12867.03,7847.4,37.88,26-35,Female,Africa,High,Undergraduate
+219,HBR Guide to Project Management,146,31.28,16.45,4566.88,2401.7,2165.18,47.41,36-45,Male,Asia,High,Graduate
+220,HBR Guide to Leadership,986,31.71,17.33,31266.06,17087.38,14178.68,45.35,18-25,Male,Africa,High,Undergraduate
+221,HBR Guide to Leadership,456,23.86,9.78,10880.16,4459.68,6420.48,59.01,36-45,Non-Binary,Asia,Medium,Undergraduate
+222,HBR Guide to Strategic Thinking,492,11.83,7.46,5820.36,3670.32,2150.04,36.94,36-45,Male,South America,High,Undergraduate
+223,HBR Guide to Remote Work,917,36.4,23.92,33378.8,21934.64,11444.16,34.29,18-25,Non-Binary,North America,High,Graduate
+224,HBR Guide to Project Management,333,16.07,6.93,5351.31,2307.69,3043.62,56.88,26-35,Non-Binary,Africa,Medium,Graduate
+225,HBR Guide to Strategic Thinking,624,37.05,22.43,23119.2,13996.32,9122.88,39.46,60+,Non-Binary,South America,Low,Graduate
+226,HBR Guide to Negotiation,58,31.04,17.83,1800.32,1034.14,766.18,42.56,36-45,Female,Africa,High,Graduate
+227,HBR Guide to Managing People,563,11.44,4.61,6440.72,2595.43,3845.29,59.7,26-35,Female,Europe,High,PhD
+228,HBR Guide to Negotiation,937,32.28,17.41,30246.36,16313.17,13933.19,46.07,46-60,Male,Asia,High,MBA
+229,HBR Guide to Data Analytics,134,46.15,25.88,6184.1,3467.92,2716.18,43.92,60+,Male,North America,High,Graduate
+230,HBR Guide to Better Business Writing,130,35.55,14.35,4621.5,1865.5,2756.0,59.63,18-25,Non-Binary,Europe,Medium,Undergraduate
+231,HBR Guide to Leadership,803,29.55,12.04,23728.65,9668.12,14060.53,59.26,60+,Male,Asia,Medium,MBA
+232,HBR Guide to Strategic Thinking,201,37.09,19.74,7455.09,3967.74,3487.35,46.78,46-60,Female,Europe,High,MBA
+233,HBR Guide to Data Analytics,282,25.84,16.32,7286.88,4602.24,2684.64,36.84,18-25,Female,South America,Medium,MBA
+234,HBR Guide to Project Management,62,38.07,19.83,2360.34,1229.46,1130.88,47.91,60+,Non-Binary,Africa,High,Undergraduate
+235,HBR Guide to Finance Basics,298,33.85,17.55,10087.3,5229.9,4857.4,48.15,26-35,Non-Binary,Asia,High,MBA
+236,HBR Guide to Strategic Thinking,69,49.17,23.97,3392.73,1653.93,1738.8,51.25,36-45,Female,South America,High,Undergraduate
+237,HBR Emotional Intelligence,883,12.78,6.26,11284.74,5527.58,5757.16,51.02,36-45,Non-Binary,North America,Low,PhD
+238,HBR Guide to Negotiation,64,47.89,23.83,3064.96,1525.12,1539.84,50.24,60+,Male,Africa,Low,PhD
+239,HBR Guide to Strategic Thinking,604,15.37,8.1,9283.48,4892.4,4391.08,47.3,18-25,Male,Asia,Low,Undergraduate
+240,HBR Guide to Data Analytics,528,23.87,15.55,12603.36,8210.4,4392.96,34.86,18-25,Female,Europe,Medium,Undergraduate
+241,HBR Guide to Strategic Thinking,239,24.37,10.14,5824.43,2423.46,3400.97,58.39,46-60,Non-Binary,Africa,Low,Graduate
+242,HBR Guide to Finance Basics,616,25.23,13.02,15541.68,8020.32,7521.36,48.39,18-25,Male,Europe,High,Undergraduate
+243,HBR Guide to Leadership,771,30.66,20.84,23638.86,16067.64,7571.22,32.03,46-60,Non-Binary,Europe,Medium,Graduate
+244,HBR Guide to Data Analytics,429,49.67,28.97,21308.43,12428.13,8880.3,41.68,60+,Male,North America,Medium,MBA
+245,HBR Emotional Intelligence,586,35.88,23.04,21025.68,13501.44,7524.24,35.79,26-35,Non-Binary,Africa,Low,MBA
+246,HBR Guide to Remote Work,288,12.71,5.89,3660.48,1696.32,1964.16,53.66,46-60,Female,Europe,Low,Undergraduate
+247,HBR Guide to Finance Basics,743,31.26,13.28,23226.18,9867.04,13359.14,57.52,18-25,Male,North America,Low,PhD
+248,HBR Guide to Finance Basics,938,14.78,7.41,13863.64,6950.58,6913.06,49.86,46-60,Male,Europe,High,Graduate
+249,HBR Guide to Finance Basics,808,16.91,10.09,13663.28,8152.72,5510.56,40.33,60+,Non-Binary,Asia,Low,PhD
+250,HBR Guide to Finance Basics,344,47.83,21.72,16453.52,7471.68,8981.84,54.59,26-35,Male,Asia,High,Graduate
+251,HBR Emotional Intelligence,97,44.87,28.23,4352.39,2738.31,1614.08,37.08,18-25,Female,Asia,High,Undergraduate
+252,HBR Guide to Strategic Thinking,523,35.63,19.29,18634.49,10088.67,8545.82,45.86,46-60,Female,Africa,High,Undergraduate
+253,HBR Guide to Remote Work,361,44.04,17.8,15898.44,6425.8,9472.64,59.58,46-60,Male,South America,Low,MBA
+254,HBR Guide to Finance Basics,825,33.18,18.37,27373.5,15155.25,12218.25,44.64,36-45,Male,Europe,Medium,Graduate
+255,HBR Guide to Strategic Thinking,996,10.37,5.7,10328.52,5677.2,4651.32,45.03,46-60,Non-Binary,Africa,Medium,MBA
+256,HBR Guide to Strategic Thinking,669,40.07,21.35,26806.83,14283.15,12523.68,46.72,18-25,Non-Binary,Asia,Medium,Graduate
+257,HBR Guide to Data Analytics,84,31.94,22.08,2682.96,1854.72,828.24,30.87,26-35,Non-Binary,Europe,Low,Undergraduate
+258,HBR Guide to Strategic Thinking,370,13.61,8.95,5035.7,3311.5,1724.2,34.24,18-25,Non-Binary,Europe,Medium,MBA
+259,HBR Guide to Managing People,343,35.01,21.95,12008.43,7528.85,4479.58,37.3,46-60,Male,Asia,Medium,PhD
+260,HBR Guide to Better Business Writing,538,28.78,18.87,15483.64,10152.06,5331.58,34.43,36-45,Female,Africa,Medium,Graduate
+261,HBR Guide to Leadership,961,22.58,13.65,21699.38,13117.65,8581.73,39.55,18-25,Female,South America,High,Graduate
+262,HBR Guide to Project Management,777,11.16,7.7,8671.32,5982.9,2688.42,31.0,46-60,Female,North America,High,MBA
+263,HBR Guide to Data Analytics,238,11.97,7.16,2848.86,1704.08,1144.78,40.18,46-60,Female,North America,Low,PhD
+264,HBR Guide to Better Business Writing,597,44.19,17.99,26381.43,10740.03,15641.4,59.29,18-25,Male,South America,Medium,PhD
+265,HBR Guide to Leadership,440,42.9,17.28,18876.0,7603.2,11272.8,59.72,18-25,Non-Binary,Asia,Medium,MBA
+266,HBR Guide to Strategic Thinking,372,11.65,6.7,4333.8,2492.4,1841.4,42.49,18-25,Non-Binary,Africa,Medium,Undergraduate
+267,HBR Guide to Data Analytics,466,34.12,14.37,15899.92,6696.42,9203.5,57.88,36-45,Female,Africa,Medium,Undergraduate
+268,HBR Guide to Project Management,88,23.34,15.95,2053.92,1403.6,650.32,31.66,26-35,Female,Europe,High,Graduate
+269,HBR Guide to Data Analytics,823,30.61,16.18,25192.03,13316.14,11875.89,47.14,26-35,Non-Binary,Europe,High,MBA
+270,HBR Guide to Data Analytics,504,31.65,21.8,15951.6,10987.2,4964.4,31.12,36-45,Female,North America,Medium,MBA
+271,HBR Guide to Managing People,647,14.96,6.6,9679.12,4270.2,5408.92,55.88,36-45,Male,Europe,Low,Graduate
+272,HBR Guide to Negotiation,359,34.26,16.77,12299.34,6020.43,6278.91,51.05,26-35,Non-Binary,Europe,Low,PhD
+273,HBR Guide to Remote Work,990,28.01,13.85,27729.9,13711.5,14018.4,50.55,26-35,Male,North America,Low,Graduate
+274,HBR Guide to Finance Basics,842,28.76,16.14,24215.92,13589.88,10626.04,43.88,26-35,Non-Binary,Europe,Medium,PhD
+275,HBR Guide to Remote Work,747,34.38,19.63,25681.86,14663.61,11018.25,42.9,18-25,Female,South America,Low,MBA
+276,HBR Emotional Intelligence,778,42.52,21.72,33080.56,16898.16,16182.4,48.92,18-25,Non-Binary,Africa,Medium,Graduate
+277,HBR Guide to Project Management,949,31.9,17.2,30273.1,16322.8,13950.3,46.08,46-60,Non-Binary,Asia,Medium,Graduate
+278,HBR Guide to Strategic Thinking,75,41.34,22.39,3100.5,1679.25,1421.25,45.84,26-35,Female,South America,High,MBA
+279,HBR Guide to Strategic Thinking,832,34.87,20.71,29011.84,17230.72,11781.12,40.61,36-45,Non-Binary,Europe,High,MBA
+280,HBR Guide to Project Management,968,39.16,15.71,37906.88,15207.28,22699.6,59.88,26-35,Female,South America,Medium,PhD
+281,HBR Guide to Better Business Writing,545,28.07,11.62,15298.15,6332.9,8965.25,58.6,36-45,Male,Asia,Medium,Undergraduate
+282,HBR Guide to Better Business Writing,708,43.87,22.56,31059.96,15972.48,15087.48,48.58,18-25,Male,Europe,High,MBA
+283,HBR Emotional Intelligence,300,30.74,12.65,9222.0,3795.0,5427.0,58.85,26-35,Male,Europe,Medium,Graduate
+284,HBR Guide to Managing People,871,40.48,27.69,35258.08,24117.99,11140.09,31.6,36-45,Female,Africa,Medium,PhD
+285,HBR Guide to Leadership,764,42.57,17.3,32523.48,13217.2,19306.28,59.36,60+,Male,North America,High,PhD
+286,HBR Emotional Intelligence,987,27.37,16.61,27014.19,16394.07,10620.12,39.31,60+,Female,Asia,Low,PhD
+287,HBR Guide to Project Management,191,25.18,12.0,4809.38,2292.0,2517.38,52.34,26-35,Male,Asia,Low,Graduate
+288,HBR Guide to Managing People,99,16.32,11.39,1615.68,1127.61,488.07,30.21,18-25,Male,Asia,High,PhD
+289,HBR Guide to Better Business Writing,76,46.99,25.98,3571.24,1974.48,1596.76,44.71,46-60,Non-Binary,Europe,Medium,MBA
+290,HBR Guide to Managing People,108,27.0,15.88,2916.0,1715.04,1200.96,41.19,26-35,Male,South America,High,MBA
+291,HBR Guide to Leadership,115,11.4,6.24,1311.0,717.6,593.4,45.26,60+,Non-Binary,North America,Medium,Undergraduate
+292,HBR Emotional Intelligence,287,16.23,9.63,4658.01,2763.81,1894.2,40.67,36-45,Female,Africa,Medium,PhD
+293,HBR Guide to Data Analytics,864,16.38,10.73,14152.32,9270.72,4881.6,34.49,26-35,Female,South America,High,Undergraduate
+294,HBR Guide to Data Analytics,521,41.32,27.0,21527.72,14067.0,7460.72,34.66,46-60,Female,North America,Low,Graduate
+295,HBR Guide to Strategic Thinking,311,34.85,14.11,10838.35,4388.21,6450.14,59.51,36-45,Non-Binary,Europe,Low,MBA
+296,HBR Guide to Project Management,159,28.2,18.28,4483.8,2906.52,1577.28,35.18,36-45,Non-Binary,North America,Medium,MBA
+297,HBR Guide to Better Business Writing,74,17.46,10.26,1292.04,759.24,532.8,41.24,46-60,Non-Binary,Europe,High,Undergraduate
+298,HBR Guide to Managing People,285,45.83,31.35,13061.55,8934.75,4126.8,31.6,26-35,Male,Africa,High,MBA
+299,HBR Guide to Leadership,869,11.94,5.96,10375.86,5179.24,5196.62,50.08,46-60,Non-Binary,North America,Medium,MBA
+300,HBR Guide to Finance Basics,358,25.37,14.18,9082.46,5076.44,4006.02,44.11,60+,Non-Binary,Africa,Medium,Undergraduate
+301,HBR Guide to Project Management,798,28.99,18.65,23134.02,14882.7,8251.32,35.67,46-60,Male,South America,Low,Undergraduate
+302,HBR Guide to Leadership,709,34.86,18.81,24715.74,13336.29,11379.45,46.04,26-35,Male,South America,Low,Graduate
+303,HBR Guide to Managing People,833,31.8,19.41,26489.4,16168.53,10320.87,38.96,60+,Non-Binary,Asia,Medium,MBA
+304,HBR Guide to Leadership,999,10.84,4.77,10829.16,4765.23,6063.93,56.0,26-35,Female,Europe,High,Graduate
+305,HBR Guide to Project Management,801,12.39,6.54,9924.39,5238.54,4685.85,47.22,60+,Non-Binary,Asia,Low,Undergraduate
+306,HBR Guide to Strategic Thinking,960,44.62,18.14,42835.2,17414.4,25420.8,59.35,18-25,Female,South America,Medium,Graduate
+307,HBR Guide to Leadership,689,37.43,20.88,25789.27,14386.32,11402.95,44.22,26-35,Female,Europe,Medium,MBA
+308,HBR Guide to Leadership,144,30.03,20.16,4324.32,2903.04,1421.28,32.87,46-60,Female,South America,Medium,MBA
+309,HBR Guide to Strategic Thinking,244,33.64,15.43,8208.16,3764.92,4443.24,54.13,60+,Female,North America,High,PhD
+310,HBR Guide to Leadership,91,26.93,13.12,2450.63,1193.92,1256.71,51.28,60+,Female,South America,High,Undergraduate
+311,HBR Guide to Data Analytics,767,42.16,23.35,32336.72,17909.45,14427.27,44.62,18-25,Non-Binary,Asia,Low,Graduate
+312,HBR Guide to Negotiation,360,25.98,12.32,9352.8,4435.2,4917.6,52.58,18-25,Female,South America,Medium,MBA
+313,HBR Guide to Better Business Writing,760,11.07,6.58,8413.2,5000.8,3412.4,40.56,36-45,Non-Binary,North America,Medium,PhD
+314,HBR Guide to Leadership,733,43.44,29.18,31841.52,21388.94,10452.58,32.83,60+,Non-Binary,South America,Medium,PhD
+315,HBR Guide to Negotiation,818,23.05,13.9,18854.9,11370.2,7484.7,39.7,26-35,Non-Binary,Africa,Medium,Undergraduate
+316,HBR Guide to Strategic Thinking,308,37.47,17.75,11540.76,5467.0,6073.76,52.63,18-25,Female,Europe,Medium,MBA
+317,HBR Guide to Remote Work,711,45.65,20.41,32457.15,14511.51,17945.64,55.29,46-60,Male,Africa,Low,Undergraduate
+318,HBR Guide to Leadership,396,31.46,16.58,12458.16,6565.68,5892.48,47.3,60+,Female,Asia,Medium,Undergraduate
+319,HBR Guide to Strategic Thinking,283,26.74,12.39,7567.42,3506.37,4061.05,53.66,18-25,Male,Asia,High,Graduate
+320,HBR Guide to Remote Work,361,25.12,16.92,9068.32,6108.12,2960.2,32.64,36-45,Male,South America,Low,Undergraduate
+321,HBR Guide to Strategic Thinking,610,30.46,18.41,18580.6,11230.1,7350.5,39.56,18-25,Female,Africa,High,PhD
+322,HBR Guide to Leadership,546,19.73,11.92,10772.58,6508.32,4264.26,39.58,46-60,Female,Asia,Low,Undergraduate
+323,HBR Guide to Project Management,549,30.56,14.73,16777.44,8086.77,8690.67,51.8,36-45,Male,Europe,High,Undergraduate
+324,HBR Emotional Intelligence,245,21.69,10.77,5314.05,2638.65,2675.4,50.35,26-35,Non-Binary,South America,High,Graduate
+325,HBR Guide to Project Management,125,27.39,13.6,3423.75,1700.0,1723.75,50.35,46-60,Male,Europe,Medium,Undergraduate
+326,HBR Emotional Intelligence,430,40.3,26.91,17329.0,11571.3,5757.7,33.23,60+,Male,Africa,Low,Graduate
+327,HBR Guide to Better Business Writing,359,47.66,27.12,17109.94,9736.08,7373.86,43.1,60+,Male,Asia,High,PhD
+328,HBR Guide to Strategic Thinking,347,10.61,4.47,3681.67,1551.09,2130.58,57.87,60+,Non-Binary,North America,High,MBA
+329,HBR Guide to Finance Basics,918,35.05,19.67,32175.9,18057.06,14118.84,43.88,26-35,Female,North America,High,Undergraduate
+330,HBR Guide to Finance Basics,74,36.0,22.48,2664.0,1663.52,1000.48,37.56,60+,Male,Asia,Medium,PhD
+331,HBR Guide to Data Analytics,245,33.24,17.68,8143.8,4331.6,3812.2,46.81,46-60,Non-Binary,North America,Low,MBA
+332,HBR Guide to Managing People,67,33.46,13.46,2241.82,901.82,1340.0,59.77,26-35,Female,South America,Medium,Undergraduate
+333,HBR Guide to Strategic Thinking,298,20.48,13.24,6103.04,3945.52,2157.52,35.35,26-35,Non-Binary,South America,High,MBA
+334,HBR Guide to Finance Basics,253,20.93,13.78,5295.29,3486.34,1808.95,34.16,18-25,Non-Binary,Africa,Low,PhD
+335,HBR Guide to Leadership,451,44.83,29.49,20218.33,13299.99,6918.34,34.22,60+,Male,Asia,Low,MBA
+336,HBR Guide to Leadership,830,24.78,12.33,20567.4,10233.9,10333.5,50.24,46-60,Non-Binary,North America,Medium,Undergraduate
+337,HBR Guide to Data Analytics,793,26.49,17.01,21006.57,13488.93,7517.64,35.79,26-35,Non-Binary,Africa,Low,MBA
+338,HBR Guide to Better Business Writing,957,12.45,8.11,11914.65,7761.27,4153.38,34.86,18-25,Female,North America,Medium,Graduate
+339,HBR Guide to Strategic Thinking,785,26.26,17.47,20614.1,13713.95,6900.15,33.47,18-25,Non-Binary,Asia,Low,Graduate
+340,HBR Guide to Project Management,411,41.82,17.35,17188.02,7130.85,10057.17,58.51,46-60,Female,Europe,Medium,PhD
+341,HBR Guide to Data Analytics,609,28.45,16.96,17326.05,10328.64,6997.41,40.39,36-45,Non-Binary,South America,High,Graduate
+342,HBR Guide to Managing People,68,37.02,17.24,2517.36,1172.32,1345.04,53.43,46-60,Male,South America,Medium,Undergraduate
+343,HBR Guide to Better Business Writing,320,40.54,23.32,12972.8,7462.4,5510.4,42.48,18-25,Male,North America,Medium,Graduate
+344,HBR Guide to Leadership,864,29.7,14.75,25660.8,12744.0,12916.8,50.34,18-25,Non-Binary,Africa,Low,PhD
+345,HBR Emotional Intelligence,526,28.01,13.62,14733.26,7164.12,7569.14,51.37,18-25,Male,Europe,High,Graduate
+346,HBR Emotional Intelligence,419,38.92,22.02,16307.48,9226.38,7081.1,43.42,36-45,Non-Binary,North America,High,Undergraduate
+347,HBR Guide to Data Analytics,130,17.74,12.1,2306.2,1573.0,733.2,31.79,26-35,Female,South America,Low,Undergraduate
+348,HBR Guide to Managing People,278,18.87,9.23,5245.86,2565.94,2679.92,51.09,26-35,Male,Africa,Medium,PhD
+349,HBR Guide to Better Business Writing,433,22.0,13.39,9526.0,5797.87,3728.13,39.14,60+,Non-Binary,North America,Low,Graduate
+350,HBR Guide to Leadership,903,11.92,7.11,10763.76,6420.33,4343.43,40.35,18-25,Male,North America,Low,Graduate
+351,HBR Guide to Managing People,751,19.42,11.85,14584.42,8899.35,5685.07,38.98,60+,Female,Africa,High,Graduate
+352,HBR Guide to Leadership,459,22.24,10.64,10208.16,4883.76,5324.4,52.16,60+,Non-Binary,Asia,Low,Graduate
+353,HBR Guide to Remote Work,705,25.18,13.98,17751.9,9855.9,7896.0,44.48,18-25,Male,South America,Low,MBA
+354,HBR Guide to Strategic Thinking,173,45.75,18.92,7914.75,3273.16,4641.59,58.64,36-45,Male,Europe,Low,MBA
+355,HBR Guide to Managing People,164,46.12,18.84,7563.68,3089.76,4473.92,59.15,60+,Non-Binary,North America,Low,MBA
+356,HBR Guide to Managing People,462,49.99,31.54,23095.38,14571.48,8523.9,36.91,46-60,Female,Asia,Medium,Graduate
+357,HBR Guide to Strategic Thinking,401,27.01,17.63,10831.01,7069.63,3761.38,34.73,26-35,Non-Binary,Asia,Low,Graduate
+358,HBR Guide to Negotiation,521,30.54,13.74,15911.34,7158.54,8752.8,55.01,60+,Female,Europe,Low,Graduate
+359,HBR Guide to Project Management,399,47.2,32.68,18832.8,13039.32,5793.48,30.76,46-60,Male,Asia,Medium,Undergraduate
+360,HBR Guide to Strategic Thinking,502,33.03,14.02,16581.06,7038.04,9543.02,57.55,26-35,Male,Asia,High,Undergraduate
+361,HBR Guide to Project Management,153,31.25,18.5,4781.25,2830.5,1950.75,40.8,60+,Male,Europe,Low,Undergraduate
+362,HBR Guide to Remote Work,402,23.67,9.88,9515.34,3971.76,5543.58,58.26,26-35,Female,Asia,Medium,MBA
+363,HBR Guide to Managing People,540,25.55,16.47,13797.0,8893.8,4903.2,35.54,36-45,Non-Binary,Africa,High,MBA
+364,HBR Guide to Data Analytics,951,16.17,9.61,15377.67,9139.11,6238.56,40.57,60+,Female,Asia,High,Graduate
+365,HBR Guide to Project Management,637,47.46,20.21,30232.02,12873.77,17358.25,57.42,26-35,Non-Binary,North America,Low,Undergraduate
+366,HBR Emotional Intelligence,838,29.03,18.9,24327.14,15838.2,8488.94,34.89,46-60,Non-Binary,Europe,High,PhD
+367,HBR Guide to Leadership,969,37.33,21.5,36172.77,20833.5,15339.27,42.41,26-35,Female,Asia,Low,PhD
+368,HBR Guide to Project Management,158,44.23,23.98,6988.34,3788.84,3199.5,45.78,36-45,Male,South America,Low,Undergraduate
+369,HBR Guide to Strategic Thinking,825,43.78,23.92,36118.5,19734.0,16384.5,45.36,18-25,Non-Binary,Africa,Low,PhD
+370,HBR Guide to Better Business Writing,425,35.55,23.65,15108.75,10051.25,5057.5,33.47,60+,Female,North America,High,Graduate
+371,HBR Guide to Better Business Writing,801,38.9,16.86,31158.9,13504.86,17654.04,56.66,26-35,Female,North America,Medium,Undergraduate
+372,HBR Guide to Better Business Writing,963,49.39,31.56,47562.57,30392.28,17170.29,36.1,46-60,Female,South America,Low,Graduate
+373,HBR Guide to Managing People,124,42.57,21.99,5278.68,2726.76,2551.92,48.34,36-45,Male,Europe,Medium,PhD
+374,HBR Guide to Better Business Writing,656,11.03,4.92,7235.68,3227.52,4008.16,55.39,18-25,Female,Asia,Low,PhD
+375,HBR Guide to Project Management,549,39.93,27.38,21921.57,15031.62,6889.95,31.43,26-35,Male,North America,Medium,Undergraduate
+376,HBR Guide to Remote Work,172,45.43,23.23,7813.96,3995.56,3818.4,48.87,46-60,Non-Binary,Africa,Low,PhD
+377,HBR Emotional Intelligence,104,23.49,10.17,2442.96,1057.68,1385.28,56.7,60+,Male,Asia,Low,Undergraduate
+378,HBR Guide to Finance Basics,309,19.9,12.12,6149.1,3745.08,2404.02,39.1,46-60,Non-Binary,North America,High,Undergraduate
+379,HBR Emotional Intelligence,582,20.21,11.37,11762.22,6617.34,5144.88,43.74,46-60,Non-Binary,Europe,Low,Undergraduate
+380,HBR Guide to Finance Basics,118,32.58,19.51,3844.44,2302.18,1542.26,40.12,60+,Female,Europe,Low,Undergraduate
+381,HBR Guide to Managing People,353,35.88,19.29,12665.64,6809.37,5856.27,46.24,60+,Female,Europe,Low,Graduate
+382,HBR Guide to Remote Work,246,33.79,23.32,8312.34,5736.72,2575.62,30.99,26-35,Male,South America,Low,Graduate
+383,HBR Guide to Data Analytics,932,43.9,17.89,40914.8,16673.48,24241.32,59.25,26-35,Non-Binary,Africa,Medium,Graduate
+384,HBR Guide to Strategic Thinking,396,25.76,16.98,10200.96,6724.08,3476.88,34.08,26-35,Non-Binary,South America,Low,PhD
+385,HBR Guide to Strategic Thinking,954,34.26,21.02,32684.04,20053.08,12630.96,38.65,18-25,Male,North America,High,Graduate
+386,HBR Guide to Project Management,390,11.46,6.39,4469.4,2492.1,1977.3,44.24,18-25,Non-Binary,Africa,Low,Graduate
+387,HBR Emotional Intelligence,698,44.96,28.62,31382.08,19976.76,11405.32,36.34,36-45,Male,South America,High,Undergraduate
+388,HBR Guide to Strategic Thinking,176,42.7,29.59,7515.2,5207.84,2307.36,30.7,36-45,Non-Binary,South America,Medium,Undergraduate
+389,HBR Guide to Better Business Writing,755,11.93,7.22,9007.15,5451.1,3556.05,39.48,36-45,Non-Binary,Europe,Medium,MBA
+390,HBR Guide to Leadership,922,16.61,11.12,15314.42,10252.64,5061.78,33.05,46-60,Female,South America,High,MBA
+391,HBR Emotional Intelligence,989,40.03,25.13,39589.67,24853.57,14736.1,37.22,60+,Female,North America,Low,Graduate
+392,HBR Guide to Finance Basics,510,34.15,23.33,17416.5,11898.3,5518.2,31.68,36-45,Male,North America,Medium,Undergraduate
+393,HBR Guide to Remote Work,176,40.2,25.25,7075.2,4444.0,2631.2,37.19,18-25,Male,Asia,Low,MBA
+394,HBR Guide to Leadership,304,20.62,8.74,6268.48,2656.96,3611.52,57.61,60+,Non-Binary,North America,Low,MBA
+395,HBR Guide to Strategic Thinking,705,44.99,25.21,31717.95,17773.05,13944.9,43.97,60+,Male,Africa,Low,Graduate
+396,HBR Guide to Finance Basics,51,22.62,11.8,1153.62,601.8,551.82,47.83,18-25,Non-Binary,North America,Low,MBA
+397,HBR Guide to Leadership,487,47.13,26.76,22952.31,13032.12,9920.19,43.22,36-45,Female,Asia,High,Undergraduate
+398,HBR Guide to Better Business Writing,950,44.79,27.68,42550.5,26296.0,16254.5,38.2,60+,Female,North America,Low,Undergraduate
+399,HBR Guide to Data Analytics,959,49.35,27.43,47326.65,26305.37,21021.28,44.42,26-35,Female,Africa,Low,Graduate
+400,HBR Guide to Strategic Thinking,877,11.72,7.33,10278.44,6428.41,3850.03,37.46,60+,Non-Binary,North America,High,MBA
+401,HBR Guide to Remote Work,545,19.41,13.42,10578.45,7313.9,3264.55,30.86,36-45,Non-Binary,Asia,High,Graduate
+402,HBR Guide to Data Analytics,433,44.0,28.62,19052.0,12392.46,6659.54,34.95,36-45,Female,North America,High,Undergraduate
+403,HBR Guide to Managing People,64,28.38,17.06,1816.32,1091.84,724.48,39.89,26-35,Male,Africa,High,PhD
+404,HBR Guide to Remote Work,760,30.57,20.32,23233.2,15443.2,7790.0,33.53,26-35,Female,Europe,Low,PhD
+405,HBR Guide to Managing People,695,19.79,7.97,13754.05,5539.15,8214.9,59.73,26-35,Male,South America,Medium,MBA
+406,HBR Guide to Negotiation,203,18.88,11.68,3832.64,2371.04,1461.6,38.14,18-25,Non-Binary,Asia,Medium,Undergraduate
+407,HBR Guide to Finance Basics,983,27.84,17.12,27366.72,16828.96,10537.76,38.51,18-25,Male,Asia,Low,Graduate
+408,HBR Guide to Project Management,128,46.91,21.34,6004.48,2731.52,3272.96,54.51,60+,Male,South America,High,Graduate
+409,HBR Guide to Data Analytics,520,25.4,11.7,13208.0,6084.0,7124.0,53.94,36-45,Male,Africa,High,MBA
+410,HBR Guide to Remote Work,58,30.09,20.3,1745.22,1177.4,567.82,32.54,46-60,Male,Asia,Medium,Graduate
+411,HBR Guide to Strategic Thinking,835,22.94,15.1,19154.9,12608.5,6546.4,34.18,36-45,Non-Binary,Asia,Low,PhD
+412,HBR Guide to Strategic Thinking,531,31.23,21.86,16583.13,11607.66,4975.47,30.0,18-25,Male,Europe,Medium,Undergraduate
+413,HBR Guide to Finance Basics,245,21.84,14.06,5350.8,3444.7,1906.1,35.62,46-60,Male,Asia,High,Undergraduate
+414,HBR Guide to Data Analytics,381,31.93,14.35,12165.33,5467.35,6697.98,55.06,18-25,Female,Africa,Low,Undergraduate
+415,HBR Guide to Managing People,735,35.64,21.13,26195.4,15530.55,10664.85,40.71,60+,Female,Europe,Low,PhD
+416,HBR Guide to Managing People,574,37.92,18.03,21766.08,10349.22,11416.86,52.45,36-45,Non-Binary,Europe,High,Graduate
+417,HBR Emotional Intelligence,938,12.8,5.18,12006.4,4858.84,7147.56,59.53,26-35,Male,Europe,Medium,MBA
+418,HBR Guide to Remote Work,834,47.28,23.24,39431.52,19382.16,20049.36,50.85,60+,Non-Binary,North America,High,Graduate
+419,HBR Guide to Remote Work,736,28.42,15.32,20917.12,11275.52,9641.6,46.09,26-35,Non-Binary,South America,Medium,MBA
+420,HBR Guide to Finance Basics,875,10.32,6.3,9030.0,5512.5,3517.5,38.95,60+,Female,South America,Medium,MBA
+421,HBR Guide to Remote Work,855,27.55,14.18,23555.25,12123.9,11431.35,48.53,18-25,Non-Binary,Asia,High,MBA
+422,HBR Guide to Remote Work,222,28.33,14.22,6289.26,3156.84,3132.42,49.81,36-45,Male,South America,High,Undergraduate
+423,HBR Emotional Intelligence,378,40.21,19.63,15199.38,7420.14,7779.24,51.18,36-45,Male,North America,Low,Undergraduate
+424,HBR Emotional Intelligence,637,37.93,23.65,24161.41,15065.05,9096.36,37.65,18-25,Non-Binary,Africa,Low,MBA
+425,HBR Guide to Data Analytics,709,26.88,16.61,19057.92,11776.49,7281.43,38.21,60+,Non-Binary,North America,High,MBA
+426,HBR Guide to Finance Basics,947,39.12,25.49,37046.64,24139.03,12907.61,34.84,18-25,Male,Africa,Low,Graduate
+427,HBR Guide to Remote Work,119,43.95,25.81,5230.05,3071.39,2158.66,41.27,60+,Non-Binary,Africa,Medium,PhD
+428,HBR Guide to Strategic Thinking,939,16.31,9.63,15315.09,9042.57,6272.52,40.96,60+,Female,South America,High,PhD
+429,HBR Guide to Strategic Thinking,695,22.85,15.91,15880.75,11057.45,4823.3,30.37,36-45,Non-Binary,Europe,Low,MBA
+430,HBR Guide to Project Management,984,24.4,14.71,24009.6,14474.64,9534.96,39.71,18-25,Non-Binary,South America,Low,Undergraduate
+431,HBR Guide to Strategic Thinking,272,35.73,15.84,9718.56,4308.48,5410.08,55.67,60+,Male,Africa,Medium,Graduate
+432,HBR Guide to Negotiation,844,48.1,26.5,40596.4,22366.0,18230.4,44.91,46-60,Male,Africa,High,PhD
+433,HBR Guide to Better Business Writing,219,35.68,16.14,7813.92,3534.66,4279.26,54.76,26-35,Female,Europe,Medium,MBA
+434,HBR Guide to Negotiation,155,45.17,22.56,7001.35,3496.8,3504.55,50.06,18-25,Male,Europe,High,MBA
+435,HBR Guide to Project Management,977,37.68,22.93,36813.36,22402.61,14410.75,39.15,26-35,Female,North America,Low,Graduate
+436,HBR Guide to Leadership,303,14.52,10.1,4399.56,3060.3,1339.26,30.44,18-25,Male,Asia,Low,Undergraduate
+437,HBR Guide to Leadership,509,17.23,7.79,8770.07,3965.11,4804.96,54.79,60+,Female,South America,Medium,PhD
+438,HBR Guide to Remote Work,288,17.35,11.14,4996.8,3208.32,1788.48,35.79,46-60,Non-Binary,Europe,Low,Undergraduate
+439,HBR Guide to Data Analytics,191,24.87,16.81,4750.17,3210.71,1539.46,32.41,36-45,Female,Africa,Low,MBA
+440,HBR Guide to Finance Basics,588,37.38,16.18,21979.44,9513.84,12465.6,56.71,60+,Female,North America,High,MBA
+441,HBR Guide to Strategic Thinking,385,10.45,7.01,4023.25,2698.85,1324.4,32.92,18-25,Female,North America,Low,Undergraduate
+442,HBR Guide to Managing People,70,10.16,6.52,711.2,456.4,254.8,35.83,26-35,Non-Binary,Asia,Medium,PhD
+443,HBR Guide to Remote Work,544,32.22,16.23,17527.68,8829.12,8698.56,49.63,26-35,Male,Asia,High,MBA
+444,HBR Guide to Finance Basics,178,19.0,10.49,3382.0,1867.22,1514.78,44.79,36-45,Female,Asia,Medium,Undergraduate
+445,HBR Guide to Strategic Thinking,507,18.79,8.38,9526.53,4248.66,5277.87,55.4,36-45,Male,Europe,Medium,MBA
+446,HBR Guide to Better Business Writing,630,14.86,8.79,9361.8,5537.7,3824.1,40.85,46-60,Female,North America,Low,PhD
+447,HBR Guide to Finance Basics,221,24.41,11.5,5394.61,2541.5,2853.11,52.89,46-60,Non-Binary,Europe,Low,Undergraduate
+448,HBR Guide to Project Management,518,16.36,9.34,8474.48,4838.12,3636.36,42.91,26-35,Non-Binary,Asia,High,MBA
+449,HBR Guide to Remote Work,544,11.71,7.77,6370.24,4226.88,2143.36,33.65,36-45,Non-Binary,Africa,Low,MBA
+450,HBR Guide to Leadership,249,31.93,21.61,7950.57,5380.89,2569.68,32.32,18-25,Female,Asia,Medium,PhD
+451,HBR Emotional Intelligence,842,48.9,23.65,41173.8,19913.3,21260.5,51.64,18-25,Non-Binary,Africa,Low,Undergraduate
+452,HBR Guide to Better Business Writing,179,49.73,26.32,8901.67,4711.28,4190.39,47.07,18-25,Female,Africa,High,PhD
+453,HBR Guide to Negotiation,723,13.05,8.55,9435.15,6181.65,3253.5,34.48,60+,Male,South America,Low,Graduate
+454,HBR Guide to Finance Basics,229,31.14,16.51,7131.06,3780.79,3350.27,46.98,60+,Female,North America,Low,Graduate
+455,HBR Guide to Managing People,459,48.55,29.22,22284.45,13411.98,8872.47,39.81,36-45,Male,Europe,Medium,Graduate
+456,HBR Guide to Strategic Thinking,778,49.46,27.16,38479.88,21130.48,17349.4,45.09,36-45,Female,Europe,Low,MBA
+457,HBR Guide to Strategic Thinking,383,33.47,15.95,12819.01,6108.85,6710.16,52.35,46-60,Female,North America,Medium,PhD
+458,HBR Guide to Project Management,752,45.16,30.92,33960.32,23251.84,10708.48,31.53,18-25,Non-Binary,North America,Low,PhD
+459,HBR Guide to Negotiation,666,30.77,13.19,20492.82,8784.54,11708.28,57.13,18-25,Non-Binary,Europe,Low,Graduate
+460,HBR Emotional Intelligence,182,44.53,24.54,8104.46,4466.28,3638.18,44.89,18-25,Female,South America,Low,PhD
+461,HBR Emotional Intelligence,983,32.25,16.84,31701.75,16553.72,15148.03,47.78,60+,Non-Binary,Africa,Medium,Graduate
+462,HBR Guide to Remote Work,299,27.32,12.01,8168.68,3590.99,4577.69,56.04,60+,Non-Binary,Asia,Low,Graduate
+463,HBR Emotional Intelligence,561,42.71,23.8,23960.31,13351.8,10608.51,44.28,36-45,Male,South America,Low,MBA
+464,HBR Guide to Strategic Thinking,337,47.84,25.91,16122.08,8731.67,7390.41,45.84,46-60,Male,Asia,High,MBA
+465,HBR Guide to Better Business Writing,417,14.12,7.16,5888.04,2985.72,2902.32,49.29,46-60,Non-Binary,North America,Low,MBA
+466,HBR Guide to Leadership,104,21.32,10.99,2217.28,1142.96,1074.32,48.45,46-60,Non-Binary,Europe,Low,Undergraduate
+467,HBR Guide to Finance Basics,662,17.03,10.1,11273.86,6686.2,4587.66,40.69,36-45,Female,Europe,High,Undergraduate
+468,HBR Guide to Better Business Writing,215,26.91,14.94,5785.65,3212.1,2573.55,44.48,36-45,Female,Asia,Medium,MBA
+469,HBR Guide to Remote Work,322,15.21,6.46,4897.62,2080.12,2817.5,57.53,36-45,Non-Binary,Africa,High,Graduate
+470,HBR Guide to Managing People,906,49.1,31.7,44484.6,28720.2,15764.4,35.44,36-45,Non-Binary,Africa,Low,Undergraduate
+471,HBR Guide to Finance Basics,417,48.85,30.11,20370.45,12555.87,7814.58,38.36,26-35,Non-Binary,Europe,Medium,Graduate
+472,HBR Guide to Finance Basics,512,33.94,14.91,17377.28,7633.92,9743.36,56.07,46-60,Non-Binary,South America,High,MBA
+473,HBR Guide to Project Management,120,17.59,11.65,2110.8,1398.0,712.8,33.77,26-35,Male,South America,Medium,Undergraduate
+474,HBR Guide to Better Business Writing,124,20.91,11.5,2592.84,1426.0,1166.84,45.0,46-60,Non-Binary,South America,Low,PhD
+475,HBR Guide to Finance Basics,441,16.68,11.45,7355.88,5049.45,2306.43,31.35,26-35,Male,North America,High,Graduate
+476,HBR Guide to Negotiation,806,35.32,19.01,28467.92,15322.06,13145.86,46.18,26-35,Male,Asia,Medium,Undergraduate
+477,HBR Guide to Project Management,841,17.71,7.35,14894.11,6181.35,8712.76,58.5,60+,Male,Asia,High,Undergraduate
+478,HBR Guide to Leadership,773,31.11,18.62,24048.03,14393.26,9654.77,40.15,60+,Female,North America,Medium,Undergraduate
+479,HBR Guide to Remote Work,689,38.21,25.42,26326.69,17514.38,8812.31,33.47,46-60,Male,North America,Medium,MBA
+480,HBR Guide to Remote Work,514,33.99,23.4,17470.86,12027.6,5443.26,31.16,60+,Male,Asia,Medium,Graduate
+481,HBR Guide to Strategic Thinking,800,35.71,21.36,28568.0,17088.0,11480.0,40.18,18-25,Female,Europe,Medium,PhD
+482,HBR Guide to Managing People,998,11.5,7.53,11477.0,7514.94,3962.06,34.52,46-60,Non-Binary,South America,Low,MBA
+483,HBR Guide to Remote Work,687,35.74,19.94,24553.38,13698.78,10854.6,44.21,26-35,Male,Africa,Low,PhD
+484,HBR Guide to Strategic Thinking,452,25.75,14.37,11639.0,6495.24,5143.76,44.19,26-35,Female,North America,Medium,Undergraduate
+485,HBR Guide to Data Analytics,363,37.85,20.8,13739.55,7550.4,6189.15,45.05,46-60,Female,Asia,High,PhD
+486,HBR Guide to Data Analytics,548,44.43,27.29,24347.64,14954.92,9392.72,38.58,60+,Female,South America,Medium,Undergraduate
+487,HBR Guide to Managing People,407,45.0,29.93,18315.0,12181.51,6133.49,33.49,46-60,Non-Binary,Africa,High,Graduate
+488,HBR Guide to Data Analytics,366,20.84,11.02,7627.44,4033.32,3594.12,47.12,60+,Non-Binary,Africa,Low,Graduate
+489,HBR Guide to Leadership,595,12.42,8.37,7389.9,4980.15,2409.75,32.61,18-25,Male,Africa,Medium,Undergraduate
+490,HBR Guide to Strategic Thinking,898,49.26,27.68,44235.48,24856.64,19378.84,43.81,46-60,Male,Africa,High,Graduate
+491,HBR Guide to Better Business Writing,982,23.03,15.93,22615.46,15643.26,6972.2,30.83,46-60,Female,Europe,Low,Graduate
+492,HBR Emotional Intelligence,645,32.71,21.21,21097.95,13680.45,7417.5,35.16,60+,Male,North America,Medium,Undergraduate
+493,HBR Guide to Leadership,460,10.98,6.04,5050.8,2778.4,2272.4,44.99,18-25,Male,South America,High,Undergraduate
+494,HBR Guide to Better Business Writing,384,11.74,6.93,4508.16,2661.12,1847.04,40.97,36-45,Female,Africa,Medium,Undergraduate
+495,HBR Guide to Finance Basics,983,45.09,20.56,44323.47,20210.48,24112.99,54.4,60+,Non-Binary,Africa,High,PhD
+496,HBR Guide to Managing People,250,35.12,24.04,8780.0,6010.0,2770.0,31.55,18-25,Male,Africa,High,PhD
+497,HBR Guide to Finance Basics,531,18.53,10.9,9839.43,5787.9,4051.53,41.18,36-45,Non-Binary,South America,Medium,Graduate
+498,HBR Emotional Intelligence,344,33.65,16.36,11575.6,5627.84,5947.76,51.38,36-45,Non-Binary,North America,Low,PhD
+499,HBR Guide to Data Analytics,673,11.39,6.55,7665.47,4408.15,3257.32,42.49,36-45,Non-Binary,North America,High,PhD
+500,HBR Guide to Data Analytics,654,38.45,26.07,25146.3,17049.78,8096.52,32.2,18-25,Non-Binary,South America,High,MBA
