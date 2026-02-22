@@ -1,0 +1,1001 @@
+Reader_ID,Age_Group,Gender,Country,Book_Purchased
+0,46-60,Male,USA,A Journeyman to Grief
+1,46-60,Female,USA,Night's Child
+2,36-45,Female,Canada,A Journeyman to Grief
+3,26-35,Female,Australia,Under the Dragon's Tail
+4,26-35,Male,Germany,Under the Dragon's Tail
+5,46-60,Male,Australia,A Journeyman to Grief
+6,46-60,Female,USA,Except the Dying
+7,46-60,Male,Australia,Under the Dragon's Tail
+8,26-35,Female,Germany,Under the Dragon's Tail
+9,26-35,Male,UK,Let Loose the Dogs
+10,46-60,Male,Germany,Under the Dragon's Tail
+11,60+,Female,Canada,Let Darkness Bury the Dead
+12,60+,Female,Canada,Let Darkness Bury the Dead
+13,18-25,Female,Australia,Shipwreck
+14,36-45,Male,USA,Poor Tom is Cold
+15,18-25,Female,UK,A Journeyman to Grief
+16,26-35,Male,Canada,Shipwreck
+17,46-60,Male,Germany,Poor Tom is Cold
+18,46-60,Female,USA,Poor Tom is Cold
+19,18-25,Male,USA,Except the Dying
+20,60+,Female,USA,Let Darkness Bury the Dead
+21,26-35,Male,Germany,Poor Tom is Cold
+22,18-25,Male,Australia,Night's Child
+23,60+,Female,Germany,Let Loose the Dogs
+24,60+,Male,USA,Poor Tom is Cold
+25,46-60,Female,Germany,Let Darkness Bury the Dead
+26,60+,Female,Australia,Let Loose the Dogs
+27,36-45,Male,Australia,Let Darkness Bury the Dead
+28,18-25,Male,USA,Let Darkness Bury the Dead
+29,46-60,Male,USA,A Journeyman to Grief
+30,36-45,Male,Germany,Except the Dying
+31,36-45,Male,USA,Vices of My Blood
+32,18-25,Male,Canada,Let Loose the Dogs
+33,46-60,Male,UK,Poor Tom is Cold
+34,18-25,Male,Canada,Except the Dying
+35,26-35,Female,Germany,Except the Dying
+36,18-25,Male,UK,Night's Child
+37,46-60,Male,Australia,A Journeyman to Grief
+38,36-45,Male,Canada,Vices of My Blood
+39,60+,Female,USA,Except the Dying
+40,18-25,Male,Germany,Poor Tom is Cold
+41,46-60,Male,Australia,Poor Tom is Cold
+42,26-35,Female,USA,Let Loose the Dogs
+43,46-60,Female,UK,Shipwreck
+44,18-25,Female,Canada,Let Darkness Bury the Dead
+45,26-35,Female,UK,Poor Tom is Cold
+46,46-60,Male,Canada,Let Loose the Dogs
+47,46-60,Male,Canada,Night's Child
+48,60+,Female,Canada,Let Darkness Bury the Dead
+49,36-45,Female,USA,Let Loose the Dogs
+50,18-25,Female,USA,Except the Dying
+51,46-60,Female,Australia,Poor Tom is Cold
+52,18-25,Female,Germany,Under the Dragon's Tail
+53,26-35,Female,USA,Let Darkness Bury the Dead
+54,46-60,Female,Canada,Night's Child
+55,46-60,Male,USA,Except the Dying
+56,18-25,Female,USA,Poor Tom is Cold
+57,60+,Female,USA,Under the Dragon's Tail
+58,60+,Female,Australia,Except the Dying
+59,60+,Male,USA,Let Loose the Dogs
+60,36-45,Female,Canada,Night's Child
+61,36-45,Female,Germany,Shipwreck
+62,60+,Male,Germany,Poor Tom is Cold
+63,46-60,Female,Germany,Night's Child
+64,18-25,Male,UK,Let Darkness Bury the Dead
+65,26-35,Female,UK,Poor Tom is Cold
+66,26-35,Female,UK,Under the Dragon's Tail
+67,26-35,Female,Canada,Let Darkness Bury the Dead
+68,36-45,Female,Germany,A Journeyman to Grief
+69,26-35,Female,Canada,Shipwreck
+70,60+,Male,Canada,Let Loose the Dogs
+71,60+,Male,Australia,Poor Tom is Cold
+72,46-60,Female,USA,Let Darkness Bury the Dead
+73,26-35,Female,Germany,Vices of My Blood
+74,26-35,Female,Canada,Let Loose the Dogs
+75,26-35,Female,USA,Night's Child
+76,18-25,Female,Australia,Night's Child
+77,46-60,Female,Australia,Poor Tom is Cold
+78,46-60,Male,UK,Poor Tom is Cold
+79,18-25,Male,USA,A Journeyman to Grief
+80,26-35,Male,Germany,A Journeyman to Grief
+81,18-25,Female,Canada,Except the Dying
+82,26-35,Male,Canada,Shipwreck
+83,60+,Male,Germany,A Journeyman to Grief
+84,60+,Female,USA,Poor Tom is Cold
+85,60+,Male,Germany,Night's Child
+86,18-25,Male,Australia,Night's Child
+87,46-60,Male,UK,Night's Child
+88,46-60,Male,Germany,A Journeyman to Grief
+89,26-35,Female,Germany,Let Loose the Dogs
+90,26-35,Male,UK,Poor Tom is Cold
+91,26-35,Female,Germany,Let Loose the Dogs
+92,26-35,Male,USA,Let Loose the Dogs
+93,46-60,Male,Australia,Except the Dying
+94,18-25,Female,USA,Night's Child
+95,46-60,Male,Canada,Shipwreck
+96,26-35,Male,Germany,Under the Dragon's Tail
+97,60+,Male,USA,A Journeyman to Grief
+98,18-25,Female,Germany,Under the Dragon's Tail
+99,36-45,Male,Australia,Night's Child
+100,26-35,Female,Germany,Shipwreck
+101,46-60,Male,Germany,Let Darkness Bury the Dead
+102,46-60,Male,Canada,Shipwreck
+103,36-45,Other,Australia,Under the Dragon's Tail
+104,18-25,Female,Germany,Except the Dying
+105,60+,Female,USA,Let Darkness Bury the Dead
+106,18-25,Female,Australia,Let Darkness Bury the Dead
+107,60+,Female,Canada,Let Loose the Dogs
+108,46-60,Other,USA,Let Darkness Bury the Dead
+109,46-60,Other,Australia,Poor Tom is Cold
+110,26-35,Female,Germany,Night's Child
+111,36-45,Female,Australia,Night's Child
+112,46-60,Female,Canada,A Journeyman to Grief
+113,60+,Female,UK,A Journeyman to Grief
+114,26-35,Male,Germany,Under the Dragon's Tail
+115,46-60,Female,UK,Except the Dying
+116,60+,Female,Germany,Shipwreck
+117,26-35,Male,USA,Under the Dragon's Tail
+118,60+,Female,USA,Shipwreck
+119,60+,Male,Australia,Except the Dying
+120,18-25,Female,Australia,Vices of My Blood
+121,46-60,Male,Germany,Vices of My Blood
+122,36-45,Male,USA,A Journeyman to Grief
+123,36-45,Male,UK,Let Loose the Dogs
+124,46-60,Female,Canada,A Journeyman to Grief
+125,18-25,Female,Australia,Let Darkness Bury the Dead
+126,46-60,Male,Canada,Vices of My Blood
+127,60+,Other,Australia,Night's Child
+128,60+,Other,Germany,Let Loose the Dogs
+129,36-45,Female,Canada,Under the Dragon's Tail
+130,18-25,Male,Canada,Night's Child
+131,36-45,Female,Canada,Shipwreck
+132,46-60,Male,Germany,Shipwreck
+133,26-35,Male,UK,Shipwreck
+134,26-35,Male,Australia,Night's Child
+135,18-25,Male,USA,Vices of My Blood
+136,18-25,Male,Germany,Let Loose the Dogs
+137,60+,Female,Germany,Poor Tom is Cold
+138,60+,Female,USA,Night's Child
+139,18-25,Male,UK,Night's Child
+140,18-25,Female,UK,Except the Dying
+141,36-45,Female,Canada,Vices of My Blood
+142,36-45,Female,Germany,Except the Dying
+143,26-35,Male,Canada,Night's Child
+144,46-60,Female,Germany,Vices of My Blood
+145,36-45,Female,Germany,Night's Child
+146,60+,Female,USA,Except the Dying
+147,60+,Female,Canada,Poor Tom is Cold
+148,60+,Female,Canada,Except the Dying
+149,26-35,Male,UK,Under the Dragon's Tail
+150,36-45,Female,Australia,Except the Dying
+151,46-60,Female,USA,Let Darkness Bury the Dead
+152,18-25,Male,Germany,Night's Child
+153,26-35,Female,Australia,Under the Dragon's Tail
+154,26-35,Female,USA,Poor Tom is Cold
+155,26-35,Male,Canada,Shipwreck
+156,46-60,Male,UK,Poor Tom is Cold
+157,18-25,Female,Australia,Shipwreck
+158,18-25,Female,Australia,Let Loose the Dogs
+159,60+,Other,Germany,Under the Dragon's Tail
+160,60+,Male,USA,Poor Tom is Cold
+161,18-25,Female,USA,Vices of My Blood
+162,46-60,Male,Canada,Poor Tom is Cold
+163,36-45,Female,UK,Poor Tom is Cold
+164,36-45,Female,UK,Vices of My Blood
+165,60+,Female,Germany,Let Darkness Bury the Dead
+166,46-60,Male,UK,Except the Dying
+167,26-35,Female,Canada,Let Darkness Bury the Dead
+168,18-25,Female,USA,Except the Dying
+169,26-35,Female,Canada,Poor Tom is Cold
+170,60+,Other,UK,A Journeyman to Grief
+171,26-35,Female,USA,Shipwreck
+172,36-45,Female,USA,Under the Dragon's Tail
+173,26-35,Male,USA,Let Darkness Bury the Dead
+174,60+,Male,Canada,Except the Dying
+175,26-35,Female,Canada,Except the Dying
+176,60+,Female,Australia,Poor Tom is Cold
+177,18-25,Female,Australia,Vices of My Blood
+178,26-35,Female,Canada,Poor Tom is Cold
+179,26-35,Male,Australia,Under the Dragon's Tail
+180,36-45,Male,Germany,Vices of My Blood
+181,60+,Female,Germany,Vices of My Blood
+182,60+,Male,Australia,Shipwreck
+183,18-25,Male,USA,Shipwreck
+184,60+,Other,UK,Let Loose the Dogs
+185,46-60,Female,Canada,Shipwreck
+186,36-45,Female,UK,Shipwreck
+187,26-35,Male,Australia,Night's Child
+188,26-35,Male,USA,Let Loose the Dogs
+189,18-25,Female,Australia,Except the Dying
+190,26-35,Female,Germany,Let Loose the Dogs
+191,60+,Female,Canada,Vices of My Blood
+192,26-35,Female,Germany,A Journeyman to Grief
+193,26-35,Other,Germany,Shipwreck
+194,26-35,Male,Germany,Let Darkness Bury the Dead
+195,18-25,Male,USA,Except the Dying
+196,60+,Female,Australia,Under the Dragon's Tail
+197,60+,Female,Canada,Under the Dragon's Tail
+198,46-60,Male,Canada,Shipwreck
+199,46-60,Female,USA,Let Darkness Bury the Dead
+200,60+,Male,USA,Night's Child
+201,60+,Female,USA,Let Loose the Dogs
+202,18-25,Female,Canada,Under the Dragon's Tail
+203,36-45,Female,Canada,A Journeyman to Grief
+204,18-25,Male,Canada,A Journeyman to Grief
+205,26-35,Female,USA,A Journeyman to Grief
+206,36-45,Male,USA,A Journeyman to Grief
+207,36-45,Male,Australia,Except the Dying
+208,46-60,Female,USA,Let Loose the Dogs
+209,60+,Male,Canada,Night's Child
+210,36-45,Female,Australia,Vices of My Blood
+211,26-35,Female,USA,Except the Dying
+212,60+,Male,Australia,Shipwreck
+213,46-60,Male,Germany,Shipwreck
+214,60+,Female,Australia,Under the Dragon's Tail
+215,36-45,Female,USA,Let Loose the Dogs
+216,46-60,Female,USA,Night's Child
+217,46-60,Male,UK,Shipwreck
+218,26-35,Female,Australia,Shipwreck
+219,26-35,Female,Australia,Let Loose the Dogs
+220,46-60,Female,Germany,Shipwreck
+221,26-35,Female,UK,Let Darkness Bury the Dead
+222,36-45,Female,Canada,Vices of My Blood
+223,36-45,Female,Germany,Night's Child
+224,26-35,Female,Canada,Except the Dying
+225,36-45,Female,Germany,Let Darkness Bury the Dead
+226,60+,Male,Australia,Let Darkness Bury the Dead
+227,60+,Female,USA,Let Loose the Dogs
+228,18-25,Female,UK,A Journeyman to Grief
+229,26-35,Female,USA,Except the Dying
+230,36-45,Male,USA,Poor Tom is Cold
+231,18-25,Female,Germany,Shipwreck
+232,18-25,Male,USA,Vices of My Blood
+233,26-35,Male,Germany,Except the Dying
+234,18-25,Other,Canada,Let Loose the Dogs
+235,46-60,Female,Canada,A Journeyman to Grief
+236,18-25,Male,USA,Shipwreck
+237,36-45,Male,Germany,Except the Dying
+238,60+,Male,USA,Under the Dragon's Tail
+239,18-25,Female,UK,Under the Dragon's Tail
+240,46-60,Female,USA,Let Loose the Dogs
+241,18-25,Male,USA,Poor Tom is Cold
+242,26-35,Male,Australia,Under the Dragon's Tail
+243,60+,Male,Canada,A Journeyman to Grief
+244,36-45,Male,USA,Shipwreck
+245,18-25,Female,USA,Poor Tom is Cold
+246,18-25,Female,UK,Poor Tom is Cold
+247,36-45,Other,Australia,Night's Child
+248,60+,Male,UK,A Journeyman to Grief
+249,26-35,Male,Germany,Poor Tom is Cold
+250,60+,Female,Germany,Under the Dragon's Tail
+251,26-35,Female,Germany,Let Loose the Dogs
+252,36-45,Male,UK,Poor Tom is Cold
+253,46-60,Female,Germany,Vices of My Blood
+254,18-25,Male,Australia,Poor Tom is Cold
+255,46-60,Other,Australia,Shipwreck
+256,18-25,Female,USA,A Journeyman to Grief
+257,18-25,Female,Canada,Let Darkness Bury the Dead
+258,26-35,Female,Canada,Vices of My Blood
+259,36-45,Male,UK,Under the Dragon's Tail
+260,60+,Male,UK,Night's Child
+261,26-35,Female,UK,Except the Dying
+262,60+,Female,UK,A Journeyman to Grief
+263,60+,Male,Germany,Let Darkness Bury the Dead
+264,36-45,Female,Australia,Let Darkness Bury the Dead
+265,60+,Male,Germany,Except the Dying
+266,26-35,Male,UK,Under the Dragon's Tail
+267,46-60,Other,Canada,Poor Tom is Cold
+268,60+,Female,UK,Night's Child
+269,36-45,Male,Australia,Except the Dying
+270,36-45,Male,USA,Vices of My Blood
+271,26-35,Male,Germany,Shipwreck
+272,18-25,Male,Australia,Poor Tom is Cold
+273,36-45,Female,Canada,Under the Dragon's Tail
+274,18-25,Female,Germany,Let Darkness Bury the Dead
+275,18-25,Male,Canada,Let Darkness Bury the Dead
+276,60+,Female,UK,Let Darkness Bury the Dead
+277,36-45,Female,Germany,Poor Tom is Cold
+278,26-35,Male,Germany,Except the Dying
+279,60+,Female,Canada,A Journeyman to Grief
+280,18-25,Male,USA,Shipwreck
+281,60+,Female,Germany,Vices of My Blood
+282,18-25,Female,Australia,Let Darkness Bury the Dead
+283,60+,Female,UK,A Journeyman to Grief
+284,18-25,Male,Germany,Vices of My Blood
+285,26-35,Male,Germany,A Journeyman to Grief
+286,18-25,Male,UK,A Journeyman to Grief
+287,60+,Female,Australia,A Journeyman to Grief
+288,36-45,Male,UK,A Journeyman to Grief
+289,18-25,Female,USA,Under the Dragon's Tail
+290,36-45,Female,UK,A Journeyman to Grief
+291,46-60,Female,Canada,Let Loose the Dogs
+292,60+,Female,Germany,Under the Dragon's Tail
+293,18-25,Female,UK,Under the Dragon's Tail
+294,36-45,Female,USA,A Journeyman to Grief
+295,60+,Female,USA,A Journeyman to Grief
+296,46-60,Male,Canada,Night's Child
+297,46-60,Female,Australia,Let Darkness Bury the Dead
+298,26-35,Male,Australia,Night's Child
+299,18-25,Male,USA,Shipwreck
+300,26-35,Male,Germany,Let Darkness Bury the Dead
+301,18-25,Female,Canada,Except the Dying
+302,18-25,Female,Australia,Night's Child
+303,60+,Male,Australia,Vices of My Blood
+304,36-45,Female,UK,Let Darkness Bury the Dead
+305,46-60,Male,Australia,Vices of My Blood
+306,60+,Female,UK,Under the Dragon's Tail
+307,18-25,Male,Canada,Poor Tom is Cold
+308,60+,Male,Canada,Let Darkness Bury the Dead
+309,36-45,Female,Canada,Poor Tom is Cold
+310,26-35,Female,Canada,Shipwreck
+311,36-45,Female,Germany,Shipwreck
+312,60+,Female,Canada,Let Loose the Dogs
+313,60+,Male,Canada,Shipwreck
+314,36-45,Male,Germany,Let Darkness Bury the Dead
+315,36-45,Other,Australia,Let Darkness Bury the Dead
+316,18-25,Female,USA,Under the Dragon's Tail
+317,46-60,Male,USA,Night's Child
+318,26-35,Female,Germany,Night's Child
+319,60+,Female,Germany,Poor Tom is Cold
+320,26-35,Female,UK,Shipwreck
+321,36-45,Female,Canada,Vices of My Blood
+322,36-45,Female,Australia,Except the Dying
+323,36-45,Female,Canada,Let Darkness Bury the Dead
+324,60+,Female,USA,Vices of My Blood
+325,46-60,Male,USA,Let Darkness Bury the Dead
+326,36-45,Female,UK,Night's Child
+327,26-35,Female,Germany,A Journeyman to Grief
+328,26-35,Male,USA,Except the Dying
+329,18-25,Female,UK,Shipwreck
+330,60+,Female,USA,A Journeyman to Grief
+331,26-35,Male,UK,Night's Child
+332,60+,Female,Australia,Let Loose the Dogs
+333,26-35,Female,Canada,Vices of My Blood
+334,18-25,Female,Canada,Vices of My Blood
+335,26-35,Male,UK,Under the Dragon's Tail
+336,60+,Male,USA,Poor Tom is Cold
+337,46-60,Female,Germany,Except the Dying
+338,36-45,Male,UK,Under the Dragon's Tail
+339,26-35,Other,Canada,Poor Tom is Cold
+340,60+,Female,Germany,Let Loose the Dogs
+341,26-35,Female,Australia,Vices of My Blood
+342,36-45,Male,Canada,Shipwreck
+343,46-60,Female,Germany,Let Loose the Dogs
+344,36-45,Male,USA,Except the Dying
+345,26-35,Female,UK,Poor Tom is Cold
+346,18-25,Female,Australia,Under the Dragon's Tail
+347,46-60,Female,Australia,Let Darkness Bury the Dead
+348,18-25,Male,USA,Under the Dragon's Tail
+349,46-60,Male,Germany,Night's Child
+350,46-60,Other,Australia,Let Darkness Bury the Dead
+351,18-25,Female,Australia,Let Loose the Dogs
+352,18-25,Male,Canada,Vices of My Blood
+353,60+,Male,USA,Except the Dying
+354,60+,Male,UK,Vices of My Blood
+355,36-45,Female,Canada,Vices of My Blood
+356,18-25,Male,USA,Shipwreck
+357,18-25,Male,Canada,Vices of My Blood
+358,46-60,Female,UK,Shipwreck
+359,26-35,Male,UK,Except the Dying
+360,18-25,Female,Canada,Let Loose the Dogs
+361,26-35,Male,UK,Vices of My Blood
+362,26-35,Female,UK,Under the Dragon's Tail
+363,26-35,Male,Canada,Shipwreck
+364,36-45,Male,USA,Vices of My Blood
+365,18-25,Female,Canada,Under the Dragon's Tail
+366,46-60,Female,UK,Let Loose the Dogs
+367,36-45,Female,USA,Let Loose the Dogs
+368,46-60,Female,UK,Poor Tom is Cold
+369,18-25,Male,USA,Under the Dragon's Tail
+370,46-60,Male,Germany,Let Darkness Bury the Dead
+371,60+,Female,USA,A Journeyman to Grief
+372,46-60,Female,Germany,A Journeyman to Grief
+373,60+,Female,USA,Under the Dragon's Tail
+374,26-35,Female,Germany,Shipwreck
+375,18-25,Female,Australia,Poor Tom is Cold
+376,36-45,Male,Canada,A Journeyman to Grief
+377,46-60,Male,Germany,Shipwreck
+378,46-60,Female,Australia,Let Loose the Dogs
+379,46-60,Male,Canada,Poor Tom is Cold
+380,18-25,Male,Germany,Under the Dragon's Tail
+381,46-60,Female,UK,Let Loose the Dogs
+382,26-35,Other,UK,Vices of My Blood
+383,60+,Male,Germany,Under the Dragon's Tail
+384,60+,Female,USA,Shipwreck
+385,46-60,Female,UK,Under the Dragon's Tail
+386,60+,Female,Germany,Let Darkness Bury the Dead
+387,46-60,Male,Canada,Let Loose the Dogs
+388,26-35,Male,Canada,Let Darkness Bury the Dead
+389,18-25,Male,USA,Night's Child
+390,60+,Male,Australia,Shipwreck
+391,46-60,Other,USA,Poor Tom is Cold
+392,26-35,Male,Australia,Let Darkness Bury the Dead
+393,18-25,Male,USA,Except the Dying
+394,18-25,Male,Australia,Let Darkness Bury the Dead
+395,36-45,Female,Germany,Night's Child
+396,18-25,Female,Australia,Shipwreck
+397,46-60,Female,Australia,Let Loose the Dogs
+398,26-35,Other,Canada,Night's Child
+399,46-60,Male,Canada,A Journeyman to Grief
+400,36-45,Female,Germany,Night's Child
+401,18-25,Female,Australia,Let Loose the Dogs
+402,60+,Female,USA,Under the Dragon's Tail
+403,18-25,Female,Canada,A Journeyman to Grief
+404,36-45,Female,Australia,Vices of My Blood
+405,46-60,Male,Germany,Let Loose the Dogs
+406,26-35,Male,UK,Night's Child
+407,18-25,Female,Germany,Vices of My Blood
+408,60+,Other,UK,Except the Dying
+409,26-35,Male,UK,Under the Dragon's Tail
+410,18-25,Female,Canada,Shipwreck
+411,18-25,Female,Canada,Except the Dying
+412,36-45,Female,Germany,Night's Child
+413,18-25,Male,Australia,Under the Dragon's Tail
+414,26-35,Female,Canada,Except the Dying
+415,18-25,Other,Germany,Let Darkness Bury the Dead
+416,60+,Female,Canada,Let Loose the Dogs
+417,26-35,Male,Australia,Vices of My Blood
+418,36-45,Female,UK,Let Darkness Bury the Dead
+419,36-45,Female,Canada,Shipwreck
+420,18-25,Male,Canada,A Journeyman to Grief
+421,60+,Male,Germany,Let Darkness Bury the Dead
+422,18-25,Male,Canada,Poor Tom is Cold
+423,46-60,Male,USA,Poor Tom is Cold
+424,26-35,Female,Canada,Poor Tom is Cold
+425,60+,Female,UK,Vices of My Blood
+426,46-60,Male,UK,Let Darkness Bury the Dead
+427,46-60,Male,Germany,Let Loose the Dogs
+428,36-45,Female,UK,Night's Child
+429,36-45,Male,Germany,Let Darkness Bury the Dead
+430,46-60,Female,Australia,Night's Child
+431,60+,Male,UK,Let Loose the Dogs
+432,60+,Male,USA,Poor Tom is Cold
+433,26-35,Female,UK,Under the Dragon's Tail
+434,18-25,Other,UK,Let Darkness Bury the Dead
+435,36-45,Male,Australia,A Journeyman to Grief
+436,60+,Male,Canada,Shipwreck
+437,46-60,Male,Canada,Shipwreck
+438,60+,Female,USA,A Journeyman to Grief
+439,60+,Female,Canada,Let Darkness Bury the Dead
+440,26-35,Male,Canada,Shipwreck
+441,18-25,Male,Germany,Let Loose the Dogs
+442,26-35,Female,Australia,A Journeyman to Grief
+443,26-35,Female,USA,Let Loose the Dogs
+444,26-35,Female,UK,Night's Child
+445,18-25,Female,UK,Except the Dying
+446,60+,Male,Germany,Poor Tom is Cold
+447,46-60,Male,USA,Let Darkness Bury the Dead
+448,60+,Female,Canada,Under the Dragon's Tail
+449,36-45,Female,UK,Poor Tom is Cold
+450,26-35,Male,Canada,Except the Dying
+451,36-45,Other,Australia,Poor Tom is Cold
+452,46-60,Female,UK,A Journeyman to Grief
+453,60+,Male,Germany,Except the Dying
+454,46-60,Male,Canada,Vices of My Blood
+455,18-25,Female,Germany,Except the Dying
+456,46-60,Male,Germany,Night's Child
+457,26-35,Female,Australia,Poor Tom is Cold
+458,26-35,Other,UK,Vices of My Blood
+459,18-25,Other,Australia,Shipwreck
+460,46-60,Male,Germany,Let Darkness Bury the Dead
+461,26-35,Male,Canada,A Journeyman to Grief
+462,46-60,Male,Australia,Shipwreck
+463,46-60,Female,Germany,A Journeyman to Grief
+464,46-60,Other,Germany,Let Loose the Dogs
+465,46-60,Male,Germany,Let Loose the Dogs
+466,26-35,Female,Canada,Night's Child
+467,46-60,Female,UK,Let Loose the Dogs
+468,18-25,Male,Germany,Under the Dragon's Tail
+469,18-25,Male,USA,Let Darkness Bury the Dead
+470,18-25,Female,USA,Let Loose the Dogs
+471,26-35,Female,USA,Vices of My Blood
+472,36-45,Female,Australia,Night's Child
+473,46-60,Male,Canada,Vices of My Blood
+474,26-35,Female,UK,Vices of My Blood
+475,36-45,Female,Australia,Let Darkness Bury the Dead
+476,60+,Male,USA,Under the Dragon's Tail
+477,36-45,Male,Australia,Under the Dragon's Tail
+478,26-35,Female,Canada,Vices of My Blood
+479,18-25,Female,Canada,Vices of My Blood
+480,60+,Male,USA,Let Darkness Bury the Dead
+481,18-25,Female,UK,Shipwreck
+482,60+,Male,Canada,Let Loose the Dogs
+483,60+,Female,Australia,Let Loose the Dogs
+484,26-35,Male,Germany,Under the Dragon's Tail
+485,46-60,Male,USA,Night's Child
+486,36-45,Male,Canada,Under the Dragon's Tail
+487,36-45,Female,Canada,A Journeyman to Grief
+488,36-45,Male,Germany,Let Darkness Bury the Dead
+489,46-60,Male,USA,A Journeyman to Grief
+490,46-60,Female,Australia,A Journeyman to Grief
+491,18-25,Male,Australia,Let Loose the Dogs
+492,60+,Female,Australia,Vices of My Blood
+493,26-35,Male,Australia,Poor Tom is Cold
+494,36-45,Male,Germany,Vices of My Blood
+495,60+,Male,UK,Night's Child
+496,60+,Female,UK,Shipwreck
+497,60+,Male,Germany,Under the Dragon's Tail
+498,60+,Other,UK,Night's Child
+499,60+,Male,Canada,Poor Tom is Cold
+500,18-25,Female,Germany,Let Loose the Dogs
+501,60+,Female,Australia,Under the Dragon's Tail
+502,46-60,Male,UK,Shipwreck
+503,36-45,Male,Australia,Vices of My Blood
+504,26-35,Female,Germany,Except the Dying
+505,18-25,Male,Canada,Let Darkness Bury the Dead
+506,18-25,Female,Germany,Except the Dying
+507,26-35,Female,Australia,Shipwreck
+508,60+,Female,UK,Shipwreck
+509,36-45,Female,Canada,Except the Dying
+510,46-60,Female,Germany,Poor Tom is Cold
+511,60+,Female,Canada,A Journeyman to Grief
+512,60+,Male,Canada,A Journeyman to Grief
+513,36-45,Female,USA,Shipwreck
+514,36-45,Male,Germany,Let Loose the Dogs
+515,60+,Male,Australia,Let Loose the Dogs
+516,36-45,Female,Australia,Poor Tom is Cold
+517,36-45,Male,Germany,Vices of My Blood
+518,26-35,Male,Australia,Except the Dying
+519,18-25,Other,UK,Poor Tom is Cold
+520,18-25,Male,Australia,Let Darkness Bury the Dead
+521,18-25,Other,UK,Night's Child
+522,46-60,Male,UK,Vices of My Blood
+523,60+,Female,Australia,Under the Dragon's Tail
+524,36-45,Male,Canada,Shipwreck
+525,26-35,Male,Canada,Shipwreck
+526,36-45,Female,UK,Let Darkness Bury the Dead
+527,26-35,Female,Australia,Night's Child
+528,46-60,Male,Canada,Shipwreck
+529,60+,Male,Canada,Let Darkness Bury the Dead
+530,26-35,Female,Germany,Shipwreck
+531,46-60,Male,USA,Let Darkness Bury the Dead
+532,46-60,Male,UK,Under the Dragon's Tail
+533,60+,Female,Australia,Under the Dragon's Tail
+534,36-45,Male,Australia,Vices of My Blood
+535,36-45,Female,Canada,Shipwreck
+536,36-45,Male,USA,A Journeyman to Grief
+537,60+,Male,Australia,Let Darkness Bury the Dead
+538,60+,Male,UK,Shipwreck
+539,18-25,Female,USA,Except the Dying
+540,46-60,Male,UK,Under the Dragon's Tail
+541,36-45,Male,Germany,A Journeyman to Grief
+542,36-45,Male,Canada,Let Darkness Bury the Dead
+543,46-60,Female,UK,Vices of My Blood
+544,46-60,Female,Canada,Under the Dragon's Tail
+545,60+,Male,USA,Poor Tom is Cold
+546,36-45,Other,Australia,Let Loose the Dogs
+547,46-60,Female,USA,Night's Child
+548,60+,Male,Germany,Vices of My Blood
+549,46-60,Male,Germany,Let Loose the Dogs
+550,18-25,Female,Australia,Poor Tom is Cold
+551,60+,Female,Australia,Let Loose the Dogs
+552,26-35,Female,USA,Poor Tom is Cold
+553,18-25,Female,USA,Vices of My Blood
+554,60+,Female,UK,Vices of My Blood
+555,60+,Female,USA,Let Loose the Dogs
+556,18-25,Male,UK,Let Loose the Dogs
+557,18-25,Female,USA,Let Darkness Bury the Dead
+558,46-60,Male,Canada,Except the Dying
+559,46-60,Female,USA,Vices of My Blood
+560,46-60,Male,Canada,Night's Child
+561,18-25,Female,UK,Under the Dragon's Tail
+562,36-45,Male,Canada,Vices of My Blood
+563,60+,Female,USA,Poor Tom is Cold
+564,60+,Male,USA,Poor Tom is Cold
+565,60+,Female,Germany,Let Loose the Dogs
+566,18-25,Male,Germany,Let Loose the Dogs
+567,26-35,Male,UK,Poor Tom is Cold
+568,18-25,Female,Australia,Vices of My Blood
+569,18-25,Male,Australia,Let Darkness Bury the Dead
+570,46-60,Female,Australia,Night's Child
+571,46-60,Male,Australia,A Journeyman to Grief
+572,36-45,Male,UK,Vices of My Blood
+573,26-35,Female,Australia,Let Darkness Bury the Dead
+574,60+,Female,USA,Let Loose the Dogs
+575,26-35,Female,Canada,Night's Child
+576,46-60,Male,USA,A Journeyman to Grief
+577,26-35,Female,USA,Let Loose the Dogs
+578,60+,Male,Australia,Shipwreck
+579,18-25,Female,Germany,Under the Dragon's Tail
+580,60+,Female,UK,Night's Child
+581,18-25,Female,Canada,Night's Child
+582,46-60,Male,Canada,Except the Dying
+583,26-35,Female,UK,Let Darkness Bury the Dead
+584,18-25,Female,Germany,Under the Dragon's Tail
+585,46-60,Female,Canada,A Journeyman to Grief
+586,18-25,Female,UK,Except the Dying
+587,26-35,Male,UK,Vices of My Blood
+588,18-25,Female,UK,Poor Tom is Cold
+589,60+,Female,Australia,Shipwreck
+590,46-60,Male,USA,Poor Tom is Cold
+591,18-25,Male,Germany,Let Loose the Dogs
+592,26-35,Male,Australia,Vices of My Blood
+593,60+,Female,Australia,Let Darkness Bury the Dead
+594,26-35,Female,Canada,Under the Dragon's Tail
+595,18-25,Male,USA,Shipwreck
+596,46-60,Female,Australia,Poor Tom is Cold
+597,46-60,Female,USA,Under the Dragon's Tail
+598,36-45,Female,USA,Shipwreck
+599,46-60,Female,Australia,Let Darkness Bury the Dead
+600,46-60,Male,Canada,Shipwreck
+601,26-35,Male,Australia,Vices of My Blood
+602,46-60,Male,USA,Poor Tom is Cold
+603,36-45,Male,Canada,Except the Dying
+604,60+,Female,USA,Night's Child
+605,46-60,Female,USA,Let Darkness Bury the Dead
+606,46-60,Female,Canada,A Journeyman to Grief
+607,60+,Female,Germany,Under the Dragon's Tail
+608,46-60,Other,UK,A Journeyman to Grief
+609,36-45,Female,USA,Except the Dying
+610,46-60,Female,UK,Night's Child
+611,36-45,Male,Germany,Let Darkness Bury the Dead
+612,46-60,Female,USA,Let Darkness Bury the Dead
+613,36-45,Female,Australia,Let Darkness Bury the Dead
+614,60+,Male,USA,Night's Child
+615,46-60,Female,Canada,Night's Child
+616,36-45,Male,Canada,Poor Tom is Cold
+617,26-35,Female,Canada,A Journeyman to Grief
+618,18-25,Female,USA,Poor Tom is Cold
+619,18-25,Male,UK,Under the Dragon's Tail
+620,36-45,Female,Australia,A Journeyman to Grief
+621,18-25,Female,Canada,Shipwreck
+622,36-45,Female,Canada,Vices of My Blood
+623,60+,Male,Germany,Night's Child
+624,46-60,Female,Australia,Except the Dying
+625,18-25,Female,Germany,Under the Dragon's Tail
+626,36-45,Female,USA,A Journeyman to Grief
+627,36-45,Male,Australia,Night's Child
+628,36-45,Male,USA,Let Loose the Dogs
+629,18-25,Male,UK,Vices of My Blood
+630,18-25,Male,USA,Poor Tom is Cold
+631,26-35,Female,Australia,Let Loose the Dogs
+632,60+,Other,Canada,A Journeyman to Grief
+633,18-25,Male,Australia,Shipwreck
+634,60+,Female,Canada,Let Darkness Bury the Dead
+635,18-25,Female,Canada,Night's Child
+636,36-45,Male,Canada,Let Loose the Dogs
+637,36-45,Female,UK,Let Darkness Bury the Dead
+638,60+,Female,Canada,Shipwreck
+639,60+,Female,Australia,Poor Tom is Cold
+640,36-45,Other,UK,Night's Child
+641,60+,Male,Australia,Night's Child
+642,36-45,Female,Germany,Let Darkness Bury the Dead
+643,60+,Male,USA,Except the Dying
+644,26-35,Female,Canada,Shipwreck
+645,60+,Female,Australia,Vices of My Blood
+646,46-60,Female,Canada,Poor Tom is Cold
+647,26-35,Male,Germany,Poor Tom is Cold
+648,46-60,Female,USA,Let Loose the Dogs
+649,46-60,Male,Australia,Poor Tom is Cold
+650,46-60,Other,UK,A Journeyman to Grief
+651,18-25,Female,Canada,Under the Dragon's Tail
+652,18-25,Male,UK,Shipwreck
+653,36-45,Male,Canada,Let Darkness Bury the Dead
+654,60+,Female,USA,Shipwreck
+655,36-45,Male,Australia,Shipwreck
+656,18-25,Female,Canada,Except the Dying
+657,36-45,Female,Canada,A Journeyman to Grief
+658,60+,Male,UK,Vices of My Blood
+659,18-25,Male,Germany,Except the Dying
+660,18-25,Female,Germany,Poor Tom is Cold
+661,36-45,Female,Canada,A Journeyman to Grief
+662,60+,Female,USA,Except the Dying
+663,46-60,Female,Germany,Night's Child
+664,60+,Female,Canada,A Journeyman to Grief
+665,46-60,Female,Canada,A Journeyman to Grief
+666,60+,Female,Canada,Let Loose the Dogs
+667,26-35,Male,Australia,Except the Dying
+668,46-60,Male,USA,Shipwreck
+669,46-60,Female,Australia,Poor Tom is Cold
+670,18-25,Female,Germany,Let Darkness Bury the Dead
+671,26-35,Male,USA,Under the Dragon's Tail
+672,36-45,Female,Canada,A Journeyman to Grief
+673,46-60,Male,USA,Night's Child
+674,26-35,Female,USA,Shipwreck
+675,26-35,Male,Australia,Poor Tom is Cold
+676,36-45,Female,Germany,Night's Child
+677,60+,Female,Canada,A Journeyman to Grief
+678,18-25,Male,Germany,Vices of My Blood
+679,36-45,Male,USA,A Journeyman to Grief
+680,18-25,Male,UK,Under the Dragon's Tail
+681,36-45,Female,Australia,Let Darkness Bury the Dead
+682,36-45,Female,UK,Let Darkness Bury the Dead
+683,46-60,Male,UK,Shipwreck
+684,46-60,Male,Australia,Night's Child
+685,18-25,Male,Australia,Poor Tom is Cold
+686,60+,Female,UK,Poor Tom is Cold
+687,36-45,Male,USA,Except the Dying
+688,18-25,Female,Germany,Shipwreck
+689,26-35,Female,Australia,Vices of My Blood
+690,18-25,Male,Canada,Under the Dragon's Tail
+691,60+,Male,USA,Poor Tom is Cold
+692,36-45,Male,UK,Vices of My Blood
+693,36-45,Male,UK,Poor Tom is Cold
+694,26-35,Male,Germany,Night's Child
+695,26-35,Female,Germany,Night's Child
+696,26-35,Male,USA,A Journeyman to Grief
+697,46-60,Other,Canada,Except the Dying
+698,60+,Male,Australia,Except the Dying
+699,60+,Other,Australia,Night's Child
+700,60+,Female,Germany,Under the Dragon's Tail
+701,60+,Female,USA,A Journeyman to Grief
+702,36-45,Male,UK,Poor Tom is Cold
+703,26-35,Male,Australia,Night's Child
+704,46-60,Female,Australia,Poor Tom is Cold
+705,18-25,Female,Germany,Poor Tom is Cold
+706,60+,Female,USA,Let Loose the Dogs
+707,36-45,Female,USA,Under the Dragon's Tail
+708,18-25,Female,USA,Night's Child
+709,60+,Male,Germany,Except the Dying
+710,60+,Female,USA,Night's Child
+711,26-35,Female,Germany,Vices of My Blood
+712,60+,Female,Australia,Night's Child
+713,18-25,Female,Canada,Vices of My Blood
+714,18-25,Female,UK,Let Loose the Dogs
+715,26-35,Female,USA,Except the Dying
+716,36-45,Female,Canada,Poor Tom is Cold
+717,26-35,Female,Germany,Under the Dragon's Tail
+718,46-60,Female,Australia,A Journeyman to Grief
+719,60+,Female,Canada,Shipwreck
+720,46-60,Male,Canada,Except the Dying
+721,18-25,Female,USA,Vices of My Blood
+722,36-45,Male,Germany,A Journeyman to Grief
+723,26-35,Female,Germany,Vices of My Blood
+724,36-45,Female,UK,Night's Child
+725,46-60,Female,USA,Shipwreck
+726,18-25,Female,USA,Poor Tom is Cold
+727,26-35,Female,Canada,Shipwreck
+728,36-45,Female,Canada,Night's Child
+729,18-25,Male,Germany,Shipwreck
+730,60+,Female,Canada,Except the Dying
+731,46-60,Female,Canada,Under the Dragon's Tail
+732,46-60,Male,USA,Poor Tom is Cold
+733,36-45,Female,Germany,Under the Dragon's Tail
+734,60+,Other,USA,Vices of My Blood
+735,26-35,Male,UK,Vices of My Blood
+736,46-60,Male,UK,Shipwreck
+737,46-60,Female,USA,Shipwreck
+738,36-45,Male,Germany,A Journeyman to Grief
+739,18-25,Female,Germany,Night's Child
+740,36-45,Male,Canada,Let Darkness Bury the Dead
+741,18-25,Female,UK,Let Loose the Dogs
+742,46-60,Female,UK,Under the Dragon's Tail
+743,46-60,Male,Germany,Shipwreck
+744,46-60,Male,UK,A Journeyman to Grief
+745,26-35,Male,UK,Let Darkness Bury the Dead
+746,46-60,Male,Canada,Except the Dying
+747,26-35,Female,UK,Vices of My Blood
+748,18-25,Male,UK,Shipwreck
+749,18-25,Male,Australia,Let Darkness Bury the Dead
+750,60+,Female,Canada,Except the Dying
+751,36-45,Male,USA,Under the Dragon's Tail
+752,46-60,Female,UK,Poor Tom is Cold
+753,60+,Male,Australia,Poor Tom is Cold
+754,60+,Male,UK,Except the Dying
+755,46-60,Female,UK,A Journeyman to Grief
+756,60+,Female,Germany,Night's Child
+757,18-25,Male,USA,Except the Dying
+758,46-60,Female,Canada,Night's Child
+759,46-60,Female,Australia,Night's Child
+760,26-35,Male,Australia,Let Darkness Bury the Dead
+761,36-45,Female,UK,Poor Tom is Cold
+762,46-60,Male,Canada,Under the Dragon's Tail
+763,60+,Female,UK,Let Darkness Bury the Dead
+764,18-25,Female,Canada,Let Loose the Dogs
+765,60+,Female,Germany,Under the Dragon's Tail
+766,18-25,Male,Australia,Under the Dragon's Tail
+767,36-45,Male,Australia,Night's Child
+768,46-60,Female,Canada,Let Loose the Dogs
+769,60+,Male,USA,Let Darkness Bury the Dead
+770,18-25,Male,UK,Night's Child
+771,46-60,Male,UK,Night's Child
+772,26-35,Male,Australia,Poor Tom is Cold
+773,18-25,Female,Canada,Vices of My Blood
+774,46-60,Male,USA,Let Darkness Bury the Dead
+775,46-60,Male,UK,Vices of My Blood
+776,18-25,Male,Australia,Except the Dying
+777,46-60,Other,USA,Vices of My Blood
+778,60+,Male,Canada,Under the Dragon's Tail
+779,60+,Male,Germany,Let Darkness Bury the Dead
+780,18-25,Female,Australia,Let Darkness Bury the Dead
+781,46-60,Male,USA,Night's Child
+782,46-60,Female,Australia,Poor Tom is Cold
+783,18-25,Female,Canada,A Journeyman to Grief
+784,18-25,Male,Germany,Vices of My Blood
+785,36-45,Male,USA,Let Darkness Bury the Dead
+786,60+,Male,Australia,A Journeyman to Grief
+787,46-60,Male,UK,Shipwreck
+788,18-25,Male,Australia,Under the Dragon's Tail
+789,36-45,Other,Australia,Vices of My Blood
+790,18-25,Male,UK,A Journeyman to Grief
+791,26-35,Female,Canada,Poor Tom is Cold
+792,36-45,Other,Australia,Except the Dying
+793,18-25,Female,Australia,Let Darkness Bury the Dead
+794,18-25,Female,UK,Except the Dying
+795,26-35,Male,Australia,Let Darkness Bury the Dead
+796,36-45,Male,Canada,Under the Dragon's Tail
+797,36-45,Female,Germany,Night's Child
+798,60+,Female,UK,Poor Tom is Cold
+799,60+,Female,Germany,Except the Dying
+800,18-25,Other,Germany,Under the Dragon's Tail
+801,36-45,Male,Australia,Vices of My Blood
+802,18-25,Male,USA,Shipwreck
+803,36-45,Other,Canada,Night's Child
+804,18-25,Female,UK,Vices of My Blood
+805,46-60,Female,Germany,Under the Dragon's Tail
+806,18-25,Other,Germany,Under the Dragon's Tail
+807,26-35,Female,Germany,Shipwreck
+808,46-60,Male,Canada,A Journeyman to Grief
+809,18-25,Male,UK,Vices of My Blood
+810,60+,Female,Canada,Night's Child
+811,26-35,Female,Australia,Night's Child
+812,26-35,Male,UK,A Journeyman to Grief
+813,36-45,Male,USA,Let Darkness Bury the Dead
+814,60+,Female,Germany,Let Loose the Dogs
+815,18-25,Male,USA,Under the Dragon's Tail
+816,36-45,Female,Canada,A Journeyman to Grief
+817,18-25,Female,Australia,Night's Child
+818,36-45,Male,USA,Except the Dying
+819,26-35,Other,Germany,Let Loose the Dogs
+820,60+,Male,Australia,Except the Dying
+821,26-35,Female,UK,Let Loose the Dogs
+822,46-60,Male,USA,Let Darkness Bury the Dead
+823,18-25,Male,Canada,Except the Dying
+824,26-35,Female,Canada,Let Loose the Dogs
+825,60+,Female,USA,Night's Child
+826,36-45,Male,USA,Poor Tom is Cold
+827,60+,Male,UK,Shipwreck
+828,60+,Male,Australia,A Journeyman to Grief
+829,26-35,Female,UK,Let Loose the Dogs
+830,60+,Female,Canada,Poor Tom is Cold
+831,46-60,Female,USA,Let Loose the Dogs
+832,26-35,Female,Germany,Except the Dying
+833,36-45,Male,USA,Shipwreck
+834,60+,Female,Germany,Shipwreck
+835,26-35,Female,UK,Let Darkness Bury the Dead
+836,18-25,Female,Australia,A Journeyman to Grief
+837,60+,Male,Germany,Let Darkness Bury the Dead
+838,18-25,Female,Australia,Vices of My Blood
+839,60+,Female,Germany,Let Loose the Dogs
+840,36-45,Female,Australia,Vices of My Blood
+841,36-45,Female,Canada,Night's Child
+842,60+,Male,UK,Night's Child
+843,18-25,Male,USA,Let Darkness Bury the Dead
+844,36-45,Other,Australia,A Journeyman to Grief
+845,60+,Female,Canada,A Journeyman to Grief
+846,26-35,Female,USA,Under the Dragon's Tail
+847,18-25,Male,UK,Vices of My Blood
+848,18-25,Male,Australia,Let Darkness Bury the Dead
+849,36-45,Female,Canada,Except the Dying
+850,18-25,Male,Canada,Let Darkness Bury the Dead
+851,26-35,Female,USA,Vices of My Blood
+852,18-25,Male,UK,A Journeyman to Grief
+853,60+,Female,Canada,Under the Dragon's Tail
+854,36-45,Male,Canada,Vices of My Blood
+855,46-60,Other,USA,Except the Dying
+856,18-25,Female,Germany,A Journeyman to Grief
+857,18-25,Male,UK,Let Loose the Dogs
+858,46-60,Male,USA,Let Loose the Dogs
+859,36-45,Male,UK,Except the Dying
+860,26-35,Male,Australia,Shipwreck
+861,36-45,Female,Canada,Except the Dying
+862,18-25,Female,Germany,Except the Dying
+863,60+,Female,Germany,Poor Tom is Cold
+864,36-45,Male,USA,Let Darkness Bury the Dead
+865,46-60,Female,Australia,A Journeyman to Grief
+866,26-35,Female,USA,Let Darkness Bury the Dead
+867,60+,Male,USA,Under the Dragon's Tail
+868,36-45,Female,Australia,Shipwreck
+869,46-60,Male,Australia,Night's Child
+870,36-45,Male,Australia,Except the Dying
+871,18-25,Male,Australia,Night's Child
+872,36-45,Male,UK,Let Darkness Bury the Dead
+873,36-45,Female,USA,Under the Dragon's Tail
+874,46-60,Other,Australia,Vices of My Blood
+875,36-45,Female,Germany,Shipwreck
+876,46-60,Male,UK,Let Darkness Bury the Dead
+877,18-25,Male,Germany,Except the Dying
+878,26-35,Other,Germany,Let Darkness Bury the Dead
+879,60+,Male,Australia,Let Darkness Bury the Dead
+880,18-25,Male,Australia,A Journeyman to Grief
+881,36-45,Female,UK,Let Darkness Bury the Dead
+882,36-45,Male,Australia,Shipwreck
+883,26-35,Female,UK,A Journeyman to Grief
+884,36-45,Male,Australia,Let Darkness Bury the Dead
+885,46-60,Female,Australia,Poor Tom is Cold
+886,26-35,Male,UK,Vices of My Blood
+887,36-45,Male,USA,Let Darkness Bury the Dead
+888,18-25,Female,Canada,Let Loose the Dogs
+889,36-45,Female,Germany,Let Loose the Dogs
+890,18-25,Male,Canada,Night's Child
+891,36-45,Female,Germany,Shipwreck
+892,46-60,Female,Canada,Except the Dying
+893,18-25,Male,Canada,Let Darkness Bury the Dead
+894,46-60,Female,UK,Let Loose the Dogs
+895,18-25,Female,UK,Vices of My Blood
+896,18-25,Female,USA,Vices of My Blood
+897,26-35,Male,USA,Night's Child
+898,18-25,Male,Australia,Let Darkness Bury the Dead
+899,36-45,Male,Australia,Except the Dying
+900,36-45,Female,UK,Under the Dragon's Tail
+901,46-60,Male,Canada,Night's Child
+902,46-60,Male,Canada,Let Darkness Bury the Dead
+903,60+,Male,UK,Shipwreck
+904,36-45,Female,USA,Except the Dying
+905,36-45,Female,UK,Under the Dragon's Tail
+906,36-45,Female,Germany,Shipwreck
+907,36-45,Female,Canada,A Journeyman to Grief
+908,36-45,Female,USA,Except the Dying
+909,18-25,Male,USA,Let Darkness Bury the Dead
+910,18-25,Female,Canada,Vices of My Blood
+911,60+,Female,USA,Night's Child
+912,26-35,Female,USA,Vices of My Blood
+913,26-35,Female,UK,Night's Child
+914,46-60,Male,USA,Let Darkness Bury the Dead
+915,60+,Male,Germany,Vices of My Blood
+916,46-60,Male,Canada,A Journeyman to Grief
+917,36-45,Male,UK,Let Darkness Bury the Dead
+918,18-25,Female,Germany,Night's Child
+919,18-25,Male,Germany,Under the Dragon's Tail
+920,36-45,Female,Australia,Poor Tom is Cold
+921,36-45,Female,Canada,Let Loose the Dogs
+922,46-60,Male,UK,A Journeyman to Grief
+923,18-25,Male,UK,Let Loose the Dogs
+924,18-25,Female,Germany,Let Loose the Dogs
+925,26-35,Male,UK,A Journeyman to Grief
+926,18-25,Male,Germany,Let Darkness Bury the Dead
+927,36-45,Female,Canada,Vices of My Blood
+928,60+,Female,Canada,A Journeyman to Grief
+929,36-45,Male,Canada,Night's Child
+930,60+,Female,Australia,A Journeyman to Grief
+931,60+,Male,Germany,Under the Dragon's Tail
+932,60+,Female,UK,Vices of My Blood
+933,18-25,Male,USA,Poor Tom is Cold
+934,26-35,Male,Australia,Poor Tom is Cold
+935,46-60,Male,UK,A Journeyman to Grief
+936,36-45,Male,Australia,Shipwreck
+937,36-45,Female,Canada,Except the Dying
+938,36-45,Female,UK,Except the Dying
+939,60+,Female,USA,Vices of My Blood
+940,18-25,Female,Germany,Except the Dying
+941,60+,Male,Germany,A Journeyman to Grief
+942,26-35,Female,Germany,Night's Child
+943,26-35,Female,UK,Except the Dying
+944,60+,Female,Canada,Let Darkness Bury the Dead
+945,36-45,Female,Germany,Night's Child
+946,36-45,Female,Australia,Let Darkness Bury the Dead
+947,46-60,Female,Canada,Let Darkness Bury the Dead
+948,18-25,Female,USA,Vices of My Blood
+949,18-25,Female,Germany,Poor Tom is Cold
+950,36-45,Female,Germany,Poor Tom is Cold
+951,36-45,Male,Canada,Shipwreck
+952,26-35,Female,UK,Shipwreck
+953,46-60,Male,Australia,Let Loose the Dogs
+954,18-25,Other,UK,Under the Dragon's Tail
+955,60+,Female,Australia,Poor Tom is Cold
+956,36-45,Male,USA,A Journeyman to Grief
+957,46-60,Female,Australia,Under the Dragon's Tail
+958,18-25,Male,Australia,Under the Dragon's Tail
+959,60+,Male,Canada,Let Loose the Dogs
+960,18-25,Female,Germany,A Journeyman to Grief
+961,26-35,Female,USA,Night's Child
+962,36-45,Female,Germany,A Journeyman to Grief
+963,46-60,Male,Australia,Vices of My Blood
+964,60+,Male,USA,Night's Child
+965,26-35,Female,Germany,Night's Child
+966,26-35,Male,Germany,Vices of My Blood
+967,36-45,Male,Germany,Under the Dragon's Tail
+968,46-60,Female,USA,Except the Dying
+969,26-35,Female,Australia,Poor Tom is Cold
+970,26-35,Female,Canada,Vices of My Blood
+971,18-25,Male,USA,Except the Dying
+972,60+,Female,Germany,Let Loose the Dogs
+973,26-35,Female,Australia,A Journeyman to Grief
+974,46-60,Female,Australia,Except the Dying
+975,46-60,Male,Germany,Vices of My Blood
+976,60+,Female,USA,Night's Child
+977,46-60,Male,UK,Vices of My Blood
+978,18-25,Female,USA,Shipwreck
+979,60+,Male,Germany,Vices of My Blood
+980,26-35,Female,USA,Except the Dying
+981,60+,Male,USA,Let Loose the Dogs
+982,46-60,Male,USA,Poor Tom is Cold
+983,60+,Female,Germany,Except the Dying
+984,36-45,Male,USA,Night's Child
+985,36-45,Male,Australia,Night's Child
+986,36-45,Male,UK,Except the Dying
+987,46-60,Male,USA,Poor Tom is Cold
+988,36-45,Female,Germany,Poor Tom is Cold
+989,18-25,Male,Germany,Poor Tom is Cold
+990,36-45,Female,Germany,Let Darkness Bury the Dead
+991,46-60,Female,USA,Under the Dragon's Tail
+992,46-60,Female,USA,Night's Child
+993,36-45,Male,UK,Let Loose the Dogs
+994,18-25,Female,Canada,Under the Dragon's Tail
+995,36-45,Female,UK,Shipwreck
+996,36-45,Male,Germany,A Journeyman to Grief
+997,18-25,Female,Canada,Let Darkness Bury the Dead
+998,26-35,Female,Canada,A Journeyman to Grief
+999,46-60,Male,Australia,Vices of My Blood
